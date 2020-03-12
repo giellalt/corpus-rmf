@@ -1,0 +1,86 @@
+<document xml:lang="rmf" id="no_id">
+  <header>
+    <title/>
+    <genre code="admin"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>570</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <multilingual>
+      <language xml:lang="rmf"/>
+      <language xml:lang="swe"/>
+    </multilingual>
+    <origFileName>http://www.lansstyrelsen.se/skane/rom-ka/Pages/OmWebbplatsen.aspx</origFileName>
+    <parallel_text xml:lang="eng" location="omwebbplatsen.html"/>
+    <parallel_text xml:lang="fin" location="omwebbplatsen.html"/>
+    <parallel_text xml:lang="fit" location="omwebbplatsen.html"/>
+    <parallel_text xml:lang="sma" location="omwebbplatsen.html"/>
+    <parallel_text xml:lang="sme" location="omwebbplatsen.html"/>
+    <parallel_text xml:lang="swe" location="omwebbplatsen.html"/>
+    <parallel_text location="omwebbplatsen.html" xml:lang="rmu"/>
+    <parallel_text location="omwebbplatsen.html" xml:lang="rmy-rka"/>
+    <parallel_text location="omwebbplatsen.html" xml:lang="rmy-rlo"/>
+    <parallel_text location="omwebbplatsen.html" xml:lang="rmn"/>
+    <parallel_text location="omwebbplatsen.html" xml:lang="yid"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p xml:lang="swe">Pa webbthán - Länsstyrelsen Skåne</p>
+    <list>
+      <p type="listitem" xml:lang="swe"></p>
+      <p type="listitem" xml:lang="swe"></p>
+      <p type="listitem" xml:lang="swe"></p>
+      <p type="listitem" xml:lang="swe"></p>
+      <p type="listitem" xml:lang="swe"></p>
+      <p type="listitem" xml:lang="swe"></p>
+      <p type="listitem" xml:lang="swe"></p>
+      <p type="listitem" xml:lang="swe"></p>
+    </list>
+    <p xml:lang="swe"></p>
+    <p type="title" xml:lang="swe">Pa webbthán</p>
+    <p xml:lang="swe">Themeski faldiba lelpe ta zutil tut sar vizita te lachel horta informasija pa dota so Themeskifaldiba tšérela ta sar gouva angovela aro to trystaliba.Webbthan hin angle tšundo aro itbutja pe vaure Themeskifaldijaha aro Svedo.</p>
+    <p type="title" xml:lang="swe">Disave manera te lachel aro webbthan</p>
+    <p xml:lang="swe">Aro anglunopatrija lacheha tu toppmeny(hérunomeni)kaj hin koni báride informasija pa amengo butjata. Aro angluno patrija hin nína vaure aŕe avibak a dumudibakolouve, dumudiba, blanketos ta publikatisija ta aktulkane puchiba ta neviba. R</p>
+    <p type="title" xml:lang="swe">áliba A-Ö</p>
+    <p xml:lang="swe">Ródibakoláve pálal alfabeto-ajasavo so amen Džanvaha te bút kamena te lachel po amaro webb than.Sar eksemplura tu kameha te ródel pálal Bulle tála tšaljaves po alfabeto B.</p>
+    <p type="title" xml:lang="swe">Ródibako funksija</p>
+    <p xml:lang="swe">Aro hérunopatrija hin jek ródibako kvatrati kaj saj tu raňes jek ródibakolav, ródiba tšérehas aro sa webbthan. Douva dela sako arakhiba pa rálibata.</p>
+    <p type="title" xml:lang="swe">Webbkarta</p>
+    <p xml:lang="swe">Sikila hieroskano strukturija.</p>
+    <p type="title" xml:lang="swe">Pharavá džániba</p>
+    <p xml:lang="swe">Aro sáre patrija aro dauva webbthan hin jek funksija te phagaravel Džániba aro patrija socialkane media.unksija hin télal patrijako rubrik oka horto rig pa Ran avr.i</p>
+    <p type="title" xml:lang="swe">Priśibi</p>
+    <p xml:lang="swe">Themeskifaldibako webbthan vá ajaharhal pálal so hin vojiba dóla prinsibi so hin po webb. Amen rikhavá Vertasko prinsibi:Dromeskosikjiba 24-stunnakowebb so vá pálal WAIs prinsibi WCAG 1.0. Douva ajaharhales sar hin vojiba aro dauva fórumi so amen hin ustade webbes.</p>
+    <p type="title" xml:lang="swe">Sömsavel webbtghan</p>
+    <p xml:lang="swe">Webbthaneske na tšek iego sömsavel funksija dóleske ke sömsiba baro lela te phagarel rikhiboskerosko iego sömsiba. Douva hin lokho te sömsavel iego sömsiba jakhes te tu sar eksemplura saj lel baride kontrast vaj baride tekstos.</p>
+    <p type="title" xml:lang="swe">Rekomentásia pa webbdrabiboskero</p>
+    <p xml:lang="swe">Amare webbthan džalpe la tše aro nevikane webbdrabiboskero, so dumudela webbstandarni tšundo pa W3C. Sar eksemplura hin nevide versija pa Firefox, Safari, Internet Explorer, Opera ta Google Chrome.</p>
+    <p type="title" xml:lang="swe">So hin cookies?</p>
+    <p xml:lang="swe">Jek cookies hin jek tikno tekstakofil so webbthanes simavela aro to Džánibakomohto. Cookies rikhavehas dóleske te del jek vizitatoreske jek sajpa ka disave funksija. Hin duj tipi pa cookies:</p>
+    <list>
+      <p type="listitem" xml:lang="swe">O jek simavela jek fil telal jek langhtotíja po to Džánibakomohto. Douva rikhavehas sar eksemplura apo funksija so rakhila so hin néve pálal dólesta ka vizitatori sikide sas aro aktuelkano webbthan.</p>
+      <p type="listitem" xml:lang="swe">O vauro tipi pa cookies arakhes sessionscookies. Cookija simavela ferda jek prinisibako stuňake aro to Džánibakomohto kana sal aro jek tšéreskopatrin. Sessionscookies ná simavela pe langhtes aro to Džánibakomohto, nebi nachela ka tu mudarela to webbdrabiskero.</p>
+    </list>
+    <p type="title" xml:lang="swe">Phanel avri cookies funksija</p>
+    <p xml:lang="swe">Kana tši kames te del prissi saj pe loches phanel avri doólesn aro to webbdrabiboskero.Tšériba vojbuvel rigavel te disave webbthan ná džalpe sar dóla motel.tu saj te velkaves te phanel avri ina tipi pa cookies.</p>
+    <p type="title" xml:lang="swe">Drabibakoprogrammos pdf-dokumenteske</p>
+    <p xml:lang="swe">Disave dokumentos aro webbthane hin simado aro Portable Document Format (PDF) ta te lel vojiba te drabaves dála hyövyla tu Adobe Acrobat Reader, so hin pe jíva so lahs téle aro to džánibakomohto kotar Adobe.</p>
+    <p type="title" xml:lang="swe">Juridikano informasija</p>
+    <p type="title" xml:lang="swe">Džénovika informasija</p>
+    <p xml:lang="swe">Mieniba pe džénovika informasija, arakhel nína PUL dóleske khal hin te arakhes komujen kajo l manuškane dabbiba dženom amsiba pa džénovika informasija. Themeskifaldibako webbthan vá pálal agoriba pálal PUL.</p>
+    <p type="title" xml:lang="swe">Mieniba pe resinjake</p>
+    <p xml:lang="swe">Themeskifaldiba lela mukhiba ka to džénovika informasijake ka tu mukheha phukiba ka jek konferensijake vaj vaure stedi, bichaveha publikasija vaj e- post amenge aro hougáje.</p>
+    <p type="title" xml:lang="swe">Ofensialno prinsibi</p>
+    <p xml:lang="swe">Themeskifaldiba hin jek themskihougáje. Douva mienila te bódi so bichavehas amenge avena dólenda sarekane sákakolín, saj te avel te mukhes avri pálal ofencialno prinsibi.</p>
+    <p type="title" xml:lang="swe">Rikhiba pa material</p>
+    <p xml:lang="swe">Themeskifaldibako webbthan rálila teksti, karta, farabi móljiba son hin arakdo pe tšériboskerosko hortibaha ná lenas te rikhavel útan lóvi.Dauva rálila nína amengo logotipi. Dóri kaj ná navarsina phukavehas hin tšériboskerosko hortiba themskifaldibake.</p>
+  </body>
+</document>

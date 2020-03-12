@@ -1,0 +1,68 @@
+<document xml:lang="rmf" id="no_id">
+  <header>
+    <title/>
+    <genre code="admin"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>634</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <multilingual>
+      <language xml:lang="rmf"/>
+      <language xml:lang="swe"/>
+    </multilingual>
+    <origFileName>http://www.lansstyrelsen.se/skane/rom-ka/djur-och-natur/Pages/default.aspx</origFileName>
+    <parallel_text xml:lang="eng" location="djur-och-natur.html"/>
+    <parallel_text xml:lang="fin" location="djur-och-natur.html"/>
+    <parallel_text xml:lang="fit" location="djur-och-natur.html"/>
+    <parallel_text xml:lang="sma" location="djur-och-natur.html"/>
+    <parallel_text xml:lang="sme" location="djur-och-natur.html"/>
+    <parallel_text xml:lang="swe" location="djur-och-natur.html"/>
+    <parallel_text location="djur-och-natur.html" xml:lang="rmu"/>
+    <parallel_text location="djur-och-natur.html" xml:lang="rmy-rka"/>
+    <parallel_text location="djur-och-natur.html" xml:lang="rmy-rlo"/>
+    <parallel_text location="djur-och-natur.html" xml:lang="rmn"/>
+    <parallel_text location="djur-och-natur.html" xml:lang="yid"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p xml:lang="swe">Dživini ta trystaliba - Länsstyrelsen Skåne</p>
+    <list>
+      <p type="listitem" xml:lang="swe"></p>
+      <p type="listitem" xml:lang="swe">Dživini &amp; trystaliba</p>
+      <p type="listitem" xml:lang="swe"></p>
+      <p type="listitem" xml:lang="swe"></p>
+      <p type="listitem" xml:lang="swe"></p>
+      <p type="listitem" xml:lang="swe"></p>
+      <p type="listitem" xml:lang="swe"></p>
+      <p type="listitem" xml:lang="swe"></p>
+    </list>
+    <p xml:lang="swe"></p>
+    <p type="title" xml:lang="swe">Dživini ta trystaliba</p>
+    <p xml:lang="swe"><em type="italic">Themeskifaldiba tšérila buti te phuvejesko barja, dživine ta naturkanotrystaliba mote arakhes. Douva mienila te inventarinela tipi ta naturkane trystaliba,te frestavel lóvi frestibonge so saj rálavel naturkano trystaliba ta arakel natur reservati.Natur resevati ta nationalne parka hin phiŕe piere stáviboske ta naturkane openbáribaske. </em></p>
+    <p xml:lang="swe">Themeskifaldibaske hin angnál sváriba pa dživinengo arakhibata aro phuv. Ame tšéravaha buti te dživinenge áchelas latše áchibi.Amen hin sajpa te tšerel agoriba te lel nikhi dživinos ka dóles hin bengale áchibi vaj niekavel dženes rikhavel jek tipi pa dživini.</p>
+    <p type="title" xml:lang="swe">Dživinijengoarakhiba</p>
+    <p xml:lang="swe">Aro dživinijengo lága hin télune agoriba te dživines mote arakhes latše ta arakhes kajo nasvaliba ta bihorto lídiba.Themeskifaldiba tšérila dživinijengo arakhibakokontroli trystales aro phuv.Kana jek dživinos arakelas bengales voibubaha amen lel nikhi douva. Kana tut hin tenkibi te dživinoske hin bengale áchibi mote tu lel kontaki Themeskifalidiba.</p>
+    <p type="title" xml:lang="swe">Matšiba</p>
+    <p xml:lang="swe">Themeskofaldibaske hin angnál sváriba te matšengifrestiba ta phiŕo tíjako matšiba bohlavelas aro phuvesko regia.Te lel pálal vaj rikhavel phaĺo pa džoralokano matšengoskokhata. Themeskifaliba dumudela sárekane matšengoarkhibosko programi. Amen tšéravaha nína anglibosko buti dženom te sankavel matšengo arakhiboskotahan. Themeskofaldiba mote dikhel pálal te voĺiba lela aro hajiba reginalno intreśi.</p>
+    <p type="title" xml:lang="swe">Arakhdo trystaliba</p>
+    <p xml:lang="swe">Themeskifaldiba angnál svárila te arakhel ta faldavel kulturakane reservati,nationalno parka vandriboskoleda aro pláni. Hin but manera sar te arkhes trystaliba. Nationalno parkeske hin džoralide arkahibosko formi.Douva hin itkane thane pa thaneskotipi so arakhelas aro pesko iego naturkano trystaliba.Naturkano reservati hin normalno formi pa arakhibata.Dóla voibuvel tsetaves ta rikhaves biologikane bútiba,barvale trystalibakothane vaj te dikhel pa hyöviba pa kotoriba phiŕotíjakodživibake.Kulturkano reservatiske hin itkane arkhiboskoformi pe barvale kulturkane thánesko.</p>
+    <p type="title" xml:lang="swe">Phiŕotíjako dživiba</p>
+    <p xml:lang="swe">Themeskifaldiba tšérila buti tr phuvjeske avelas barvalo phiŕotíjakodživiba ta te natura mote áchel phiŕo sárenge.Jek dieli pa dólenda naturakotháne so amen arkahavá hin dóri lokho te lelpes angle pe nasvalengo- ta kentojengo vuorujensa.Aro Svedo hin sárenge jek unik vojiba te džá pes aro natura dženom so arakhdo sáredžénojengo hortiba kaj hérunoregulia hin ”ná te phagarel frédiba-náka phagaravel.Sáredžénojengo hortiba rálila nína naturakoreservati, nebi vojbuvel te áchel grantšinel.</p>
+    <p type="title" xml:lang="swe">Prétide barja ta dživini</p>
+    <p xml:lang="swe">Themeskifaldiba tšérila buti pe phuvjako barvale barji ta dživini mote arakhes. Vi laha nína angle arakhibakoprogrami te arakela pretide dživini- ta barjakotipi. Kana jek tipi hin phukado sar prétimen ná tumen lóvi te lel apre dóles, kokavel vaj phagarel barjes vaj dživinijes.Bút tipiske hin nína niekiba te phagarel dólengo dživijako trystaliba.</p>
+    <p type="title" xml:lang="swe">Jágiba ta na tšeruno dživino</p>
+    <p xml:lang="swe">Aro jágibakolága hin phukado te sáre na tšeruno dživini, nína lengi jári ta foiji, hin phukade sar frédo.Douva mienila te ińasto ná teruno dživini lahas jágaves ka kouva hin lóvimen pálal jágibakolága.Aro Svedo hin tšérengo iegibonkerenge normalnes hortiba te jágaven aro douva thán so rálila aŕe aro douva than so hunjula tšéreske.Disave prétide vaj biofti diklo dživinojako tipi. Tšatšunes hin avri tši avipa dauva prinsiba. Themeskifaldiba dela džániba jágibokere ta dóles kon iegila phu, registrerar jágibakothan, dielavela lóvi ta kokavena aŕe ta sanikila karjadíbesko stastika Amen hin nína sáki so rálila aŕe arakhibakojágiba te tšéres priśibako buti kajo bispáke.</p>
+    <p type="title" xml:lang="swe">Bispákodživini</p>
+    <p xml:lang="swe">Themeskifaldiba angnál svárila pe faldibake pa dóla bare bispákodživini aro phuvja. Resin hin dživinijenge mote áches džoralekane skokhi,it tíja ka amen kamena te tiknavel dóla problemi so dóla tšérila.Aŕe aro bispákodživini hunjula ritš,ruv, lodživino, järv ta raijeskosirikli.Themeskifaldiba drádila dženom berehkane inventarija ta agorlela sar eksemplura pa anglibosko butjata, karjadíbengo jágibata ta volila biláguno jágiba.Perdales tšeravaha amen khujiba kaj bispákodživini hin došvale.</p>
+    <p type="title" xml:lang="swe">Bérengodrádiba aro natura</p>
+    <p xml:lang="swe">Themeskifaldiba regrinela ta vá pálal drádiba aro plánine phuvja ta vá pálal drádiba apo nangophuv ta trafika pe jivengo skóteri vaj panjakoskóteriaha. Starakiba hin te motortrafika ná phagarelas phuvja, barja, phiŕotíjakodživiba,dživinijengo dživiba,utšarengoarkhiba, phuvjakobrúkiba vaj vechesko ingariba. Thanjakodrádiba apo nangophuv hin niekado aro hilo Svedo. Jiveneskoskóteri lehas drádes ińasto po jiv garado phuv. Aŕe aro disave thane, anglunes aro pláninja phúvja, hin skótereskotrafika avlo reglimen dženom skóterisko niekiba apo disave skóteriskoleda. Panjakoskóteri lehas ińasto drádes aro sárekane panjakoledako, so hin avlo únimen pa Themeskifaldiba.</p>
+  </body>
+</document>

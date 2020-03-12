@@ -1,0 +1,66 @@
+<document xml:lang="rmf" id="no_id">
+  <header>
+    <title/>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <translator>
+      <unknown/>
+    </translator>
+    <translated_from xml:lang="swe"/>
+    <wordcount>737</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <multilingual>
+      <language xml:lang="rmf"/>
+      <language xml:lang="swe"/>
+    </multilingual>
+    <origFileName>http://www.umo.se/Andra-sprak/romska-kale/Tumiba-ta-mangdoliba</origFileName>
+    <parallel_text xml:lang="fin" location="pussailu-suutelu-ja-hyvaily.html"/>
+    <parallel_text xml:lang="fit" location="muiskuja-pyssia-ja--kuherteluahonglaamista.html"/>
+    <parallel_text xml:lang="sma" location="tjonnestidh-tjuvliestidh-jih-gijhkierdidh.html"/>
+    <parallel_text xml:lang="sme" location="cummat-ja-rahkastallan.html"/>
+    <parallel_text xml:lang="smj" location="bunestime-tjullasa-ja-hangel.html"/>
+    <parallel_text xml:lang="swe" location="pussar-kyssar-och-hangel.html"/>
+    <parallel_text location="tjomm-ta-schala.html" xml:lang="rmu"/>
+    <parallel_text location="umidimos-aj-asbajimos.html" xml:lang="rmy-rka"/>
+    <parallel_text location="vut-umidipe-thaj-hangel-seksualno-khelipe.html" xml:lang="rmy-rlo"/>
+    <parallel_text location="umibe.html" xml:lang="rmn"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p xml:lang="swe">Tšumiba ta mangdoliba</p>
+    <p xml:lang="swe">Alla undrar!  Vad undrar du?</p>
+    <p type="title" xml:lang="swe">Tšumiba ta mangdoliba</p>
+    <p xml:lang="swe">Te tšumavel ta mangolela hin džiko kata but kamena. Kana ná pana tšerdal douva saj hin fatasija ta hániba te lel tšérel douva. Itkanes vojbuvel douva hošavel kuti nervosi angnal váguno tšumiba. Sar tšereha kana mangolela?</p>
+    <p xml:lang="swe">Ka hin tenkiba sar mote tšéres kana tšumavela vaj mangdolela,hin tšihko te džanel te ná tšek regulia so tiomila sar mote tšéres.Kana frestavela pes angle ta tšérela douva so hošelas tšihkas peske,hošavelas butvares tšihkas nína dóles konensa tšumavelas ta mangdolela.</p>
+    <p type="title" xml:lang="swe">Tšumiba</p>
+    <p xml:lang="swe">Te tšumavel hin te bastrinela pesko vustjakajo džiko vauresko vustja vaj vauro stedos po trupos, but vares tšerelas jek tikno lýja itkanes. Kana tšumavela džiko hin muj phanlo.</p>
+    <p type="title" xml:lang="swe">Tšumiba</p>
+    <p xml:lang="swe">Kana tšumavelas džiko hin manera te ona vustja ta tšib tšaljavela vaureha. Douva hin sar tšaljavela ta avela tšaljimen pe tšib ta vustja. Douva vojbuvelas farabavel sar smákavelas vaures. Jek normalno manera hin te lelpe tšumiba hin pe tšumavel. Ka kameha te tšumavel vojbuvelas te phiŕel kuti pesko vustja ta tšuvel tšib kuti avri,jek tikno dieli jakhes te tšib tšaljavela vauresko tšib. Tála hin vojiba dikhel phiravelako douva vauro pesko vustja jakhes te tšibja vojbuvena tšaljaven.</p>
+    <p xml:lang="swe">Ná áchel tšek regulia palal tšumiba so phukavela sar mote tšéres kana tšumavela, sar eksemplura sar langtes mote tšuvel tšib andre ta sar but phirjavel pesko vustja, douva agoriba lelas te tšérel korkores. Butvares hin manera te douva phutravela pes kana tšumavela. Nebi jek sikjiba hin te lelpe huckares te ná pháres tšuvela pesko tšib aro vauresko muj ta risavelas dóles aro vauresko muj. Tšihko dota avela kana ona frestavena pes angle. Douva hin bilokho te tšuvel vaure horta angnál dólesko khal ke nakh lel priśi, dólesko khal hin manera te risavel pesko héro te avelas lokhide pe vustja. Douva hin lokhide sterdavel džiben pe nakh kana tšumavelas ta frestaves pes angle so hošelas tšihkas. Douva džalpe latšes te tšumavel kana hin dánesko sasturja aro dáne vaj piercning. Hin vojiba te tšumavel vaurengo trupos. Kaj apo apo trupos kameha te avel tšumido.</p>
+    <p type="title" xml:lang="swe">Anglinela ta gudlodolela</p>
+    <p xml:lang="swe">Douva vojbuvel hošavel sukares te anglinela džiko vauresko trupos, sar eksemplura dženom angliba tšaljiba. Hin vojiba te tšaljavel ta anglinela nína pe kóla vaj nanges.</p>
+    <p type="title" xml:lang="swe">Mangdoliba</p>
+    <p xml:lang="swe">Sar mangdolelas hortanes? Te mangdolela hin manera te kharel kana tšumavelas, anglinela ta tšaljavela džiko vaures. Te tšumavel ta anglinela itkanes vojbuvela pe vaureha áchel mangdoliba. It sar tšaljiba ta tšumiba apo trupos vojbuvela áchel mangdoliba. Kana mangdolela vojbuveha nína bastrinela ta moŕel pes vaureha.</p>
+    <p xml:lang="swe">Hin but manera te mangdolela,sar eksemplura pe lokhes vaj džorales ta jangavitikes. Butvares barjula mangdoliba télal tíja kana tšérelas douva.Douva vojbuvela barjuvel sakhko var ta mahkar komuja. Hin vojiba ta mangdolela pe sáre kóla phral,pe kuti kóla phral vaj pherdalnes nanges. Hin vojiba te mangdolela aro but than,sar eksemplura ka sterola apre,kana bechena vaj pachun.</p>
+    <p xml:lang="swe">Te mangolela pe but kóla phar vaj pherdales nanges kharelas onivar pe harapalo mangdoliba.</p>
+    <p type="title" xml:lang="swe">Kombiba</p>
+    <p xml:lang="swe">Jek dieli kharena mangdoliba te tsérelas kombiba. Nebi kombiba vojbuvela mienavel vaure sáki Jek dieli tenkavena sar eksemplura kana flirtavela vaj tikhila reksi pe džiko vaure vaj disave vaure. Jek komunis vojbuvel tšérel dauva, nebi douva vojbuvelas khares pe kombiba.</p>
+    <p type="title" xml:lang="swe">So tšérela pa tšumiba ta mangdoliba tšihkas</p>
+    <p xml:lang="swe">Te áchel pasal ta avel tšsaljavel pa džiko tšérela te mortši,tšib,ta vustja reagirinela ta bichvela singnali ka gódi te hošelas sukares ta nervosi. Douva vojuvela tšérel te avelas tharo. Dóla hin nervi aro trupos so lelpe ta bichila signali ka gódi. Ke douva hošelas sukares ta latšes te mangolela hin inportanto te korkores ta dóles koneha mangdolela kamela te tšérel douva.</p>
+    <p xml:lang="swe">Sakha komuja rikhila vaure pa tšumiba ta mangoliba Ná áchela tšek horta vaj bango manera te hošavel,hin ferda te hunelpe pes te hinko douva sukar te tšumavel ta mangdolela vaj pe vaures hošavel nériba pe vauro manera.</p>
+    <p xml:lang="swe">Hin sarenes vojiba te niekavel kana ná kamelas te tšumavel vaj mangolela,vaj hin variso so ná hošelas latšes kana tšerelas douva. Tšek ná hiovylas te tšumavel ta mangolela ke džiko vauro kamela.</p>
+    <p type="title" xml:lang="swe">Smakiba ta khandiba</p>
+    <p xml:lang="swe">Sáre smákila ta khandela disaves. Sar khandelas ta smákilas barjula nína, sar eksemplura save habe hin hajdal, sar thouvela pes, sar kóla khandena ta butvares vaure. Kana hin hídribosko dukh ta hin jek infeksija tála hin vojiba te muj khandela vaurekanes ke normalno.</p>
+    <p type="title" xml:lang="swe">Hinko vojiba te avel pháreske vaj lel bijkano nasvaliba kana mangdolela?</p>
+    <p xml:lang="swe">Ná vojiba te avel pháreske pa mangdoliba. Náka vojiba te lel džiko bijkano nasvaliba. Mangdoliba hin sukar ta sigurnokano manera te áchel néride džiko.</p>
+  </body>
+</document>

@@ -1,0 +1,104 @@
+<document xml:lang="rmf" id="no_id">
+  <header>
+    <title/>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>1169</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <multilingual>
+      <language xml:lang="rmf"/>
+      <language xml:lang="swe"/>
+    </multilingual>
+    <origFileName>http://www.1177.se/Nationella-minoritetssprak/Nationella-minoritetssprak/Romanska-kale/Undersokningar--prover/Vavnadsprov-av-prostata---prostatabiopsi</origFileName>
+    <parallel_text xml:lang="eng" location="vavnadsprov_av_prostata_prostatabiopsi.html"/>
+    <parallel_text xml:lang="fin" location="vavnadsprov_av_prostata_prostatabiopsi.html"/>
+    <parallel_text xml:lang="fit" location="vavnadsprov-av-prostata---prostatabiopsi.html"/>
+    <parallel_text xml:lang="rus" location="vavnadsprov_av_prostata_prostatabiopsi.html"/>
+    <parallel_text xml:lang="sma" location="vavnadsprov-av-prostata---prostatabiopsi.html"/>
+    <parallel_text xml:lang="sme" location="vavnadsprov-av-prostata---prostatabiopsi.html"/>
+    <parallel_text xml:lang="smj" location="vavnadsprov-av-prostata---prostatabiopsi.html"/>
+    <parallel_text xml:lang="swe" location="vavnadsprov-av-prostata--prostatabiopsi.html"/>
+    <parallel_text location="vavnadsprov-av-prostata---prostatabiopsi.html" xml:lang="rmu"/>
+    <parallel_text location="vavnadsprov-av-prostata--prostatabiopsi.html" xml:lang="rmy-rka"/>
+    <parallel_text location="vavnadsprov-av-prostata---prostatabiopsi.html" xml:lang="rmn"/>
+    <parallel_text location="vavnadsprov-av-prostata---prostatabiopsi.html" xml:lang="yid"/>
+    <parallel_text location="vavnadsprov-av-prostata---prostatabiopsi.html" xml:lang="rmy-rlo"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p xml:lang="swe">Vévijakofrestiba pa prostata / Vävnadsprov av prostata - prostatabiopsi - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
+    <p xml:lang="swe"></p>
+    <p xml:lang="swe"></p>
+    <p type="title" xml:lang="swe">Romani chib káloRomska kale</p>
+    <list>
+      <p type="listitem" xml:lang="swe">Tillbaka till startsidan för temat</p>
+    </list>
+    <p type="title" xml:lang="swe">Vévijakofrestiba pa prostataVävnadsprov av prostata - prostatabiopsi</p>
+    <p xml:lang="swe"></p>
+    <p type="title" xml:lang="swe">Tšetiba</p>
+    <p type="title" xml:lang="swe">Sárekano</p>
+    <p xml:lang="swe">Jek vévijako frestiba pa prostata,vaj prostatabiopsi, mienila te doktori lel but tikno kotori ka prostatakovévija te vojbuvel dikhel douva.</p>
+    <p xml:lang="swe">Dauva frestiba mote tšéres dólesko khal ka doktori kamela te dikhel hinko rakohurdin aro prostata.</p>
+    <p xml:lang="swe">Frestiba bichavelas ka laboratori kaj douva analyresravahas. Doktori phukavela dólesko pálal frestibako resultati.</p>
+    <p type="title" xml:lang="swe">Angliba</p>
+    <p xml:lang="swe">It pe vévijako frestiba lelas normalnes jek antibiotikatableti. Oni var lelaa nína psa jek antibiotika tableti tšéreske te lel disave stuńa pálal dikhiba. Douva hin but inportanto te lel disave tableti te džalvika pa infeksija.</p>
+    <p xml:lang="swe">Kana hin alergia kajo disave sori pa antibiotika, hin but inportanto te phukavel douva angnal dikhiba.</p>
+    <p xml:lang="swe">Kan hin bibetesi, bijavno džeskodukh vaj vauro typi pa nasvaliba pe džeskoklafijaha hin dóleske but inportanto te phukavel centrali but tíja anglide dikhiba. Douva dochila nína kana arakhelas pe ratesko sánjibako medicin vaj kortison tableti.</p>
+    <p xml:lang="swe">It angnal dikhiba džaha aro toileti te tšutšavel vendri ta mutrakogóno.</p>
+    <p type="title" xml:lang="swe">Sar džalpe dikhiba?</p>
+    <p xml:lang="swe">Kana dikhiba džlpe pachjuvelas apo jek tafla po džervorig. Doktori lelpe te hošavel prostata pe jek angnus aro rinsa. Dólesko pálal tšúvelas jek ultralýjako rovli pošukares aŕe aro rinsako vendri disave centimetri. Douva ná dukhela nebi vojbuvela hošavel bilatšest.</p>
+    <p xml:lang="swe">Dženom jek kanali aro ultralýjako rovli tšúvela doktori aŕe jek suv so rikhavehas te lel frestiba pa prostata.Butvare komuja hošela ferda tikno dukhiba vaj tšek dukhiba. Nebi ka tenkiba te douva dukhelas hin vojiba te lel kana kamelas thanavitiko narkosi.</p>
+    <p xml:lang="swe">Dikhiba lela kutides dehopangs minuti te tšérel.</p>
+    <p type="title" xml:lang="swe">Sar áchiba pálal?</p>
+    <p xml:lang="swe">Douva hin but normalno te lelas rat aro sperma, mutra vaj aro fúla pálal. Douva ná tšek merekni te variso áchelas banges. Hin nína vojiba te hošavel kuti dukhiba ta hšsavelas pes mutrado džent pálal.</p>
+    <p xml:lang="swe"></p>
+    <p type="title" xml:lang="swe">Soske hiovylas dikhiba?</p>
+    <list>
+      <p type="listitem" xml:lang="swe"></p>
+    </list>
+    <p type="title" xml:lang="swe">Frestiba lelas ka prostaglandula</p>
+    <p xml:lang="swe">Prostata hin jek glandula so hin trystales muterpóresko utšide dieli džent dielal muteresko góno. Prostatako glandulasko buti hin te tšérel transporti páni pe smermienge. Hin vojiba te mukhel vévijako frestiba ka prostate te dikhel hinko doj rakocelleri.</p>
+    <p xml:lang="swe">Jek vévijakofrestiba hin but tikne dieli pa vévija so lelas avri ta dikhelas. Vévijakofrestiba kharelas nína pe náveha biopsi.</p>
+    <p type="title" xml:lang="swe">Vágunes tšérelas vaure dikhiba</p>
+    <p xml:lang="swe">Douva hin anglunes apo duj faniba kana vévijako frestiba lelas. Douva vauro hin aja khardo PSA-kavieriba hin utšime. PSA hin jek beri so ánelas aro prostata ta phagarvelas aro rateskotrystiba. Pe jek normalno rateskofrestiba vojbuvelas PSA-kavieriba kontroninelas. PSA-kavieriba vojbuvel áchel utšimen kana hin prostatakobarjiba. Vaure doch ka utšo PSA-kavieribake vojbuvel áchel kana hin jek infeksija vaj hujiba (inflamasija) aro prostata, nebi nína kana hin prostako rako. Jek utšimen PSA kavieriba ná sárenes dochela pa prostako rako.</p>
+    <p xml:lang="swe">Douva vauro sajpa kana hin jek drouviba aro prostata, so vojbuvela áchel merekni pa prostatako rako. Douva drouvide kotoriba hin doktori hokado džinom te hošavel</p>
+    <p xml:lang="swe">prostatakoglandula pe jek angnus apo rinsakopor. Prostata hin disave centimetri ka rinsakopor ta hin gusto ka vendrijako angluniba. Normalnes hošavelas prostata but umal.</p>
+    <p type="title" xml:lang="swe">Vévijako dieli dikhelas aro mikroskop</p>
+    <p xml:lang="swe">Dóla vévijako dieli so lelas avri ka prostatakoglandula bichavelas pe mikroskopi dikhiba so dena sváriba te hinko rako aro prostata vaj ná. Rakovévija kavierilas pálal jek skala so kharelas pe Gleason.</p>
+    <p xml:lang="swe"></p>
+    <p type="title" xml:lang="swe">Jakhes džalpe douva</p>
+    <p type="title" xml:lang="swe">Antibiotika inportanto hińiba</p>
+    <p xml:lang="swe">It pe vévijako frestiba lelas jek normalnes jek antibiotikatableti.Onivar lelas nína pesa jek antibiotikatableti pe disave stuńa pálal dikhiba. Douva hin but infortanto te lel tableti te džalvika infeksija. Kana hin alergia kajo disave antibiotika,sar eksemplura penicilin, hin douva inportanto te lel kontakto pe klinika vaj centarali kaj dikhiba avela te tšérimen.</p>
+    <p type="title" xml:lang="swe">Saj hin hioviba te barjuvel drab</p>
+    <p xml:lang="swe">Kana lelas rateskosánjibako drab pa typi Waran mote dauva phukaves centraleske kutide jek kurko angnal dikhiba. PK-kavieiba aro rat mote hińuvel te barjuves, douva kamel te phenel te rat mote hudruvel sar normalnes. Douva hin douva doktori kon hin bichado Waran mote dikhel pálal te tiknavel dimnos angnal dikhiba.</p>
+    <p xml:lang="swe">Centrali mote nína lel džánibi sígas ka hin doch aro džeskiklafi, bijamokano džeski bangiba vaj klafiprotesi. It sáka dochila ka hin bakterijakoinfeksija aro džeskoklafi. Kana hin biabetes vaj lela arakhiba pe kortisonitableti hin dóleske nín but inportanto te phukavel centralijake. Arakhiba pe antibiotika mote frestavel pálal sakho jek komujesko dochiba.</p>
+    <p type="title" xml:lang="swe">Dikhiba džalpe hastes</p>
+    <p xml:lang="swe">Dikhiba korkores lelas kutides deopangs minuti ta vojbuvelas butvares te tšérel bithanavitiko narkosi. Douva hin aja lokho ta hastiko dikhiba so kutides sáre vojbuvel džal dženom.</p>
+    <p xml:lang="swe">It sar anglal dikhiba džalas aro toaleti ta tšutšavelas vendri ta mutreskogóno. Aro disave nasvalengo tšér hin vojiba anglal dikhiba te lel aja khardo mikrolavemang so mote lelas aro tšére.</p>
+    <p xml:lang="swe">Kana dikhelas pašuvelas po džervo rigja apo tafla. Télunitrupos hin nango ja jek khosibakoflika garavela télunitrupus. Doktori lelpe te hošavel po prostata pe jek angnus aro rinsakopor. Prostata hin butvares umal,pherdo ta disave bandžavitiko. Hošavelas prostata drouves ta spatavitike ke normalnes vojbuvela douva áchel merekni pa rako.</p>
+    <p type="title" xml:lang="swe">Ultralíja dela jek tšihko faraba pa prostata</p>
+    <p xml:lang="swe">Dólesko pálal tšérelas dikhiba pa prostata pe hahtiba pa ultrakolíja. Jek aja khardo ultralíjako rovli tšuvelas lokhes aŕe aro rinsakopor,ta doktori lelpe disave minuti te dikhel prostata.</p>
+    <p xml:lang="swe">Ultralíjako rovli hin 20 centimetri langhto,nebi douva hin ińasto héruno dieli so tšuvelas aŕe disave centimetri. Diametri po rovli hin kutides 2,5 centimetri.</p>
+    <p xml:lang="swe">Rovli rálila jek ultralíjako bichiba. Douva bichila avri líjakovogli so dólesko pálal reflektirinela pa organi aŕe aro trupos. Ultralíjakovogli pherdelas ka jek datori so barjuvela dólen ka jek farabake so doktori vojbuvela te dikhel aro farabakotafla. Faraba hin kaloparno ta dela pápales prostata aro džinom džińel.</p>
+    <p type="title" xml:lang="swe">Vévija lelas avri pe jek biopsosuveha</p>
+    <p xml:lang="swe">Dólesko pálal lelas vévijakofrestiba ka glandula. Aro ultralíjako rovli hin jek kanali kaj jek biopsisuv tšuvelas aŕe. Suv hin disave miĺimetri aro diametri. Douva tšuvela džinom vendrijakomortši aŕe aro prostata. Pe hahtiba pa ultralíjako faraba apo farabako tafla vojbuvela doktori lel horta rig jakhes te suv avela apo horto stedos.</p>
+    <p xml:lang="swe">Aro suv hin jek ikerari so hastes tšuvelas are aro prostata ta pherdavelas pe prostatkovévija. Butvares tšuvela doktori butvares te lel frestiba ka disave stedi aro prostata. Douva hin but normalno mahkar ohto ta dehoduj frestiba.</p>
+    <p type="title" xml:lang="swe">Vojbuvel hošavel bilatšes</p>
+    <p xml:lang="swe">Korkores ultralíjako rovlin ná dela tšek dukh,nebi vojuvel hošavel kuti bilatšes. Kana douva phutravelas kajo prostata vojbuvela hošavel pes mutravitikanes. Dólesko khal hin tšihko te tšutšavel. Kana vévijako kotoriba lelas avri pe biopsisuvjaha vojbuvelas hošavel bilatšiba ta onivar dukhiba. Hin vojiba te lel thanavitiko narkosi ka duchibata avela džoralo.</p>
+    <p type="title" xml:lang="swe">Te tenkavel pálal dikhiba</p>
+    <p xml:lang="swe">Te garavel jak mutreskodromeski infeksija hin tšsihko te pível but te skoĺavel džúseske.</p>
+    <p type="title" xml:lang="swe">Komlikasija ta rizo</p>
+    <p xml:lang="swe">Rat aro froijakopáni, muter ta fhúl hin normalno pálal ajasavo dikhiba ta náka áchela tšsek merekni te vari so áchelas banges. Hin vojiba te hošavel kuti dukhiba ta hošavel pes mutrado džent pálal.</p>
+    <p xml:lang="swe">Rat aro frjoijakopáni vojbuvel avel langhtes, onivar disave kurke. Rat aro mutra ta fhul nebi douva agorila pálal disave díves.</p>
+    <p xml:lang="swe">Vahka hin líjal antibiotika aro angledžavibako mieniba hin onivar vojiba te lel jek infeksija so dochavelas pa bakterija. Koni baride rizo hin jek kurko pálal dikhiba kana lelas utši tatiba ta hošela pes nasvaleske mote džent lel kontakto doktori vaj lel pes aro sigutno centrali.</p>
+  </body>
+</document>

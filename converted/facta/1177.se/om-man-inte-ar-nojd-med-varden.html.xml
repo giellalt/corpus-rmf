@@ -1,0 +1,108 @@
+<document xml:lang="rmf" id="no_id">
+  <header>
+    <title/>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>1248</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <multilingual>
+      <language xml:lang="rmf"/>
+      <language xml:lang="swe"/>
+    </multilingual>
+    <origFileName>http://www.1177.se/Nationella-minoritetssprak/Nationella-minoritetssprak/Romanska-kale/Regler-och-rattigheter/Om-man-inte-ar-nojd-med-varden</origFileName>
+    <parallel_text xml:lang="eng" location="om-man-inte-ar-nojd-med-varden.html"/>
+    <parallel_text xml:lang="fin" location="om-man-inte-ar-nojd-med-varden.html"/>
+    <parallel_text xml:lang="fit" location="om-man-inte-ar-nojd-med-varden.html"/>
+    <parallel_text xml:lang="sma" location="om-man-inte-ar-nojd-med-varden.html"/>
+    <parallel_text xml:lang="sme" location="om-man-inte-ar-nojd-med-varden.html"/>
+    <parallel_text xml:lang="smj" location="om-man-inte-ar-nojd-med-varden.html"/>
+    <parallel_text xml:lang="swe" location="om-man-inte-ar-nojd-med-varden.html"/>
+    <parallel_text location="om-man-inte-ar-nojd-med-varden.html" xml:lang="rmy-rka"/>
+    <parallel_text location="om-man-inte-ar-nojd-med-varden.html" xml:lang="rmn"/>
+    <parallel_text location="om-man-inte-ar-nojd-med-varden.html" xml:lang="rmu"/>
+    <parallel_text location="om-man-inte-ar-nojd-med-varden.html" xml:lang="yid"/>
+    <parallel_text location="om-man-inte-ar-nojd-med-varden.html" xml:lang="rmy-rlo"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p xml:lang="swe">Kana ná tšalo pe arakhiba / Om man inte är nöjd med vården - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
+    <p xml:lang="swe"></p>
+    <p xml:lang="swe"></p>
+    <p type="title" xml:lang="swe">Romani chib káloRomska kale</p>
+    <list>
+      <p type="listitem" xml:lang="swe">Tillbaka till startsidan för temat</p>
+    </list>
+    <p type="title" xml:lang="swe">Kana ná tšalo pe arakhibaOm man inte är nöjd med vården</p>
+    <p xml:lang="swe"></p>
+    <p type="title" xml:lang="swe">Sar hin?</p>
+    <p type="title" xml:lang="swe">Komujes hin hortiba te rouvel</p>
+    <p xml:lang="swe">Sar pacijento aro sasto-ta nasvalibosko arakhiba hin hortiba te dikhen pe respekti ta lel hajudo informasija pa sastiba ta pa dóla dikhiba ta arakhiba so alsavahas. Motes te lel jek latšo arakhiba pa ta tšihko kvalitetos.</p>
+    <p xml:lang="swe">Kana ná áchela tšalo pe arakhiba so hin líjal vaj pe vaures hin tšalo pe amsiba, hin hortiba te rouvel ta mukhel komentari. Douva vojbuvela áchel sa pa tikne problemi ka bare situasija so hin liedidal ka dživibosko langhto langaliba vaj múliba. Hin vojiba te tšerel phukiba te frestibako buti džalpe fendide.</p>
+    <p xml:lang="swe">Hin but disave instansi kaj vojbuvela risaves pes aro pesko rouvibaha. Douva vojbuvel áchel fendide te kamel ranlo sváriba džent kana rouvelas te leal drabavel sváriba te ná avela bango džinta.</p>
+    <p type="title" xml:lang="swe">Rouvel pe džet ka arakhibosko personali</p>
+    <p xml:lang="swe">Douva hin tšihko te vágunesrisavelas pes kajo douva doktori vaj vaure arakhibosko personali kon hin tšerdal dikhiba ta arakhiba. Butvares vojbuvela na haljoviba ta bihajiba džénjaves ta tiknavel te douva ná fanulas papales. Nína hin sárenes vojiba te risaves pes ka héruneske apo douva kotoriba kaj hin líjal arakhiba, sar eksemplura frestiboskokohéruno aro ortopedcentrali.</p>
+    <p xml:lang="swe">Kana hin puchibi pa komunako sasti-naslibosko arakhibata sar eksemplura nasvalibosko arakhiba so fanula aro nasvaalibosko tšérerisavehas pes kajo sastiboskieri kones hin nagnál sváriba pa medcin, nína khardo MAS, aro komuna.</p>
+    <p xml:lang="swe">So ingares pa phuvjakotingi i ta komunala arakhiba frójavela pes disave dieli aro them. Hin vojiba te puchel pa pesko komuna vaj pa phuvjakotingi te kones hin angnál sváriba pa arakhiba. Butvares angnál svárila komuna pa lockhe sastibosko arakhiba ka vaure phuvjakotingi bilokhe lel nasvalibosko arakhiba aro tšére.</p>
+    <p xml:lang="swe"></p>
+    <p type="title" xml:lang="swe">Nasvalengo komisija</p>
+    <p type="title" xml:lang="swe">Lel priśiba rouviba</p>
+    <p xml:lang="swe">Jek instasiha kaj hin vojiba te mekhel pesko džinta hin nasvalengo komisija. Nasvalengo komisija hahtavel ka ušte pacijentengo siguriba aro sasto-, tanasvalibosko arakhiba.</p>
+    <p xml:lang="swe">Nasvalengo komisija mote te áchel aro sáre phuvjakotingi te lel priśi rouviba ta tenkibi pe vaureha vá priśi,diagnosi,medicineriba,presiba,sekresipuchibi ta arakhibosko garanti. Aro komisija bechela anglesgiere nebi douva hin tšenstakomunis kon vastdela phukiba. Komisijako anglesgiere hin tšentšakomurs ta lénge hin huchkar áchibosk plitos.</p>
+    <p xml:lang="swe">Nasvalengo komisija hin phiŕkano ka sasto- at nasvalibosko arakibata.</p>
+    <p xml:lang="swe">Pherdals satso- ta nasvalibosko arakhibaka rálila aro navsvalengo komisijako kotoriba ta dánesko arakhiba so džlpe aro phuvjakotingi ta privatnodánesko arakhiba so lela finansija pherdales phakanes ka phuvjakotingita.</p>
+    <p xml:lang="swe">Dólesko pherdal rálila nína sasto- ta nasvalibosko arakhiba so festavenas pa komuni, pálal vaj pe jek sömsiba pe komuna, ta sárokano arakhiba pálal Socialtšenstakolagi so lelas it pe ajasavo sasti- nasvalibosko tšéres.</p>
+    <p xml:lang="swe">Ka nasvalengo komisija vojbuveha lel hahtiba pe vaure, sar eksemplura</p>
+    <list>
+      <p type="listitem" xml:lang="swe">džanibi so hiovylas te lel saman pesko intresi aro sasto ta nasvalengo arakhiba</p>
+      <p type="listitem" xml:lang="swe">kontakti pe arakhibosko personali</p>
+      <p type="listitem" xml:lang="swe">te lachel horta hougáje</p>
+      <p type="listitem" xml:lang="swe">te phukavel dikhiba ta fróslagaiba.</p>
+    </list>
+    <p type="title" xml:lang="swe">Ona mujalo ta ranlo rouviba ródelas</p>
+    <p xml:lang="swe">Hin vojiba te bahavel ta bichvel ranlo rouviba ka nasvalengo komisijake. Tšenstakiero vá pálal te rouviba lela ródiba ta hortibi.</p>
+    <p xml:lang="swe">Nasvalibosko komisijake na ajasavo vola te vojbuven dikhhel hinko nasvalibosko tšeresko personali tšerdas vari so banges vaj ná. Douva hin anglide jek pe frestibosko héruneske vaj hougájen sar Socialingaribaske.</p>
+    <p xml:lang="swe">Kontakti džanibi ka nasvalengo komisijake mote lel dota kaj tu líjal arakhibata apo phuvjakotingesko iega webbthane.</p>
+    <p xml:lang="swe"></p>
+    <p type="title" xml:lang="swe">Socialingariba</p>
+    <p type="title" xml:lang="swe">Volaven kvalitetos ta siguriba</p>
+    <p xml:lang="swe">Siociali ingariba hin vaolibakohougaje pe satsto-nasvalengo arakhiba ta vollavenna onivar frestibi te anglaven pacijentengo siguriba, tšérena anglibosko buti ta leal nikhi rizno aro arakhiba. Sociali ingariba vojbuven tšuvel fokusija po dochiba so hin fanudal aja khardo sistemibangiba ta so vojbuvelas te tšerel ta dauva ná fanulas vaure.</p>
+    <p xml:lang="swe">Ka sociali ingariba hin vojiba te phukaven jek faniba vaj jek butjako frestiboskiero. Aro phukiba ná hiovylas te phukavel kon vaj kóne hantavena angnál sváriba pa fanibata. Sáre kon hunjula aŕe sasto-ta nasvalibosko tšerésko personali, bi dota ka dóla tšérena buti aro komuna, phuvjakotingi vaj aro jek privatno arakhibosko firma, hin sajpa te phukavel.</p>
+    <p xml:lang="swe">Jek phukiva vojbuvela nína dochavel kritika kajo organisatsija vaj sárekano fielura aro pacijentengosiguriba so hiovylas hortaves. Rouviba avela te ródimen. Tši hiovylas korkores džanel kon hin tšerdas banges vaj so hin fanudilo aro arakhiba douva hin dosta kana phukavelas fanubi sar douva hin.</p>
+    <p xml:lang="swe">Sociali ingariba vojbuvela del kritika ona jek organisasijake, sar eksemplura phuvjakotingi, ta jek kane aro arakhiboskopersonali. Douva vojbula endo tšérel vahka ná phukiba vaj rouviba ka nasvalo vaj lesko húpa. Kana hin hiovibi pe pasijenteske siguribake vojbuvela Sociali ingariba nína bichavela ofesijalo lin organisasienge so mote vá pálal Sociali ingaribake.</p>
+    <p xml:lang="swe">Vojbuvena nína lel agoriba te mukhel sáki nasvalengo komisijake. Agoriba ka Socialingariba ná džal te rouves.</p>
+    <p xml:lang="swe">Phukiba pa fanubiba so vojbuvela te áchel phagirba mukhelas petsgenge. Douva vojbuvela sar eksemplura áchel te nasvaliboskopersonali dochavelas seksualikano síla vaj hungiba.</p>
+    <p xml:lang="swe">Ona phukiba ka Socialingaribake ta Socialingaribosko agoriba hin ofensialno dokumentija so sáre kon kamena vojbuvena drabaven. Pe vaure rálila nasvalengojournali ta vaure itkane dokumenti so rálila aro ródiba pa sekretesi.</p>
+    <p type="title" xml:lang="swe">Vá pálal Lex Maria-phukibi</p>
+    <p xml:lang="swe">Socialingariba vastdela dóla aja khardo Lex Marika phukibi,tála arakhiba korkores mote phukavel fanuvare fanubi. Jek Lex Maria-phukiba mote ródes te pherdavel nasvalibosko siguriba. Douva vojbuvela liedavel te Socialingariba phukavela arakhiboskopersonali ka Sasto-nasvaliarakhibosko angná sváribako komisija, HSAN.</p>
+    <p type="title" xml:lang="swe">Sasto-ta nasvaliarakhibosko komisija</p>
+    <p xml:lang="swe">Ińasto Socialingariba, hortibosko ombudi ta hortibosko kansleri vojbuvena tšéren phukibi ka sasto-nasvaliarakhibosko komisijake, HSAN. Douva vojbuvela fanuvel kana hin doch te lel agoriba pa arakhibosko tšeribi,douva kamela te te agor rutini ra butjako manera so vojbuvela achel riziko. HSAN vojbuvela tšérel frestiba te agor:</p>
+    <list>
+      <p type="listitem" xml:lang="swe">Te kamel palpale legitimasija ka doktori vaj sastiboskieri kon hin tšerdal bilatšes pesko buti.</p>
+      <p type="listitem" xml:lang="swe">Te lel frestibako tíja,so mienila te doktori vaj sastiboskieri mote aven volaven ušti 3 bereh, ta jek specijalno plani tšuvelas télal douva třes.</p>
+      <p type="listitem" xml:lang="swe">Te beskavel vaj lel doktoresko hortiba te rańel avri drab.</p>
+    </list>
+    <p xml:lang="swe"></p>
+    <p type="title" xml:lang="swe">Pańa vaure manera te phukavel</p>
+    <p type="title" xml:lang="swe">Petsko, nasvalengosankiba ta anglesgiere</p>
+    <p xml:lang="swe">Ka hin tenkiba te jek phagiba hin fanudal aro arakhiba hin vojiba te tšérel phukiva petsgenge Phukiba vojbuvel áchel sar eksemplura aro Svedo hin douva but binorlmalno te ajasavo phukiba liedavela ka dochibake ta diomaske, dóleske hiovylas aro lágako phagirabako tšuviba aja khardo pe hólijaha vaj drúvalibalátšsungos te vojbuvel tiomavel.</p>
+    <p xml:lang="swe">Nasvalengo sankiba vojbuvela onivar hahtavel te vastdela aro sáki so dochela pa rouviba. Dóla vojbuvena aro disave fanubi kavieraven savo instasija hin fendide te anglavel pesko rouviva ta dóla vojbuvena hatahaven nína te rańel jek phukiba</p>
+    <p xml:lang="swe">Diskriminijako ombudi, DO tšérela buti kajo diskriminijasija. Kana hin dikhiba te hin avlo arakhimen vaures pa bij, bijveskoidentiteti, bijeskodiśuiba, phuraniba, etnikano hunjiba, paśiba vaj vauro paśiba.</p>
+    <p xml:lang="swe">Kana douva hin vojiba te anglavel rouviba ka dólen nasvali arakhibosko anglesgiere angnál sváriba aro jek phuvjakotingi vaj aro jek komuna.</p>
+    <p xml:lang="swe"><em type="italic">Ka juni 2013 hin inspeksija pe arakhiba, IVO líjal pherdal Socialingaribosko volibakotšeriba. Douva mienila te douva hin ka volibakotšeriba pa sastiba ta arakhiba hin vojiba te te tšérel phukiba so hin fanudal peske aro arakhiba. Hin nína vojiba te phukavel disave butjakere,it sar fretiba korkores phukavel ka socialingaribake. </em></p>
+    <p xml:lang="swe"><em type="italic">Doch ta fotiba so fanula aro sastiba ta arakhiba mote frestibako stedi korkores phukavel ka volakotšeribake. </em></p>
+    <p xml:lang="swe"><em type="italic">Douva nevo hou gáje vojbuvela lel pesko iega alsiba te ródel ta vá pálal slágiba ta siguriba aro arakhiba. </em></p>
+    <p xml:lang="swe"></p>
+    <p type="title" xml:lang="swe">Nasvalengo ombudi</p>
+    <p xml:lang="swe">Aro disave phuvjakotingi hin specialno nasvalengo ombudi, so onivar kharelas pe nasvalengo angleskiero vaj nasvalengo dromeskosikjiboskiero.</p>
+    <p xml:lang="swe">Kana sar eksemplura prinsavelas pe te hin avlo bengales priśliben vaj pe vauro manera hin tšalo pe arakhiba son hin líjal hin vojiba te lel kontakto dólen. Nasvalengo ombudi vojbuvel hahtavel ta sikavel angel kana ná tšalo pe svariba vaj sar hin avlo priśilíben pálal kan hin vágunes risadas pes džent ka arakhiboskopersonali.</p>
+  </body>
+</document>

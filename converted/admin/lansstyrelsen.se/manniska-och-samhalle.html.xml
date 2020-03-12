@@ -1,0 +1,84 @@
+<document xml:lang="rmf" id="no_id">
+  <header>
+    <title/>
+    <genre code="admin"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>920</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <multilingual>
+      <language xml:lang="rmf"/>
+      <language xml:lang="swe"/>
+    </multilingual>
+    <origFileName>http://www.lansstyrelsen.se/skane/rom-ka/manniska-och-samhalle/Pages/default.aspx</origFileName>
+    <parallel_text xml:lang="eng" location="manniska-och-samhalle.html"/>
+    <parallel_text xml:lang="fin" location="manniska-och-samhalle.html"/>
+    <parallel_text xml:lang="fit" location="manniska-och-samhalle.html"/>
+    <parallel_text xml:lang="sma" location="manniska-och-samhalle.html"/>
+    <parallel_text xml:lang="sme" location="manniska-och-samhalle.html"/>
+    <parallel_text xml:lang="swe" location="manniska-och-samhalle.html"/>
+    <parallel_text location="manniska-och-samhalle.html" xml:lang="rmu"/>
+    <parallel_text location="manniska-och-samhalle.html" xml:lang="rmy-rka"/>
+    <parallel_text location="manniska-och-samhalle.html" xml:lang="rmy-rlo"/>
+    <parallel_text location="manniska-och-samhalle.html" xml:lang="rmn"/>
+    <parallel_text location="manniska-och-samhalle.html" xml:lang="yid"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p xml:lang="swe">Komunis ta themiba - Länsstyrelsen Skåne</p>
+    <list>
+      <p type="listitem" xml:lang="swe"></p>
+      <p type="listitem" xml:lang="swe"></p>
+      <p type="listitem" xml:lang="swe"></p>
+      <p type="listitem" xml:lang="swe"></p>
+      <p type="listitem" xml:lang="swe"></p>
+      <p type="listitem" xml:lang="swe">Komunis &amp; themiba</p>
+      <p type="listitem" xml:lang="swe"></p>
+      <p type="listitem" xml:lang="swe"></p>
+    </list>
+    <p xml:lang="swe"></p>
+    <p type="title" xml:lang="swe">Komunis ta themiba</p>
+    <p xml:lang="swe"><em type="italic">Themesko faldiba tšérila itbutja gaveha te anglavel latšo džiba aro themiba themesko memburenge- nína privatno komujenge sar firmake( frestiboskerenge). Sáre mote lel it vériba aro rekhiba pa džívibako trystaliba kai hin siguriba,lokho ta latšo siguriba te tšérel buti ta dživel. </em></p>
+    <p type="title" xml:lang="swe">Manuškane hortiba</p>
+    <p xml:lang="swe">Buti pe it hortiba ta sajpa mote dichol aro Themeskofaldibako organisatšija ta aro butja.Pálal diskriminijakolaga hin avlo niekimen te diskriminerinela komuja pálal lengo bij, etnikano ráliba, paśiba, vaj pálal vaure paśibako khál, sekisikano manera, langaliba, berehiba,bijperdalkano bijkano identiteti vaj bijperdalkano avridiśiba ta rolja.</p>
+    <p type="title" xml:lang="swe">Itavériba</p>
+    <p xml:lang="swe">Nationalno starakiba hin te džuvja ta džéne mote len itavérikano džór te tyomäven pengo iega dživiba. Phuvjengo faldiba aro Svedo tšérila buti kajo džénengo síla kajo džújen ta priśibako buti kajo prostitio ta komujengo bikniba pe seksikalne starakiba dženom te dumudel anglikane buti ta džórjavel mahkar hougáje ta idelkane organisasija</p>
+    <p type="title" xml:lang="swe">Nationalne minoriteturi</p>
+    <p xml:lang="swe">Themeskofaldiba aro Stockholmosko phuv ta sámitingeske hin héruno agnál sváriba te stelalven ta voĺaven Svedosko minoriteturijako politika pherila aro them. Minoriteturipolitika rálila aro puchiba pa arakhibata ta dumudíjibata nationalne minoriteturienge ta penge tšibake. Dóla pangsh iegade minoriteturi aro Svedo hin bibolde, roma, sáme(kon nína hin anglune folki), sveitikofinitika ta tornedalningar.Dóla pangsh nationalne minoriteturi tšiba hin jiddisch, romani chib, sámi, finitko ta meänkieli.</p>
+    <p type="title" xml:lang="swe">Komujengo sastiba</p>
+    <p xml:lang="swe">Themeski faldibake hin buti sar te tšérelpe angle avibako vojiba sárenge jakhes te jón lena vojiba te lel latso sastiba pe it nóda. Aro komujengo sastibaha hin puhiba pa komujengo iego velkibata ta manerahata nebi nína pa ajasávehata sar avruno trystaliba ta demokratikane hortibaaro themiba.Ame tšérá specialnes pe dála kotoriba sar itvériba,integrasija, trystaliba,tšéreskopláni, socialne angliba, antidiskriminsija ta nína alkoholi- ta drabengo rigibiako puchiba.</p>
+    <p type="title" xml:lang="swe">Integrasija</p>
+    <p xml:lang="swe">Héruno rein pe interasijako politikake hin it hortiba, dochiba ta vojiba sáre komujenge bi dota so lengi etnikano kulturelkano páluniba hin. Themeski faldiba saj dumudel itbutja mahkar disave aktori ta dikhel te ávelas latše hágiba ta kapasiteti aro phuv ta lel priśi nevo avile nache ta vaure kon hyövyla arakhiba.</p>
+    <p type="title" xml:lang="swe">Velkiba</p>
+    <p xml:lang="swe">Themeskofaldiba hin regionalno velkibako hougáge. Douva mienila te amen hin angnál sváriba te tšérel angluni buti ta rikhaven sáregáno velkiba, velkiba ka Europakoparlamenti ta sar gógiametiko aro komujengovelkiba. Angnal velkiba lela Themeskofaldiba sar vaureha dieliba aro velkibako trystaliba ta velkibakothan mote áchel ta lel priśi phukiba pa anglengiere konengo náve hin avlo rannimen aro velkibakolin.Aro velikibakoraśa openbárina sáre velkibakothan pengo velkibako resultati ka phuvjako faldibakeske.Dólesko pálal tšéravaha amen agorikano tšińiba.</p>
+    <p type="title" xml:lang="swe">Krísakohińiba</p>
+    <p xml:lang="swe">Télal jek krísa vaj apruno hińiba mote Themeski faldiba dumudel ta työvavel hougáje ,organisasija ta themibaske inportante frestiba aro phuv. Amen hin nína angnál sváriba te informasija pa krísa työmavahas ta rikhila sárenge ta media. Kaj jek ajsavo bibahtalo faniba fanula te rikhiba pa jek pherda alunodžor (kärnkraftverk) mukela avri mote sáre Themeskifaliba ónavel jek arakhibosko tsenstako angnalsváriba aro pengi phuvja ta Themeski faldiba aro Uppsala, Kalmar ta Haĺandsko phuvjen hin nína bohlade hińiba.</p>
+    <p type="title" xml:lang="swe">Voĺiba ta lóvi</p>
+    <p xml:lang="swe">Aŕe ari disave tháne dela Phuvjako faldiba lóvi ta tšérila voĺiba te ná komujengo sastiva ta hortiba télavahas.</p>
+    <p xml:lang="swe">Gravori - begravningar Phuvjakofaldiba phukavela ombudi kon voĺila khangerijakosankiba ta voĺila te dóla komuja kon ná hunjula aŕe aro Svedosko khangeri lena nína itverikáne gravori sar jón kamena.Amen saj dá lóame te ulaven múlesko uzar.</p>
+    <p type="title" xml:lang="swe">Deporinela louve</p>
+    <p xml:lang="swe">Themeski faldiba saj lelpe te deporinela louve paj ek specialno konto.Dauva mienila te amen saj la priśi louve ta arkhela louve so tu presavela koneske.Dauva saj sar eksemplura fanuvel ka tu sar tšéreskojest lel jek kouva pe tséresko igegiboskiereha vaj tu sal úchlkes louve náka džáneha joneske tu motel prsavel úchliba. Tu úchliba dikhehas sar presado aro tíja aro dísave rikhiba pálal lági hin pherdo.</p>
+    <p type="title" xml:lang="swe">Kamerako voĺiba</p>
+    <p xml:lang="swe">Themeski faldiba saj te del lóvi sárekano kamerakovoĺibake.Sárekano kamerakovoĺiba mienila te kamera tšúvehas kajo jek than kaj sárenge hin phiŕo aviba. Akadíves hin duj lági so regerinela kamerakovoĺiba, lági pa kamerakovoĺiba ta manušengo džaniba ta Themeski faldiba voĺila te lági pherdavehas.</p>
+    <p type="title" xml:lang="swe">Hábeskokontroli</p>
+    <p xml:lang="swe">Primarproduksija hin váguno hábeneskovérja so rálila sar vaureha produksija pa mas,thund,giv, thulofuderi anglejiba pa fuderijakoblańiba ta transporti ni pa fuderi ta hábe.Primarprokuksija hábe kontrolrinelas aro bút leda pa Themeskifaliba ta Phuvjakobrúkibakoungariba. Ame voĺavá nina te gávenge hin latšo voĺiba kontroli pa dólenda kon tšérena ta biknavela hábe ta lén hin dosta džaniba ta te dóla pheravelas.</p>
+    <p type="title" xml:lang="swe">Presibakogarantia</p>
+    <p xml:lang="swe">Ka sal sar butjar aro jek frestiba ráila tu aŕe aro presibakogarantia. Themeski faldiba angnál svárila ta apre phenibako presiba so džala aro konkursi vaj frestiba baruvehas.</p>
+    <p type="title" xml:lang="swe">Themeskimemburiba</p>
+    <p xml:lang="swe">Phuvjakofaldiba lela priśi ródiba pa sveitikano themeskimemburibata, dólenda kones hin themeskothemeskimemburiba aro Danmark,Finland,Norge, vaj Island.Phukiba hin avlo lokhide manera te ródel themeskothemeskimemburiba.Kana tut hin themeskothemeskimemburiba aro vauro them ke dála mote boldaves tut kajo Migrationskobiro.Kana tu lahas nikhi themeskimemburiba saj laches douva pálal ke phukabiba Phuvjakofaldibake.</p>
+    <p type="title" xml:lang="swe">Notarius publicus</p>
+    <p xml:lang="swe">Phuvjakofaldiba phukavela notarius publicus.Dauva titulári hin latin ta mienila <span type="quote" xml:lang="swe">”ofencialno sekretari”</span>Notarius publicus tšérila bút buti te zutavel sáre komuja sar te kameraven navesko télal rańiba,boldiba ta vauresl´´aga buti, sar kaameeriba aro than kana phagarelas jek sankiba vaj tšuvelas vaj tšérelas sterdiba aro lotto.</p>
+    <p type="title" xml:lang="swe">Bjav</p>
+    <p xml:lang="swe">Phuvjako faldiba tšérila orgelikano bjávja ta lén hin registeri dóla komujenda hin phukade te tšérel džifita aro sakho phuvja. Ka sal télal 18 bereh ta kameha te phannel bjáviba mote tu lel lóuvo kotar Phuvjakofaldibata.</p>
+    <p type="title" xml:lang="swe">Voĺiboskero</p>
+    <p xml:lang="swe">Komuja konen hin baro svarimos te rikhaven phalo pa pengo ekonomia ka len ajasavo nasvaliba, berhehiba vaj pa vaure sákengo khál saj lel zutiba pa latšo manus vaj paj jek voĺiboskero.Aro sakho komuna mote áches jek voĺiboskero vaj jek faldibakosankiba kon dikhela pálal te komunako latšo manus ta voĺiboskero tšérina pengo buti.Butvares kontrolirinela Phuvjako faldiba latšo manus ta tšérila kontrol aro voĺiboskero sar eksemplura pálal phukiba.</p>
+  </body>
+</document>

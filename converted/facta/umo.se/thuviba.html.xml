@@ -1,0 +1,81 @@
+<document xml:lang="rmf" id="no_id">
+  <header>
+    <title/>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <translator>
+      <unknown/>
+    </translator>
+    <translated_from xml:lang="swe"/>
+    <wordcount>714</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <multilingual>
+      <language xml:lang="rmf"/>
+      <language xml:lang="swe"/>
+    </multilingual>
+    <origFileName>http://www.umo.se/Andra-sprak/romska-kale/Thuviba</origFileName>
+    <parallel_text xml:lang="fin" location="tupakointi.html"/>
+    <parallel_text xml:lang="fit" location="polttaminen-eli-tupakointi.html"/>
+    <parallel_text xml:lang="sma" location="rievhkestimmie.html"/>
+    <parallel_text xml:lang="sme" location="borgguheapmi.html"/>
+    <parallel_text xml:lang="smj" location="suovastibme.html"/>
+    <parallel_text xml:lang="swe" location="rokning.html"/>
+    <parallel_text location="tyja.html" xml:lang="rmu"/>
+    <parallel_text location="te-phes-duhano.html" xml:lang="rmy-rka"/>
+    <parallel_text location="kana-pel-pe-duxano.html" xml:lang="rmy-rlo"/>
+    <parallel_text location="pijbe-cigare.html" xml:lang="rmn"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p xml:lang="swe">Thúviba</p>
+    <p xml:lang="swe">Alla undrar!  Vad undrar du?</p>
+    <p type="title" xml:lang="swe">Thúviba</p>
+    <p xml:lang="swe">Kana thuvelas sugavelas pes anre ártuno drabkane bérija. Thúviba vojbuvel liedavel ka disave khuviba ta nasvaliba, ta kutides ke sakho vauro komunis kon thúvela merela sikide ke jov vaj joj sas tšerdal bithúviba. Dólesko pherdal hin tobak kuh,ta vojbuvel tšérel te lelas akne,bifendide sastiba ta tiknide seksikano mangiba. Endo hin normalno te terne komuja lelpe thúviba te sikaves sar džoralo vaj rankano.</p>
+    <p xml:lang="swe">Te arakhel terne komuja ka fárdiba te rikhavel tobak,hin jek lága so pheńela te ná lelas te tšińes tobak ka hin télal 18 bereh.</p>
+    <p type="title" xml:lang="swe">Tobak</p>
+    <p xml:lang="swe">Hin vojiba te tšińel tobak aro cigaretter, cigarrer, cigariller, samuna ta panjakosamuna. Cigaretter hin normalno. Cigareti rálila ná ińasto ferda tobak,aro thuv ka jek tendo cigareti hin kutides 4000 kemikane bérija. But pa dólenda vojbuvel del rako. Dóla fárdiko bérija hin:</p>
+    <list>
+      <p type="listitem" xml:lang="swe">Nikotini,jek béri so hin ińasto lóvi te rikhavel aro tobak ta aro produkti so dela hahtiba dólen kon kamena te tšéren thúvibako agoriba. Nikotini hin aja fárdiko ka lelas nikotini ka star cigareti džent aro ratt merelas dota.</p>
+      <p type="listitem" xml:lang="swe">Cyanvety,jek drabkano gaso.</p>
+      <p type="listitem" xml:lang="swe">Kolmonoxid, jek drapkano gaso so hin vaureha aro bérosko gasengo phudiba.</p>
+      <p type="listitem" xml:lang="swe">Tiara, so rálila but disave bérija, jek dieli pa dólenda vojbuvel dochavel rako. Pherdales aro cigareti rikhavelas tiara sar vaureha aro asfalti ta mólakoranlga.</p>
+      <p type="listitem" xml:lang="swe">Eksemplura pa vaure fárdiko bérija hin bly, kadmium, amoniak, bensen ta radioaktivkano polonium.</p>
+    </list>
+    <p type="title" xml:lang="swe">Soske lelpe te thúviba?</p>
+    <p xml:lang="swe">Douva hin normalno te hin málensa kana vágunes frestavelas te thúvel. Ka kameha frestavel sar dauva smakila ta sar douva hošelas.Saj rikhavelas te douva hin džoralikano. Tšek ná rikhavelas te douva smákila tšihkas váguno var.</p>
+    <p xml:lang="swe">Jek dieli thúvela te hošelas pen phuranide vaj korkorikane. Hin vojiba te rikhavel te douva hin fendide áchel pe vaure komujensa, kon thúvila nína.</p>
+    <p type="title" xml:lang="swe">Butvare džanena te douva hin fártiko</p>
+    <p xml:lang="swe">Butvare džanena te hin fártiko te thúvel. Nebi hin lokho te tenkavel te ná me lá nasvaliba vaj tšérelas agoriba angnal ka douva hin fárdiko.</p>
+    <p xml:lang="swe">Kana lelas peske te thúvel hin ajasave sáki so vojbuvela hokavel sígas,sar eksemplura te lelas bengalide kondisija. Douva vierula kana trupos avela bengalide te lel hava kana thúvelas,ta nikotini so hin aro tobak lel džíjeske te dav drouvide.</p>
+    <p xml:lang="swe">Aja harhar ka lelpes te thúvel, dólesko baride risko te avel téluno falda ta te lelas khuv-ta nasvaliba pa thúviba. Angnal bukhe barjuvelas hortanes hin dóla aja darukane kajo thúves.Vahka lelas te lel tobak kana hin télal 18 bereh, lena but terne komuja te thúvel.</p>
+    <p type="title" xml:lang="swe">Pasivkano thúviba</p>
+    <p xml:lang="swe">Kana hin mahkar komujen kon thúvela, sar eksemplura hin aro it dujtu, lela peske gasi so hin aro thúv. Douva khárelas pe pasivkano thúvibaske. Dóleske pasivkano thúviba hin nín fárdiko thúviba hin niekimen apo restaurant, café, butjakothan ta aŕe aro ofensialno stedi.</p>
+    <p type="title" xml:lang="swe">Te tšérel thúvibako agoriba</p>
+    <p xml:lang="swe">Douva hin lokho te avel aro téluno falda pa tobak. Ińasto pálal disave cigareti saj gódi avel aro téluno falda pa nikotini. Te áchel aro tobako téluno falda mienila te trupos hin avlo sikjimen te lel nikotini, te avela baro buti kana ná thúvelas, aja khardo frójibakolísiba. Nebi douva hin nína jek manera kaj hin phalo, dota avela jek manera te thúvel.</p>
+    <p xml:lang="swe">Douva hin bilokho te tšérel thúvibako agor,vahka kamelas áchel phiro dota. Nebi douva džalpe ta ka sígas tšérelas agoriba dóleske koni fendide hin butvare pa khuv- ta nasvaliba so thúviba dela, saj džal palpale ta tšérel agoriba</p>
+    <p type="title" xml:lang="swe">Tšihka dochba te ná thúvelas:</p>
+    <list>
+      <p type="listitem" xml:lang="swe">Lela butide louve te tšińel vaure sáki,dóleske te douva hin kuh te thúvel.</p>
+      <p type="listitem" xml:lang="swe">Hin fendide kondisija kan ná thúvelas.</p>
+      <p type="listitem" xml:lang="swe">Hin fendide sastiba bi cigareti akana ta ta aro áviba.</p>
+      <p type="listitem" xml:lang="swe">Džánimen lelas lanhtide dživiba kana ná thúvelas.</p>
+      <p type="listitem" xml:lang="swe">Ná hóljavelas peske phúride ta vaure hojimen.</p>
+      <p type="listitem" xml:lang="swe">Šlepavela te áchel aro téluno falda ta hošavel frójibakolísiba sar te mangela thúviba, avela chojimen vaj bifrédoskiero</p>
+      <p type="listitem" xml:lang="swe">Kóla ná khandela thúveske.</p>
+      <p type="listitem" xml:lang="swe">Tši hioviba te lel bengalo ońosko khandiba vaj dželto dáne.</p>
+      <p type="listitem" xml:lang="swe">Ka hin télal 18 bereh hin vojiba te tšérel vaure latšekane sáki ke ródel kata lelas peske tobak.</p>
+      <p type="listitem" xml:lang="swe">Ná lelas sema aro angluno tíja.</p>
+      <p type="listitem" xml:lang="swe">Tobasko džondriba phagaravela trystaliba pe but maneraha ta džonsiboskiere khuvelas pa drabkane preventivkane bérija.</p>
+    </list>
+    <p xml:lang="swe">Ka hin tenkiba trytales thúvelasko vaj náko thúvelas,vojbuvel tšérel lista ta dikhel latšiba ta bilatšiba. Douva vojbuvel áchel beska sáki ta bare sáki , so vérila pesko dživiba,vaure komujengo, trystaliba ta vaure. Douva hin pengo iega listi,ta korkores lelas agoriba so vás pálal, sar kameha te tšérel pe thúvibaha.</p>
+  </body>
+</document>

@@ -1,0 +1,82 @@
+<document xml:lang="rmf" id="no_id">
+  <header>
+    <title/>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <translator>
+      <unknown/>
+    </translator>
+    <translated_from xml:lang="swe"/>
+    <wordcount>975</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <multilingual>
+      <language xml:lang="rmf"/>
+      <language xml:lang="swe"/>
+    </multilingual>
+    <origFileName>http://www.umo.se/Andra-sprak/romska-kale/Dar</origFileName>
+    <parallel_text xml:lang="fin" location="ahdistus.html"/>
+    <parallel_text xml:lang="fit" location="ahistus.html"/>
+    <parallel_text xml:lang="sma" location="asve.html"/>
+    <parallel_text xml:lang="sme" location="aestus.html"/>
+    <parallel_text xml:lang="smj" location="goavgge.html"/>
+    <parallel_text xml:lang="swe" location="angest.html"/>
+    <parallel_text location="nervolo.html" xml:lang="rmu"/>
+    <parallel_text location="dar.html" xml:lang="rmy-rka"/>
+    <parallel_text location="ongesto.html" xml:lang="rmy-rlo"/>
+    <parallel_text location="baridar.html" xml:lang="rmn"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p xml:lang="swe">Dar</p>
+    <p xml:lang="swe">Alla undrar!  Vad undrar du?</p>
+    <p type="title" xml:lang="swe">Dar</p>
+    <p xml:lang="swe">Dar hin džorale hošiba pa bisansarniba ta dar so vojbuvela hošavel aro hilo trupos, ta sar butvare lena džikovar. Dar vojbuvela áchel bilatši, nebi frestavela endo te tšérel so kamela ta náka džalvika aro fanibi vojbuvel del dar.</p>
+    <p xml:lang="swe">Dar hin reaksija aro nervisistemi so ná vojbuvelas te tiomavel korkores. Hin tšihko te džanel pes te dar ná áchela fárdiko te douva sárenes džala pherdal jek tíjako pálal.</p>
+    <p type="title" xml:lang="swe">Vojbuvelas te hošavel aro hilol trupos</p>
+    <p xml:lang="swe">Te lel dar hin te hošavelas pes but daruno ta bisansardo. Douva hin džoralo hošiba so hošavelas aro hilo trupos. It tíja kana avela bisansardo vojbuvel dži del hastide ta džoralide, ońesko sterdibata avela hastide ta mas sankavena. Hin vojiba te lelpe te khamjuvel, avela džalimen, hídri vaj áchel bengalo áchiba vaj hošavel klemiba pherdal kolin, sar avelas bilocho te sterdel ońos.</p>
+    <p xml:lang="swe">Vágunes avela džoralo hošiba ta džoralide, nebi pálal jek tíjako pálal ná avela džoralide. Tála hin manera te mekhel téle ta dar téljuvena.</p>
+    <p xml:lang="swe">Dar vojbuvela hošavel darunes. Nebi douva hošavela sárenes fendide jek tíjako pálal, ta douva ná fárdiko.</p>
+    <p xml:lang="swe">Dar vojbuvel hošaves vaures sakho var. Ta douva ná alti ka džanelas te aro trupos hin dar.</p>
+    <p xml:lang="swe">Onivar rikhavelas lav dar kana rikhila te džiko hin baro buti. Aro skola vojbuvel te pheńel te hin dar sar eksemplura jek frestiba aro skola vaj te douva hin baro buti. Nebi dar hin variso butide ke sadivisijako bisansardo, so hin butvares streśi.</p>
+    <p type="title" xml:lang="swe">Ná džánelas sárenes soske lelas dar</p>
+    <p xml:lang="swe">Butvares lena džiko var dar nebi douva hin vaureslága sar bút ta sar butvares. Jek dieli lena dar ińasto disave var. Vaure vojbuvel len džoralo dar so ávela butvares palpale, vaj dar so rikhila pes langtes. Hin vojiba te lel tikne darjibako kouva so džala hastes pherdal.</p>
+    <p xml:lang="swe">Onivar ná džaniba soske lelas dar. Douva vojbuvel avel ka hin it aro džiko baro buti, sar džiko merel kon pinsavelas. Hin vojiba te lel dar kana hin líajs priśi síla.Vaj kana džiko hin histiko aro interneti, vaj hin frestade te lokravel vaj rikhavel tšihkanes.</p>
+    <p xml:lang="swe">Jek dieli lela dar angnal jek frestiba va aro butjakorakhiba.Vaj kana hiovylas te tšérel džiko spesijalnes kata ná rikhila. Douva vojbuvel áchel bút baro buti nebi džanelas endo soske lela dar. Douva vojbuvel tšérel douva kuti lokhide te sterdol avri pe.</p>
+    <p xml:lang="swe">Hin vojiba te lel dar kana pívea alkoholi vaj rikhila narkotika.</p>
+    <p xml:lang="swe">Dar vojbuvel ável bi te džanel soske, vaj pa sáki so ná tenkavelas vojbuvel del dar. Douva vojbuvel onivar tšérel dar butvares ta tšérel but darutno.</p>
+    <p xml:lang="swe">Ná achela tšek klár grensa mahkar dála formi pa dar. Douva vojbuvel nín áchel jakhes te džanelas katar dar dochila, nebi endo rikhila te douva hin pe džoralo sar eksemplura kana lela džisko bultriba, džálimen ta khamjuvel angnal frestiba vaj aro tenti.</p>
+    <p type="title" xml:lang="swe">Angouvela lindri ta hošiba</p>
+    <p xml:lang="swe">Dar vojbuvel tšérel te hin bilokho mekhel téle ta souvel tšikhas. Hin vojiba te džanguvel apre aro raśako tíja ta dóleske lel bengalo lindri, vaj lelpe tiknes lindri. Dar vojbuvel tšérel te avelas bisansardo, holjuvena pe lokhes ta avela lokhkes mulanes ta byrjyla te rouvel.</p>
+    <p type="title" xml:lang="swe">Dar pe dar</p>
+    <p xml:lang="swe">Dar vojbuvela te del džorale hošiba ta reaksija aro trupos te vojuvelas tenkavel te mérelas vaj ávela dinales. Douva vojbuvel áchel aja baro buti te tšérelas sa te džal vika te douva ná fanulas pańa. Tála vojbuvel lel dar pa te hin darutno te lel dar. Douva kharelas pe ventibakodar.</p>
+    <p xml:lang="swe">Hin vojiba te áchel bisansardo te lel dar kana vaure hin it, ta rikhavel te douva hin bilokho te rakhavel pa dota. Douva vojbuvel byrjyvel te džal vika te ná dikhelas vaure komuja so tšatšunes kamelas te dikhel vaj tšérel sáki so kamelas te tšérel. Drahiba te lel dar tšérela te avelas phanlo aro pesko sa divisijako dživiba.</p>
+    <p xml:lang="swe">Te džl vika pa ajasave so tenkavela te del dar ná áchela tšihko ke douva vojvuvel tšérel dar avela bengalide. Anglunes mote ródel sígas hahtiba.</p>
+    <p type="title" xml:lang="swe">So hin vojiba te tšérel korkores?</p>
+    <p xml:lang="swe">Hin vojiba te avel phiŕo pa dar. Butvares lachelas korkores iego manera sar te arakhelas pesko dar. Adaj hin disave tipsi.</p>
+    <list>
+      <p type="listitem" xml:lang="swe">Butvares hahtila douva kana rakhila džiko komujes kones pinsila ta hošavela pes sigurno. Te farabel lávensa pesko bare hošiba vojbuvel tšérel te hin lokhide tenkavel ta hajuvel dólen.</p>
+      <p type="listitem" xml:lang="swe">But hahtila douva nína te rańel pa pesko bare hošiba,vaj mólajavel vaj tšérel vaure sáki.</p>
+      <p type="listitem" xml:lang="swe">Sreśi vojbuvel uštavel dar. Kana hin streśimen hin dóleske vojiba te tenkavel sar tiknavelas stresś, ta jakhes tiknavel pesko dar.</p>
+      <p type="listitem" xml:lang="swe">Hin vojiba te tšérel mukhibakofrestibi. Dóla vojbuvel lel telé apo interneti vaj tšińel sar CD aro apoteka.</p>
+      <p type="listitem" xml:lang="swe">Dar tšérela butvares te vojbuvelasbengalide. Nebi kana lelas te souvel fendide vojbuvel douva téljuvel. Dólesko khal hin but inportanto te frestavel souvel hortanes.</p>
+      <p type="listitem" xml:lang="swe">Dar vojbuvel téluvel kana omsavela pes,dženom tréni vai stável peske.</p>
+      <p type="listitem" xml:lang="swe">Kana thuvdela,lel snus, pível alkoholi vaj pívela but káli vojbuvelas te frestavel tiknavel dólen ta dikhel hahtilako douva. But nikotini ta káli vojbuvel uštavel dar te tšérel te souvelas bengalide.</p>
+      <p type="listitem" xml:lang="swe">Hin vojiba te drabavel pa dar ta lel tipsi pa vaure, sar eksemplura apo interneti. Hin sankibi kaj vojbuvelas te džal kon vojbuvena dumudel pe tipsi ta godidíjiba.</p>
+      <p type="listitem" xml:lang="swe">Kana kamelas te rakhavel pe džiko, hin vojiba te bahavel džiko paro telefonosko jouriko numri so hin.</p>
+    </list>
+    <p xml:lang="swe">Ná hiovylas pível tšerki vaj lel vaure drab te tiknavel pesko dar. Douva hošelas sar douva hahtila pe tíja, nebi dar avela palpale ta tála vojbuvel áchel bengalide.</p>
+    <p type="title" xml:lang="swe">Savoslaga hahtiba hin vojiba te lel?</p>
+    <p xml:lang="swe">Nína lelas hahtiba te lachel vaure manrea te avel phiŕo pa dar. Douva normallno arakhiba hin disavo formi pa rakhibabakoterapi, drab vaj mekhiba.</p>
+    <p xml:lang="swe">Douva so džalpe jekes pe sajpa ná džalpe vaures. Dólesko khal hin douva but inportanto te lel hahtiba palal pesko iego hioviba.</p>
+    <p xml:lang="swe">Vojbuvel byrjyvel dota te lel vágunes kontakti aro jek terneng ocentrali, sikjukúnengosastibake vaj pe jek sastibosko centrali. Kana hin hioviba vojuvelas dóri lel hahtiba pa komuja te lel kontakti sar eksemplura pe doktori vaj pe jek psykologi.</p>
+  </body>
+</document>

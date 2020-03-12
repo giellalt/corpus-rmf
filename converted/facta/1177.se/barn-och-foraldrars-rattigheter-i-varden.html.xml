@@ -1,0 +1,131 @@
+<document xml:lang="rmf" id="no_id">
+  <header>
+    <title/>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>1909</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <multilingual>
+      <language xml:lang="rmf"/>
+      <language xml:lang="swe"/>
+    </multilingual>
+    <origFileName>http://www.1177.se/Nationella-minoritetssprak/Nationella-minoritetssprak/Romanska-kale/Regler-och-rattigheter/Barn-och-foraldrars-rattigheter-i-varden</origFileName>
+    <parallel_text xml:lang="eng" location="barns-och-foraldrars-rattigheter-i-varden.html"/>
+    <parallel_text xml:lang="fin" location="barns-och-foraldrars-rattigheter-i-varden.html"/>
+    <parallel_text xml:lang="fit" location="barns-och-.html"/>
+    <parallel_text xml:lang="sma" location="barns-och-foraldrars-rattigheter-i-varden.html"/>
+    <parallel_text xml:lang="sme" location="barns-och-foraldrars-rattigheter-i-varden.html"/>
+    <parallel_text xml:lang="smj" location="barns-och-foraldrars-rattigheter-i-varden.html"/>
+    <parallel_text xml:lang="swe" location="barns-och-foraldrars-rattigheter-i-varden2.html"/>
+    <parallel_text location="barns-och-foraldrars-rattigheter.html" xml:lang="rmy-rka"/>
+    <parallel_text location="barn-och-foraldrars-rattigheter-i-varden.html" xml:lang="rmn"/>
+    <parallel_text location="barns-och-foraldrars-rattigheter-i-varden.html" xml:lang="rmu"/>
+    <parallel_text location="barns-och-foraldrars-rattigheter-i-varden.html" xml:lang="yid"/>
+    <parallel_text location="barns-och-foraldrars-rattigheter-i-varden.html" xml:lang="rmy-rlo"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p xml:lang="swe">Kentesko ta phúridengo hortiba aro arakhiba / Barn och föräldrars rättigheter i vården - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
+    <p xml:lang="swe"></p>
+    <p xml:lang="swe"></p>
+    <p type="title" xml:lang="swe">Romani chib káloRomska kale</p>
+    <list>
+      <p type="listitem" xml:lang="swe">Tillbaka till startsidan för temat</p>
+    </list>
+    <p type="title" xml:lang="swe">Kentesko ta phúridengo hortiba aro arakhibaBarn och föräldrars rättigheter i vården</p>
+    <p xml:lang="swe"></p>
+    <p type="title" xml:lang="swe">So mienavelas pe hortibaha aro arakhiba?</p>
+    <p xml:lang="swe">Kentosko ta phúridengo hortiba aro arakhiba hin tšetade pe dólena dochiba so arakhiboskereske hin kajo dživiboskerenge. Dochiba hin nína farabade aro sastiba-ta nasvaliboskolága (HSL) ta pacientijengo siguriboskolága (PSL). Ná vojiba aro reguli te pe sílaha lel peske hortiba dženom te tšerelas klágiba ka tingi. HSL tšérela tenkiba sar arakhiba aro Svedo mote stelaves ta rikhavel. Hérunotenkiba aro HSL hin te sáre komuja aro Svedo lelas jek latšo ta sigurno arakhiba pe it régulijaha. Pálal HSA mote arakhiba del aro it džintaha pe pacientii, douva kamela te pheńel te pacienti mote akcentirinel arakhiba.</p>
+    <p xml:lang="swe">PSL tšérela tenkiba pa arakhiboskerenge angnál sváribata te dikhel te arakhiba ingaravelas sigurnes ta pacientisko vojiba te phukavel bangiba aro arakhiba. PSL tšérela tenkiba nína pa pheraldikhiba pa sastibosko-ta nasvalibosko arakhibata, douva kamela te pheńel sar sastobosko-ta nasvabosko arakhiba starkavelas ta sar volavelas te starakiba vá pálal te bangiba hortavelas.</p>
+    <p xml:lang="swe">Aro jek vauro lága so rálila pa kentos ta phúride, aro phúridengo kanuni, hin rańiba te kentosko arakhiboskoreske hin hortiba ta dochiba te lel agoriba aro ajasave lági so dochela kentos. Arakhiba hin ajaharhales kana kentos pherdela 18 bereh, vaj ajadiśi kana kentos bjavela pes ka douva hin anglal kana kentos pherdela 18 bereh. Pe vaureha hin douva kentosko arakhiboskero kon mote del pesko siomsiba ka arakhibaske so rekhavels kentoske.</p>
+    <p xml:lang="swe">It tíja pe kentosko berehiba ta nouriba mote te lel baride dikhiba so kentos kamela pes. Pe vaureha mote kentoske áchel angouviba ta lel pe tíjaha tšérel korkorikane agoriba. Kentosko hortiba hin nína ranlo aro FN:esko konvensija pa kentosko hortiba, kentosko konvensija , jek internationalno siomsiba so Svedo hin ranlo télal. Kentosko konvensija rakhila pe vaureha te:</p>
+    <list>
+      <p type="listitem" xml:lang="swe">Kentoske hin hortiba dživibaske ta koni fendide sastiba- ta nasvalibosko arakhibaske.</p>
+      <p type="listitem" xml:lang="swe">Kentosko fendiba mote tiomavel sáre agoriba so angovela kentos.</p>
+      <p type="listitem" xml:lang="swe">Kentoske hin hortiba te phuvel pesko džinta ta lel dóles respekti.</p>
+      <p type="listitem" xml:lang="swe">Phúridenge hin angnál sváriba pa kentos.</p>
+      <p type="listitem" xml:lang="swe">Kentoske hin hortiba te lel arakhiba pa privatno dživiba ta dženokano integretiteti.</p>
+    </list>
+    <p xml:lang="swe"></p>
+    <p type="title" xml:lang="swe">Kentosko hortiba aro arakhiba</p>
+    <p xml:lang="swe">Ná áchela tšek berehesko grensa ke kentos lela áchel it ta lel agoriba aro jek arakhibosko situasija. Kentosko hortiba te lel agoriba korkores hin it pe kentosko nouriba aro it sar bilokho agoriba hin ta savo mieniba dóleske hin pe kentosko sastibaske aro aviba.</p>
+    <p xml:lang="swe">Ka phuraniske kentos ávela, aja butide hiovila kentos ta phúride den džinta, ta pheńen pengi akcentiriba, arakhibaske so rekhavelas. Dóla hin dóla angleskere pa arakhiba so tiomavela kana jek kentos vojbuvela áchel it ta lel agoriba aro jek arakhibosko situasija.</p>
+    <p xml:lang="swe">Eksemplura dota so kentoske hin hortiba aro arakhiba:</p>
+    <list>
+      <p type="listitem" xml:lang="swe">Te lel rikhavel jek pa phúride peśa télal douva tíja so kentos hin tšunto aro arakhibosko kotoriba/nasvalengo tšéres. Kentos mote aro vágunes arakhavelas aro kentengo kotoriba kaj hin personali konen hin spesijalni kompetensi,skolakosikjiba, phersibakoberi ta vaure relaksikane aktiveteti.</p>
+      <p type="listitem" xml:lang="swe">Te lel hortiba te phagaravel jek doktorikano dikhiba te lel jek paus vaj te fretavel papales vauro tíja.</p>
+      <p type="listitem" xml:lang="swe">Phuride kentenge hin sar reguli hortiba te lel rakhavel korkores pe arakhibosko personalensa te ná kentosko phúride áchelas it vaj lelas te džanel so kentos hin rakhadal.</p>
+      <p type="listitem" xml:lang="swe">Phuride kentenge hin sar reguli hortiba te ródel arakhiba po iego insijativi ta lel hortiba te lel arakhibosko godidíjiba biphúridensa áchelas po than vaj mote len dieli pa resultati vaj pa arakhibata.</p>
+      <p type="listitem" xml:lang="swe">Kana jek kentos hin tšundo aro arakhibosko kotoriba/nasvalengo tšér,ta kamela pes,vojbuvela leski phénja avel po visita ta lel lotiba.</p>
+      <p type="listitem" xml:lang="swe">Jek tšáveske hin hortiba te lel informasija so trystalibakotšińiba hin ta so douva mienila ta lel korkores agoriba kamelako jov te avel trystalikotšińel vaj ná. Jek tšav kon avela trystaliboskotšińes hin horiba te lel dukhesko tšińiba. Operasija mote tšeres pa jek doktori kon hin legitimen vaj pa komujes koneske hin specijalni lóvi.</p>
+      <p type="listitem" xml:lang="swe">Sare trystalibakotšińiba pa tšáve ta tšaja hin niekimen aro Svedo, vahka tšajadels peski džinta operasijake.</p>
+      <p type="listitem" xml:lang="swe">Kentoske hin hortiba te lel dumudiba,gódibata informasija ka jek phúrideske hin jek funksijakolangaliba, darutno phagiba, fysikano nasvaliba, psykikjano nasvaliba, hin adhinalo pa alkoholi vaj pa vaure drogoro adhinaliba vaj mérela hastes.</p>
+      <p type="listitem" xml:lang="swe">Te avelas phiѓo pa bipresate arakhibosko visita. Phuridenge hin doch te presavel ka arakhiba hin prísavitiko.</p>
+    </list>
+    <p xml:lang="swe">Eksemplura pa sáki so kentos vojbuvela áchel it ta lel agoriba aro arkhiba:</p>
+    <list>
+      <p type="listitem" xml:lang="swe">Sar kentos kamerla te lel medicini ar eksemplura sar tableti, bulpileri,vaj sar panjaliba.</p>
+      <p type="listitem" xml:lang="swe">Aro savo naja vaj muśik posevelas ka kentos kamela te lel dukhiboskomakhiba po mortsi anglal jek posiba.</p>
+      <p type="listitem" xml:lang="swe">Kana kentos kamela te del pesta vévinadi ta hurdini.</p>
+      <p type="listitem" xml:lang="swe">Phuride kenti tšérela korkorikanes agoriba kana jón kamena te mukhel avri džaniba pa pengo sastibata ta kóneske. Pe avrinitšimo pa ajasave džaniba so vojbuvel avel hiomiven aro socijaltšenstako ródiba vaj aro jek phagirbosko ródiba.</p>
+      <p type="listitem" xml:lang="swe">Phuride kentenge hin hortiba te phanel jouranlno pa vaure arakihosko sektori vaj arakhibosko dimnaskero, sar eksemplura pa hinko joj vaj jov staudo aro ternengopriśilíjiba.</p>
+    </list>
+    <p xml:lang="swe">Eksemplura pa sáki kata kentos ná vojbuvel áchel it ta lel agoriba:</p>
+    <list>
+      <p type="listitem" xml:lang="swe">But daruno agoriba so rodela medicinikano džanibi sat eksemplura pa jek operasija, jek arakhiba vaj dikhjiba avelas tšérerimen vaj ná. Kentos vojbuvel butvares áchel it ta vieravel aro ajasave arahibosko buti.</p>
+      <p type="listitem" xml:lang="swe">Kenti ta terne vojbuven niekaven arakhiba ka jón arakhelas pálal tšejavitikolága, lági pa specialne agoriba pa arakhiba pa terne (LVU) vaj lági pa psykiatrisko sílakáno arakhiba (LPT). Ná džalpe te pherdal phukavel aro dála agoriba.</p>
+      <p type="listitem" xml:lang="swe">Ná lela kentos korkores lel agoriba pa hinko jón dosta nourimen te lel agoriba. Douva hin douva kones hin angnal sváriba pa arakhiba kon lela vieriba kana kentos vojbuvel lel dieli aro agoriba pa arakhibata.</p>
+    </list>
+    <p xml:lang="swe"></p>
+    <p type="title" xml:lang="swe">Arakhiboskerosko hortiba aro arakhiba.</p>
+    <p xml:lang="swe">Sar kentosko arakhiboskero hin hortiba aro reguli te lel dieli aro sáre rakhiba ta agoriba aro arakhiba so angouvela pesko kentos. Douva hin sárenes kentosko latšiba so avela vágunes. Kentoske hin nína hortiba pa pesko berehibata ta nouriba lel dieli aro agoriba.</p>
+    <p xml:lang="swe">Onivar ávela bare situasija kana agoriba lelas, specijalnes kana ná áchelas it džinta dota so hin "fendide” kentoske. Onivar ná áchela hortanes latše alternativo. Te avelas angnal jek tšetano phiѓiba hin tšihko kana sar phúride dikhelas pálal te avelas dosta pa informasija, sar eksemplura dženom te drabaveasl pes vaj tšuveasl puchiba personaleske ta lel džaniba pa save vá aviba dóla disave agoriba vojbuvel del.</p>
+    <p xml:lang="swe">Eksemplura pa ajasave sáki so arakhiboskeroske hin hortiba/vojbuvela áchel it ta lel agoriba pa:</p>
+    <list>
+      <p type="listitem" xml:lang="swe">Te lel agoriba pa arakhelasko kentos vaj ná. Ná áchela aro džor kana kentos arakhelas pálal tšejavitikolága, lági pa specialne agoriba pa arakhiba pa terne (LVU) vaj lági pa psykiatrisko sílakáno arakhiba (LPT).</p>
+      <p type="listitem" xml:lang="swe">Hérunotenkiba hin te ona arakhibosgere mote rikhavel it pe arakhibaske. Aro akuta situasija vaj kutide inportande puchiba vojbuvel áchel dosta ka jek pa arakhibosgierenda rikhavel it. Kana arakhibosgere ná avela it vojbuvela kentosko iego rikhiba avel so tiomila. Kana arakhibosgere onivar avena pe it pa kentosko arakhiba vojbuvela jekto tenkiba áchel te jek pa phúrenda lena korkorikano arakhiba pa kentos. Kana jek pa arakhibosgere ná kamela te kentos lela vojiba ka psykiatrisk- vaj psykologisko rétibaske vaj arakhiba so rálilas pa HSL, vojbuvel socialgodidíjiba lel agoriba te endo avelas ajadiśi.</p>
+      <p type="listitem" xml:lang="swe">Te lel informasija pa kentosko sastiba save doktorkane dikhjiba, arakhiba,ta medodi so vojbuvel avel aktuelkane ta so vojbuvel fanuvel kana ná arakhelas.</p>
+      <p type="listitem" xml:lang="swe">Te avel pe pesko iega aloniba ta tenkiba pa arakhiba.</p>
+      <p type="listitem" xml:lang="swe">Te phagarvel arakhiba so džalpe vaj niekavel dikhiba- vaj mediciniske. Ná áchela aro džor kana kentos arakhelas pálal tšejavitikolága, lági pa specialne agoriba pa arakhiba pa terne (LVU) vaj lági pa psykiatrisko sílakáno arakhiba (LPT).</p>
+      <p type="listitem" xml:lang="swe">Te mukhel áchel po than vaj rikhavel kentos phalo apo jek bilatšo dikhjiba vaj arakhiba. Te vojbuvelas áchel po than ta dristavel ta del dumudiba kentos anglal ta pálal.</p>
+      <p type="listitem" xml:lang="swe">Te lel lotiba ka kentos arakhelas aro arakhibosko kotor/nasvalengo tšér.</p>
+      <p type="listitem" xml:lang="swe">Sikiba pa arakhiboko kotor/nasvalengo tšér ta rétiba pa rutini ta héruno prinsipi.</p>
+      <p type="listitem" xml:lang="swe">Lel dumidiba te hahtavel aro arakhiba ka kentos hin tšunto aro arakhibosko kotor/nasvalengo tšér.</p>
+      <p type="listitem" xml:lang="swe">Te lel tšibako-vaj huńibosko boldeskero.</p>
+      <p type="listitem" xml:lang="swe">Te lel agoriba te lelako kentos lel dieli aro jek ródiboskoprojektos vaj ná.</p>
+      <p type="listitem" xml:lang="swe">Te lel agoriba lelako komuja kon hin aro sikjiba lel dieli vaj dikhelpe kana kentos lela arakhiba vaj lela doktorkano dikhjiba.</p>
+      <p type="listitem" xml:lang="swe">Phúridenge hin hortiba te den penge lóvi árakhibaske pálal dumudiba pa lága aro specijalni agoriba pa arakhiba pa terne (LVU). Sar eksemplura jek terno kones hin baro hioviba pa arakhiba ta/vaj nebi kon ná kamela peske arakhiba. Kentosko phúride vojbuvena korkorikanes len kontakti pe socijalnogodijibaha so vojbuvelajrk hastiko agoriba pa kentosko agoriba vaj ródel ka faldiboskohortiba arakhiba pa dumudiba pa LVU. Socialnogodidíjiba vojbuvela pálal dóles hahtavel familja ka horta arakhibaske.</p>
+      <p type="listitem" xml:lang="swe">Te lel jek kopia pa kentosko journalo Nebi phuride kenti mote rikhavel it te journalsko kopia mekhelas avri. Aro disave specijalni fanibi vojbuvela nína avel sekretesi sar arakhiba pa kentos priśi arakhiboskereske.</p>
+      <p type="listitem" xml:lang="swe">Kana kentoske hin darukano nasvaliba vaj mote džal dženom jek bilokho arakhiba hin hortiba te lel jek vauro vieriba pa jek spesijalisti.</p>
+      <p type="listitem" xml:lang="swe">Te lel jektíjako phúridengo louvo pe avriphanlo pa louvesko aviba kana phúride hin dživdo pe kentoha aro nasvalengo tšér.</p>
+      <p type="listitem" xml:lang="swe">Te lel ekonomikano presiba dženom pacientijako siguriba vaj medicinikano siguribata aro disave fanibi ka kentos hin líjal skáda aro arakhiba ta sastiba.</p>
+      <p type="listitem" xml:lang="swe">Kana arakhiboskopersonali vieravela te bijsko sastiba hin aro pretiba pa jek phárikani džuvjako iega rikhiba vojbuvela personali le kontakti aro socialitšensta. Socialitšensta vojbuvel rekhavel phári džuvjake dumudiba ta hahtiba kaj arakhiba pe bijveske.</p>
+      <p type="listitem" xml:lang="swe">Douva hin douva phári džuvli kon vojbuvel lel agoriba ka jek operasija vaj vauro tšeriba tšérelas bijeske so hin aro lako phér.</p>
+    </list>
+    <p xml:lang="swe">Eksemplura pa ajasave sákata so ná phúrideske hortiba:</p>
+    <list>
+      <p type="listitem" xml:lang="swe">Phúrideske ná hortiba ta kamel ajasavoarakhiba kentoske ka arakhiba hin priśi kajo džaniba ta frestade phirniba aro arakhiba.</p>
+      <p type="listitem" xml:lang="swe">Phúrideske ná hortiba te niekavel ajasavo arakhiba so vojbuvela phirjavel kentosko dživiba.</p>
+      <p type="listitem" xml:lang="swe">Phúrideske ná hortiba te niekavel pesko kentohata medicinikano arakhiba ta sastiba ka vaures openbárjulas dar pa kentosko sastiba ta angledžaviba. Arakhiboskopersonali phukavela kaj socialigodidíjibaske so vojbuvela phanel pe dumudiba pa lága specijalni agoriba pa arakhiba pa terne (LVU). Tála lela Socijaligodidíjiba pherdal arakhiboskerosko angnál sváriba ta tšérela agoriba télal arakhibosko tíja.</p>
+      <p type="listitem" xml:lang="swe">Phúridenge ná vojiba te niekavel arakhiba kana kentoske hin but darkano tšejavitiko nasvaliba ta mote arakhes pálal tšejavitikolága.</p>
+      <p type="listitem" xml:lang="swe">Phúridenge ná hortiba te niekavel kentoske arakhiba kana kentos arakhelas pálal psykiatrsko sílakáno arakhiba (LPT).</p>
+      <p type="listitem" xml:lang="swe">Kana nasvalibakopersonali tenkila te kentos avela te lel disavo skáda vaj pe vaure maneraha lel darkano skáda ka jek buti mukhelas kentosko phúridenge,vojbuvela personali garavel ajasavo informasija.</p>
+      <p type="listitem" xml:lang="swe">Phúrodeske ná hortiba te lel jek kopia pa douva phuride kentosko journalijata. Phuride kenti mote den pengo džinta te kopia pa journali mukhelas avri.</p>
+      <p type="listitem" xml:lang="swe">Kentosko phúridenge ná hortiba te phanel džanibi aro kentosko journalni pa vaure arakhiboskere.</p>
+    </list>
+    <p xml:lang="swe"></p>
+    <p type="title" xml:lang="swe">Kaj risavelas aro phukibaha?</p>
+    <p xml:lang="swe">Tála aja khardo pacientijako hortiba mienila te sar kentosko phúride vojbuvel džal kaj tingi ta kamel pesko kentosko <span type="quote" xml:lang="swe">”hortiba”</span>. Dóleske hin vojiba te boldel pes kajo pacientigódidíjibake kones hin sar but te hahtavel pacienti te lel douva informasija so jón hiovila te vojbuven te arakhel pengo intreśi aro sasti-ta nasvalibosko arakhiba.</p>
+    <p xml:lang="swe">Kana rikhavela te pesko kentos hin líjal bihorto arakhiba vaj sastiba mote vágunes boledel pes kajo douva priśilíba vaj kotoriba kaj kentos hin líjal arakhiba. Lénge hin dochiba te lel aro džaniba so hin fanudal. Hin vojiba nína te lel kontakto aro pasientigogídibaske vaj tšérel jek phukiba kaj Sociali ingaribaske.</p>
+    <p xml:lang="swe">Hin vojiba nína te lel ekonomikano dumudiba aro disave faniba kana boldelas pes kaj Pacientijako siguribaske vaj kaj Drambibosko siguribaske. Kana hin sar phúride hin džinta te kentos hin tšerdo phagariba hin vojiba te tšérel dota jek phukiba petsgenge. Tálal vojbuvela frestaves fanubi aro tingi so hin fanudal.</p>
+  </body>
+</document>

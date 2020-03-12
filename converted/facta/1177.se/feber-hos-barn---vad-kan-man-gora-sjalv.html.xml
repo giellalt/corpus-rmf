@@ -1,0 +1,85 @@
+<document xml:lang="rmf" id="no_id">
+  <header>
+    <title/>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>785</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <multilingual>
+      <language xml:lang="rmf"/>
+      <language xml:lang="swe"/>
+    </multilingual>
+    <origFileName>http://www.1177.se/Nationella-minoritetssprak/Nationella-minoritetssprak/Romanska-kale/Egenvard-barn/Feber-hos-barn---vad-kan-man-gora-sjalv</origFileName>
+    <parallel_text xml:lang="eng" location="feber--vad-kan-man-gora-sjalv.html"/>
+    <parallel_text xml:lang="fin" location="feber-hos-barn--vad-kan-man-gora-sjalv.html"/>
+    <parallel_text xml:lang="fit" location="feber-hos-barn---vad-kan-man-gora-sjalv.html"/>
+    <parallel_text xml:lang="sma" location="feber-hos-barn---vad-kan-man-gora-sjalv.html"/>
+    <parallel_text xml:lang="sme" location="feber-hos-barn---vad-kan-man-gora-sjalv.html"/>
+    <parallel_text xml:lang="smj" location="feber-hos-barn---vad-kan-man-gora-sjalv.html"/>
+    <parallel_text xml:lang="swe" location="feber-hos-barn-vad-kan-man-gora-sjalv.html"/>
+    <parallel_text location="feber-hos-barn---vad-kan-man-gora-sjalv.html" xml:lang="rmy-rka"/>
+    <parallel_text location="feber-hos-barn---vad-kan-man-gora-sjalv.html" xml:lang="rmn"/>
+    <parallel_text location="feber-hos-barn---vad-kan-man-gora-sjalv.html" xml:lang="rmu"/>
+    <parallel_text location="feber-hos-barn---vad-kan-man-gora-sjalv.html" xml:lang="yid"/>
+    <parallel_text location="feber-hos-barn---vad-kan-man-gora-sjalv.html" xml:lang="rmy-rlo"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p xml:lang="swe">Kenteske hin jag – so vojbuvel te tšérel korkores? / Feber hos barn - vad kan man göra själv? - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
+    <p xml:lang="swe"></p>
+    <p xml:lang="swe"></p>
+    <p type="title" xml:lang="swe">Romani chib káloRomska kale</p>
+    <list>
+      <p type="listitem" xml:lang="swe">Tillbaka till startsidan för temat</p>
+    </list>
+    <p type="title" xml:lang="swe">Kenteske hin jag – so vojbuvel te tšérel korkores?Feber hos barn - vad kan man göra själv?</p>
+    <p xml:lang="swe"></p>
+    <p type="title" xml:lang="swe">Jag hin dieli pa truposko arakhiba</p>
+    <p xml:lang="swe">Jag mienila te truposto temperaturi hin apride ke douva hin manera te áchel. Douva ná fardiko bi truposko arakhiba kajo infeksija. Kenti lena lokhes ta douva hin anglunes sa infeksija so hin dochivitiko pa virus, sar hieliba, haśiba ta meneskoduk, so tšérela te truposko temperaturi uštila. Temperaturi vojbuvela uštavel ka kentos leijavela džídovitikes vaj tšaljuvela pes but. Aro disave fanibi vojbuvel jag phukavel jek drúvalo nasvaliba.</p>
+    <p xml:lang="swe">Kenteske hin jag ka temperaturi apo sarti vaj pálal jek pah stuńako híliba hin pherdal 38 graderi.</p>
+    <p xml:lang="swe">Butvares hokavelas te kenteske hin jag. Kana hošavelas pes bisigurno vojbuvelasko te bismavel kentesta temperaturi, nebi douva in inportanto te dikhel sar džalpe kentoske. Kana hin tenkibi te lel kontakti pe nasvalibako arakhiba hin tšihko te hin bismadal kentosko temperaturi.</p>
+    <p xml:lang="swe">Douva hin sigurikanide te bismavel truposko temperaturi ka rinsa. Hin nína kánesko termometeri, so horta rikhimen hin tšikho. Te rikhavel ajasavo pe but beska kenti hin bilokho ke beska kentengo káneskopor hin trang.</p>
+    <p xml:lang="swe"></p>
+    <p type="title" xml:lang="swe">Mukh kentoske híliba ta but píviba</p>
+    <list>
+      <p type="listitem" xml:lang="swe">Frestavel te tšérel aja latšes kentoske so hin vojiba. Douva hin nína tšihko te del kentoske variso te píves.</p>
+    </list>
+    <p xml:lang="swe">Jek kentos koneske hin jag hiovyla te áchel tšére ka skola ta angluniskola te lel pes híliba ta sasjuvel. Kentosken ná hioviba te rikhavel pes aro vódros,nebi ná hiovylas te frestavel pes fysikanes. Douva hin fendide te mukhel kentos tšérel agoriba har but lela džor te áchel apre.</p>
+    <p xml:lang="swe">Kentos hiovyla butide píve ka normalnes apo jag. Te kentos lelas peske dosta pa píve hin tšihko te butvares frestavel te del variso te píves. De kentoske so douva kamela korkores hal ta pível, sar eksemplurali glass,kräm vaj sáni. Kana kentoske ná aptiti ná hioviba te hal normalno habe. Douva ná tšérela tši ka douva hala kutide télal disave divisi. Kana kentos mutravela biofti vaj hin bidžoralo ta lindralo vojbuvela douva dochavel dota te kentos hin píjal kuti.</p>
+    <p xml:lang="swe"></p>
+    <p type="title" xml:lang="swe">Tšér ajalatšes so hin vojiba</p>
+    <p xml:lang="swe">Kana kentos rikhavela te douva hin rankilba te mukhel kentos te souvel pe jek sáno flíka vaj ferda aro téluno kóla. Nebi kana kentos hin hídriba ta hieliba, so hin normalno kana jag aprila, hin vojiba tšuvel jek tšakriba ta tšérel aja rankilba áchiba kentoske ke hin vojiba.</p>
+    <p xml:lang="swe"></p>
+    <p type="title" xml:lang="swe">Receptiphiŕo drab</p>
+    <p xml:lang="swe">Ná butvares hioviba te arakhel pe drab so télujuvela jag. Koni butide pa kenti kones hin jag vojbuvel áchel disave díves pe tši mieniba pa fardiko duk. Nebi hin vojiba te del jag téljukane drab ka kentoske hin bengali áchibi pa jag, sar eksemplura hin duk aro trupos, hin phukavalo,hala ta pila kutide, souvelas bilatšes vaj hin bilokhiba te avel frédigo pe raśako tíja.</p>
+    <p xml:lang="swe">Ná hioviba te arakhel kentos kon hin télal hou tšón kones hin jag pe drab te vágunes lel kontakti pe arakhiba.</p>
+    <p xml:lang="swe">Kajo jag hin pe kentenge pherdal trín tšón drab so rálila paracetamol, sar eksemplura Alvedon vaj panodil. Ka hou tšónesko berehiba vojubel kentos lel drab so rálila ibuprofen,so sar eksemplura biknavelas télal nav ipren vaj ibumetin. Drab hin aro pívekanoformi vaj sar skmanijakopilleri, so tšuvelas aro kentosko rinsa, pe horta dimnospe beska kentenge. Pe phuride kenti hin nína tablet. Vá pálal hortanes gódiba so hin aro mohto. Ma tšetavel vaure drab. Kenti télal 18 bereh konen hin jag ná lóvi te rikhavel drab so téljuvela jag drab kai hin acetylsalicylsyra, sar eksemplura Magnecyl, Treo vaj Albyl.</p>
+    <p xml:lang="swe"></p>
+    <p type="title" xml:lang="swe">Hin vojiba te hiovylas lel kontakti pe arakhibaha</p>
+    <p xml:lang="swe">Douva hin vágunes te tšérel kavieriba pa kentosko sar hin kentosko áchibi sárenes kai vojbuvelas lel agoriba hinko hioviba te lel kontakti aro arakhiboskocentrali vaj ná. Sárenes hin vojiba te bahavel nasvalibosko godidíjiba vaj arakhiboskocentarli kana hin bisigurno, spesijalnes ka kentoske hin jag ta hin džiko, vaj butide vaure bisvérinja itkanes sar jag.</p>
+    <p xml:lang="swe">Hin hioviba te lel kontakti džent pe arakhibosko centrali vaj jek akutnocentrali ka kentoske hin jag ta hin džiko, vaj butide pa dála bisvérinja.</p>
+    <list>
+      <p type="listitem" xml:lang="swe">Ná dela it kontakt sar normalnes</p>
+      <p type="listitem" xml:lang="swe">Hin lindralo ta bidžoralo ta náka džor te pível</p>
+      <p type="listitem" xml:lang="swe">Hin temperaturi pherdal 14 graderi</p>
+    </list>
+    <p xml:lang="swe">Sárenes mote lel kontakti aro arakhibosko centrali vaj akutnocentrali ka kentos hin</p>
+    <list>
+      <p type="listitem" xml:lang="swe">Ternide ke trín tšón ta hin jag pherdal 38 graderi</p>
+      <p type="listitem" xml:lang="swe">Mahkar trín tšón ta hin jag pherdal 38 graderi</p>
+    </list>
+    <p xml:lang="swe">Hin hioviba telel kontakti pe arakhibaha ka jag ná dželo téle pálal stár divirat, bidikhjiba kentosko berehi.</p>
+    <p xml:lang="swe"></p>
+    <p type="title" xml:lang="swe">Puch pa gódiba</p>
+    <p xml:lang="swe">Tu vojbuveha nína trystales divirat rakhavel pe jek sastiboskiereha ta lel gódiba. Baha 1177. Jón vojuvena sváraven nína aro savo arakhibosko centrali tu hin avlo velamen.</p>
+  </body>
+</document>

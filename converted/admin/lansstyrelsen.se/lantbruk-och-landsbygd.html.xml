@@ -1,0 +1,57 @@
+<document xml:lang="rmf" id="no_id">
+  <header>
+    <title/>
+    <genre code="admin"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>256</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <multilingual>
+      <language xml:lang="rmf"/>
+      <language xml:lang="swe"/>
+    </multilingual>
+    <origFileName>http://www.lansstyrelsen.se/skane/rom-ka/lantbruk-och-landsbygd/Pages/default.aspx</origFileName>
+    <parallel_text xml:lang="eng" location="lantbruk-och-landsbygd.html"/>
+    <parallel_text xml:lang="fin" location="lantbruk-och-landsbygd.html"/>
+    <parallel_text xml:lang="fit" location="lantbruk-och-landsbygd.html"/>
+    <parallel_text xml:lang="sma" location="lantbruk-och-landsbygd.html"/>
+    <parallel_text xml:lang="sme" location="lantbruk-och-landsbygd.html"/>
+    <parallel_text xml:lang="swe" location="lantbruk-och-landsbygd.html"/>
+    <parallel_text location="lantbruk-och-landsbygd.html" xml:lang="rmu"/>
+    <parallel_text location="lantbruk-och-landsbygd.html" xml:lang="rmy-rka"/>
+    <parallel_text location="lantbruk-och-landsbygd.html" xml:lang="rmy-rlo"/>
+    <parallel_text location="lantbruk-och-landsbygd.html" xml:lang="rmn"/>
+    <parallel_text location="lantbruk-och-landsbygd.html" xml:lang="yid"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p xml:lang="swe">Phuvjakobrúkiba ta Phuvjakohúsa - Länsstyrelsen Skåne</p>
+    <list>
+      <p type="listitem" xml:lang="swe"></p>
+      <p type="listitem" xml:lang="swe"></p>
+      <p type="listitem" xml:lang="swe"></p>
+      <p type="listitem" xml:lang="swe">Phuvjakobrúkiba &amp; Phuvjakohúsa</p>
+      <p type="listitem" xml:lang="swe"></p>
+      <p type="listitem" xml:lang="swe"></p>
+      <p type="listitem" xml:lang="swe"></p>
+      <p type="listitem" xml:lang="swe"></p>
+    </list>
+    <p xml:lang="swe"></p>
+    <p type="title" xml:lang="swe">Phuvjakobrúkiba ta Phuvjakohúsa</p>
+    <p xml:lang="swe"><em type="italic">Themski faldiba tšérela buti te EU:sko ta Svedosko phuvjakobrúkibako politika ta phuvjakothanesko politika lela dženom drádibosko džor ta langhtotíjako džoraliba it tíja so douva ekologikano džonriba aprila ta kohvalo natur- ta kulturkanothane rikhavehas. Jek dživalo phuvjakothan rálila nína vaureslaga tšeriba, latšo service ta rankane dživibako trystaliba. </em></p>
+    <p type="title" xml:lang="swe">Dživinijengo (Kriatúrijengo) rikhiba</p>
+    <p xml:lang="swe">Themeskifaldiba tšérila pa bút puchiba so rálila dživinijengo rikhibata.Ame tšéravaha voĺibako buti te dživinijengo stanja pherdila latšo dživinijengo trystaliba. Dóleske te dživini, ta aro agoriba nína amen manušha,leha latšes hin dóleske inportanto te foderi komujenge, produkrinelas , transportinelas ta rikhavehas pe jek sigurno manera.Douva voĺilas aro but leda pa Themskifaldiba ta Phuvjakobrúkibako ingariba. Pe kriatúengo stanja pe 400 vaj butide kriatéurengo kotoriba hyövylas lóvi kotar Themeskifaldiba. Ame da nína vaure lóvi ka vaure frestiba dživinijensa, sar eksemplura džuklengo divisijakotšér ta graijengo dumesta trádibako skola.</p>
+    <p type="title" xml:lang="swe">Phuvjakothaneskobohliba</p>
+    <p xml:lang="swe">Ame laha aro dikhiba sako gáveske froslaga ta dumudaha pálal douva jek bohliba pe phuvjakothaneske.Phuvjakothanesko programos hin jek EU:sko programos so dela dumudiba aktorenge te róden louvengodumudiba te lelpe jek firma vaj bohlavel jek frestiba,nebi nína te ustavel kompetensija aro frestiba.</p>
+    <p type="title" xml:lang="swe">Phuvjakobrúkiba</p>
+    <p xml:lang="swe">Themeskifaldiba tšérela buti pe te phuvjakobrúkibakofrestiba aro phuv bohlavelas. Jek dživido phuvjakobrúkiba hin angliba pe phiŕo phuvjakobrúkibake ta dživido phuvjakothaneske. Amengo héruno butjako buti hin te angavel latso trystalibako džonraliba. Džorales, efetikanes pálal Svedos – ta EU: sko phuvjako brúkibakopolitika. Dauva mienila te amen daha informasija ta gódiba ka phuvjako brúkinbongerenge. Amen laha nína priśi ródiba pa EU-dumudiba, vastdela sáki, tšeravaha kontroli ta laga agoriba pálal Eu:sko reguliako.</p>
+  </body>
+</document>

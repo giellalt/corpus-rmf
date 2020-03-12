@@ -1,0 +1,98 @@
+<document xml:lang="rmf" id="no_id">
+  <header>
+    <title/>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <translator>
+      <unknown/>
+    </translator>
+    <translated_from xml:lang="swe"/>
+    <wordcount>1041</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <multilingual>
+      <language xml:lang="rmf"/>
+      <language xml:lang="swe"/>
+    </multilingual>
+    <origFileName>http://www.umo.se/Andra-sprak/romska-kale/P-piller</origFileName>
+    <parallel_text xml:lang="fin" location="ehkaisypilleri.html"/>
+    <parallel_text xml:lang="fit" location="p-pilleri.html"/>
+    <parallel_text xml:lang="sma" location="p-pillere.html"/>
+    <parallel_text xml:lang="sme" location="p-pillar.html"/>
+    <parallel_text xml:lang="smj" location="p-tablahtta.html"/>
+    <parallel_text xml:lang="swe" location="p-piller.html"/>
+    <parallel_text location="p-tabus.html" xml:lang="rmu"/>
+    <parallel_text location="preventivno-drab.html" xml:lang="rmy-rka"/>
+    <parallel_text location="p-piller.html" xml:lang="rmy-rlo"/>
+    <parallel_text location="kontraceptikane-hapija-hapija-bao-na-ahojbe-khamni.html" xml:lang="rmn"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p xml:lang="swe">P-piller</p>
+    <p xml:lang="swe">Alla undrar!  Vad undrar du?</p>
+    <p type="title" xml:lang="swe">P-piller</p>
+    <p xml:lang="swe">P-pilleri hin jek preventikano béri aro tabletiformi pe tšaijaenge. Pe p-pilleri mienavelas butvares so hortanes hin pe naveha kombineranda p-pilleri. Douva rálila duj disave hormoni östrogen(dželtotruposkohormini,so tšérela pe vaureha te ná lena járjako phiŕiba ta dóleske ná vojiba te avel pháreske.</p>
+    <p xml:lang="swe">Hin butslága sorjijako kombinerade p-pilleri,disave rálila butide östrogen,vaure butide gestagen. Douva tšérela te dóla angouva trupos pe disave manera. Dóleske hin hioviba te frestavel douva typi so so hin fendide.</p>
+    <p xml:lang="swe">Dóla -pilleri so ferda rálila hormoni gestago dimnos kaj hin arakhiba sar aro kombinerade p-piller. Hin nína jek pilleri pe utše gestagenos kaj it arakhiba sar aro tšetado p-piller.</p>
+    <p xml:lang="swe">Savo baro karta hin dochila pa savo sorti p-pilleri rikhavelas.Te lel jek karta kaj hin nína tableti bi hormoni vojbuvel áchel tšihko kana ná minsavelas kana lelas vauruko karta.</p>
+    <p xml:lang="swe">Télal jek kurko kana hin hajdas bihormoni tableti vaj ná lela tšek disave tableti lelas jek typi pa menśi. Douva arakhelas onibar pe p-pilleri menśi vaj tšutškano ratšiba. Vahkan lelas disave p-pilleri hin dóla butvares khardo kajo pharibaske télal dauva kurko.</p>
+    <p type="title" xml:lang="swe">Sar rikhavelas p-pilleri</p>
+    <p xml:lang="swe">Kana rikhavelas p-pilleri hin karta kaj hin mahkar 21 vaj 28 tableti. Hin hioviba te lel jek tableti apo it tíja sáre dives.</p>
+    <p xml:lang="swe">Kana hin jek karta džalpe latšes te ventavel jek kurko pálal ka hin haijal sáre tableti apo jek karta. Kana hin jek karta so halas tabeleti kaj ná hormoni télal dóla sisto divisa aro karta. Sar but tableti kaj ná áchela hormomoni douva vojbuvel baruvel save p-pilleri lelas. Dóla tableti so rálila hormoni khárelas onivar pe gudlusko pilleri.</p>
+    <p type="title" xml:lang="swe">Kana hin bistradal vaj tšandavela apre p-piller.</p>
+    <p xml:lang="swe">Douva hin infortanto te lel pesko tableti apo it tíja sáre dives. Kana ná minsila butide ke 12 stuńa,pe vaure ha kana džal butide ke 36 stuńa mahkar duj tableti, hin baro riziko te ná áchela butvares arakhdo.</p>
+    <p xml:lang="swe">Sar but tíja vojbuvel džal mahkar duj tableti barjula pa dota savo slága p-pilleri rikhavelas ta kaj hin apo karta. So rálila tut pe dóla p-pilleri hin vojiba te lel te drabaves pa so hin aro drabeskomohto.Te sikjiba hin vojiba te drabavel pa rikhibako rétiba aro drabesko mohto kana tšińela pesko P-pilleri.</p>
+    <p xml:lang="swe">Hin nína vojiba te lel kontakto pe douva centrali kata P-pilleri hin avlo rańimen.</p>
+    <p xml:lang="swe">Kana hin rizutno te ná áchelas pherdes arakhdo kajo pháribaske hin hioviba te tšérel jakhes:</p>
+    <list>
+      <p type="listitem" xml:lang="swe">Ta dóla P-pilleri so hin avlo bistrimen aja hastes kana hin vojiba.</p>
+      <p type="listitem" xml:lang="swe">Rikhavel kondomi vaj peśar kana áchel it anglide dóla efta díves so avela. Dólesko pálal hin palpales arakhimen.</p>
+      <p type="listitem" xml:lang="swe">Le jek sigutno p-pilleri kana hin áchdal dženoha sistone pangh díves anglal ke bistrelas te lel pesko tableti dólesko khal vojbuvela spermie dživel aro dajaniba ta járokodieli but díves.</p>
+    </list>
+    <p xml:lang="swe">Kana tšandavelas aro star stuńa dólesta kana hin líjal pesko p-pilleri vaj ka hin diare hin bisigurno te trupos hinadal te lel apre hormoni. Tála lehas jek nevo tableti jakhes te anglavel arakhiba.</p>
+    <p xml:lang="swe">Douva nevo tableti mote lelas ka vauro karta jakhes te ná fotula pa douva so rikhavelas akana. Douva karta vojbuvelas rihkavel sar pálal kana hin hioviba te lel jek ekstra džiko var.</p>
+    <p xml:lang="swe">Kana hin ácdal dukhado aro dži vaj pa vaure doch hošelas pes bisigurno te hin lijal peske tableti so mote hiovilas te arakhel pes pe kondomi vaj peśar nína dóla efta díves anglide.</p>
+    <p xml:lang="swe">Sárenes hin vojiba te puchel pa bidjanžianka apo ternengo-, vaj kentengo centrali kana ná džanelas hortas.</p>
+    <p type="title" xml:lang="swe">Te ömsavel menśi pe p-pilleri</p>
+    <p xml:lang="swe">Onivar vojbuvel te áchel praktikano te anglavel angle mensi, sar eksemplura kana dradelas nikhi. Douva vojbuvelas te tšérel pe p-pillerijaha. Tálal lelpe pe jek nevo karta džent pálal ka douva hin eńos. Kana lela gudlopilleri ta rańimelas pherdal dóla ta lel džent nevo karta. Douva mienila te ná tšérelas tšek.</p>
+    <p xml:lang="swe">Douva ná fárdiko te ömsavel menśi pe dauva manera ta hin vojiba te tšérel douva disave tšóne.</p>
+    <p xml:lang="swe">Nebi kana butvares frestavelas te anglavel pesko menśi dóleske hin koni baride rizutno ná nakhela latšes. Dóleske hin godiba te hin menśi ando aro trito tšoneske.</p>
+    <p type="title" xml:lang="swe">Tikno rizutno pe ratesko kukunjake</p>
+    <p xml:lang="swe">Previtijakobéri so rálila östrogen vojbuvel te del baride rizuko pe ratesko kukin. Nebi douva rizutno hin koni tikno.Sar eksemplura hin baride rizutno te lel ratesko kukin kana hin phári ke halas p-pilleri.</p>
+    <p xml:lang="swe">Rizutno te lel ratesko kukin uštila kana hin džorales thulo,hin jek phúrude. Tálal hin vojiba te velkavel vahkar rekomensija te velkavel džiko pe.</p>
+    <p type="title" xml:lang="swe">Kata lelas P-pilleri</p>
+    <p xml:lang="swe">P-pilleri vojbuvelas rańel avri pa bijandžanka vaj doktori apo terengeo-,kentengo-,ta seksi ta itdživibakocentrali. Hin vojiba te risaves pes ka džúvjengo-,vaj je arakhibosko centrali. Tableti vojbuvelas te ródel pa apoteka.</p>
+    <p type="title" xml:lang="swe">Sar but presila p-pilleri?</p>
+    <p xml:lang="swe">Sar but p-pilleri presavel vojbuvela barjuvel pes kaj aro them dživelas ta sar phurano hin. Nebi aro butvare phuvjakotingi ta regioni hin preventijakobéri lokhide kana hin télal 20 bereh.</p>
+    <p type="title" xml:lang="swe">Sar sigurno hin p-pilleri</p>
+    <p xml:lang="swe">Kana lelas pesko p-pilleri sar mote hin rizutno te avel pháreske tikno.</p>
+    <p type="title" xml:lang="swe">Sar tšérelas agoriba pe P-pilleri</p>
+    <p xml:lang="swe">Kana kameha te agor te lel pe p-pilleri,hin fendide hin te hal agor douva p-pillerikarta so hin ta dólesko palal lelpe jek nevo.</p>
+    <p xml:lang="swe">Douva hin fárdiko te agorovel te lelpe p-pillei mahkar aro karka,nebi rizutno hin te lel biregelkane ratšiba.</p>
+    <p xml:lang="swe">Douva hin vaurevitikas sar haste menśi lelpe pálal aka hin agordo te le pe P-pilleri. Jek dieli lela regulkanes menśi džent ta pe vaurenge vojbuvel douva lel tšóne.</p>
+    <p xml:lang="swe">Kana ná kamelas te avel pháreske hin but inportanto ta rakhel pes kajo pháriba kana hin vaginakano pujariba vahka menśi ná hin avlo palpale. Járesko phiŕiba hin kutides 14 díves anglal menśi avela ta tala hin baride rizutno te avel pháreske.</p>
+    <p xml:lang="swe">Kana ná lela palpale pesko menśi houavel tšón palpale kana hin agorde pe p-pileri tála mote lel kontakto pe ternengo centrali, bijamdžikako centrali, mortši-ta bijesko centrali vaj arakhibosko centrali lel aro džabi kata douva dochila.</p>
+    <p type="title" xml:lang="swe">Latšiba</p>
+    <list>
+      <p type="listitem" xml:lang="swe">Douva hin sigurno arakhiba kajo pháribaske.</p>
+      <p type="listitem" xml:lang="swe">Menśi téluvela ta avela biregulkano.</p>
+      <p type="listitem" xml:lang="swe">Lela tiknide menśijakodukh.</p>
+      <p type="listitem" xml:lang="swe">Rizutno pe inflomatioske aro járegodieli ta rako aro járako stokhosko dajaniba tiknavela.</p>
+      <p type="listitem" xml:lang="swe">Hin vojiba te tiomsavel menśi kana sar eksemplura dradela.</p>
+    </list>
+    <p type="title" xml:lang="swe">Bilatšiba</p>
+    <list>
+      <p type="listitem" xml:lang="swe">P-pilleri ná arakhela pa bijkane nasvaliba.</p>
+      <p type="listitem" xml:lang="swe">Hormoni vojbuvel angouvel jek ajasavo eksemplura hin kana lela héresko dukh,lelas akne vaj hošelas pes džalimen. Dólesko khál ke hin vaurevitika p-pilleri angouvela trupos pe vaure manera hin vojiba te barjuvel pe vauro typiske kana lela but angouviba.</p>
+      <p type="listitem" xml:lang="swe">Kana tšandavelas,hin diare vaj bistrela te lel tableti ná vojbuvel áchel pháriske.</p>
+    </list>
+  </body>
+</document>
