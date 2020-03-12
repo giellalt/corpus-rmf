@@ -1,0 +1,85 @@
+<document xml:lang="rmf" id="no_id">
+  <header>
+    <title/>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>566</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <multilingual>
+      <language xml:lang="rmf"/>
+      <language xml:lang="swe"/>
+    </multilingual>
+    <origFileName>http://www.1177.se/Nationella-minoritetssprak/Nationella-minoritetssprak/Romanska-kale/Regler-och-rattigheter/Tolktjanst</origFileName>
+    <parallel_text xml:lang="eng" location="tolktjanst.html"/>
+    <parallel_text xml:lang="fin" location="tolktjanst.html"/>
+    <parallel_text xml:lang="fit" location="tolktjanst.html"/>
+    <parallel_text xml:lang="sma" location="tolktjanst.html"/>
+    <parallel_text xml:lang="sme" location="tilktjanst.html"/>
+    <parallel_text xml:lang="smj" location="tolktjanst.html"/>
+    <parallel_text xml:lang="swe" location="tolktjanst.html"/>
+    <parallel_text location="tolktjanst.html" xml:lang="rmy-rka"/>
+    <parallel_text location="tolktjanst.html" xml:lang="rmn"/>
+    <parallel_text location="tolktjanst.html" xml:lang="rmu"/>
+    <parallel_text location="tolktjanst.html" xml:lang="yid"/>
+    <parallel_text location="tolktjanst.html" xml:lang="rmy-rlo"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p xml:lang="swe">Risibosko tšensta / Tolktjänst - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
+    <p xml:lang="swe"></p>
+    <p xml:lang="swe"></p>
+    <p type="title" xml:lang="swe">Romani chib káloRomska kale</p>
+    <list>
+      <p type="listitem" xml:lang="swe">Tillbaka till startsidan för temat</p>
+    </list>
+    <p type="title" xml:lang="swe">Risibosko tšenstaTolktjänst</p>
+    <p xml:lang="swe"></p>
+    <p type="title" xml:lang="swe">Informasija</p>
+    <p type="title" xml:lang="swe">Risiba pe vaure tšibjake</p>
+    <p xml:lang="swe">Sasto,-nasvali arakhibosko personali mote, mukhel informasija so hin dženovitiko. Personali mote lel dikhiba sar eksemlplura savo kultura ta tšibako paluniba hin. Douva mienila te personali, kana hin hioviba, rikhavel risiboskero kana jón dena informasija. Hin vojiba korkores te kamel jek risiboskero kana ná tšek puchela hiovylasko ajasavo. Tàlal risavehas pes kajo komuna, kones hin angnál sváriba pa avriavutne manušengo risibongierenda.</p>
+    <p xml:lang="swe">Avriavutne manuša kon hiovyla risiboskero aro pesko kontakti pe sasto-ta nasvalibosko arakhibaha lena butvares peśa hlehta ta mále kon vojbuvena hahtaven te risaven. Nebi hin nína ajakhardo nártakorisiboskere endo delas rekomentasija pa jek ofensijalno risiboskero dženom phuvjakotingi vaj pa komuna. Kulturkane frójiba ta frójiba aro vérakíro mahkar duj komuja katar vaure thema tšérela te douva te hin tšihko te bipartikano risiboskero kon hahtavela te risavel.</p>
+    <p type="title" xml:lang="swe">Kaj risavelas pes?</p>
+    <p xml:lang="swe">Hin vojiba te lel komunako telefonoskocentrali kon vojbuvel hahtavel tut angle.</p>
+    <p type="title" xml:lang="swe">Risiboskocentrali</p>
+    <p xml:lang="swe">Butvares hin aro phuvhjakotingi/regioni jek risibakocentrali kana vaure svárila te maškarkerela tšensti.</p>
+    <p xml:lang="swe">Aro risibakocentrali tšérela buti vaure specialsikjimen risiboskiere:</p>
+    <list>
+      <p type="listitem" xml:lang="swe">Vastengotšib risiboskere pe kahuke kenti,pe vaure láveha dólenge kon hin bijamo sar kahuko vaj nahte pengo hunjiba aro síga bereh ta vastengotšib hin sar váguno tšib.</p>
+      <p type="listitem" xml:lang="swe">Bare kahukgengo risiboskero pe bare kahuke,douva kamel te pheńel jek komunis kon hin džonkimen pesko hunjiba sar baro ta sveitiko hin sar váguno tšib (butvares rańibako risiba nebi nína dumudiba (TTS) ta drababiba.</p>
+      <p type="listitem" xml:lang="swe">Kuorokahuko risiboskero komujenge konen hin drouvo dikhi-ta huńibako fiela.</p>
+    </list>
+    <p xml:lang="swe">Risiboskere tšérena te hin vojiba te rakhavel mahakar huńiboskero ta kahuko.</p>
+    <p xml:lang="swe">Risibosko tšensta hin pe jiva ta hin te anel risiboskero dženom phuvjakotingijako risiboskocentrali aro sáre fanibi kaj douva hiovylas. Douva vierula aja kentavitikokahuke, huńjiboskofiela,barekahuke,kuorokahuke sar huńena</p>
+    <p type="title" xml:lang="swe">Kaj risavela pes?</p>
+    <p xml:lang="swe">Apo hioviba pa risiboskero hin vojiba te lel kontakto pe iego phuvjakotingijako risibosko centrali.</p>
+    <p type="title" xml:lang="swe">Làgakotšúviba</p>
+    <p xml:lang="swe">Sasto-ta nasvalibosko arakhibosko lága.</p>
+    <p type="title" xml:lang="swe">Rakhibakotšensta</p>
+    <p xml:lang="swe">Rakhibakotšensta hin biprisavitiko tšensta so hin pe jívakana hin lýja-, rakhiba-vaj tšibakobisvériga. Aro Rakhibakotšensta tšérena buti rakhibakotšenstako risiboskere. Rakhibakotšensta hin akadíves aro deh phuvjakotingi. Dóri vojbula te lachel hahtiba pe vaure tšensti:</p>
+    <list>
+      <p type="listitem" xml:lang="swe">Rakhibakodumudiba, so mienila te rakhibakosisiboskero hin sar komunikasijakodumudiba apo kontakti so hošavel bisigurno ta biloche. Jón pheńena névesta/vaj rétavena rakhiba pe douva manera sar komunicirinela.</p>
+      <p type="listitem" xml:lang="swe">Telefonoskodumudiba,mienila te lelas hahtiba te bahavel trínpartitelefono kaj rakhibako pheńela anglune láve ta rétavela aro hioviba te na avelas bange hajiba,nebi hin vaures huckar.</p>
+      <p type="listitem" xml:lang="swe">Draba-ta rańibako dumudiba mienila te lelas hahtiba te drabavel ta vaj rańel lil ta rańiba,rańel apo tšetibakominsiba ta but vaure.</p>
+    </list>
+    <p type="title" xml:lang="swe">Kag risavela pes?</p>
+    <p xml:lang="swe">Phuvjakotingijako telefonocentrali džanela hinko rakhibakotšensta aro iego phuvjakotingi vaj ná.</p>
+    <p type="title" xml:lang="swe">Telerakhiba</p>
+    <p xml:lang="swe">Telerakhiba hin jek prísavitiko tšensta ta garavela hilo phuv kana hin lýjako-, rakhibako- tšibakosvórtiba. Aro Teletal tšérena rakhibako risiboskero ta jón risivena ińasto sveitiko tšib Dóri lahas vaure hahtiba:</p>
+    <list>
+      <p type="listitem" xml:lang="swe">Telerisiboskero hin risiboskero kon risavela biloche láve ta hajiba kanan ná huńela vaj hajuvela so vaure pheńela.</p>
+      <p type="listitem" xml:lang="swe">Aro hioviba vojbuvel risiboskero rétavel sar sági hunjula it. Jòn vojbuvena hahtaven te bahavel dženom telefonoskocentrali.</p>
+      <p type="listitem" xml:lang="swe">Telerakhiba hin it sar dumudiba hilo bahibako tíjá Jón vojbuvena rańel téle so pheńelas ta douva lelas te bichavel to tšéres.</p>
+    </list>
+    <p type="title" xml:lang="swe">Kaj risavelas pes?</p>
+    <p xml:lang="swe">Bahavelas pe pesko normalno telefono, phanlo vaj mobiltelefonoskonumri hin 020-221144. Jek rakhibako risiboskero aro Teletal svarila ta nouruvela bahiba tšetasnes. Risiboskero bahila dóles kon kamela te bahabel ta hin it sar dumudiba télal bahiba. Kana bahiba hin agor sankavelas douva trito komunis nikhi ta rakhavelas pe risibosgieroha pa bahiba.</p>
+  </body>
+</document>

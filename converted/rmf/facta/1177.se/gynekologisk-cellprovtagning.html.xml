@@ -1,0 +1,132 @@
+<document xml:lang="rmf" id="no_id">
+  <header>
+    <title/>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>1872</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <multilingual>
+      <language xml:lang="rmf"/>
+      <language xml:lang="swe"/>
+    </multilingual>
+    <origFileName>http://www.1177.se/Nationella-minoritetssprak/Nationella-minoritetssprak/Romanska-kale/Undersokningar--prover/Gynekologisk-cellprovtagning</origFileName>
+    <parallel_text xml:lang="eng" location="gynekologiska-cellprovtagning.html"/>
+    <parallel_text xml:lang="fin" location="gynekologisk-cellprovtagning.html"/>
+    <parallel_text xml:lang="fit" location="gynekoligisk-cellprovtagning.html"/>
+    <parallel_text xml:lang="sma" location="gynekologisk-cellprovtagning.html"/>
+    <parallel_text xml:lang="sme" location="gynekologisk-cellprovtagning-.html"/>
+    <parallel_text xml:lang="smj" location="gynekologisk-cellprovtagning.html"/>
+    <parallel_text xml:lang="swe" location="gynekologisk-cellprovtagning.html"/>
+    <parallel_text location="gynekologisk-cellprovtagning.html" xml:lang="rmy-rka"/>
+    <parallel_text location="gynekologisk-cellprovtagning.html" xml:lang="rmn"/>
+    <parallel_text location="gynekologisk-cellprovtagning.html" xml:lang="rmu"/>
+    <parallel_text location="gynekologisk-cellprovtagning.html" xml:lang="yid"/>
+    <parallel_text location="gynekologisk-cellprovtagning.html" xml:lang="rmy-rlo"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p xml:lang="swe">Gynekologikano hurdijako frestibako líjiba / Gynekologisk cellprovtagning - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
+    <p xml:lang="swe"></p>
+    <p xml:lang="swe"></p>
+    <p type="title" xml:lang="swe">Romani chib káloRomska kale</p>
+    <list>
+      <p type="listitem" xml:lang="swe">Tillbaka till startsidan för temat</p>
+    </list>
+    <p type="title" xml:lang="swe">Gynekologikano hurdijako frestibako líjibaGynekologisk cellprovtagning</p>
+    <p xml:lang="swe"></p>
+    <p type="title" xml:lang="swe">Tšetaniba</p>
+    <p xml:lang="swe">Dženom te regulikanes mukhel jek gynelogikano hurdijako frestiba vojbuvelas arakhel pes priśi pa dajanibako rako. Hurdijako frestiba lelas pa dajanibakostokos aro téluni bijiba ta vojbuvela sígas sikavela kana hin hurdijako pariba so vojbuvela ingarel dajanibakorakeske.</p>
+    <p xml:lang="swe">Dóla butvare hurdijako pariba so arakhelas hin lokhide pariba so sastavela korkores, nebi jek dieli hiovilas te lel nikhi. Aro but binormalno faniba vojbuvela hurdijako frestiba sikavel te hin rako. Tála vojbuvela rako áchel aro angluni nivo ta arakhiba vojbuvela avel lokhide ta kutide angouviba.</p>
+    <p xml:lang="swe">Aro Svedo arakhelas džuvja regulikanes ka gynekolologikano hurdijakofrestiba, aja khardo screening. Kana áchelas mahkar 23 ta 50 bereh avela arakhiba pa sakho trito bereh. Dólesko pálal pa sakho panghto bereh kana áchelas 60 bereh phurani. Kana áchelas pherdal 50 bereh vojbuvela rutini parjuvel pen dota kaj dživelas.</p>
+    <p xml:lang="swe">Nína hin vojiba te lel mukhel hurdijakofrestiba kana áchelas aro bijandžika vaj aro gynekologi te džal dženom jek gynekologikano dikhiba pa vaure doch.</p>
+    <p type="title" xml:lang="swe">Angouviba</p>
+    <p xml:lang="swe">Ná hioviba te anglavel pes pe spesijalno maneraha, nebi avelas tšihkones te ná rikhavel seksi vaj rikhadal disave salva aro bijiniba diverat anglal dikhiba.Vaures vojbuvela frestiba áchel bilokho. Náka hele mukhel frestiba kana hin mensi.</p>
+    <p type="title" xml:lang="swe">Sar džalpe dikhiba?</p>
+    <p xml:lang="swe">Kana lelas prestiba lelas téluni trupos nanges ta bechelas apo gynekolologiskamni. Doktori ta bijandžika te lel frestiba po disave manera. Butvares rikhavelas jek tikno spatel so bohlavelas kajo dajanibako stokos ta pálal jek kovli máneha aro dajanibako méneskokanalisko téluni dieliba.</p>
+    <p xml:lang="swe">Butvares lelas nína sváravel aro disave puchiba kana lelas frestiba. Sváriba hin inportanto te frestiba arakhelas po horto manera.</p>
+    <p xml:lang="swe">Ná dukhel dikhiba ta lela ferda disave minuti te tšéres. Butvares lelas sváriba pálal hou kurke.</p>
+    <p type="title" xml:lang="swe">Sar hošelas pálal?</p>
+    <p xml:lang="swe">Frestibakolíjiba hin birizikano. Onivar vojbuvelas ratvarel kuti pálal nebi hin douva bifárdiko.</p>
+    <p xml:lang="swe"></p>
+    <p type="title" xml:lang="swe">So hin jek gynekologikano hurdijakofrestiba?</p>
+    <p type="title" xml:lang="swe">Te mukhel hurdijakofrestiba</p>
+    <p xml:lang="swe">Jek gynekologikano frestiba hin jek frestiba so lelas pa douva téluni dieli pa dajanibako mén so kharelas dajanibakostokos ta so barjuvelas avri aro vagina. Frestiba vojbuvela sikavel pes sígas ka hin hurdijakpariba so vojbuvela ingarel ka dajanibakoménesko rako. Butvare hurdijakopariba so avela phukimen sígas pariba save sastavela korkones, nebi jek dieli mote les nikhi. Frestiba vojbuvela nína sikavel rako,vahka douva hin but binormalno.</p>
+    <p xml:lang="swe">Kana mukhelas regulikanes hurdijakofrestiba lelas jek džoralo arakhiba kajo dajanibakoménesko rako dženom te hurdijakopariba lahelas anglal douva anglavel rakeske.</p>
+    <p xml:lang="swe">Hurdijako fresiba lelas katar téluni dieli pa dajanibakomén,dajanibako tapi so. Livmoder = Dajaniba, Äggstock = Járeskogóno, Livmoderhals=Dajanibakomén, Livmodertapp=Dajanibakostokos, Slida=Vagina</p>
+    <p type="title" xml:lang="swe">Regulikano kontroli</p>
+    <p xml:lang="swe">Jek gynekolokano hurdijakofrestiba rálila ari dóla sastibakokontroli, sar khardo sceening,sar džúvja aro Svede kharelas kaj regulikanes. Dženom ta hurdijakopariba vojbuvelas hokavel ta arakhes sikide, ka douva ingarelas te dajanibakorako hin avlo but binormalno télal 40 bereha.</p>
+    <p type="title" xml:lang="swe">Hurdijakofrestiba apo vaure tíji</p>
+    <p xml:lang="swe">Jek genekologikano hurdijakofrestiba vojbuvelas nína mukhel kana avelas aro bijandžika vaj gynekologi džana dženom gynekologikano dikhiba pa vaure doch. Onivar vojbuvelas hurdijakofrestiba áchel jek dieli pa gynekologikano ródiba kana sar eksemplura hin but ratvariba, nebi douva vojbuvela áchel jek tšihko tíja te mukhel jek screenibakofrestiba. Douva vojbuvel áchel tšihko endo tíja te mukhel jek frestiba,vaj ka hin nahudo sigide hurdijakofrestibako kontroli.</p>
+    <p type="title" xml:lang="swe">Hurdijakopariba ta rako</p>
+    <p xml:lang="swe">Hurdijakopariba vojbuvela dochavel pa jek hojiba aro ligalo so dochavelas pa bakteri vaj jek tíjakano virusikano infeksija. Douva hin normalno tipi pa hurdijakopariba so vojbuvela korkokanes sasjuvel.Vaure hurdijakopariba so vojbuvela ingaravel dajanibako méneskorako, vojbuvelas te lel nikhi pe jek lokho tšenjiba.</p>
+    <p xml:lang="swe">Kana hin jek hurdijakofrestiba so ná normalno tšërelas butvares jek ródiba tála avela bichiba kaj doktorikanodikhibake. Tála vojbuvela lel alsiba te hurdijakopariba mote lel nikhi vaj ventaven ta dikhel ka pariba sasjuvela pes korkorikanes.</p>
+    <p xml:lang="swe">Douva lelpe langhtotíja te bohlavelas dajanibakoménesko rako,butvares deh ka dehopanghto bereh. Douva hin but binormalno te rako so hin bohlo openbárilas apo hurdijakofrestiba,nebi douva fanula disave jekutno var. Tála hin butvares rako aro angluni nivo ta arakhiba vojbuvel avel lokhide pe kutide angouviba.</p>
+    <p xml:lang="swe">Sakho bereh lela kutide ke 450 sveitiko džúvja dajanibako ménskorako but butide, kutide 30 000 džúvja, lena te džanel te lenge hin hurdijakopariba.</p>
+    <p xml:lang="swe"></p>
+    <p type="title" xml:lang="swe">Džúvja kharelas regulikanes</p>
+    <p type="title" xml:lang="swe">Džúvja arakhelas pe sakho trito bereh</p>
+    <p xml:lang="swe">Sáre džúvja mahkar 23 ta 50 bereh lena arakhiba kaj hurdijakofrestiba pe sakho trito bereh. Dólesko pálal lelas arakhiba pa sakho panghto bereh kana áchelas mahkar 50 ta 60 bereh. Kana áchelas pherdal 50 bereh vojbuvela arakhiba paruvel dota kaj dživelas. Džúvja kon hin sikide líne arakhiba pe hurdijakopariba vojbuven hiovimen hurdijakofrestibako kontroli nína pálal 60 bereh.</p>
+    <p xml:lang="swe">Arakhiba bihavehas kaj douva adresi so hin aro khangerijako lindo ta douva hin sárenes phirjavitiko te lel dieli.</p>
+    <p type="title" xml:lang="swe">Aro savo centrali mukhelas frestiba</p>
+    <p xml:lang="swe">Kana hin líjal jek khariba lelas hurdijako frestiba pa jek bijandžika aro neride bijandžikano priśilíjiba, so nína kharelas dajengo arakhibosko centrali. Butvares lelas jek phandlo tíja so vojvelas te paruvel. Aro disave than vojbuvelas nína bichaven kaj jek vauro priśilíjiben.</p>
+    <p xml:lang="swe">Kana mukhelas hurdijakofrestiba it aro jek gynekologikano dikhiba, sar eksemplura aro gynekologikano vaj it aro fankibako guosengo godidíjiba, hin nína manera te avel registirimen te lelas vauro bichiba pa hurdijakofrestibako kontroli pálal trin vaj panghto bereh.</p>
+    <p xml:lang="swe"></p>
+    <p type="title" xml:lang="swe">Jek kotoribake ná hioviba te mukhel frestiba</p>
+    <p type="title" xml:lang="swe">Dóla kon hin télal 23 bereh ta pherdal 60 ná kharelas</p>
+    <p xml:lang="swe">Kana áchelas télal 23 bereh ná kharelas kaj hurdijako frestibako kontroli. Hurdijako pariba hin but normalno anglal 23 bereh, nebi but dieli nachela korkorikanes kajo aja terne džúvja. Douva hin butvares aja binormalno te daja. Kana hin líjal dieli aro jek gynekologikano hurdijakofrestiba ta hin normalne butvare hurdijakofrestiba kana pherdavelas 60 hin riziko te lel.</p>
+    <p type="title" xml:lang="swe">Dóla kon ná rikhadal seksi hiovia ná mukhel frestiba</p>
+    <p xml:lang="swe">Ke ná tšekar hin rikhadal seksi ná hioviba te mukhel hurdijakofrestiba. Dajanibakorako openbárilas ferda mahkar džúvja konen hin áchdal seksi ta hin líne dolibe nasvaliba pa jek tipi pa HPV, humant papilomvirusi.</p>
+    <p type="title" xml:lang="swe">Kana áchelas homoseksualikano</p>
+    <p xml:lang="swe">Ka áchelas homoseksualikano dóleske hin tšihko te džal regulikanes ta lel hurdijakofrestibako kontroli dóleske ke virusi so vojbuvela dochavel hurdijakopariba vojbuvela tšéjavel mahkar džúvja ta džúvja.</p>
+    <p type="title" xml:lang="swe">Kana dajaniba hin líjal nikhi aro operasija</p>
+    <p xml:lang="swe">Kana hilo dajaniba hin nikhi, savo nína kharelas totalno histerektomi, na hioviba te džal aro hurdijako frestibako kontroli, dóleske ke dajanibakostokos hin tála pherdales nikhi. Nebi kana operasija hin tšerdo pálal dajanibako méneskorako vaj pa hurdijakopariba aro dajanibako ménes hin hioviba te džal aro kontroli. Tála lelas frestiba pherdal vaginajako pherdalno dieli.</p>
+    <p xml:lang="swe">Kana ná hortas džanelas savo slága operasija hin áchdal ta so hin avlo nikhi operimen hin vojiba sárenes puchelpe pa douva klinika kaj operasija hin tšerdo. Bijandžika apo bijandžika centrali dajengo arakbosko centrali vojbuvel hahtavel butvares te lel angle dauva džaniba. Kana áchelas bisigurno hin fendide te lel jek nevo frestiba te avel sigurineske.</p>
+    <p xml:lang="swe"></p>
+    <p type="title" xml:lang="swe">Jakhes džalpe dikhiba</p>
+    <p type="title" xml:lang="swe">Angouviba</p>
+    <p xml:lang="swe">Tšek hioviba te tšérel angouviba peske anglal hurdijakofrestiba pe disaves, nebi hin hioviba te ná rikhavel bijikano phaniba vaj te rikhavel disave makhiba aro vagina anglal dikhiba. Hurdijakofresiba vojbuvel avel boldel bilokhes. Náka hele mukhel frestiba kana hin mensi.</p>
+    <p type="title" xml:lang="swe">Frestiba pa dajanibako stokos</p>
+    <p xml:lang="swe">Angnal dikhiba hin hioviba te lel pes nanges téluni trupos ta lel than aro gynekologisko dikhibosko skamni. Frestibako líjiboskeri , kon hin jek bijandžika vaj jek doktori, bohlavela lokhes vagina pe normalne gynekologikane instrumenti so mote áchel it tate sar trupos.</p>
+    <p xml:lang="swe">Sar frestiba lelas baruveal mahkar centrali. Butvares hin manera te jek spatel pa kaht vaj pa plastika morelas kajo dajanibako stokos ta pálal rikhavelas jek tikno man aro dajanibako méneskokanalijako téluni dieli.</p>
+    <p xml:lang="swe">Frestiba džala hastes ta lela butvares disave minuti. Douva ná dukhela. Jek dieli vojbuvela hosavel ná latšo hosiba.</p>
+    <p type="title" xml:lang="swe">Puchiba te sváravel</p>
+    <p xml:lang="swe">Butvares lelas nína sváravel disave puchibake it tíja kana lelas frestiba, sar eksemplura</p>
+    <list>
+      <p type="listitem" xml:lang="swe">Kana páluno mensicirklosko váguno díves sas,vaj ka mensicirklo hin agordo</p>
+      <p type="listitem" xml:lang="swe">Kana rikhavelas fankiba ta savo slága</p>
+      <p type="listitem" xml:lang="swe">Kana hin líjal arakhiba pe hormoni kajo klimakterijako bisvériba</p>
+      <p type="listitem" xml:lang="swe">Kana hin phári vaj hin fiodimen télal sistone bereh.</p>
+    </list>
+    <p xml:lang="swe">Džániba bichavelas pe frestibaha ta lokhavelas pe laborotorija te tšérel lengo kavieriba.</p>
+    <p type="title" xml:lang="swe">Dólesko pálal vojbuvelas te lel tikno bifardigo ratvariba</p>
+    <p xml:lang="swe">Dajanibako ménesko lingalo ratvarela lokhes ta hin but normalno te lelas jek tikno ta bofardigo ratvariba pálal dikhiba. Ratvariba nahela pálal disave díves.</p>
+    <p type="title" xml:lang="swe">Pháre vojbuvena mukhen frestiba</p>
+    <p xml:lang="swe">Frestiba hin phedales biriziko ta džalpe te tšerel frestiba vahka áchelas phari. Rekomensija hin te mukhelas frestiba sistones aro 15 phariboskokurko dóleske ke jek ródiba pa jek binormalno frestiba vojbuvel áchel bilkoho ka pháriba hin dželo langhtes.</p>
+    <p xml:lang="swe"></p>
+    <p type="title" xml:lang="swe">Kana lelas sváriba?</p>
+    <p type="title" xml:lang="swe">Butvare frestiba ná sikavela tšek pariba</p>
+    <p xml:lang="swe">Aro hou kurke mote te lel jek lin pa frestibako sváriba, nebi onivar vojbuvela douva te lel langhtide tíja. Kutide ke 95 pa 100 frestiba bihurdijako pariba ta vieravelas sar normalne. Tála lelas džent sváriba aro tšéres katar laborartori.</p>
+    <p xml:lang="swe">Kana frestiba hin mukhlo apo jek gynekologicentrali vaj aro fankibako guosengocentrali.</p>
+    <p xml:lang="swe">Aro binormalno faniba ná vojiba te tšerel analisija, sar eksemplura kana hin but mensijakorat aro frestiba. Tála avelas kharel ka jek nevo frestibako líjiba.</p>
+    <p type="title" xml:lang="swe">Kana frestiba rálila hurdijakopariba</p>
+    <p xml:lang="swe">Kana frestiba sikavela hurdijakopariba pa disave slága ródelas douva papales. Kana hin lokhe hurdijakopariba ta hin pherdo 30 vaj 35 bereh. Frestiba tšérela kontrolanti hinko jek tipi pa HPV, humant papilomvirusi, so dela riziba te le l dajanibako méneskorako. Ińasto kones hin ińasto dauva tipi pa HPV-tipi hiovila te avel aro doktorikano dikhiba. Kana hin lokhe hurdijakopariba so ná rálila ajasavo vírus hiovila ferda te lel jek nevo hurdijako frestiba pálal jek bereh.</p>
+    <p xml:lang="swe">Kana douva dochela sáre hurdijakopariba mahkar džúvja kon hin téle 30 vaj 35 bereh lelas rekomensija te avel dikhimen pa jek gynelogi, nebi fanula papales nína aro jek than aro phuvja anglide ke avelas kharel ka jek nevo hurdijako frestibako líjiba. Džúvja kon hin pherdal 30 vaj 35 bereh ta sar vaure hurdijako pariba ke dóla lokhide, lelas rekommensija nína te avel dikhes pa gynekologi.</p>
+    <p type="title" xml:lang="swe">Hurdijakofrestibak ná dela arakhiba kajo rako</p>
+    <p xml:lang="swe">Regualikane hurdijakofrestiabako kontroli dela jek džoralo arakhiba kajo dajanibako méneskorako, nebi douva ná pherdo. Hin vojiba te lel dajanibako méneskorako vahka hurdijakofrestiba hin áchdo normalno, nebi douva hin but binormalno. Pherdal te džal aro hurdijakofrestibako kontroli regulikanes hin hioviba te ródel dóleske arakhiba kana lelas ratvariba kana rikhavelas bijikano phaniba, kana lela butvares lela ratvariba mahkar mens,vaj kana lelas ratvariba pálal kana mensi hin agardo.</p>
+    <p xml:lang="swe">Sárenes hin vojiba te bahavel nasvalibako godidíjibake te lel gódiba te kaj boldelas pes.</p>
+    <p type="title" xml:lang="swe">Hin vojiba te hošelas pes but dar pe frestiba ta frestibako sváriba</p>
+    <p xml:lang="swe">Te mukhel hurdijakofrestiba vojbuvel sar. Hin vojiba te hošavel pes nervosi kana ventavelas fresibako sváriba. Tála vojbuvela te áchel tšihko te tenkavel te hurdijakofrestiba hin jek manera te arakhel pes kajo rako. Dóla pariba so hokavelas vojbuvelas butvares te lel nikhi pe jek lokho tšénjiba te mukhelas te bohlavel rako aro aviba.</p>
+    <p xml:lang="swe">Douva hin but binormalno te frestibako sváriba sikavela te hin angledžaljaro rako. Dóla disave var rako hin avlo phukado dženom hurdijakofrestibako kontroli hin butvares aro aja sígas nivo te arakhiba avelas lokhide ta kutide angouviba. Dženom hurdijakofrestiba hin nasvaliba avlo openbáriba ta but dar hin avel tšatšunes dukhado hin tiknide.</p>
+    <p type="title" xml:lang="swe">Korkores lelas agoriba pa spáravelasko frestiba</p>
+    <p xml:lang="swe">Frestiba so mukhelas apo hurdijakofrestiba. Sar eksemplura vojbuvelas lel neve frestiba ta tšérel jekhariba. Frestiba vojbuvelas pherdal rikhaves aro ródiba vaj aro vaure tenkibi so hin avlo aksentirimen pa jek etnisko ródibosko komitea. Kana ná kamelas te frestiba spáravelas pe angliba vojbuvelas douva pheńel dóleske kon tšérela frestiba, ta phagaravelas dólesko pálal. Džaniba pa frestibako líjiba spáravelas nína aro kvalitetoskoregisteria so rikhavelas te fendaven arakhiba. Kana hin kamliba te ná pesko iego džaniba rikhavelas pe dauva hin vojiba te kamel te lel nikhi.</p>
+  </body>
+</document>

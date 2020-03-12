@@ -1,0 +1,77 @@
+<document xml:lang="rmf" id="no_id">
+  <header>
+    <title/>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>527</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <multilingual>
+      <language xml:lang="rmf"/>
+      <language xml:lang="swe"/>
+    </multilingual>
+    <origFileName>http://www.1177.se/Nationella-minoritetssprak/Nationella-minoritetssprak/Romanska-kale/Regler-och-rattigheter/Vardgaranti</origFileName>
+    <parallel_text xml:lang="eng" location="vardgaranti.html"/>
+    <parallel_text xml:lang="fin" location="vardgaranti.html"/>
+    <parallel_text xml:lang="fit" location="vardgaranti.html"/>
+    <parallel_text xml:lang="sma" location="vardgaranti.html"/>
+    <parallel_text xml:lang="sme" location="vardgaranti.html"/>
+    <parallel_text xml:lang="smj" location="vardgaranti.html"/>
+    <parallel_text xml:lang="swe" location="vardgarantier.html"/>
+    <parallel_text location="vardgaranti.html" xml:lang="rmy-rka"/>
+    <parallel_text location="vardgaranti.html" xml:lang="rmn"/>
+    <parallel_text location="vardgaranti.html" xml:lang="rmu"/>
+    <parallel_text location="vardgaranti.html" xml:lang="yid"/>
+    <parallel_text location="vardgaranti.html" xml:lang="rmy-rlo"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p xml:lang="swe">Arakhibosko kavieriba / Vårdgaranti - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
+    <p xml:lang="swe"></p>
+    <p xml:lang="swe"></p>
+    <p type="title" xml:lang="swe">Romani chib káloRomska kale</p>
+    <list>
+      <p type="listitem" xml:lang="swe">Tillbaka till startsidan för temat</p>
+    </list>
+    <p type="title" xml:lang="swe">Arakhibosko kavieriba Vårdgaranti</p>
+    <p xml:lang="swe"></p>
+    <p type="title" xml:lang="swe">Arakhibosko kavieriba so tšakravela aro hilo phuvja.</p>
+    <p xml:lang="swe">Arakhibosko kavieriba mienila te lelas arakhiba aro jek phanlo tíja. Douva hin pe lágaha tšuvimen kotoriba pa sasto-ta nasvalibakoarakhibako lága. Arakhibosko kavieriba phukavela aro savo tíjako grensa mote arakhiba rekhaves ka phuvjakotingi vaj pa regionalno. Nebi vaure ná tiomavela arakhibosko kavieriba savo arakhiba delas vaj savo arakhiba lelas.</p>
+    <p xml:lang="swe">Arakhibosko kavieriba phukavela sar harhal tu mote ventavel te lel arakhiba. Hin disave tíjakogrensi pe disave arakhibake, sar eksemplura 7 díves te lel arak jek doktori aro arakhibosko centrali vaj 90 díves te lelas tšérel jek stáviba, vaurevitikas lel jek arakhiba aro jek spesijalno kotoriba. Kana ná džalpe te lel arakhiba aro douva arakhibosko stedo kaj hin ródidal, rekhavelas pesko stáviva vaj arakhiba aro vauro arakhibako stedos. Onivar hin vojiba te avel bihimen ka jek vauro arakhibosko stedos aro vauro phuvjakotingo. Douva hin sárenes phiŕovitiko te phenel ja vaj ná ka rekhibake ka sígide arakhiba aro vauro arakhibosko kotoriba ke kaj hin ródidal.</p>
+    <p xml:lang="swe">Akutno arakhiba ná rálila pa dauva arakhibako kavieriba. Kana avelas akutnes dukhadeske vaj dabimen mote lel aja hastes arakhiba so hin vojiba.</p>
+    <p xml:lang="swe"></p>
+    <p type="title" xml:lang="swe">Nationalno arakhibako kavieriba 0-7-90-90</p>
+    <p xml:lang="swe">Pálal arakhibako kavieriba hin hortiba ka:</p>
+    <list>
+      <p type="listitem" xml:lang="swe">0 - Pe váguno arakhibaha it dives It dives kana ródela hahtiba mote te lel kontakti pe vágunoarakhiba, sar eksemplura arakhibosko centrali vaj pe nasvaliarakhibosko gódibaha. Douva vojbuvel fanuvel apo telefono vaj dženom stávibaha.</p>
+      <p type="listitem" xml:lang="swe">7-doktorijako stáviba angle aro efta díves Kavierila arakhibosko personali hinko hioviba te arakhel doktori mote lel tíja aŕe aro efta díves, sar eksemlplura aro arakhibosko centrali vaj aro familjakodoktori.</p>
+      <p type="listitem" xml:lang="swe">90-stáviba aro spesijalno arakhiba aŕe aro 90 díves lana lelas jek bichiba ka spesijalno arakhiba mote lel jek stávibako tíja aŕe aro 90 díves. Douva hin itslágas kana hin ródidas útan bichiba</p>
+      <p type="listitem" xml:lang="swe">90- arakhiba lelpe aŕe aro 90 díves pálal arakhibako agoriba, sar eksemplura operasija,mote lel jek tíja aŕe aro –díves.</p>
+    </list>
+    <p xml:lang="swe"></p>
+    <p type="title" xml:lang="swe">Kana ná arakhibosko kavieriba aro džor</p>
+    <p xml:lang="swe">Arakhibosko kavieriba ná aro džor</p>
+    <list>
+      <p type="listitem" xml:lang="swe">Pálal aviba</p>
+      <p type="listitem" xml:lang="swe">Kana pa medicikane dochiba mote ventavel langhtide ke kavieribako tíajako grensa</p>
+      <p type="listitem" xml:lang="swe">Medicinkano tšensta, sar ekemplura laborarie-ta röntgendikhiba</p>
+      <p type="listitem" xml:lang="swe">Ródibi ta dikhiba</p>
+      <p type="listitem" xml:lang="swe">Hahtibako bérijengo rekhiba, jek pheridiba hin hunjibako masinako frésiba</p>
+      <p type="listitem" xml:lang="swe">Kana niekavelas arakhibake aro vauro arakhibako stenos (kana dólesko pálal parjula pesko džinta vojbuvelas te phenel parkiba rekhibake.</p>
+    </list>
+    <p xml:lang="swe"></p>
+    <p type="title" xml:lang="swe">Ventibako tíja aro arakhiba</p>
+    <p xml:lang="swe">Hin jek nationalno webbthan te vá pálal arkahibosko kavieriba ta ventibako tíja,vantetider.se. Aro webbjako than sikavelas ventibako tíja aŕe aro sáre phuvjakotingi ta regioni.</p>
+    <p xml:lang="swe"></p>
+    <p type="title" xml:lang="swe">Arakhiba aro vaure stedi</p>
+    <p xml:lang="swe">Kana rekhavelas jek stáviba vaj jek arakhiba arakhiba,so ná delas aŕe aro arakhibosko kavieribako tíjako grensa, mote rekhaves arakhiba aro arakhibosko stedos. Douva vojbuvel te áchel jek arakhibosko centrali, jek nasvalibakotšér vaj aro disave privatno centrali. Hin vojiba te korkores phukavel kaj kamelas te avel, nebi kana arakhibosko kavieriba achelas aro džor ná vojiba te velkavel sar klelas. Kana ná lelas arakhiba aro džiko vauro stedos ke douva kaj ródelas hin vojiba te niekavel rekhiba pa arakhibosko kavieriba. Douva mienila te vojbul te ventavel langhtes. Kana dólesko pálal parjuvela pesko džinta hin sárenes vojiba te lel kontakti pe pesko arakhiboskeroha. Arakhibosko kavieriba lelpe pa dauva díves.</p>
+  </body>
+</document>

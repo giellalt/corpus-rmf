@@ -1,0 +1,82 @@
+<document xml:lang="rmf" id="no_id">
+  <header>
+    <title/>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>972</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <multilingual>
+      <language xml:lang="rmf"/>
+      <language xml:lang="swe"/>
+    </multilingual>
+    <origFileName>http://www.1177.se/Nationella-minoritetssprak/Nationella-minoritetssprak/Romanska-kale/Regler-och-rattigheter/Tystnadsplikt-och-sekretess</origFileName>
+    <parallel_text xml:lang="eng" location="professional-secrecy-and-confidentiality.html"/>
+    <parallel_text xml:lang="fin" location="tystnadsplikt-och-sekretess.html"/>
+    <parallel_text xml:lang="fit" location="tystnadsplikt-och-sekretess.html"/>
+    <parallel_text xml:lang="sma" location="tystnadsplikt-och-sekretess.html"/>
+    <parallel_text xml:lang="sme" location="tystnadsplikt-och-sekretess.html"/>
+    <parallel_text xml:lang="smj" location="tystnadplikt-och-sekretess.html"/>
+    <parallel_text xml:lang="swe" location="tystnadsplikt-och-sekretess.html"/>
+    <parallel_text location="tystnadsplikt-och-sekretess.html" xml:lang="rmy-rka"/>
+    <parallel_text location="tystnadsplikt-och-sekretess-.html" xml:lang="rmn"/>
+    <parallel_text location="tystnadsplikt-och-sekretess.html" xml:lang="rmu"/>
+    <parallel_text location="tystnadsplikt-och-sekretess.html" xml:lang="yid"/>
+    <parallel_text location="tystnadsplikt-och-sekretess.html" xml:lang="rmy-rlo"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p xml:lang="swe">Birakhibosko pliktos ta sekretesi / Tystnadsplikt och sekretess - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
+    <p xml:lang="swe"></p>
+    <p xml:lang="swe"></p>
+    <p type="title" xml:lang="swe">Romani chib káloRomska kale</p>
+    <list>
+      <p type="listitem" xml:lang="swe">Tillbaka till startsidan för temat</p>
+    </list>
+    <p type="title" xml:lang="swe">Birakhibosko pliktos ta sekretesiTystnadsplikt och sekretess</p>
+    <p xml:lang="swe"></p>
+    <p type="title" xml:lang="swe">Sar hin?</p>
+    <p type="title" xml:lang="swe">Sárenge aro arakhiba hin birakhibosko pliktos</p>
+    <p xml:lang="swe">Kana risavelas pes kajo arakhiba hin te hošavelas paśiba pe personale kon arakhelas. Paśiba hin but inportanto te hošavelas pes sigurno ta trumuvelas te rakhavel phiŕes pa dóla bisvéringa ta simtomi so hin ta jakhes lel douva arakhiba so hiovylas. Dólesko khal rálila sáre kon tšérena buti aro sasti-ta nasvalibako arakhiba pa birakhibako pliktos. Téluno tenkiba hin te tšek aro arakhiba lena te mukhel avri džanibi bi te korkores hin díjal pesko lóvi. Douva hin sar eksemplura džanibi pa nasvaliba so hin,douva arkahiba so lelas vaj jekesko privatni situasija.</p>
+    <p xml:lang="swe">Aro nasvalibosko arakhiba hin it sekretesijako arakhiba pe sáre pasijetenge ta bidota hinko hortiba te áchel aro Svedo vaj ná.</p>
+    <p xml:lang="swe">Birakhibako pliktos tiomyvelas pa ofensijalno-ta sekretesilága pe dólenge kon tšérena buti themeske, phuvjakotingiske ta gávenge. Ke dóla kon tšérena buti aro jek privatno arakhiboskero mote vá pálal regulia pa birakhibako pliktos aro pasijetengo siguribakolága. Douva kon phagavelas birakhibako pliktos vojbuvelas diomavel aro tingi vaj pe vaure manera diomaves pa douva hougaje kones hin pherdal dikhiba pa arakhiba.</p>
+    <p xml:lang="swe">Mahkar personali aro jek nasvalibako tšér vaj aro jek arakhibosko centrali hin birakhibosko pliktos. Douva hin ińasto dóla kon dena arakhiba ta pasijetengo kon lela rakhavel vaurensa pa pasijetengko sastibako áchibi vaj pa džénovitiko džanibi. Douva mienila sar eksemplura te jek doktori lela rakhavel pa jek pasijetengosko arakhiba pe jek kolega ińasto kana jón arakhena it komunis.</p>
+    <p xml:lang="swe">Birakhibako pliktos hin pe sáre personalike kones arakhelas aro arakhiba. Bidota hinko douva jek ofensijalno vaj jek privatno arakhiba ta bidota hinko douva doktori, sastiboskero vaj administrativkano personali. Risibongiere kon lena sar buti aro sasti-ta nasvalibsko arakhiba hin nína birakhibosko pliktos. Birakhibako pliktos hin nína dolenge kon tšérena buti aro apoteka.</p>
+    <p type="title" xml:lang="swe">Lelas korkores agoriba</p>
+    <p xml:lang="swe">Lági mienila te ná hele jek nárta lena hortiba te džanel so phenelas ta fanula aro nasvalibosko tšér kana ná korkores kamelas te jón lenas džanibi. Manera hin te lelas puchiba pa personali koneske lena jón lóvi te mukhel džanibi. Tála lelas korkores velkavel kones lelas te phukavel džanibi. Sar eksemplura angnal jek operasija rakhavel personaleke te jón lena lóvi te rakhavel sar hin staudas aro operasija sar eksemplua jek nárti angnal pesko iego uštiba.</p>
+    <p xml:lang="swe">Pe kentenge hin te arakhiboskokero sar regulia lela hortiba te lel dieli pa pesko kentosko arakhiba te lel te džanel son hin ranlo aro jouranli. Nebi kana kentos avela phuranide, aro terniba, hiovylas butvares te kentos dela pesko lóvi.</p>
+    <p xml:lang="swe">Kana hin aro nasvalibako arakhiba vaj aro socialnotšensta hin tenkibi te kentos nourula aro biarakhiba aro pesko arakhiboskero, vaj te arakhibioskero ná vojbuvel arakhel kentos, ná mukhelas avri jouranali.</p>
+    <p xml:lang="swe">Pasijentosko journali ´ralila nína pa sekretesi ta ińasto dola kon lena drabavel journali hin douva personali kon arakhena douva pasijentos konesko journali douva hin. Bidota hinko jourani aro jek komjuteri vaj hinko douva ranlo aro jek papros.</p>
+    <p xml:lang="swe"></p>
+    <p type="title" xml:lang="swe">Avrutno fanibi</p>
+    <p type="title" xml:lang="swe">Avrutno fanibi ka birakhiba</p>
+    <p xml:lang="swe">Vakha sekretesi ta birakhibako pliktos hin baro vojbuvelas sekretesi phagavel aro disave fanibi bi te sar pasijento dela pesko lóvi. Douva hin sar eksemplura aro</p>
+    <list>
+      <p type="listitem" xml:lang="swe">jek tingi, dochiboskero-, petski-, kronofogdi-vaj skatiboskohougaje kamena te džanel hinko jek komus aro pengo arakhibako stedos</p>
+      <p type="listitem" xml:lang="swe">socialingaribosko gódi pe hortibako, ta drabkane puchibi hiovyla pe pengo frestibi</p>
+      <p type="listitem" xml:lang="swe">transporti ingariba hiovyla džanibi te frestavel džiko komujesko hortiba te lel drádibosko pelchkos, traktoripelchkos vaj taksilegitomasija</p>
+      <p type="listitem" xml:lang="swe">džanibi hiovylas kana lelas frestibika jek sikjukúno mote phagaves pa aprununiskolako sikjiba</p>
+      <p type="listitem" xml:lang="swe">džanibi hiovylas pe jek drabvitikohortibako dikhjibake.</p>
+    </list>
+    <p xml:lang="swe">Kana hin tenkibi pa phagariba ta hin pa ajasavo slaga so dela kutides jek berehesko phanliba hin arakhibosko personalenge hortiba te tšérel jek petsengo phukiba pa phagariba ta sváraven aro petsengo ta dochibosko hougajengo puchibi. Eksemplura pa ajasave phagariba hin mudariba, sílakano pachiba ta grósno hunkiba. Hin nína disave tšaljibako phagariba pe télnuno phanliboskoskala sar eksemplura matodrádiba so arakhiboske personaleske hin horiba te phukavel.</p>
+    <p type="title" xml:lang="swe">Spesijalno avrutnofanibi pe kentenge</p>
+    <p xml:lang="swe">Kan hin puchiba pa kenti tšerelas avtutnofanibi ka birakhibosko pliktos kana arakhibosko personalenge hin tenkiba te kentos hin avlo arakhimen pa jek pagariba. Douva rakhila pa hungiba ta seksikanosíliba.</p>
+    <p xml:lang="swe">Kana arakhibosko peronaleske hin tenkibi te jek kentos nourula aro bisvéringa vojbuvela arakhibosko personalia aro disave fanibi tšérel phukiba ka socialtšenstake, so tšérela jek ródiba ta jek pentsengo phukiba. Douva hin nína aro disave ródiba so džalpe aro beska kentengo arakhibosko ródibaha. Arakhibosko personalo hin dochavitiko te mukhel avri džanibi so vojbuvel angovel aro ródibi.</p>
+    <p type="title" xml:lang="swe">Tšek bereheskogrensi pe kentenge te lel korkorikane agoriba</p>
+    <p xml:lang="swe">Kana hin puchiba pa beska kenti hin douva arakhibosgere kon lela agoriba ka džanibi lelas te mukhel avri vaj ná. Kana kentos avela phúrideske ta dikhelas godvalo aro puchibi te lel korkores agoriba lenako arakhibosko personali te mukhel avri džanibi ta koneske. Pe vaures ná tšek bereheskogrensa kana kentos lela te lel korkores agoriba douva vojbuvelas kavieravel ka komuis ka komunis. Douva vojbuvel mienavel te arakhibskero ná lela aro pesko džaniba kentosko sastibako áchiba.</p>
+    <p type="title" xml:lang="swe">Anglunisiguriboskobiro ta siguriboskobiro</p>
+    <p xml:lang="swe">Lelas korkores agoriba ka sasto- ta nasvalibako arakhiba lena lóvi te mukhel avri džanibi pa save nasvaliba hin ta savoslaga arakhiba hin líjal. Nebi kan hin nasvalo ta ródelas pes nasvalibako presiba ka anglunisiguriboskobiro lena arakhibosko peronali lóvi te mukhel džanibi so hiovylas te lel kavieriba hinko presibako hortiba.</p>
+    <p xml:lang="swe">Douva hin nína kana nouruvelas aro jek dab vaj nasvaliba ta kamela te lel avri presiba pa pesko siguriboskobiro. Tála hin siguriboskebiroske hortiba te len džanibi so hiovylas te tšérel kavieriba hinko hortiba te lel presiba.</p>
+    <p type="title" xml:lang="swe">Phagariba kajo birakhibako pliktos</p>
+    <p xml:lang="swe">Vahka hin disave fanibi kana arakhibosko personali lena te phagavel birakhibako pliktos hin douva aro ińasto fanibi. Télnuno tenkiba aro birakhibako pliktos hin te arakhel pasijentos.</p>
+    <p xml:lang="swe">Kana sar pasijentoske hin tenkibi te džiko aro arakhibosko personali hin phagardo birakhibako pliktos hin vojiba te phukavel douva petsenge vaj socialingaribake. Douva vojbuvel liedavel te komunis avelas dochimen ta diomavel.</p>
+  </body>
+</document>

@@ -1,0 +1,69 @@
+<document xml:lang="rmf" id="no_id">
+  <header>
+    <title/>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <translator>
+      <unknown/>
+    </translator>
+    <translated_from xml:lang="swe"/>
+    <wordcount>898</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <multilingual>
+      <language xml:lang="rmf"/>
+      <language xml:lang="swe"/>
+    </multilingual>
+    <origFileName>http://www.umo.se/Andra-sprak/romska-kale/Meni</origFileName>
+    <parallel_text xml:lang="fin" location="kuukautiset.html"/>
+    <parallel_text xml:lang="fit" location="mensi.html"/>
+    <parallel_text xml:lang="sma" location="gujnelemmie.html"/>
+    <parallel_text xml:lang="sme" location="manodavddat.html"/>
+    <parallel_text xml:lang="smj" location="liejbbe.html"/>
+    <parallel_text xml:lang="swe" location="mens.html"/>
+    <parallel_text location="rattepha.html" xml:lang="rmu"/>
+    <parallel_text location="lolo-kurko.html" xml:lang="rmy-rka"/>
+    <parallel_text location="zuvliako-on-mens.html" xml:lang="rmy-rlo"/>
+    <parallel_text location="mensturacija.html" xml:lang="rmn"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p xml:lang="swe">Menśi</p>
+    <p xml:lang="swe">Alla undrar!  Vad undrar du?</p>
+    <p type="title" xml:lang="swe">Menśi</p>
+    <p xml:lang="swe">Menśi hin douvaa ratesko drepiba katar dajanipe so tšaja lena but vaj tiknide nitšalo katar puberteti Menśi hin truposko manera te sikavel te áchelas bijamoreslo.</p>
+    <p xml:lang="swe">Sar tšaj hin jársko phiѓiba sakha tšón katar kana avela aro pubereteti avela aro puberiteti kana avelas aro klimakteriteria. It tíja kana hin járesko phiѓiba fanula avela tuhulotšungar aro dajaniba tuhulo te saj lel priśi járo ka douva avela sukarbijalo. Te járo avelas bijtšériba mote te le spermia aro vagina. Tála hin vojiba tel avel pháreske, nebi kana járo ná avela sukarbjjalo. Tiokavela dajanibabako sanimortik avri sar jek ratšiba Douva hin douva so hin menśi.</p>
+    <p type="title" xml:lang="swe">Kana lelas menśi?</p>
+    <p xml:lang="swe">Aro savo bereh lelas menśi hin vaurovitiko. Douva dochelas dota te sare avena disaves aro puberteti. Kana avelas sigones vaj harimes aro puberteti hin variso so vojbuvelas tiomavel pherdal.</p>
+    <p xml:lang="swe">But dieli lena butvaris disave var mahkar 12-14 bereh. Nebi hin vojiba te lel dóles kana hin 9 vaj vágunes kana hin 16 bereh te ná áchelas banges. Kana ná líjal peski menśi kana hin aro 16-17 bereh hiovilas te džal aro doktori.</p>
+    <p xml:lang="swe">Váguno menśi vojbuvel te avel tšorjales. Douva vojbuvelas áchel but bari dar. Saj ná tšek aro klaśi kon hin líjal menśi. Saj tenkavelas savo menśijako arakhiba rikhavelas ta douva hin variso so ná rakhavvelas pe džiko baro komujensa kana douva hin kuti lansavitiko.</p>
+    <p xml:lang="swe">Vaj hin te varoso so hin ventadal butvares pálal. Butvare pa málenda saj hin líjal douva ta hošelas pes lokhardo te áchelas jek aro“ kompania“.</p>
+    <p type="title" xml:lang="swe">Sar but ratšila?</p>
+    <p xml:lang="swe">Sar but ratšila paruvela mahar komujen,ajasaves sar but díves hin hin ratšiba. Télal ka jek menśi hin normalno te ratšavel mahkar 20-80 milimetri rat,pe vaureha ná butide ke jek deciliter. Nebi kana rat heminela pes pe vaure truposkomakhibaha ta sánomortši katar bjaniba hošelas douva butideske.</p>
+    <p type="title" xml:lang="swe">Te ratšavel but</p>
+    <p xml:lang="swe">But tenkila te jón ratšavela but vahka douva ná hortanes ajabut. Nebi kana hin hioviba te paruvel menśijako arakhiba te avelas aja baro buti kana note rikhavel dublo menśijako arakhiba te ná ratšavelas dženom hin táles ajaso akharelas pe butkano meniske. Douva dochela dota kana hin vaureslaga béri aro dajaniba ta ratšavelas nikhi ratesko thuljiba. Douva tšérela te avelas bilokhide te áchel ta ratšavelas butide. Kana ratšavelas but ta hošelas peske lindralo ta bidžoraleske Douva vierula pa dota te rateskovieriba hin téluno.</p>
+    <p xml:lang="swe">Kana hin horta but ratsiba vojbuvelas te lel kontakti pe skolako sastibako arkhibaha,jek ternengo ordinasija vaj jek sastibakocentrali. Tála hin vojiba te lel hahtiba tabletejaha so tšérela te ratšavelas tiknide,sar eksemplura p-pilleri.</p>
+    <p type="title" xml:lang="swe">Bireglukano menśi</p>
+    <p xml:lang="swe">Kana hin líjal menśi hin normalno te douva hin biregluno. Douva mienila te douva ná avela apo it tíja sakho tšón. Pe but komujen Douva vojbuvel áchel tšihko te rikhavel voliba pa pesko menši dženom te rańel díves aro kalenderi vaj aro vauro minsibako papri. Tála hin vojiba te lokhes dikhel hinko menśi harimo ta džaniba kana douva avlo sistones. Tála hokavelas nína kana menśi hin harimo džiko tšón.</p>
+    <p xml:lang="swe">Jek dieli rikhavela sárenes biphandlo menśi,douva ná fárdiko nebi kana hin džinta te douva hin bilokho vojbuvela te lel regulikano menśi pe hahtiba pa p-pilleri sar eksemplura.</p>
+    <p type="title" xml:lang="swe">Harimo vaj avriphanlo menśi</p>
+    <p type="title" xml:lang="swe">Pháriba</p>
+    <p xml:lang="swe">Jek naturikano doch hin te menśi nachela hin te avlo pháreske. Te avel pháreske mote te lel spermie aro vagina,ta douva fanuvelas dženom bijikano phańiba. Kana gudlodolela seksikanes ta lela spermi po naja ta tšuvelas rét naja aro vagina nína aro hin rizutno te avel pháreske.</p>
+    <p xml:lang="swe">Kana tenkavela te menśi phańelas avri vojbuvela douva dochvel pa te hin avlo pháreske pháribosko fresiba vojbuvelas te tšińes aro apoteka ta aro butide hábeneskobuota ta tšenstakobuoti. Nína hin vojiba te tšérel fresiba pe jíba aro ternengo organisasia vaj daijengo arkhibosko organisasia.</p>
+    <p type="title" xml:lang="swe">Sterśi,tristalibako pariba vaj irikhavela dieta</p>
+    <p xml:lang="swe">Menśi vojbuvel phańel avri nína pa but vaure dochiba. Kana menśihin nikhi ferda disave kurke ta dólesko pál ranuvela pherdal jek vaj duj tšón vojbuvela dochel pa but disave sákata, sar eksemplura pa tristalibako parjibata vaj te hin áchdal jek.</p>
+    <p xml:lang="swe">Kana menśi nachela langhto tíjaske hin tšihko te džal aro doktori te lel dikhiba kata douva dochela. Douva vojbuvel nína áchel te hin but baro stresi, ná po latšo džinta, trénila drouves, lel dieta, hin vaure hábenesko bisvéringa vaj disavo nasvaliba. Tála hin douva truposko manera te phenel te variso hin banges. Kana hin hošiba te hiovilas hahtiba ta dumudiba te rétavel pesko problemi hin vojiba te risavel pes ka skolakosastibake vaj ternengo organisasijake.</p>
+    <p xml:lang="swe">Kana menśi nachela butideske ke pah bereh mote sárenas lel kontakti pe jek doktori sar eksemplira jek ternengo ordinasija vaj sastibakocentrali. Tála lelas hahtiba te lel džaniba sostar menśi ná avela, pe vaureha hin hioviba te mukhel rateskofrestiba ta lel dota hormonijako soisiba aro rat. Kana hiovylas hin vojiba te lel tableti te tšerelpe menši papales.</p>
+    <p type="title" xml:lang="swe">Bisvéringa anglal menśi-PMS</p>
+    <p xml:lang="swe">Kutides jek kurko anglal menśi. Douva tšérela vojbuvel lel kóle tšutši ta hošela pes aro trupos Douva khares pe premenśitruelkano džoralo srukturijaske, PMS. Douva dochila pa hormoni ta tšérela te vojbuvel avel hojimen vaj mulaneske. Nína vojbuvelas te lel héroskoduk, kamelas butide gudliba vaj lelas akne. Pe butide kon hokavela pa PMS hin butvaris trin ta star díves áchel drouvide anglal menśi ta nachela kana menśi avela, nebi douva vojbuvela nína áchel disave díves télal menśi.</p>
+    <p xml:lang="swe">PMS-bisvériga vojbuvel avel fendideske pa dota te lelas peske treniba. Vaj tšérelas tréniba stréviba Douva hin nína tšihko te souvel latšes ta frestavel te lel áchel ekstra láto ta náka lel streśi kana dóla divisi kana hošelas dukhiba.</p>
+  </body>
+</document>
