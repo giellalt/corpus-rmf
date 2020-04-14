@@ -1,82 +1,37 @@
-<document xml:lang="rmf" id="no_id">
-  <header>
-    <title/>
-    <genre code="facta"/>
-    <author>
-      <unknown/>
-    </author>
-    <translator>
-      <unknown/>
-    </translator>
-    <translated_from xml:lang="swe"/>
-    <wordcount>870</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="rmf"/>
-      <language xml:lang="swe"/>
-    </multilingual>
-    <origFileName>http://www.umo.se/Andra-sprak/romska-kale/Seksi-vaguno-var</origFileName>
-    <parallel_text xml:lang="fin" location="eka-kerta.html"/>
-    <parallel_text xml:lang="fit" location="seksia-ensi-kerran.html"/>
-    <parallel_text xml:lang="sma" location="sekse-voestes-aejkien.html"/>
-    <parallel_text xml:lang="sme" location="seksa-vuostta-geardde.html"/>
-    <parallel_text xml:lang="smj" location="seksa-vuostasj-bale.html"/>
-    <parallel_text xml:lang="swe" location="sex-forsta-gangen.html"/>
-    <parallel_text location="jeckesta-tjiron-gla-bulopha.html" xml:lang="rmu"/>
-    <parallel_text location="buledimos-angluni-data.html" xml:lang="rmy-rka"/>
-    <parallel_text location="sekso-angluni-data.html" xml:lang="rmy-rlo"/>
-    <parallel_text location="seksi-o-prvo-puti.html" xml:lang="rmn"/>
-    <parallel_text location="seks-tsum-ershtn-mol.html" xml:lang="yid"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="swe">Seksi váguno var</p>
-    <p xml:lang="swe">Alla undrar!  Vad undrar du?</p>
-    <p type="title" xml:lang="swe">Seksi váguno var</p>
-    <p xml:lang="swe">But var intermalkerela onani angnal len hin seksi pe džiko vauro. Douva váguno dživdariba hin vaureha dóla butime pe pes korkoro. Douva hin normalno te hin but tenkiba ta ventiba te sar douva avela te achel pe váguno var lel seksi pe džiko vauro.</p>
-    <p type="title" xml:lang="swe">Tenkiba pa váguno var</p>
-    <p xml:lang="swe">Kana ná rikhadal seksi pe vaure vojbuvel áchel but tenkiba sar douva avelas te hošavels,sar kamelas te douva avelas ta kana douva fanula. Hin hunjal sar male rakhila pa douva, dikle aro filmi, drabade patrija vaj hunlo vaure so tšérela te lena idea sar douva mote achel.</p>
-    <p xml:lang="swe">Butvares hin dóla rakhiba pa te rikhavel vaginakano pojariba.Dóla ródiba so hin tšerdal sikavela disave sáki, sar eksemplura te sar but kon ná rikhadal vaginkano pojariba kana jón agorila gymnasium. Douva vojbuvela dochavel pa but disave sáki, sar eksemplura te ná kamela,te ná hin ahdas vojiba, te rikhavel seksi pe komuja pa it bijiba vaj hin intresinen pa te vauro seksi ke vaginakano pojariba.</p>
-    <p type="title" xml:lang="swe">Douva agorila korkoro</p>
-    <p xml:lang="swe">Onivar vojbuvela hošavel pes nervosi vaj pe siliha lel seksi vahka te ná saj kamelas hortanes vaj hošela pes agor tšerdo.</p>
-    <p xml:lang="swe">Hin vojiba nína hošelaa pes pe sílaha ventaven pe seksi vahka kamela douva. Te hošavel pes pressad te rikhavel vaj ventaven pe seksi vojuvel dochvel pa skokhako siliba mahkar pe vaj ventiba ka dži esemplura familja.</p>
-    <p xml:lang="swe">Nebi douva hin inportanto te pinsavel te tšérelas ferda so hošelas tšihkas.</p>
-    <p xml:lang="swe">Korkoros lelas agoriba</p>
-    <list>
-      <p type="listitem" xml:lang="swe">pherdal pesko trupos</p>
-      <p type="listitem" xml:lang="swe">te ta kana kamela tšumiba</p>
-      <p type="listitem" xml:lang="swe">po savo manera kamela seksi</p>
-      <p type="listitem" xml:lang="swe">konensa kamela te lel seksi.</p>
-    </list>
-    <p type="title" xml:lang="swe">Bereheskogrensa pe seksi?</p>
-    <p xml:lang="swe">Douva ná džalpe te lel agoriba pa specialno phuriba pe kana hin agortšerdo pe te lelseksi pe džiko vaures,douva mote džanel kokares. Hin ajasavo lága so pheńela te komunis pherdal 15 bereh ná lela lel pojariba,vaj seksi po vauro manera, pe džik kon hin télal 15 bereh. Nebi aro lága sterdola nína te douva te dota ná lela dioma dikhlo te douva ná tšek pherdalno siliba (fanude pe džor).</p>
-    <p xml:lang="swe">Douva hin agordo sar baro berehesho frójijba hin,ka mahkariba hin bariba mahkar duj komuja kon hin rikhade seksi hin tikno ta douva sas pherdo phiѓoivitiko. Lága rálila sáre po it manera sárenge bi bijvibata. Dauva lága hin te arakhel kenti te avel tšundo pe džila so jón ná kamela pa jek phuride komunis. Pálal lága ná koneske hortiba te tšerel džiko seksikano kajo jek so ná kamel.</p>
-    <p type="title" xml:lang="swe">Tipsi anglo te rikhavel seksi pe džiko vauro</p>
-    <p xml:lang="swe">Dauva hin nornalno te váguno seksi ta avela vaures sar hin tenkadal. Onivar saj dauva ka ta hošelas sar te avlo nasukar araklo.</p>
-    <p xml:lang="swe">Seksi hin variso so hiovilas fretavel ta hošelas prakstimen te dólesta avelas hortas tšihko,it sar but vaure aro dživiba. Dauva ná aja but kon hajula bahavel tuko džintako džili po gitara bi te džanel sar lelas jek acord,vaj tšek rikhadal instrumenti! Angnal váguno var hin jek dieli sáki so vojbuvel lel peśa aro tenki ta disave sáki vojbuvel frestavel nína ta džumavel.</p>
-    <list>
-      <p type="listitem" xml:lang="swe">Fresta kuti vaurevitika manera te onariven po angnal,tála hin lokhide te le džanel sar kamelas.</p>
-      <p type="listitem" xml:lang="swe">Te lachel rankane stedi pe vaurengo trupos:rakhavel pe vaurensa,ródel hošel palal ta phen ka.</p>
-      <p type="listitem" xml:lang="swe">Hin baro hioviba te tšumavel ta tšérel but vaure rankiba te tharavel apre vaureha.</p>
-      <p type="listitem" xml:lang="swe">Rikhavel arakhiba, sar eksemplura kondomi vaj traѓa ko lapos ta frestavel anglide sar dóla rikhavelas.</p>
-      <p type="listitem" xml:lang="swe">Te rikhavel seksi po jek sigurikano than vojbuvel tšérel te douva hin lokhide te mukhel avri.</p>
-    </list>
-    <p type="title" xml:lang="swe">Bikamlimen</p>
-    <p xml:lang="swe">Onivar vojbuvela huńel lav bikamlimen kana douva ná bikamlimen.Douva vojbuvela mienavel te ná rikhadal kar aro vagina, nebi douva vojbuvel nína mienavel te ná hin rikhadal tšek seksi.</p>
-    <p xml:lang="swe">Jek dieli ná kamela te rikhavelas o lav bikamlimen. Saj dóleske ke, kana huńelas sar te áchelas úchliba, kana ná achela úhlikano. Sar te landžarelas douva te hin rikhadal seksi.</p>
-    <p xml:lang="swe">But dólenda kon rikhila lav bidohavitiko But pheńena po lokhes bidohavitiko sar jek lav te ná hin rikhadal seksi. Kana hin rikhadal seksi váguno var palal manera hin dóleske nav te hin avlo phiѓo pa bikamlime, vaj hin ke perdo bikamlimen. Saj hosavela pes bohles vaj hin lohani ke ná butvares bikmlimen butide.</p>
-    <p xml:lang="swe">Sakho jekes hin hortiba te tšérel agoriba kana rikhavelas seksi váguno var Dóles ná tšek pe dóleha te tšérel. Ná vojiba te dikhel pe jek komijata hinko dóles achto seksi vaj ná Ná helle jek doktori vaj bijandzika vojbuvel dihkel douva.</p>
-    <p type="title" xml:lang="swe">Sanimortši?</p>
-    <p xml:lang="swe">Douva so mienavehas kana pheńela bikamlimenko mortšijaha hin tšatšunes douva phiѓiba kaj vaginako apruno dieli džala pherdal aro andruno dieli pa vagina. Phiѓiba vojbuvel áchel jek bi reguli phanlo formi ta phiѓbosko hin.Douva vojbvuvel áchel kuti bandždo vaj urnupen. Phiriba bohlavelas ta avela but badžukano tëlal puberteti,nebi douva ná tšekhar nachula.Nebi tšek sánimortši so tšakravela vagina.</p>
-    <p xml:lang="swe">Dólesko khal ke ná ´qchela džiko sanimortik ta tšek so džala phanglo kana hin bijikano phaniba. Dólesko khal vojbuvel jek dieli rattsuvel kana jón rikhila váguno var vaginakano phaniba.</p>
-    <p xml:lang="swe">Ke dólenge kon rattsuvela vojbuvela douva dochvela pa dota te hin cija aro vaginako phiriba hin stívo. Nebi dauva hin normalno te aveala ratt pa disavo vauro doch sar te achelas stivo vaj ná dosta tatimen.</p>
-    <p xml:lang="swe">Douva ná diśula po komujesko phresta ka douva hin bikamlimen vaj ná. Ná hele doktori vaj bijdžanka vojbuvela dikhel douva ka dziko komunis hin rikhadal seksi.</p>
-  </body>
-</document>
+<document xml:lang="rmf" id="no_id"><header><title/><genre code="facta"/><author><unknown/></author><translator><unknown/></translator><translated_from xml:lang="swe"/><wordcount>865</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="rmf"/><language xml:lang="swe"/></multilingual><origFileName>http://www.umo.se/Andra-sprak/romska-kale/Seksi-vaguno-var</origFileName><parallel_text xml:lang="fin" location="eka-kerta.html"/><parallel_text xml:lang="fit" location="seksia-ensi-kerran.html"/><parallel_text xml:lang="sma" location="sekse-voestes-aejkien.html"/><parallel_text xml:lang="sme" location="seksa-vuostta-geardde.html"/><parallel_text xml:lang="smj" location="seksa-vuostasj-bale.html"/><parallel_text xml:lang="swe" location="sex-forsta-gangen.html"/><parallel_text location="jeckesta-tjiron-gla-bulopha.html" xml:lang="rmu"/><parallel_text location="buledimos-angluni-data.html" xml:lang="rmy-rka"/><parallel_text location="sekso-angluni-data.html" xml:lang="rmy-rlo"/><parallel_text location="seksi-o-prvo-puti.html" xml:lang="rmn"/><parallel_text location="seks-tsum-ershtn-mol.html" xml:lang="yid"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Seksi váguno var</p>
+<p type="title">Seksi váguno var</p>
+<p>But var intermalkerela onani angnal len hin seksi pe džiko vauro. Douva váguno dživdariba hin vaureha dóla butime pe pes korkoro. Douva hin normalno te hin but tenkiba ta ventiba te sar douva avela te achel pe váguno var lel seksi pe džiko vauro.</p>
+<p type="title">Tenkiba pa váguno var</p>
+<p>Kana ná rikhadal seksi pe vaure vojbuvel áchel but tenkiba sar douva avelas te hošavels,sar kamelas te douva avelas ta kana douva fanula. Hin hunjal sar male rakhila pa douva, dikle aro filmi, drabade patrija vaj hunlo vaure so tšérela te lena idea sar douva mote achel.</p>
+<p>Butvares hin dóla rakhiba pa te rikhavel vaginakano pojariba.Dóla ródiba so hin tšerdal sikavela disave sáki, sar eksemplura te sar but kon ná rikhadal vaginkano pojariba kana jón agorila gymnasium. Douva vojbuvela dochavel pa but disave sáki, sar eksemplura te ná kamela,te ná hin ahdas vojiba, te rikhavel seksi pe komuja pa it bijiba vaj hin intresinen pa te vauro seksi ke vaginakano pojariba.</p>
+<p type="title">Douva agorila korkoro</p>
+<p>Onivar vojbuvela hošavel pes nervosi vaj pe siliha lel seksi vahka te ná saj kamelas hortanes vaj hošela pes agor tšerdo.</p>
+<p>Hin vojiba nína hošelaa pes pe sílaha ventaven pe seksi vahka kamela douva. Te hošavel pes pressad te rikhavel vaj ventaven pe seksi vojuvel dochvel pa skokhako siliba mahkar pe vaj ventiba ka dži esemplura familja.</p>
+<p>Nebi douva hin inportanto te pinsavel te tšérelas ferda so hošelas tšihkas.</p>
+<p>Korkoros lelas agoriba</p>
+<list><p type="listitem">pherdal pesko trupos</p>
+<p type="listitem">te ta kana kamela tšumiba</p>
+<p type="listitem">po savo manera kamela seksi</p>
+<p type="listitem">konensa kamela te lel seksi.</p>
+</list><p type="title">Bereheskogrensa pe seksi?</p>
+<p>Douva ná džalpe te lel agoriba pa specialno phuriba pe kana hin agortšerdo pe te lelseksi pe džiko vaures,douva mote džanel kokares. Hin ajasavo lága so pheńela te komunis pherdal 15 bereh ná lela lel pojariba,vaj seksi po vauro manera, pe džik kon hin télal 15 bereh. Nebi aro lága sterdola nína te douva te dota ná lela dioma dikhlo te douva ná tšek pherdalno siliba (fanude pe džor).</p>
+<p>Douva hin agordo sar baro berehesho frójijba hin,ka mahkariba hin bariba mahkar duj komuja kon hin rikhade seksi hin tikno ta douva sas pherdo phiѓoivitiko. Lága rálila sáre po it manera sárenge bi bijvibata. Dauva lága hin te arakhel kenti te avel tšundo pe džila so jón ná kamela pa jek phuride komunis. Pálal lága ná koneske hortiba te tšerel džiko seksikano kajo jek so ná kamel.</p>
+<p type="title">Tipsi anglo te rikhavel seksi pe džiko vauro</p>
+<p>Dauva hin nornalno te váguno seksi ta avela vaures sar hin tenkadal. Onivar saj dauva ka ta hošelas sar te avlo nasukar araklo.</p>
+<p>Seksi hin variso so hiovilas fretavel ta hošelas prakstimen te dólesta avelas hortas tšihko,it sar but vaure aro dživiba. Dauva ná aja but kon hajula bahavel tuko džintako džili po gitara bi te džanel sar lelas jek acord,vaj tšek rikhadal instrumenti! Angnal váguno var hin jek dieli sáki so vojbuvel lel peśa aro tenki ta disave sáki vojbuvel frestavel nína ta džumavel.</p>
+<list><p type="listitem">Fresta kuti vaurevitika manera te onariven po angnal,tála hin lokhide te le džanel sar kamelas.</p>
+<p type="listitem">Te lachel rankane stedi pe vaurengo trupos:rakhavel pe vaurensa,ródel hošel palal ta phen ka.</p>
+<p type="listitem">Hin baro hioviba te tšumavel ta tšérel but vaure rankiba te tharavel apre vaureha.</p>
+<p type="listitem">Rikhavel arakhiba, sar eksemplura kondomi vaj traѓa ko lapos ta frestavel anglide sar dóla rikhavelas.</p>
+<p type="listitem">Te rikhavel seksi po jek sigurikano than vojbuvel tšérel te douva hin lokhide te mukhel avri.</p>
+</list><p type="title" xml:lang="swe">Bikamlimen</p>
+<p>Onivar vojbuvela huńel lav bikamlimen kana douva ná bikamlimen.Douva vojbuvela mienavel te ná rikhadal kar aro vagina, nebi douva vojbuvel nína mienavel te ná hin rikhadal tšek seksi.</p>
+<p>Jek dieli ná kamela te rikhavelas o lav bikamlimen. Saj dóleske ke, kana huńelas sar te áchelas úchliba, kana ná achela úhlikano. Sar te landžarelas douva te hin rikhadal seksi.</p>
+<p>But dólenda kon rikhila lav bidohavitiko But pheńena po lokhes bidohavitiko sar jek lav te ná hin rikhadal seksi. Kana hin rikhadal seksi váguno var palal manera hin dóleske nav te hin avlo phiѓo pa bikamlime, vaj hin ke perdo bikamlimen. Saj hosavela pes bohles vaj hin lohani ke ná butvares bikmlimen butide.</p>
+<p>Sakho jekes hin hortiba te tšérel agoriba kana rikhavelas seksi váguno var Dóles ná tšek pe dóleha te tšérel. Ná vojiba te dikhel pe jek komijata hinko dóles achto seksi vaj ná Ná helle jek doktori vaj bijandzika vojbuvel dihkel douva.</p>
+<p type="title" xml:lang="swe">Sanimortši?</p>
+<p>Douva so mienavehas kana pheńela bikamlimenko mortšijaha hin tšatšunes douva phiѓiba kaj vaginako apruno dieli džala pherdal aro andruno dieli pa vagina. Phiѓiba vojbuvel áchel jek bi reguli phanlo formi ta phiѓbosko hin.Douva vojbvuvel áchel kuti bandždo vaj urnupen. Phiriba bohlavelas ta avela but badžukano tëlal puberteti,nebi douva ná tšekhar nachula.Nebi tšek sánimortši so tšakravela vagina.</p>
+<p>Dólesko khal ke ná ´qchela džiko sanimortik ta tšek so džala phanglo kana hin bijikano phaniba. Dólesko khal vojbuvel jek dieli rattsuvel kana jón rikhila váguno var vaginakano phaniba.</p>
+<p>Ke dólenge kon rattsuvela vojbuvela douva dochvela pa dota te hin cija aro vaginako phiriba hin stívo. Nebi dauva hin normalno te aveala ratt pa disavo vauro doch sar te achelas stivo vaj ná dosta tatimen.</p>
+<p>Douva ná diśula po komujesko phresta ka douva hin bikamlimen vaj ná. Ná hele doktori vaj bijdžanka vojbuvela dikhel douva ka dziko komunis hin rikhadal seksi.</p>
+</body></document>

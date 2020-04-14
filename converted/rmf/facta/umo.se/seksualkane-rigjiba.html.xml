@@ -1,68 +1,25 @@
-<document xml:lang="rmf" id="no_id">
-  <header>
-    <title/>
-    <genre code="facta"/>
-    <author>
-      <unknown/>
-    </author>
-    <translator>
-      <unknown/>
-    </translator>
-    <translated_from xml:lang="swe"/>
-    <wordcount>369</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="rmf"/>
-      <language xml:lang="swe"/>
-    </multilingual>
-    <origFileName>http://www.umo.se/Andra-sprak/romska-kale/Seksualkane-rigjiba</origFileName>
-    <parallel_text xml:lang="fin" location="seksuaalinen-suuntautuminen--bi-hetero-homo-.html"/>
-    <parallel_text xml:lang="fit" location="seksuaalinen-taipumus--biiseksuaalinen-hetero-homo.html"/>
-    <parallel_text xml:lang="sma" location="seksuellen-syjhtede--bi-heteroe-homoe.html"/>
-    <parallel_text xml:lang="sme" location="seksualala-sodju---bi-hetero-homo.html"/>
-    <parallel_text xml:lang="smj" location="seksualak-tjardda-bi-hetero-homo.html"/>
-    <parallel_text xml:lang="swe" location="sexuell-laggning---hetero-homo-bi.html"/>
-    <parallel_text location="bulopha-voltrande--bi-hetero-homo.html" xml:lang="rmu"/>
-    <parallel_text location="seksualno-manuipe--bi-hetero-homo.html" xml:lang="rmy-rka"/>
-    <parallel_text location="seksualno-identiteto-bi-hetero-homo.html" xml:lang="rmy-rlo"/>
-    <parallel_text location="seksualikano-orientiribe--biseksualco-hetero-homoseksualco.html" xml:lang="rmn"/>
-    <parallel_text location="seksuelse-nejgung---baj-hetero-homo.html" xml:lang="yid"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="swe">Seksualkane rigjiba</p>
-    <p xml:lang="swe">Alla undrar!  Vad undrar du?</p>
-    <p type="title" xml:lang="swe">Seksualkane rigjiba</p>
-    <p xml:lang="swe">Seksualikani rigjiba hin pa komujens kone hin piriba vaj tharo hin pa bij. Hin vojiba te achel biseksualikani, heteroseksulikani vaj homoseksualikani.</p>
-    <p type="title" xml:lang="swe">So mineila bi, hetero ta homo</p>
-    <p xml:lang="swe">Hin trin seksualikani rigjiba: biseksualikaniba,heteroseksualikani ta homoseksualikaniba. Butvares hin ferda pheńel ,heteri vaj bi.</p>
-    <list>
-      <p type="listitem" xml:lang="swe">Biseksualikaniba hin kan avela kamlimen ari jek vauro džuvli vaj tharo nína pe tšaija ta tšave.</p>
-      <p type="listitem" xml:lang="swe">Heteriseksualikaniba hin kana avela kamlimen tharo po jek vauro bijiba. Jek vauro lav dóleske hin straight.</p>
-      <p type="listitem" xml:lang="swe">Homosesualikano avela kamlimen aro vaj tharo pe džiko pe it bijiba Jek vauro lav dóleske hin gay. Tšaija kon kamena tšaija kharela peske lesbikane vaj flator Tšsave ko kamena vaure tšave kharela pen bögar.</p>
-    </list>
-    <p type="title" xml:lang="swe">Normalno hin te tenkaven pesko seksualikani rigjiba</p>
-    <p xml:lang="swe">Douva hin normalno te tenkaven pesko seksualikani rigjiba.Savo seksualikani rigjiba so rikhavela te hin vojiba te paruvel pes télal pesko dživiba.</p>
-    <p xml:lang="swe">Korkores lela agoriba ka kemelas te kharel pes bi, hetero vaj homo. Hin vojiba nína velkavel te pheńel te ná achela džiko seksualikanirigjiba.</p>
-    <p type="title" xml:lang="swe">Trystalibako ventiba</p>
-    <p xml:lang="swe">Trystaliba džala butvares dota te hin heterseksualkani. Kana ná hošela pes aro douva vojbuvela douva tšérel te hošela pes vaurovitiko, bidikhivitiko kano vaj avrikano.</p>
-    <p type="title" xml:lang="swe">Te rakhavel pa pesko seksualkani rigjiba</p>
-    <p xml:lang="swe">Bi dotta savo seksualkani rigjiba hin lela sárenes korkores agoriba dota pa ta kana kamela rakhavel pa douva vaurenge.</p>
-    <p xml:lang="swe">Kana hin heteroseksualkani ná áchela hioviba te rakhavel douva ke but lena douva sar normalno.</p>
-    <p xml:lang="swe">Kana hin homoseksualkani vaj biseksualkani, vojbuvel onivar hošavel te kamela vaj hiovila rakhavel douva.</p>
-    <p type="title" xml:lang="swe">Seksualkani rigjibake ná tšek manera vaj sar diśula te tšérel</p>
-    <p xml:lang="swe">Onivar sajpe disave tenkila te hin pe jek manera jek téluno falda savo seksualikani rigjiba komujeske hin. Te mote rikhavel pa disave sáki, diśuvel pe disave manera vaj áchel disave intreśi.</p>
-    <p xml:lang="swe">Nebi karakteri, diśiba, intreśi vaj sar velkavela te dživel pesko dživiba, dólen tšek te tšérel savo sesualkani rigjiba komujeske hin.</p>
-    <p type="title" xml:lang="swe">Bilágavitiko te diskriminela tšek komujes pa lesko seksualkani rigjibako khal</p>
-    <p xml:lang="swe">Bi dota savo seksualikani hin sárenes hin hortiba te dživel pesko dživiba sar kamelas.</p>
-    <p xml:lang="swe">Te dikrimininela džiko komujes palal pesko seksualikani rigjibakhal hin douva jek specialno fárdiko phagiriba so kharela hóljibosko phagaribaske.</p>
-    <p xml:lang="swe">Kana avelas tšundo pe síla pesko seksualkani rigjibako khal hin douva jek specialno but baro phagariba so kharelas hóljiboskophagaribaske.</p>
-  </body>
-</document>
+<document xml:lang="rmf" id="no_id"><header><title/><genre code="facta"/><author><unknown/></author><translator><unknown/></translator><translated_from xml:lang="swe"/><wordcount>364</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="rmf"/><language xml:lang="swe"/></multilingual><origFileName>http://www.umo.se/Andra-sprak/romska-kale/Seksualkane-rigjiba</origFileName><parallel_text xml:lang="fin" location="seksuaalinen-suuntautuminen--bi-hetero-homo-.html"/><parallel_text xml:lang="fit" location="seksuaalinen-taipumus--biiseksuaalinen-hetero-homo.html"/><parallel_text xml:lang="sma" location="seksuellen-syjhtede--bi-heteroe-homoe.html"/><parallel_text xml:lang="sme" location="seksualala-sodju---bi-hetero-homo.html"/><parallel_text xml:lang="smj" location="seksualak-tjardda-bi-hetero-homo.html"/><parallel_text xml:lang="swe" location="sexuell-laggning---hetero-homo-bi.html"/><parallel_text location="bulopha-voltrande--bi-hetero-homo.html" xml:lang="rmu"/><parallel_text location="seksualno-manuipe--bi-hetero-homo.html" xml:lang="rmy-rka"/><parallel_text location="seksualno-identiteto-bi-hetero-homo.html" xml:lang="rmy-rlo"/><parallel_text location="seksualikano-orientiribe--biseksualco-hetero-homoseksualco.html" xml:lang="rmn"/><parallel_text location="seksuelse-nejgung---baj-hetero-homo.html" xml:lang="yid"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Seksualkane rigjiba</p>
+<p type="title">Seksualkane rigjiba</p>
+<p>Seksualikani rigjiba hin pa komujens kone hin piriba vaj tharo hin pa bij. Hin vojiba te achel biseksualikani, heteroseksulikani vaj homoseksualikani.</p>
+<p type="title" xml:lang="swe">So mineila bi, hetero ta homo</p>
+<p>Hin trin seksualikani rigjiba: biseksualikaniba,heteroseksualikani ta homoseksualikaniba. Butvares hin ferda pheńel ,heteri vaj bi.</p>
+<list><p type="listitem">Biseksualikaniba hin kan avela kamlimen ari jek vauro džuvli vaj tharo nína pe tšaija ta tšave.</p>
+<p type="listitem">Heteriseksualikaniba hin kana avela kamlimen tharo po jek vauro bijiba. Jek vauro lav dóleske hin straight.</p>
+<p type="listitem">Homosesualikano avela kamlimen aro vaj tharo pe džiko pe it bijiba Jek vauro lav dóleske hin gay. Tšaija kon kamena tšaija kharela peske lesbikane vaj flator Tšsave ko kamena vaure tšave kharela pen bögar.</p>
+</list><p type="title">Normalno hin te tenkaven pesko seksualikani rigjiba</p>
+<p>Douva hin normalno te tenkaven pesko seksualikani rigjiba.Savo seksualikani rigjiba so rikhavela te hin vojiba te paruvel pes télal pesko dživiba.</p>
+<p>Korkores lela agoriba ka kemelas te kharel pes bi, hetero vaj homo. Hin vojiba nína velkavel te pheńel te ná achela džiko seksualikanirigjiba.</p>
+<p type="title">Trystalibako ventiba</p>
+<p>Trystaliba džala butvares dota te hin heterseksualkani. Kana ná hošela pes aro douva vojbuvela douva tšérel te hošela pes vaurovitiko, bidikhivitiko kano vaj avrikano.</p>
+<p type="title">Te rakhavel pa pesko seksualkani rigjiba</p>
+<p>Bi dotta savo seksualkani rigjiba hin lela sárenes korkores agoriba dota pa ta kana kamela rakhavel pa douva vaurenge.</p>
+<p>Kana hin heteroseksualkani ná áchela hioviba te rakhavel douva ke but lena douva sar normalno.</p>
+<p>Kana hin homoseksualkani vaj biseksualkani, vojbuvel onivar hošavel te kamela vaj hiovila rakhavel douva.</p>
+<p type="title">Seksualkani rigjibake ná tšek manera vaj sar diśula te tšérel</p>
+<p>Onivar sajpe disave tenkila te hin pe jek manera jek téluno falda savo seksualikani rigjiba komujeske hin. Te mote rikhavel pa disave sáki, diśuvel pe disave manera vaj áchel disave intreśi.</p>
+<p>Nebi karakteri, diśiba, intreśi vaj sar velkavela te dživel pesko dživiba, dólen tšek te tšérel savo sesualkani rigjiba komujeske hin.</p>
+<p type="title">Bilágavitiko te diskriminela tšek komujes pa lesko seksualkani rigjibako khal</p>
+<p>Bi dota savo seksualikani hin sárenes hin hortiba te dživel pesko dživiba sar kamelas.</p>
+<p>Te dikrimininela džiko komujes palal pesko seksualikani rigjibakhal hin douva jek specialno fárdiko phagiriba so kharela hóljibosko phagaribaske.</p>
+<p>Kana avelas tšundo pe síla pesko seksualkani rigjibako khal hin douva jek specialno but baro phagariba so kharelas hóljiboskophagaribaske.</p>
+</body></document>

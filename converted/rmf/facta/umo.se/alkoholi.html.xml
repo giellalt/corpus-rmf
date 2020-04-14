@@ -1,69 +1,27 @@
-<document xml:lang="rmf" id="no_id">
-  <header>
-    <title/>
-    <genre code="facta"/>
-    <author>
-      <unknown/>
-    </author>
-    <translator>
-      <unknown/>
-    </translator>
-    <translated_from xml:lang="swe"/>
-    <wordcount>767</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="rmf"/>
-      <language xml:lang="swe"/>
-    </multilingual>
-    <origFileName>http://www.umo.se/Andra-sprak/romska-kale/Alkoholi</origFileName>
-    <parallel_text xml:lang="fin" location="alkoholi.html"/>
-    <parallel_text xml:lang="fit" location="alkkuhooli.html"/>
-    <parallel_text xml:lang="sma" location="alkohole.html"/>
-    <parallel_text xml:lang="sme" location="alkohola.html"/>
-    <parallel_text xml:lang="smj" location="alkohola.html"/>
-    <parallel_text xml:lang="swe" location="alkohol.html"/>
-    <parallel_text location="alkohol.html" xml:lang="rmu"/>
-    <parallel_text location="alkoholo.html" xml:lang="rmy-rka"/>
-    <parallel_text location="alkoholo.html" xml:lang="rmy-rlo"/>
-    <parallel_text location="alkoholi.html" xml:lang="rmn"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="swe">Alkoholi</p>
-    <p xml:lang="swe">Alla undrar!  Vad undrar du?</p>
-    <p type="title" xml:lang="swe">Alkoholi</p>
-    <p xml:lang="swe">Pe alkoholi mienavelas píjiba sar hymera, mól ta tšerki. But pívena ke douva hin gudlo vaj te avenas mato. Alkoholi vojbuvel nína áchel fárligo pe but maneraha. Douva vojbuvel te del disave fiela ta nasvaliba, pahvares tšérel te nouruvelas aro pharo vaj fárdigo situasiaja. Jek dieli lela dar ta hosela pen bilatšes ke jón pívena.</p>
-    <p xml:lang="swe">Te arakhel dóles kon hin terrno hin dóleske bersibakogrensa 18 bereh te tšińel aro kirtsi ta 20 bereh te tšińel aro systembolag. Vahka lelas te tšińel peske alkoholi hin douva niekimen te tšińel vaurenge kon ná lela.</p>
-    <p type="title" xml:lang="swe">Sostar pívelas?</p>
-    <p xml:lang="swe">But pívena ke douva hin gudlo ta latši. Jek dieli pívena dóleske ke jón prinsaravela pen bisigurno. Kana pívelas dóleske te lelas fendide vaj te tiknavel pherdo dar vaj kana pívelas but, vojbuvelas píjiba liedavel ka džungalo istelmaltšeribaske. Vojbuvelas te džal bilatšes, nína ke pívela vaj pálal.</p>
-    <p xml:lang="swe">Kana sal terno vojbuvela douva hošela sar jek stakriba kajo perdobereh ta fretavel alkoholi. Saj ávelas te džumavel alkoholi aro tšére, vaj frestavel pes korkores vaj pe málensa. Douva hin sadivisinutno te ná hortas džanelas peske pívenasko vaj ná váguno var, vaj džumavelas dóleske ke vaure pívena vaj ke hin“ mostiba“. Nebi kana vetavela ta tromuvela te pheńel priśi hin but te vińavel. Aja butide ke ventavela but fendide, dólesko khal ke tiknavela rizutni.</p>
-    <p type="title" xml:lang="swe">So fanuvela kana pívelas?</p>
-    <p xml:lang="swe">Kana ávelas mato phagaravelas singnali aro gódi jakhes te tenkiba, hosiba, minsiba, balansi ta vieriba agorlela bilatšes. Sikjardiba te lel sama pa maśengo kontroli kavieravel nína.</p>
-    <p xml:lang="swe">Kana agoribosko kontroli ávela bifendide ná haljuvelas pa sáki so fanuvela aro trystalinba pe it manera kana áchelas bimato. Hin vojiba te tšérel ajasave tšeriba so ná tšérelas vaures: rakhavelas pe butide komujen, tšelavelas, malavela vaj astarela džuvja ta frestavelas neve sáki. Bifendide hokiba tšerela nína te hin bilokhide te džanel so hin rizutno vaj fárdivitiko. Kana hin mato vojbuvelas dóleske tšérel ajasave sáki so vojbuvela del but tšatšune aviba.</p>
-    <p xml:lang="swe">Disave faniba so vojbuvela fanuvel ka hin píjas pes mato:</p>
-    <list>
-      <p type="listitem" xml:lang="swe">Te nachavelas guosi vaj te dóla phagaravelas, ke ná lelas peske kontroli vaj ávelas tšórjimen.</p>
-      <p type="listitem" xml:lang="swe">Te nouruvelas aro kuѓiva vaj lelas peske te marel. Douva hin but sadivisikano te nouruvelas aro kuѓiba pa sáki so ná lelas te kuѓel sar bimato.</p>
-      <p type="listitem" xml:lang="swe">Te rikhavelas seksi vahka ná kamelas. Ka áchelas mato hin bilockho te phenel ná,ta douva vojbuvela liedavel te rikhavelas pes vaj dólen vaure kónen hin rikhavelas seksi so kainelas, vaj aro seksikanosíliba.</p>
-      <p type="listitem" xml:lang="swe">Te rikhavelas peske seksi bi te arakhel pes, ta lela peske rizko te lel bijavnonasvaliba, vaj ávelas vaj tšérela vaure pháreske.</p>
-      <p type="listitem" xml:lang="swe">Te frestavela vaure drab. Butvare lendar hin píne alkoholi kana jón frestavena drab váguno var, saj dóleske ke tenkavela te douva ná aahhelahela aja darunutno buti.</p>
-      <p type="listitem" xml:lang="swe">Te nouruvelas aro jek bibahtaliba. Saj eksemplura pe mobedi vaj pe béroha, te péravela ta marela pes vaj pérela aro páni.</p>
-      <p type="listitem" xml:lang="swe">Te lela vaj phagaravela vaurengo guosi, vaj lela peske aro than kaj ná lelas te áchel.</p>
-      <p type="listitem" xml:lang="swe">Te džala bilatšes ta lela pherdo dar pálal píjiba. Douva vojbuvela vieruvel dota te hin tšerdal sáki so kainela vaj lansavela vaj ávela sar reaksija pa trupos.</p>
-      <p type="listitem" xml:lang="swe">Te lelas bilokho te lel arakhiba pa skola vaj buti. Alkoholi áchela aro trupos pálal ka hin áchdal mato, ta douva vojbuvel lel butide ke jek dives angnal gódi lel pherdo funksija sar eksemplura te minsavelas ta sikjuvelas pes sáki.</p>
-    </list>
-    <p xml:lang="swe">Disave komuja tenkavela te hin tiknide darbuti te pível ke ná tšérelas douva butvares, sar eksemplura ferda pe kurkedivisija, vahka pívels pes but. Nebi dauva ná hortas.</p>
-    <p type="title" xml:lang="swe">Pálal díves</p>
-    <p xml:lang="swe">Vojbuvelas áchel mato pa alkoholi pálal díves ka hin píjal. Douva vierula dota sar but hin píjal. Jek eksemplura hin te alkoholi pa jek džoralohymera hin aro trupos trin ta star stuńa. Ná hin tšek manera sar vojbuvelas hastavel dóles te džal hastes. Vahka áchelas mamurlikano hin komujesko vieriba bifendide ke vaures ta hin bilokho te lel arakhiba pa sáki sar hyövylas. Sar eksemplura vojbuvel áchel te hin fárligo te drádel mobedi vaj béros, ta ka hin alkoholi pańa aro trupos hin douva bi bilágavitiko.</p>
-    <p type="title" xml:lang="swe">Alkoholijako drab</p>
-    <p xml:lang="swe">Sáre reagirinela disaves pe alkoholi ta steśuvela disaves alkoholi, nebi hin sárenes jek grensa kaj trupos phenela dosta. Douva hin butvares te tšadelas vaj lela te souvel. Ka ávelas bidzálimen vojbuvel áchel but darbuti, ta mote noruvel aro nasvalengo tšér.</p>
-    <p xml:lang="swe">Ke hin biróligo pálal disave kon hin píjal, hin hioviba te lel kontakto bare komujen, nasvalibosko godidíjiba, betski vaj trádel aro nasvalengo tšér. Ka džiko hin avlo džálimen mote bahaves 112. Ná mote frestaves komujes te tšadavel vaj lengavel hielo páni pe les vaj la, ke hin darbuti te vojbuvel fanuvel vaure bilatsiba vaj bibachtaliba.</p>
-  </body>
-</document>
+<document xml:lang="rmf" id="no_id"><header><title/><genre code="facta"/><author><unknown/></author><translator><unknown/></translator><translated_from xml:lang="swe"/><wordcount>762</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="rmf"/><language xml:lang="swe"/></multilingual><origFileName>http://www.umo.se/Andra-sprak/romska-kale/Alkoholi</origFileName><parallel_text xml:lang="fin" location="alkoholi.html"/><parallel_text xml:lang="fit" location="alkkuhooli.html"/><parallel_text xml:lang="sma" location="alkohole.html"/><parallel_text xml:lang="sme" location="alkohola.html"/><parallel_text xml:lang="smj" location="alkohola.html"/><parallel_text xml:lang="swe" location="alkohol.html"/><parallel_text location="alkohol.html" xml:lang="rmu"/><parallel_text location="alkoholo.html" xml:lang="rmy-rka"/><parallel_text location="alkoholo.html" xml:lang="rmy-rlo"/><parallel_text location="alkoholi.html" xml:lang="rmn"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Alkoholi</p>
+<p type="title">Alkoholi</p>
+<p>Pe alkoholi mienavelas píjiba sar hymera, mól ta tšerki. But pívena ke douva hin gudlo vaj te avenas mato. Alkoholi vojbuvel nína áchel fárligo pe but maneraha. Douva vojbuvel te del disave fiela ta nasvaliba, pahvares tšérel te nouruvelas aro pharo vaj fárdigo situasiaja. Jek dieli lela dar ta hosela pen bilatšes ke jón pívena.</p>
+<p>Te arakhel dóles kon hin terrno hin dóleske bersibakogrensa 18 bereh te tšińel aro kirtsi ta 20 bereh te tšińel aro systembolag. Vahka lelas te tšińel peske alkoholi hin douva niekimen te tšińel vaurenge kon ná lela.</p>
+<p type="title">Sostar pívelas?</p>
+<p>But pívena ke douva hin gudlo ta latši. Jek dieli pívena dóleske ke jón prinsaravela pen bisigurno. Kana pívelas dóleske te lelas fendide vaj te tiknavel pherdo dar vaj kana pívelas but, vojbuvelas píjiba liedavel ka džungalo istelmaltšeribaske. Vojbuvelas te džal bilatšes, nína ke pívela vaj pálal.</p>
+<p>Kana sal terno vojbuvela douva hošela sar jek stakriba kajo perdobereh ta fretavel alkoholi. Saj ávelas te džumavel alkoholi aro tšére, vaj frestavel pes korkores vaj pe málensa. Douva hin sadivisinutno te ná hortas džanelas peske pívenasko vaj ná váguno var, vaj džumavelas dóleske ke vaure pívena vaj ke hin“ mostiba“. Nebi kana vetavela ta tromuvela te pheńel priśi hin but te vińavel. Aja butide ke ventavela but fendide, dólesko khal ke tiknavela rizutni.</p>
+<p type="title">So fanuvela kana pívelas?</p>
+<p>Kana ávelas mato phagaravelas singnali aro gódi jakhes te tenkiba, hosiba, minsiba, balansi ta vieriba agorlela bilatšes. Sikjardiba te lel sama pa maśengo kontroli kavieravel nína.</p>
+<p>Kana agoribosko kontroli ávela bifendide ná haljuvelas pa sáki so fanuvela aro trystalinba pe it manera kana áchelas bimato. Hin vojiba te tšérel ajasave tšeriba so ná tšérelas vaures: rakhavelas pe butide komujen, tšelavelas, malavela vaj astarela džuvja ta frestavelas neve sáki. Bifendide hokiba tšerela nína te hin bilokhide te džanel so hin rizutno vaj fárdivitiko. Kana hin mato vojbuvelas dóleske tšérel ajasave sáki so vojbuvela del but tšatšune aviba.</p>
+<p>Disave faniba so vojbuvela fanuvel ka hin píjas pes mato:</p>
+<list><p type="listitem">Te nachavelas guosi vaj te dóla phagaravelas, ke ná lelas peske kontroli vaj ávelas tšórjimen.</p>
+<p type="listitem">Te nouruvelas aro kuѓiva vaj lelas peske te marel. Douva hin but sadivisikano te nouruvelas aro kuѓiba pa sáki so ná lelas te kuѓel sar bimato.</p>
+<p type="listitem">Te rikhavelas seksi vahka ná kamelas. Ka áchelas mato hin bilockho te phenel ná,ta douva vojbuvela liedavel te rikhavelas pes vaj dólen vaure kónen hin rikhavelas seksi so kainelas, vaj aro seksikanosíliba.</p>
+<p type="listitem">Te rikhavelas peske seksi bi te arakhel pes, ta lela peske rizko te lel bijavnonasvaliba, vaj ávelas vaj tšérela vaure pháreske.</p>
+<p type="listitem">Te frestavela vaure drab. Butvare lendar hin píne alkoholi kana jón frestavena drab váguno var, saj dóleske ke tenkavela te douva ná aahhelahela aja darunutno buti.</p>
+<p type="listitem">Te nouruvelas aro jek bibahtaliba. Saj eksemplura pe mobedi vaj pe béroha, te péravela ta marela pes vaj pérela aro páni.</p>
+<p type="listitem">Te lela vaj phagaravela vaurengo guosi, vaj lela peske aro than kaj ná lelas te áchel.</p>
+<p type="listitem">Te džala bilatšes ta lela pherdo dar pálal píjiba. Douva vojbuvela vieruvel dota te hin tšerdal sáki so kainela vaj lansavela vaj ávela sar reaksija pa trupos.</p>
+<p type="listitem">Te lelas bilokho te lel arakhiba pa skola vaj buti. Alkoholi áchela aro trupos pálal ka hin áchdal mato, ta douva vojbuvel lel butide ke jek dives angnal gódi lel pherdo funksija sar eksemplura te minsavelas ta sikjuvelas pes sáki.</p>
+</list><p>Disave komuja tenkavela te hin tiknide darbuti te pível ke ná tšérelas douva butvares, sar eksemplura ferda pe kurkedivisija, vahka pívels pes but. Nebi dauva ná hortas.</p>
+<p type="title">Pálal díves</p>
+<p>Vojbuvelas áchel mato pa alkoholi pálal díves ka hin píjal. Douva vierula dota sar but hin píjal. Jek eksemplura hin te alkoholi pa jek džoralohymera hin aro trupos trin ta star stuńa. Ná hin tšek manera sar vojbuvelas hastavel dóles te džal hastes. Vahka áchelas mamurlikano hin komujesko vieriba bifendide ke vaures ta hin bilokho te lel arakhiba pa sáki sar hyövylas. Sar eksemplura vojbuvel áchel te hin fárligo te drádel mobedi vaj béros, ta ka hin alkoholi pańa aro trupos hin douva bi bilágavitiko.</p>
+<p type="title">Alkoholijako drab</p>
+<p>Sáre reagirinela disaves pe alkoholi ta steśuvela disaves alkoholi, nebi hin sárenes jek grensa kaj trupos phenela dosta. Douva hin butvares te tšadelas vaj lela te souvel. Ka ávelas bidzálimen vojbuvel áchel but darbuti, ta mote noruvel aro nasvalengo tšér.</p>
+<p>Ke hin biróligo pálal disave kon hin píjal, hin hioviba te lel kontakto bare komujen, nasvalibosko godidíjiba, betski vaj trádel aro nasvalengo tšér. Ka džiko hin avlo džálimen mote bahaves 112. Ná mote frestaves komujes te tšadavel vaj lengavel hielo páni pe les vaj la, ke hin darbuti te vojbuvel fanuvel vaure bilatsiba vaj bibachtaliba.</p>
+</body></document>

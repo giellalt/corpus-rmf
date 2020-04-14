@@ -1,74 +1,36 @@
-<document xml:lang="rmf" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>820</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="rmf"/>
-      <language xml:lang="swe"/>
-    </multilingual>
-    <origFileName>http://www.lansstyrelsen.se/skane/rom-ka/naringsliv-och-foreningar/Pages/default.aspx</origFileName>
-    <parallel_text xml:lang="eng" location="naringsliv-och-foreningar.html"/>
-    <parallel_text xml:lang="fin" location="naringsliv-och-foreningar.html"/>
-    <parallel_text xml:lang="fit" location="naringsliv-och-foreningar.html"/>
-    <parallel_text xml:lang="sma" location="naringsliv-och-foreningar.html"/>
-    <parallel_text xml:lang="sme" location="naringsliv-och-foreningar.html"/>
-    <parallel_text xml:lang="swe" location="naringsliv-och-foreningar.html"/>
-    <parallel_text location="naringsliv-och-foreningar.html" xml:lang="rmu"/>
-    <parallel_text location="naringsliv-och-foreningar.html" xml:lang="rmy-rka"/>
-    <parallel_text location="naringsliv-och-foreningar.html" xml:lang="rmy-rlo"/>
-    <parallel_text location="naringsliv-och-foreningar.html" xml:lang="rmn"/>
-    <parallel_text location="naringsliv-och-foreningar.html" xml:lang="yid"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="swe">Frestibakodživiba ta sankibi - Länsstyrelsen Skåne</p>
-    <list>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe">Frestibakodživiba &amp; sankibi</p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-    </list>
-    <p xml:lang="swe"></p>
-    <p type="title" xml:lang="swe">Frestibakodživiba ta sankibi</p>
-    <p xml:lang="swe"><em type="italic">Themeskifaldiba dela stimulásia thanesko frestibonge pe but disave manera te tšerel jek džoralo ekominikano bohliba ja uštavel frestiba. Themeskifaldiba dela džoraliba Themeskoifaldiba frestibako dživiba te tšérel buti pe puchibi so rália frestibako dživiba ta tšérel buti pe dála puchiba so rálila itvériba,trystaliba ta inregrasija te džoravel bohliba ta barjiba. </em></p>
-    <p type="title" xml:lang="swe">Frestibakobohliba</p>
-    <p xml:lang="swe">Themeskifaldiba dela stimulásia thanesko frestibako dživibake te tšerel džoralo bohliba ta uštavel frestibako tšeriba. Ame angouvá gávensa, frestibakodživiba ta vaure organisasija te uštavel dóla natinalne resin pe regionalno barjibamenkopolitika. Dženom disave louve ta dumudiba Themeskifaldiba mote te hahtavel te avelas latšo fresibako, latšo infrastukturi aro disave formi pa komunikasija, sikjiba, ta ródiba ta klima. Ta dumudiba aro finansija Ame kháravá nína frestibako dživiba te tšérel buti pe dála puchibaha so rálila itvériba, trytaliba ta integrasija, džorjavel bohliba ta barjiba.</p>
-    <p type="title" xml:lang="swe">Frestibako dumudiba</p>
-    <p xml:lang="swe">Sakho bereh lelaThemeskifaldiba louve kotar regeringo so mote rikhaves ka disave frestibako dumudiba. Dumudiba mote żutil phuvjako frestiba po jek langhtotíja latšiba ta barjiba. Dumudibako barjiba ta rigja baruvela mahkar disave phuvja ta perdalnes tíja, pa dota save resursi ta save butja hin regeringe dílaj phuvjeske. Ame saj sar vaureha invenstering, biknibako ińovatioskobohliba ta sikjiba aro tikne ta mahkurno bare frestiba. Perdales hin pańa jek specialno komenrsialno dumudiba aro phuvjakothanengo serviake, sar eksemplura phuvjakobuota ta makhiboskostásija.</p>
-    <p type="title" xml:lang="swe">Konkurensi</p>
-    <p xml:lang="swe">Konkursi stimlera fendie rikhiba pa themjako ta dela vojiba neve frestibake ta jek fendide rikhiba pa themesko resursi ta tšérela vojiba neve fresibake avek po marakni. Themeskifaldiba mote te tšerel itbutja pe Konkurensi ingariba aro itbutja dżorjavel konkurensi aro privatno ta ofensialno frestiba.Ame mote da informasija pa konkurensijako puchiba ta hokavel kana ná pherdavelas konkurensiagoribata.Saj te lehas te lel kontakto amenge kana tu tenkavela te tšińiboskiero hin avlo te steĺavel frestiba nikhi.</p>
-    <p type="title" xml:lang="swe">Projektoskodumudiba</p>
-    <p xml:lang="swe">Themeskifaldiba saj del tuke ekonomikano dumudiba so latšavela regionalno bohliba ta barjiba.Tu saj te ródes ka tut korkores vaj pe vaureha hin jek idea so tumen kamen te dradel dženom aro jek projektos. Projektos mote áchel nevo so ná hin tšerdal sigide,mote áchel avri pa tuko orginalno frestiba ta áchel phanlo aro jek tíake. Resultati pa projektos mote áchel latšiba but dženenge.</p>
-    <p type="title" xml:lang="swe">Louvengo thouviba</p>
-    <p xml:lang="swe">Themeskifaldibake hin angluno angnál sváriba pa priśibako butjata kajo louvengothouviba ta finansieriba pa teŕorismi dženom te granskavel fysikane ta juridikane džéne.Louvengothouvibata hin puciba kana louve ávela kotar lurikane butjata baruvelas are aviba so saj te sikaves phiŕes.baruvela finansiering mienila te ekonomijako dumudiba dumudel te teŕorismi.dženom horta dimudibako louvego dumudiba vaj dženom ta lela priśi louve ta spáriba so finansirela teŕorism mote finansirel teŕrorismi.</p>
-    <p type="title" xml:lang="swe">Stifelsi</p>
-    <p xml:lang="swe">Themeskifaldiba hin jek vollibako haugáge pe dole stitelsi so hin aro phuv ta lel angnál sváriba te tšuvel dolen aro regiterija. Jek stiftelsi hin korkokano barvaliba ta tšuvela louvo pe jek resinjake.Jek angleskiere vaj rikhaven sar jón kamena.Themeskifaldibake hin jek databas kaj tu saj te dikhe kaj tu saj te dikhes save stiftelsi hin aro Svedo, lengo starakiba, kontaktomanuš ta pańa bút butide.</p>
-    <p xml:lang="swe">&gt;&gt; Dża ka databas (sveitiko)</p>
-    <p type="title" xml:lang="swe">Voĺibakofrestiba voĺila  tšére</p>
-    <p xml:lang="swe">Jek voĺibakofrestiba voĺila sárekane tšére, disave, ofensialno steĺibi vaj pa korkokano manuš. Sáre voĺibako frestibake mote achel lóvi so akharelas pe náveha auktorisatio, paThemeskifaldibata. Perdal auktorisatiomote amen dokhel la tšes sa personali vahka jón ná tšérena voĺibako buti, ta dehas fresibake lóvi te rikhavel voĺibakodżukle.</p>
-    <p type="title" xml:lang="swe">Matšengofrestiba</p>
-    <p xml:lang="swe">Themeskifaldiba tšérela buti te rikhavel phaĺo ta jek langhtokano matšiba.Douva hin Themeski faldiba kon tšérela agoriba te etablirinela matše ta krabko ta mušlengobrúkiba. Amen saj nína dá dumudibakolouvo ka matšengierenge licensi te frestibako matšengierenge. Ame saj te del lovengo dumudiba frestibako matšengierenge konen hin licensi jakhes te jón lena latšaven pengo matšibako béri. Themeskifaldiba dielavela EU-dumudiba ta bút butide. EU-dumudiba aro frestikano matšiba, pánijako rikhiba EU-dumudiba ka berengiengoinsturija , sikjiba,bohlibako ta bú butide. Amen saj nína de del ekonomikano dumudiba dólenge kon kamela te bohlavel, etabliera ta biknavel turistijengo frestibake.</p>
-    <p type="title" xml:lang="swe">Bérengophagariba</p>
-    <p xml:lang="swe">Dóles konen hin bérengopghagariba mote áchel la tše pa Themeskifaldiba aro douva phuvjes kaj frestiba rikhavehas.Ame voĺavaa te bérengophagaribabosko frestibaVi kontroĺerar att lágibi pherdela kommunens miljökrav ta att den som ródela har de bygglov ta lóvi som behövs. Uttjänta bilar saj också lämnas tiĺ ett mottagningśtäĺe, en platš som protucenterna utšett. Mottagningśtäĺen ska anmälas tiĺ Themeskifaldiba av bilprotucenterna.</p>
-    <p type="title" xml:lang="swe">Simadibanko</p>
-    <p xml:lang="swe">Jek simadijakobanko hin jek frestiba so dela tuke úhles louve ka tu mekheha variso sar simadi.Douva hin Themskifaldiba so dela simadibankake lóvi ta voĺila lén.Douva kon frestavena jek simadibanko hyövyla lóvi paThemeskifaldiba aro douva phuva kaj ińasto fresiba Jek simadibanko hin lehas ińasto rikhaves pa jek sveitiko aktšija vaj itšlaga aŕe aro EES-kotoriba.</p>
-    <p type="title" xml:lang="swe">Kheliba ta sporti</p>
-    <p xml:lang="swe">Te tšerel jek nakhiba pe béreha po drom hyövylas lóvi kotar Themeskifaldiba aro douva phujata kaj nakhiba lelpe. Te tšérel tréni, nakhiba ta sikjibako kambakomatši ródehas te tšöks hamen Themeskifaldiba aro Örebro phuv. Ka fresvehas bingo vaj loteri aro butide phuvja aro jek komuna aro so hunjula are aro phuvja. Themeskifaldiba so dela lóvi. Kana loterija tšérerelas pa jek tšetiba so dela lóvi aro douva phuva kaj tšetiba hin aktivno aro jek komuna dóleske hin komunake.</p>
-  </body>
-</document>
+<document xml:lang="rmf" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>820</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="rmf"/><language xml:lang="swe"/></multilingual><origFileName>http://www.lansstyrelsen.se/skane/rom-ka/naringsliv-och-foreningar/Pages/default.aspx</origFileName><parallel_text xml:lang="eng" location="naringsliv-och-foreningar.html"/><parallel_text xml:lang="fin" location="naringsliv-och-foreningar.html"/><parallel_text xml:lang="fit" location="naringsliv-och-foreningar.html"/><parallel_text xml:lang="sma" location="naringsliv-och-foreningar.html"/><parallel_text xml:lang="sme" location="naringsliv-och-foreningar.html"/><parallel_text xml:lang="swe" location="naringsliv-och-foreningar.html"/><parallel_text location="naringsliv-och-foreningar.html" xml:lang="rmu"/><parallel_text location="naringsliv-och-foreningar.html" xml:lang="rmy-rka"/><parallel_text location="naringsliv-och-foreningar.html" xml:lang="rmy-rlo"/><parallel_text location="naringsliv-och-foreningar.html" xml:lang="rmn"/><parallel_text location="naringsliv-och-foreningar.html" xml:lang="yid"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Frestibakodživiba ta sankibi - Länsstyrelsen Skåne</p>
+<list><p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem">Frestibakodživiba &amp; sankibi</p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+</list><p xml:lang="swe"></p>
+<p type="title">Frestibakodživiba ta sankibi</p>
+<p><em type="italic">Themeskifaldiba dela stimulásia thanesko frestibonge pe but disave manera te tšerel jek džoralo ekominikano bohliba ja uštavel frestiba. Themeskifaldiba dela džoraliba Themeskoifaldiba frestibako dživiba te tšérel buti pe puchibi so rália frestibako dživiba ta tšérel buti pe dála puchiba so rálila itvériba,trystaliba ta inregrasija te džoravel bohliba ta barjiba. </em></p>
+<p type="title">Frestibakobohliba</p>
+<p>Themeskifaldiba dela stimulásia thanesko frestibako dživibake te tšerel džoralo bohliba ta uštavel frestibako tšeriba. Ame angouvá gávensa, frestibakodživiba ta vaure organisasija te uštavel dóla natinalne resin pe regionalno barjibamenkopolitika. Dženom disave louve ta dumudiba Themeskifaldiba mote te hahtavel te avelas latšo fresibako, latšo infrastukturi aro disave formi pa komunikasija, sikjiba, ta ródiba ta klima. Ta dumudiba aro finansija Ame kháravá nína frestibako dživiba te tšérel buti pe dála puchibaha so rálila itvériba, trytaliba ta integrasija, džorjavel bohliba ta barjiba.</p>
+<p type="title">Frestibako dumudiba</p>
+<p>Sakho bereh lelaThemeskifaldiba louve kotar regeringo so mote rikhaves ka disave frestibako dumudiba. Dumudiba mote żutil phuvjako frestiba po jek langhtotíja latšiba ta barjiba. Dumudibako barjiba ta rigja baruvela mahkar disave phuvja ta perdalnes tíja, pa dota save resursi ta save butja hin regeringe dílaj phuvjeske. Ame saj sar vaureha invenstering, biknibako ińovatioskobohliba ta sikjiba aro tikne ta mahkurno bare frestiba. Perdales hin pańa jek specialno komenrsialno dumudiba aro phuvjakothanengo serviake, sar eksemplura phuvjakobuota ta makhiboskostásija.</p>
+<p type="title" xml:lang="swe">Konkurensi</p>
+<p>Konkursi stimlera fendie rikhiba pa themjako ta dela vojiba neve frestibake ta jek fendide rikhiba pa themesko resursi ta tšérela vojiba neve fresibake avek po marakni. Themeskifaldiba mote te tšerel itbutja pe Konkurensi ingariba aro itbutja dżorjavel konkurensi aro privatno ta ofensialno frestiba.Ame mote da informasija pa konkurensijako puchiba ta hokavel kana ná pherdavelas konkurensiagoribata.Saj te lehas te lel kontakto amenge k</p>
+<p type="title">Projektoskodumudiba</p>
+<p>Themeskifaldiba saj del tuke ekonomikano dumudiba so latšavela regionalno bohliba ta barjiba.Tu saj te ródes ka tut korkores vaj pe vaureha hin jek idea so tumen kamen te dradel dženom aro jek projektos. Projektos mote áchel nevo so ná hin tšerdal sigide,mote áchel avri pa tuko orginalno frestiba ta áchel phanlo aro jek tíake. Resultati pa projektos mote áchel latšiba but dženenge.</p>
+<p type="title">Louvengo thouviba</p>
+<p>Themeskifaldibake hin angluno angnál sváriba pa priśibako butjata kajo louvengothouviba ta finansieriba pa teŕorismi dženom te granskavel fysikane ta juridikane džéne.Louvengothouvibata hin puciba kana louve ávela kotar lurikane butjata baruvelas are aviba so saj te sikaves phiŕes.baruvela finansiering mienila te ekonomijako dumudiba dumudel te teŕorismi.dženom horta dimudibako louvego dumudiba vaj dženom ta lela priśi louve ta spáriba so finansirela teŕorism mote finansirel teŕrorismi.</p>
+<p type="title">Stifelsi</p>
+<p>Themeskifaldiba hin jek vollibako haugáge pe dole stitelsi so hin aro phuv ta lel angnál sváriba te tšuvel dolen aro regiterija. Jek stiftelsi hin korkokano barvaliba ta tšuvela louvo pe jek resinjake.Jek angleskiere vaj rikhaven sar jón kamena.Themeskifaldibake hin jek databas kaj tu saj te dikhe kaj tu saj te dikhes save stiftelsi hin aro Svedo, lengo starakiba, kontaktomanuš ta pańa bút butide.</p>
+<p>&gt;&gt; Dża ka databas (sveitiko)</p>
+<p type="title">Voĺibakofrestiba voĺila  tšére</p>
+<p>Jek voĺibakofrestiba voĺila sárekane tšére, disave, ofensialno steĺibi vaj pa korkokano manuš. Sáre voĺibako frestibake mote achel lóvi so akharelas pe náveha auktorisatio, paThemeskifaldibata. Perdal auktorisatiomote amen dokhel la tšes sa personali vahka jón ná tšérena voĺibako buti, ta dehas fresibake lóvi te rikhavel voĺibakodżukle.</p>
+<p type="title">Matšengofrestiba</p>
+<p>Themeskifaldiba tšérela buti te rikhavel phaĺo ta jek langhtokano matšiba.Douva hin Themeski faldiba kon tšérela agoriba te etablirinela matše ta krabko ta mušlengobrúkiba. Amen saj nína dá dumudibakolouvo ka matšengierenge licensi te frestibako matšengierenge. Ame saj te del lovengo dumudiba frestibako matšengierenge konen hin licensi jakhes te jón lena latšaven pengo matšibako béri. Themeskifaldiba dielavela EU-dumudiba ta bút butide. EU-dumudiba aro frestikano matšiba, pánijako rikhiba EU-dumudiba ka berengiengoinsturija , sikjiba,bohlibako ta bú butide. Amen saj nína de del ekonomikano dumudiba dólenge kon kamela te bohlavel, etabliera ta biknavel turistijengo frestibake.</p>
+<p type="title">Bérengophagariba</p>
+<p>Dóles konen hin bérengopghagariba mote áchel la tše pa Themeskifaldiba aro douva phuvjes kaj frestiba rikhavehas.Ame voĺavaa te bérengophagaribabosko frestibaVi kontroĺerar att lágibi pherdela kommunens miljökrav ta att den som ródela har de bygglov ta lóvi som behövs. Uttjänta bilar saj också lämnas tiĺ ett mottagningśtäĺe, en platš som protucenterna utšett. Mottagningśtäĺen ska anmälas tiĺ Themeskifaldiba av bilprotucenterna.</p>
+<p type="title">Simadibanko</p>
+<p>Jek simadijakobanko hin jek frestiba so dela tuke úhles louve ka tu mekheha variso sar simadi.Douva hin Themskifaldiba so dela simadibankake lóvi ta voĺila lén.Douva kon frestavena jek simadibanko hyövyla lóvi paThemeskifaldiba aro douva phuva kaj ińasto fresiba Jek simadibanko hin lehas ińasto rikhaves pa jek sveitiko aktšija vaj itšlaga aŕe aro EES-kotoriba.</p>
+<p type="title">Kheliba ta sporti</p>
+<p>Te tšerel jek nakhiba pe béreha po drom hyövylas lóvi kotar Themeskifaldiba aro douva phujata kaj nakhiba lelpe. Te tšérel tréni, nakhiba ta sikjibako kambakomatši ródehas te tšöks hamen Themeskifaldiba aro Örebro phuv. Ka fresvehas bingo vaj loteri aro butide phuvja aro jek komuna aro so hunjula are aro phuvja. Themeskifaldiba so dela lóvi. Kana loterija tšérerelas pa jek tšetiba so dela lóvi aro douva phuva kaj tšetiba hin aktivno aro jek komuna d�</p>
+</body></document>

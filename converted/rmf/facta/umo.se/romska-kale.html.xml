@@ -1,120 +1,75 @@
-<document xml:lang="rmf" id="no_id">
-  <header>
-    <title/>
-    <genre code="facta"/>
-    <author>
-      <unknown/>
-    </author>
-    <translator>
-      <unknown/>
-    </translator>
-    <translated_from xml:lang="swe"/>
-    <wordcount>910</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="rmf"/>
-      <language xml:lang="swe"/>
-    </multilingual>
-    <origFileName>http://www.umo.se/Andra-sprak/romska-kale</origFileName>
-    <parallel_text xml:lang="eng" location="umo-in-english.html"/>
-    <parallel_text xml:lang="fin" location="finska.html"/>
-    <parallel_text xml:lang="fit" location="meankieli.html"/>
-    <parallel_text xml:lang="sma" location="sydsamiska.html"/>
-    <parallel_text xml:lang="sme" location="nordsamiska.html"/>
-    <parallel_text xml:lang="smj" location="lulesamiska.html"/>
-    <parallel_text location="resanderomska.html" xml:lang="rmu"/>
-    <parallel_text location="romska-kalderash.html" xml:lang="rmy-rka"/>
-    <parallel_text location="romska-lovara.html" xml:lang="rmy-rlo"/>
-    <parallel_text location="romska-arli.html" xml:lang="rmn"/>
-    <parallel_text location="jiddisch-latinsk.html" xml:lang="yid"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="swe">Romani chib kálo (romska kale)</p>
-    <p xml:lang="swe">Alla undrar!  Vad undrar du?</p>
-    <p type="title" xml:lang="swe">Romani chib kálo (romska kale)</p>
-    <p xml:lang="swe">UMO - ternengo centrali aro interneti.</p>
-    <p xml:lang="swe"><em type="italic">Kotoriba aro UMO: </em></p>
-    <list>
-      <p type="listitem" xml:lang="swe">Hin bilatšo áchiba</p>
-      <p type="listitem" xml:lang="swe">Síla ta singriba</p>
-      <p type="listitem" xml:lang="swe">Tšerki, työli, narkotika</p>
-      <p type="listitem" xml:lang="swe">Me</p>
-      <p type="listitem" xml:lang="swe">Seksi</p>
-      <p type="listitem" xml:lang="swe">Kamliba ta máliba</p>
-      <p type="listitem" xml:lang="swe">Trupos</p>
-    </list>
-    <p xml:lang="swe"><em type="italic">Vieribi: </em></p>
-    <list>
-      <p type="listitem" xml:lang="swe">Risiba</p>
-      <p type="listitem" xml:lang="swe">Tšibako kontrolanto</p>
-      <p type="listitem" xml:lang="swe">Dikhjiba/frestibi</p>
-      <p type="listitem" xml:lang="swe">Iego arakhiba kentos</p>
-      <p type="listitem" xml:lang="swe">Reguli ta hortiba</p>
-    </list>
-    <p type="title" xml:lang="swe">Abortos</p>
-    <p xml:lang="swe">Abortos mienila te phagaravel jek pháriba. Kana tenkavel te tšérela abortos vojbuvel áchel but puchiba. Nebi lelas sárenes arakhel džiko te lel sváriba pe pesko puchiba. Douva mahatminela nína dóles kon hun tšerdal džikones pháres.</p>
-    <p xml:lang="swe">» Abortos</p>
-    <p type="title" xml:lang="swe">Alkoholi</p>
-    <p xml:lang="swe">Pe alkoholi mienavelas píjiba sar hymera, mól ta tšerki. But pívena ke douva hin gudlo vaj te avenas mato. Alkoholi vojbuvel nína áchel fárligo pe but maneraha. Douva vojbuvel te del disave fiela ta nasvaliba, pahvares tšérel te nouruvelas aro pharo vaj fárdigo situasiaja. Jek dieli lela dar ta hosela pen bilatšes ke jón pívena.</p>
-    <p xml:lang="swe">» Alkoholi</p>
-    <p type="title" xml:lang="swe">Balanis aro téluni trupos</p>
-    <p xml:lang="swe">Koni butide komujes hin balanis aro téluni trupos. Onivar barjula douva ta douva vojbuvel te del bisvérinja. Douva hin but normalno mahkar tšajen. Trin pa stár tšaja lena džiko var aro dživiba bisvérinja pa balanis ta koni butide ávela douva palpale but var. Nína tšáve vojbuvel te lel balanis. Balanis hin bifardiko nebi vojbuvel áchel bisvériko dóleske douva brúkavel del hanjina ta dukhel.</p>
-    <p xml:lang="swe">» Balanis aro téluni trupos</p>
-    <p type="title" xml:lang="swe">Dar</p>
-    <p xml:lang="swe">Dar hin džorale hošiba pa bisansarniba ta dar so vojbuvela hošavel aro hilo trupos, ta sar butvare lena džikovar. Dar vojbuvela áchel bilatši, nebi frestavela endo te tšérel so kamela ta náka džalvika aro fanibi vojbuvel del dar.</p>
-    <p xml:lang="swe">» Dar</p>
-    <p type="title" xml:lang="swe">Hóljiba</p>
-    <p xml:lang="swe">Kana avelas rickhaven bilatšes pa komuja aro trystastaliba, douva hóljibaske. Jek bilatšo tšériba ná dikhelas sar hóljiba. Douva hin hóliba kana douva fanula but var ta lela dóles kones arakhelas bilatšes lela bengali džinta, dikhelas douva sar hóliba.</p>
-    <p xml:lang="swe">» Hóljiba</p>
-    <p type="title" xml:lang="swe">Iegohošiba</p>
-    <p xml:lang="swe">Iegohošiba rakhila pa dóla tenkibi so hin pesta ta so áchelas. Dóleske ná tšek tšetiba dóleha te hinko tšihko vaj bengalo te tšérel disave sáki, douva rakhila te hošavel te hin variso vieriba ferda te áchel. Hošiba te hin sikjardo džal te skólaves apre.</p>
-    <p xml:lang="swe">» Iegohošiba</p>
-    <p type="title" xml:lang="swe">Kana avelas hóljavel</p>
-    <p xml:lang="swe">Kana avelas hóljavel hin lokho te byrjyvel hošavel pes. Onivar rálila douva džibes aja but te lela bengalide korkoropasiba ta frestavela nachel ajasave situasija kaj vojbuvela dikhel dólen kon hóljavena. Nebi hioviba koneske te garavel pes pe vaure hólajavela.</p>
-    <p xml:lang="swe">» Kana avelas hóljavel</p>
-    <p type="title" xml:lang="swe">Kondomi</p>
-    <p xml:lang="swe">Jek kondomi hin bút sáno góno pa lateksi (gummi) so vojbuvelas tšuvel apre aro jek penis vaj po jek seksikano béri kana rikhavelas seksi.</p>
-    <p xml:lang="swe">» Kondomi</p>
-    <p type="title" xml:lang="swe">Menśi</p>
-    <p xml:lang="swe">Menśi hin douvaa ratesko drepiba katar dajanipe so tšaja lena but vaj tiknide nitšalo katar puberteti Menśi hin truposko manera te sikavel te áchelas bijamoreslo.</p>
-    <p xml:lang="swe">» Menśi</p>
-    <p type="title" xml:lang="swe">Mulano</p>
-    <p xml:lang="swe">Te onivar hošelas pe mulaneske, dukhavdo, bisansanrdo vaj hošela ta prinsavela biavtšaimo hin jek naturkano dieli pa dživiba. Sar eksemlplura hin divisi kana ná orkuvela tši, tšek hošavelas latšes va dála tenkavela peske but tugvalo. Butvares džala hošiba perdal pálal jek tíja. Hin sáki so hin vojiba te tšérel korokores te áchelas fendide hošiba,ta hin hahtiba te lel ka hin hioviba.</p>
-    <p xml:lang="swe">» Mulano</p>
-    <p type="title" xml:lang="swe">P-piller</p>
-    <p xml:lang="swe">P-pilleri hin jek preventikano béri aro tabletiformi pe tšaijaenge. Pe p-pilleri mienavelas butvares so hortanes hin pe naveha kombineranda p-pilleri. Douva rálila duj disave hormoni östrogen(dželtotruposkohormini,so tšérela pe vaureha te ná lena járjako phiŕiba ta dóleske ná vojiba te avel pháreske.</p>
-    <p xml:lang="swe">» P-piller</p>
-    <p type="title" xml:lang="swe">Puberiteti</p>
-    <p xml:lang="swe">Džiko var mahkar kana hin 10 ta bereh phurano avela but aŕe aro puberiteti. Télal puberiteti barjula trupos ka kentosko ka baro komujesko. Sar eksemplura paruvela lýja ta bij, ta leha akni ta avela intresimen pa seksi.</p>
-    <p xml:lang="swe">» Puberiteti</p>
-    <p type="title" xml:lang="swe">Seksi váguno var</p>
-    <p xml:lang="swe">But var intermalkerela onani angnal len hin seksi pe džiko vauro. Douva váguno dživdariba hin vaureha dóla butime pe pes korkoro. Douva hin normalno te hin but tenkiba ta ventiba te sar douva avela te achel pe váguno var lel seksi pe džiko vauro.</p>
-    <p xml:lang="swe">» Seksi váguno var</p>
-    <p type="title" xml:lang="swe">Seksualkane rigjiba</p>
-    <p xml:lang="swe">Seksualikani rigjiba hin pa komujens kone hin piriba vaj tharo hin pa bij. Hin vojiba te achel biseksualikani, heteroseksulikani vaj homoseksualikani.</p>
-    <p xml:lang="swe">» Seksualkane rigjiba</p>
-    <p type="title" xml:lang="swe">Sigutno-p-pilleri (Akut-p-pilleri)</p>
-    <p xml:lang="swe">Sigutno-p-pilleri hin jek tableti so tšaija lena te ná avel as pháreske Douva ná tšek pháriboskoarakhiba aro normalno mieniba, douva mienila te douva ná tšek arakhiba so rikhavelas anglal vaj télal bijiba. Sigutno-p-pilleri rikhavelas sar jek sigutni situasija ta náka sar regulikano arakhiba kajo pháriba.</p>
-    <p xml:lang="swe">» Sigutno-p-pilleri (Akut-p-pilleri)</p>
-    <p type="title" xml:lang="swe">Te lel frestiba</p>
-    <p xml:lang="swe">Ka hin rikhadal biarakhardo seksi hin tšihko te lel pestar pa bijamo nasvaliba Sar lelas frestiba vierula dota savo bijamonasvaliba frestavelas. Butvares džalpe jakhes te mukhehas jek mutresko-vaj rateskofrestiba. Te lel fretiba so rálila aro astarikano nasavalibako lága ná hiovilas te presavel tši.</p>
-    <p xml:lang="swe">» Te lel frestiba</p>
-    <p type="title" xml:lang="swe">Thúviba</p>
-    <p xml:lang="swe">Kana thuvelas sugavelas pes anre ártuno drabkane bérija. Thúviba vojbuvel liedavel ka disave khuviba ta nasvaliba, ta kutides ke sakho vauro komunis kon thúvela merela sikide ke jov vaj joj sas tšerdal bithúviba. Dólesko pherdal hin tobak kuh,ta vojbuvel tšérel te lelas akne,bifendide sastiba ta tiknide seksikano mangiba. Endo hin normalno te terne komuja lelpe thúviba te sikaves sar džoralo vaj rankano.</p>
-    <p xml:lang="swe">» Thúviba</p>
-    <p type="title" xml:lang="swe">Tipsi te lel fendide iegohošiba</p>
-    <p xml:lang="swe">Hin but so vojbuvelas te tšérel te džorjavel pesko iegohošiba. Adaj hin disave sáki so vojbuvelas te frestavel.</p>
-    <p xml:lang="swe">» Tipsi te lel fendide iegohošiba</p>
-    <p type="title" xml:lang="swe">Tšumiba ta mangdoliba</p>
-    <p xml:lang="swe">Te tšumavel ta mangolela hin džiko kata but kamena. Kana ná pana tšerdal douva saj hin fatasija ta hániba te lel tšérel douva. Itkanes vojbuvel douva hošavel kuti nervosi angnal váguno tšumiba. Sar tšereha kana mangolela?</p>
-    <p xml:lang="swe">» Tšumiba ta mangdoliba</p>
-  </body>
-</document>
+<document xml:lang="rmf" id="no_id"><header><title/><genre code="facta"/><author><unknown/></author><translator><unknown/></translator><translated_from xml:lang="swe"/><wordcount>905</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="rmf"/><language xml:lang="swe"/></multilingual><origFileName>http://www.umo.se/Andra-sprak/romska-kale</origFileName><parallel_text xml:lang="eng" location="umo-in-english.html"/><parallel_text xml:lang="fin" location="finska.html"/><parallel_text xml:lang="fit" location="meankieli.html"/><parallel_text xml:lang="sma" location="sydsamiska.html"/><parallel_text xml:lang="sme" location="nordsamiska.html"/><parallel_text xml:lang="smj" location="lulesamiska.html"/><parallel_text location="resanderomska.html" xml:lang="rmu"/><parallel_text location="romska-kalderash.html" xml:lang="rmy-rka"/><parallel_text location="romska-lovara.html" xml:lang="rmy-rlo"/><parallel_text location="romska-arli.html" xml:lang="rmn"/><parallel_text location="jiddisch-latinsk.html" xml:lang="yid"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="swe">Romani chib kálo (romska kale)</p>
+<p type="title" xml:lang="swe">Romani chib kálo (romska kale)</p>
+<p>UMO - ternengo centrali aro interneti.</p>
+<p><em type="italic">Kotoriba aro UMO: </em></p>
+<list><p type="listitem">Hin bilatšo áchiba</p>
+<p type="listitem">Síla ta singriba</p>
+<p type="listitem" xml:lang="swe">Tšerki, työli, narkotika</p>
+<p type="listitem">Me</p>
+<p type="listitem">Seksi</p>
+<p type="listitem">Kamliba ta máliba</p>
+<p type="listitem">Trupos</p>
+</list><p><em type="italic">Vieribi: </em></p>
+<list><p type="listitem">Risiba</p>
+<p type="listitem">Tšibako kontrolanto</p>
+<p type="listitem">Dikhjiba/frestibi</p>
+<p type="listitem">Iego arakhiba kentos</p>
+<p type="listitem">Reguli ta hortiba</p>
+</list><p type="title">Abortos</p>
+<p>Abortos mienila te phagaravel jek pháriba. Kana tenkavel te tšérela abortos vojbuvel áchel but puchiba. Nebi lelas sárenes arakhel džiko te lel sváriba pe pesko puchiba. Douva mahatminela nína dóles kon hun tšerdal džikones pháres.</p>
+<p xml:lang="swe">» Abortos</p>
+<p type="title">Alkoholi</p>
+<p>Pe alkoholi mienavelas píjiba sar hymera, mól ta tšerki. But pívena ke douva hin gudlo vaj te avenas mato. Alkoholi vojbuvel nína áchel fárligo pe but maneraha. Douva vojbuvel te del disave fiela ta nasvaliba, pahvares tšérel te nouruvelas aro pharo vaj fárdigo situasiaja. Jek dieli lela dar ta hosela pen bilatšes ke jón pívena.</p>
+<p xml:lang="swe">» Alkoholi</p>
+<p type="title">Balanis aro téluni trupos</p>
+<p>Koni butide komujes hin balanis aro téluni trupos. Onivar barjula douva ta douva vojbuvel te del bisvérinja. Douva hin but normalno mahkar tšajen. Trin pa stár tšaja lena džiko var aro dživiba bisvérinja pa balanis ta koni butide ávela douva palpale but var. Nína tšáve vojbuvel te lel balanis. Balanis hin bifardiko nebi vojbuvel áchel bisvériko dóleske douva brúkavel del hanjina ta dukhel.</p>
+<p>» Balanis aro téluni trupos</p>
+<p type="title" xml:lang="swe">Dar</p>
+<p>Dar hin džorale hošiba pa bisansarniba ta dar so vojbuvela hošavel aro hilo trupos, ta sar butvare lena džikovar. Dar vojbuvela áchel bilatši, nebi frestavela endo te tšérel so kamela ta náka džalvika aro fanibi vojbuvel del dar.</p>
+<p xml:lang="swe">» Dar</p>
+<p type="title">Hóljiba</p>
+<p>Kana avelas rickhaven bilatšes pa komuja aro trystastaliba, douva hóljibaske. Jek bilatšo tšériba ná dikhelas sar hóljiba. Douva hin hóliba kana douva fanula but var ta lela dóles kones arakhelas bilatšes lela bengali džinta, dikhelas douva sar hóliba.</p>
+<p>» Hóljiba</p>
+<p type="title">Iegohošiba</p>
+<p>Iegohošiba rakhila pa dóla tenkibi so hin pesta ta so áchelas. Dóleske ná tšek tšetiba dóleha te hinko tšihko vaj bengalo te tšérel disave sáki, douva rakhila te hošavel te hin variso vieriba ferda te áchel. Hošiba te hin sikjardo džal te skólaves apre.</p>
+<p>» Iegohošiba</p>
+<p type="title">Kana avelas hóljavel</p>
+<p>Kana avelas hóljavel hin lokho te byrjyvel hošavel pes. Onivar rálila douva džibes aja but te lela bengalide korkoropasiba ta frestavela nachel ajasave situasija kaj vojbuvela dikhel dólen kon hóljavena. Nebi hioviba koneske te garavel pes pe vaure hólajavela.</p>
+<p>» Kana avelas hóljavel</p>
+<p type="title" xml:lang="swe">Kondomi</p>
+<p>Jek kondomi hin bút sáno góno pa lateksi (gummi) so vojbuvelas tšuvel apre aro jek penis vaj po jek seksikano béri kana rikhavelas seksi.</p>
+<p xml:lang="swe">» Kondomi</p>
+<p type="title" xml:lang="swe">Menśi</p>
+<p>Menśi hin douvaa ratesko drepiba katar dajanipe so tšaja lena but vaj tiknide nitšalo katar puberteti Menśi hin truposko manera te sikavel te áchelas bijamoreslo.</p>
+<p xml:lang="swe">» Menśi</p>
+<p type="title">Mulano</p>
+<p>Te onivar hošelas pe mulaneske, dukhavdo, bisansanrdo vaj hošela ta prinsavela biavtšaimo hin jek naturkano dieli pa dživiba. Sar eksemlplura hin divisi kana ná orkuvela tši, tšek hošavelas latšes va dála tenkavela peske but tugvalo. Butvares džala hošiba perdal pálal jek tíja. Hin sáki so hin vojiba te tšérel korokores te áchelas fendide hošiba,ta hin hahtiba te lel ka hin hioviba.</p>
+<p>» Mulano</p>
+<p type="title" xml:lang="swe">P-piller</p>
+<p>P-pilleri hin jek preventikano béri aro tabletiformi pe tšaijaenge. Pe p-pilleri mienavelas butvares so hortanes hin pe naveha kombineranda p-pilleri. Douva rálila duj disave hormoni östrogen(dželtotruposkohormini,so tšérela pe vaureha te ná lena járjako phiŕiba ta dóleske ná vojiba te avel pháreske.</p>
+<p xml:lang="swe">» P-piller</p>
+<p type="title" xml:lang="swe">Puberiteti</p>
+<p>Džiko var mahkar kana hin 10 ta bereh phurano avela but aŕe aro puberiteti. Télal puberiteti barjula trupos ka kentosko ka baro komujesko. Sar eksemplura paruvela lýja ta bij, ta leha akni ta avela intresimen pa seksi.</p>
+<p xml:lang="swe">» Puberiteti</p>
+<p type="title">Seksi váguno var</p>
+<p>But var intermalkerela onani angnal len hin seksi pe džiko vauro. Douva váguno dživdariba hin vaureha dóla butime pe pes korkoro. Douva hin normalno te hin but tenkiba ta ventiba te sar douva avela te achel pe váguno var lel seksi pe džiko vauro.</p>
+<p>» Seksi váguno var</p>
+<p type="title">Seksualkane rigjiba</p>
+<p>Seksualikani rigjiba hin pa komujens kone hin piriba vaj tharo hin pa bij. Hin vojiba te achel biseksualikani, heteroseksulikani vaj homoseksualikani.</p>
+<p>» Seksualkane rigjiba</p>
+<p type="title" xml:lang="swe">Sigutno-p-pilleri (Akut-p-pilleri)</p>
+<p>Sigutno-p-pilleri hin jek tableti so tšaija lena te ná avel as pháreske Douva ná tšek pháriboskoarakhiba aro normalno mieniba, douva mienila te douva ná tšek arakhiba so rikhavelas anglal vaj télal bijiba. Sigutno-p-pilleri rikhavelas sar jek sigutni situasija ta náka sar regulikano arakhiba kajo pháriba.</p>
+<p xml:lang="swe">» Sigutno-p-pilleri (Akut-p-pilleri)</p>
+<p type="title">Te lel frestiba</p>
+<p>Ka hin rikhadal biarakhardo seksi hin tšihko te lel pestar pa bijamo nasvaliba Sar lelas frestiba vierula dota savo bijamonasvaliba frestavelas. Butvares džalpe jakhes te mukhehas jek mutresko-vaj rateskofrestiba. Te lel fretiba so rálila aro astarikano nasavalibako lága ná hiovilas te presavel tši.</p>
+<p>» Te lel frestiba</p>
+<p type="title">Thúviba</p>
+<p>Kana thuvelas sugavelas pes anre ártuno drabkane bérija. Thúviba vojbuvel liedavel ka disave khuviba ta nasvaliba, ta kutides ke sakho vauro komunis kon thúvela merela sikide ke jov vaj joj sas tšerdal bithúviba. Dólesko pherdal hin tobak kuh,ta vojbuvel tšérel te lelas akne,bifendide sastiba ta tiknide seksikano mangiba. Endo hin normalno te terne komuja lelpe thúviba te sikaves sar džoralo vaj rankano.</p>
+<p>» Thúviba</p>
+<p type="title">Tipsi te lel fendide iegohošiba</p>
+<p>Hin but so vojbuvelas te tšérel te džorjavel pesko iegohošiba. Adaj hin disave sáki so vojbuvelas te frestavel.</p>
+<p>» Tipsi te lel fendide iegohošiba</p>
+<p type="title">Tšumiba ta mangdoliba</p>
+<p>Te tšumavel ta mangolela hin džiko kata but kamena. Kana ná pana tšerdal douva saj hin fatasija ta hániba te lel tšérel douva. Itkanes vojbuvel douva hošavel kuti nervosi angnal váguno tšumiba. Sar tšereha kana mangolela?</p>
+<p>» Tšumiba ta mangdoliba</p>
+</body></document>

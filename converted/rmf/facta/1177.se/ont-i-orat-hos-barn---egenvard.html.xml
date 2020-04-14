@@ -1,68 +1,25 @@
-<document xml:lang="rmf" id="no_id">
-  <header>
-    <title/>
-    <genre code="facta"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>534</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="rmf"/>
-      <language xml:lang="swe"/>
-    </multilingual>
-    <origFileName>http://www.1177.se/Nationella-minoritetssprak/Nationella-minoritetssprak/Romanska-kale/Egenvard-barn/Ont-i-orat-hos-barn---egenvard</origFileName>
-    <parallel_text xml:lang="eng" location="ont-i-orat-hos-barn.html"/>
-    <parallel_text xml:lang="fin" location="ont-i-orat-hos-barn.html"/>
-    <parallel_text xml:lang="fit" location="ont-i-orat-hos-barn---vad-kan-man-gora-sjalv.html"/>
-    <parallel_text xml:lang="sma" location="d.html"/>
-    <parallel_text xml:lang="sme" location="ont-i-orat-hos-barn---vad-kan-man-gora-sjalv.html"/>
-    <parallel_text xml:lang="smj" location="ont-i-orat-hos-barn---vad-kan-man-gora-sjalv.html"/>
-    <parallel_text xml:lang="swe" location="l1.html"/>
-    <parallel_text location="ont-i-orat-hos-barn---vad-kan-man-gora-sjalv.html" xml:lang="rmy-rka"/>
-    <parallel_text location="ont-i-orat-hos-barn---vad-kan-man-gora-sjalv.html" xml:lang="rmn"/>
-    <parallel_text location="ont-i-orat-hos-barn---vad-kan-man-gora-sjalv.html" xml:lang="rmu"/>
-    <parallel_text location="ont-i-orat-hos-barn---vad-kan-man-gora-sjalv.html" xml:lang="yid"/>
-    <parallel_text location="ont-i-orat-hos-barn---vad-kan-man-gora-sjalv.html" xml:lang="rmy-rlo"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="swe">Kentengo káneskoduk - so hin vojiba te tšérel korkores? / Ont i örat hos barn - vad kan man göra själv? - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
-    <p xml:lang="swe"></p>
-    <p xml:lang="swe"></p>
-    <p type="title" xml:lang="swe">Romani chib káloRomska kale</p>
-    <list>
-      <p type="listitem" xml:lang="swe">Tillbaka till startsidan för temat</p>
-    </list>
-    <p type="title" xml:lang="swe">Kentengo káneskoduk - so hin vojiba te tšérel korkores?Ont i örat hos barn - vad kan man göra själv?</p>
-    <p xml:lang="swe"></p>
-    <list>
-      <p type="listitem" xml:lang="swe">Kana kentos souvela jakhes te héro hin apre téljuvela pheśiba aro kán ta dukhelas kutide. Jek manera hin te uštavel héreskorig hin te tšuvel pérnisa boltrako tálal.</p>
-    </list>
-    <p type="title" xml:lang="swe">Butvares dukhiba aro raśakotíja</p>
-    <p xml:lang="swe">Kenti kónen hin hijumen vojbuven te len káneskoduk dólesko khal ka slemhińos šujuvela. Jón vojbuvena nína len duk pa jek tšermavitiko inflamasija aro mahkurno kán, mahkurno kánesko inflamasija. Ona hiljuiba ta káneskoduk hin normalne infeksijako nasvaliba kentenge. Butvares džanguvela kentos aro raśakotíja pa dukhiba dólesko khal ka šujiba aro kán pherdela butide ke jón hin télunes. Douva vojbuvel te hošaves lokhide te souvel ka hin butide pernésa héresko télal.</p>
-    <p xml:lang="swe">Vaure bisvérinja so vojbuvela te del káneskoduk hin inflamasija aro hunjibako kanali so liedavela aŕe kajo thumukjako hińos,jek momulijako tapa vaj bisvérinja pe bavunijako kokale.</p>
-    <p type="title" xml:lang="swe">Kánesko inflamasija fanula aro mahkurnokán</p>
-    <p xml:lang="swe">Jek kánesko inflamasija lelpe butvares hastes aro mahkurnokán ta hin kuti tíjakano. Dólesko pheredal te kentoske hin kánesko duk vojbuvel kentoske áchel hošiva pa lokha aro kán ta bengalide hunjiba. Douva hin nína normalno te hin jag. Onivar džala thumukjako hińos pah ta píbe prastela avri. Tála hin manera te dukhiba téljuvela. Kentenge vojbuvel nína áchel kánesko inflamasija útan dukhiba.</p>
-    <p type="title" xml:lang="swe">Dukhtélukane drab</p>
-    <p xml:lang="swe">Kan džaneslas te kentoske hin kánesko inflamasija hin vojiba te del dukheskotéljukane drab so rálila paracetamol, sar eksemplura Alvedon ta panodil vaj drab so rálila ibuprofen, sar eksemplura Ipren ta Ibumetin. Drab hin aro panjalo formi,sar skamnijakopilleri ta sar tableti. Aro drabeskomohto hin fendide rikhibako rétiba.</p>
-    <p xml:lang="swe">Kana hin puchiba pa kenti kóne hin télal hou tšón ná hioviba te del dukheskotéljukane drab bi te vágunes le gódiba pa sastiboskeri vaj pa doktori.</p>
-    <p xml:lang="swe">Kenti télal 18 bereh konen hin jag ná lóvi te rikhavel drab so téljuvela jag drab kai hin acetylsalicylsyra, sar eksemplura Magnecyl,Treo vaj Albyl minor, kana ná lóvi pa jek doktori te rikhavel tála drab.</p>
-    <p type="title" xml:lang="swe">Nakheskosprei</p>
-    <p xml:lang="swe">Bipheśivitiko nakheskosprei tiknavela nakhesko pheśiba ta lokhavela kentosko ońenskosterdiba.Te nakheskosprei hahtavelas aro kánesko inflamasija ná avlo kavierimen.</p>
-    <p type="title" xml:lang="swe">Kánesko probelmi ta plímiba</p>
-    <p xml:lang="swe">Kana hin aro thumukjako hińos cheu hiovylas te ventavel pe plímibaha ka píbejako prasitiba ka hunjibakokanali hin eńos. Kana thumukjako hińos hin sasto so džala hastes, tála hin vojiba te plímavel sar sigide. Kana hin por aro kán vaj kánesko inflamasija so džalpe ná lelas te plímavel pe héroha télal panijako šlétiba.</p>
-    <p type="title" xml:lang="swe">Saj hin hioviba te lel kontaki pe arakhibosko centraliha</p>
-    <p xml:lang="swe">Kenti vojbuven te len tiknes káneskodukhiba it pe hidribaha. Nebi kana dukhiba ná džal pherdal vahka hin líjal arakhiba pe dukheskotéljukane drabjaha ta apride héreskorigja, mote kentes dikhes aro arakhibosko centrali vaj aro jour centrali aŕe aro duj-trín divirat.</p>
-    <p xml:lang="swe">Kana kentos hin láto, náka džor te leijavel ta náka kamela te pível vaj hin télal hou tšón mote džent lel kontakti pe arakhibaha.</p>
-    <p xml:lang="swe">Sárenes hin hioviba te lel kontakti pe arakhibosko centraliha kana kenteska prastela avri píbe ka hunjibakokanali-bidota hinko kenteske duk vaj ná.</p>
-    <p xml:lang="swe">Sárenes hin vojiba te bahavel nasvalibako gódidíjiba te lel godídiba.</p>
-  </body>
-</document>
+<document xml:lang="rmf" id="no_id"><header><title/><genre code="facta"/><author><unknown/></author><wordcount>525</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="rmf"/><language xml:lang="swe"/></multilingual><origFileName>http://www.1177.se/Nationella-minoritetssprak/Nationella-minoritetssprak/Romanska-kale/Egenvard-barn/Ont-i-orat-hos-barn---egenvard</origFileName><parallel_text xml:lang="eng" location="ont-i-orat-hos-barn.html"/><parallel_text xml:lang="fin" location="ont-i-orat-hos-barn.html"/><parallel_text xml:lang="fit" location="ont-i-orat-hos-barn---vad-kan-man-gora-sjalv.html"/><parallel_text xml:lang="sma" location="d.html"/><parallel_text xml:lang="sme" location="ont-i-orat-hos-barn---vad-kan-man-gora-sjalv.html"/><parallel_text xml:lang="smj" location="ont-i-orat-hos-barn---vad-kan-man-gora-sjalv.html"/><parallel_text xml:lang="swe" location="l1.html"/><parallel_text location="ont-i-orat-hos-barn---vad-kan-man-gora-sjalv.html" xml:lang="rmy-rka"/><parallel_text location="ont-i-orat-hos-barn---vad-kan-man-gora-sjalv.html" xml:lang="rmn"/><parallel_text location="ont-i-orat-hos-barn---vad-kan-man-gora-sjalv.html" xml:lang="rmu"/><parallel_text location="ont-i-orat-hos-barn---vad-kan-man-gora-sjalv.html" xml:lang="yid"/><parallel_text location="ont-i-orat-hos-barn---vad-kan-man-gora-sjalv.html" xml:lang="rmy-rlo"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="swe">Kentengo káneskoduk - so hin vojiba te tšérel korkores? / Ont i örat hos barn - vad kan man göra själv? - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
+<p xml:lang="swe"></p>
+<p xml:lang="swe"></p>
+<p type="title" xml:lang="swe">Kentengo káneskoduk - so hin vojiba te tšérel korkores?Ont i örat hos barn - vad kan man göra själv?</p>
+<p xml:lang="swe"></p>
+<list><p type="listitem">Kana kentos souvela jakhes te héro hin apre téljuvela pheśiba aro kán ta dukhelas kutide. Jek manera hin te uštavel héreskorig hin te tšuvel pérnisa boltrako tálal.</p>
+</list><p type="title">Butvares dukhiba aro raśakotíja</p>
+<p>Kenti kónen hin hijumen vojbuven te len káneskoduk dólesko khal ka slemhińos šujuvela. Jón vojbuvena nína len duk pa jek tšermavitiko inflamasija aro mahkurno kán, mahkurno kánesko inflamasija. Ona hiljuiba ta káneskoduk hin normalne infeksijako nasvaliba kentenge. Butvares džanguvela kentos aro raśakotíja pa dukhiba dólesko khal ka šujiba aro kán pherdela butide ke jón hin télunes. Douva vojbuvel te hošaves lokhide te souvel ka hin butide pernésa héresko télal.</p>
+<p>Vaure bisvérinja so vojbuvela te del káneskoduk hin inflamasija aro hunjibako kanali so liedavela aŕe kajo thumukjako hińos,jek momulijako tapa vaj bisvérinja pe bavunijako kokale.</p>
+<p type="title">Kánesko inflamasija fanula aro mahkurnokán</p>
+<p>Jek kánesko inflamasija lelpe butvares hastes aro mahkurnokán ta hin kuti tíjakano. Dólesko pheredal te kentoske hin kánesko duk vojbuvel kentoske áchel hošiva pa lokha aro kán ta bengalide hunjiba. Douva hin nína normalno te hin jag. Onivar džala thumukjako hińos pah ta píbe prastela avri. Tála hin manera te dukhiba téljuvela. Kentenge vojbuvel nína áchel kánesko inflamasija útan dukhiba.</p>
+<p type="title">Dukhtélukane drab</p>
+<p>Kan džaneslas te kentoske hin kánesko inflamasija hin vojiba te del dukheskotéljukane drab so rálila paracetamol, sar eksemplura Alvedon ta panodil vaj drab so rálila ibuprofen, sar eksemplura Ipren ta Ibumetin. Drab hin aro panjalo formi,sar skamnijakopilleri ta sar tableti. Aro drabeskomohto hin fendide rikhibako rétiba.</p>
+<p>Kana hin puchiba pa kenti kóne hin télal hou tšón ná hioviba te del dukheskotéljukane drab bi te vágunes le gódiba pa sastiboskeri vaj pa doktori.</p>
+<p>Kenti télal 18 bereh konen hin jag ná lóvi te rikhavel drab so téljuvela jag drab kai hin acetylsalicylsyra, sar eksemplura Magnecyl,Treo vaj Albyl minor, kana ná lóvi pa jek doktori te rikhavel tála drab.</p>
+<p type="title">Nakheskosprei</p>
+<p>Bipheśivitiko nakheskosprei tiknavela nakhesko pheśiba ta lokhavela kentosko ońenskosterdiba.Te nakheskosprei hahtavelas aro kánesko inflamasija ná avlo kavierimen.</p>
+<p type="title">Kánesko probelmi ta plímiba</p>
+<p>Kana hin aro thumukjako hińos cheu hiovylas te ventavel pe plímibaha ka píbejako prasitiba ka hunjibakokanali hin eńos. Kana thumukjako hińos hin sasto so džala hastes, tála hin vojiba te plímavel sar sigide. Kana hin por aro kán vaj kánesko inflamasija so džalpe ná lelas te plímavel pe héroha télal panijako šlétiba.</p>
+<p type="title">Saj hin hioviba te lel kontaki pe arakhibosko centraliha</p>
+<p>Kenti vojbuven te len tiknes káneskodukhiba it pe hidribaha. Nebi kana dukhiba ná džal pherdal vahka hin líjal arakhiba pe dukheskotéljukane drabjaha ta apride héreskorigja, mote kentes dikhes aro arakhibosko centrali vaj aro jour centrali aŕe aro duj-trín divirat.</p>
+<p>Kana kentos hin láto, náka džor te leijavel ta náka kamela te pível vaj hin télal hou tšón mote džent lel kontakti pe arakhibaha.</p>
+<p>Sárenes hin hioviba te lel kontakti pe arakhibosko centraliha kana kenteska prastela avri píbe ka hunjibakokanali-bidota hinko kenteske duk vaj ná.</p>
+<p>Sárenes hin vojiba te bahavel nasvalibako gódidíjiba te lel godídiba.</p>
+</body></document>

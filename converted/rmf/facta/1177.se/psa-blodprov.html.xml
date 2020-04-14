@@ -1,91 +1,49 @@
-<document xml:lang="rmf" id="no_id">
-  <header>
-    <title/>
-    <genre code="facta"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>1013</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="rmf"/>
-      <language xml:lang="swe"/>
-    </multilingual>
-    <origFileName>http://www.1177.se/Nationella-minoritetssprak/Nationella-minoritetssprak/Romanska-kale/Undersokningar--prover/PSA-Blodprov</origFileName>
-    <parallel_text xml:lang="eng" location="psa.html"/>
-    <parallel_text xml:lang="fin" location="psa.html"/>
-    <parallel_text xml:lang="fit" location="blodprov-psa.html"/>
-    <parallel_text xml:lang="rus" location="psa.html"/>
-    <parallel_text xml:lang="sma" location="blodprov-psa.html"/>
-    <parallel_text xml:lang="sme" location="blodprov-psa.html"/>
-    <parallel_text xml:lang="smj" location="blodprov-psa.html"/>
-    <parallel_text xml:lang="swe" location="psa.html"/>
-    <parallel_text location="blodprov-psa1.html" xml:lang="rmu"/>
-    <parallel_text location="blodprov-psa.html" xml:lang="rmy-rka"/>
-    <parallel_text location="blodprov.html" xml:lang="rmn"/>
-    <parallel_text location="psa-blodprov.html" xml:lang="yid"/>
-    <parallel_text location="blodprov-psa.html" xml:lang="rmy-rlo"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="swe">Ratesko frestiba PSA / Blodprov: PSA - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
-    <p xml:lang="swe"></p>
-    <p xml:lang="swe"></p>
-    <p type="title" xml:lang="swe">Romani chib káloRomska kale</p>
-    <list>
-      <p type="listitem" xml:lang="swe">Tillbaka till startsidan för temat</p>
-    </list>
-    <p type="title" xml:lang="swe">Ratesko frestiba PSABlodprov: PSA</p>
-    <p xml:lang="swe"></p>
-    <p type="title" xml:lang="swe">Kana mukhelas jek frestiba pe PSA</p>
-    <p xml:lang="swe">PSA hin jek ratesko frestiba so rálila aro dikhjiba so vojbuvel te tšérel kana prostata dikhjavelas.</p>
-    <p xml:lang="swe">Onivar mukhelas jek PSA-frestiba ka hin mutherdromesko phariba so doktori dochila pa prostata, sar eksemplura, kana hin but hyoviba te džal muther it tija ka muther hin bidžoralo.</p>
-    <p xml:lang="swe">Nína hin hiovipa te mukhel jek PSA-frestiba kana doktori hošela disave barjiba pa prostata kana douva volavelas, barjiba so vojbuvela but vaure slaga dock ta nasvaliba.</p>
-    <p xml:lang="swe">Douva hin tšihko te džánel te jek utšiba pa PSA-vieriba ná it sar kana hin prostata rako. Douva hin normalno te lokhe ta mahkurni utšiva pa PSA hin vaure dochiba.</p>
-    <p xml:lang="swe">Po it manéra vojbuvel jek normalno vieriba ná sárenes phańel avri prostata rako. Resultati mote sárenes vieravel dota save phariba hin ta save vaure dikhijiba sikavela.</p>
-    <p xml:lang="swe">Ka hin duj vaj butide murskane nárti kóneske hin prostata rako, hin baride rizno te lel nasvaliba. Aro ajasavo fanibi hin rekomensija te lel regulkane PSA-frestiba katar 40-50 bereh anglal 70 bereh.</p>
-    <p xml:lang="swe">PSA bismavelas nína télal arakhiba so džaalpe pa rako. Kana arakhiba hahtavela hokavelas dženom te PSA- vieriba džala téle.</p>
-    <p xml:lang="swe"></p>
-    <p type="title" xml:lang="swe">Latšiba ta bilatšiba pe jek PSA-frestibaha</p>
-    <p xml:lang="swe">PSA-frestiba ná tšérelas rutikanes sar jek sarnikano sastibosko kontroli pe džénenge te dikhel hinko lén síguno forma pa prostata rako. Douva ná sárenes latšiba te hokavel ta arakhel dóla sígokane formi pa prostata rako. Arakhiba vojbuvel del savakutno bisvéringa sar inpotensi ta inkontini aro džéne kaj prostata rako ná tšekhar reselas te barjavel ka džiko rúvale nasvalibaske.</p>
-    <p xml:lang="swe">Jek rako tumori aro prostata vojbuvela barjuvela langhtes bi te del džiko bisvéringa vaj barjuvel hastes ta bohlavel pes aro vaure dieli pa trupos. Aro síguno tíja ná vojiba te frójavel dóla duj rako forma avri ta dóleske lelas rizno te arakhel pe vaure rako forma kata ná lelas tšek bisvéringa télal pesko džibako tíja.</p>
-    <p xml:lang="swe">But džéne kamena endo te džal dženom sastibosko kontroli te lel džánel hinko lén prostata rako. Anglal ka lelas agoriba te mukhel jek frestiba pe PSA hin douva tšikho te lelas džanibi pa latšiba ta bilatšiba pe jek arakhiba pa sígones hokado tumori. Kana kamelas te džal angle ta rakhavel pe doktori mote bichavel tíja aro jek sastiboskocentrali vaj aro butjakosastiboskoarakhiba.</p>
-    <p xml:lang="swe"></p>
-    <p type="title" xml:lang="swe">So hin PSA ta kaj douva hin?</p>
-    <p xml:lang="swe">PSA hin jek tikniba pa prostataspecifikt. Douva hin jek proteini so tšérelas aro prostakoauvo ta so vá pe giveskopániba kana lelas anjariba ta tšérela jakhes te spermie iraniela pes fendide.</p>
-    <p xml:lang="swe">PSA hin normalnes aro tikne móla nína aro ratt, ta douva hin móla so bismavelas dženom PSA frestiba. Pherdales rako hin butvare vaure normalno ömsibi aro prostata so vojbuvel tšérel te PSA soisibe aro rat barjula. Sar eksemplura vojbuvel jek latšokano prostatako barjiba ta inflamatio aro prostatakoauvo, aja khardo prostatit, ingarel te nachela auri butide PSA aro rat katar prostata.</p>
-    <p xml:lang="swe">Pe berehi uštavela PSA-sosibe tiknes kajo sáre džéne dóleske te prostata auvo barjula tiknes pe berehi.</p>
-    <p xml:lang="swe">Douva baro móla aro PSA aro rat hin phandlo ka disave proteini. Nebi hin nína jek tikno móla phiѓo, biphandlo PSA. Kana hin vaure soskiba ke rako pálal jek mahkurno PSA-utšiba, istermalkerela áchel butide pa phiѓo PSA aro rat. Dóleske vojbuvela douva del doktoreske jek dromesko sikjibi te bismavel mahkar phandlo ta phiѓo PSA.</p>
-    <p xml:lang="swe"></p>
-    <p type="title" xml:lang="swe">Sar lelas frestiba?</p>
-    <p xml:lang="swe">Manera hin te frestiba lelas aro muśik pe jek sáno suv so posavelas aѓe aro jek ratesko védri, jek védri. Dóleske kharelas ajasavo typi pa ratesko frestiba pe védrikano frestibake.</p>
-    <p xml:lang="swe">Frestiba vojbuvelas lel kana kamelas apo divirat. Hin hioviba te bechel téle 15 minuti anglal ka frestiba lelas. Pe vaures na hioviba pe vaure angnál tšériba.</p>
-    <p xml:lang="swe">Kana tšérelas jek kirurgikano tšériba aro prostata utšila PSA-vieriba. Tála lelas ventavel kutites 10 divisi angnál ke douva hin gódvalo te lel jek PSA-vieriba. Kana doktori ferdal hošela po prostata douva ná dochila PSA-vieriba.</p>
-    <p xml:lang="swe"></p>
-    <p type="title" xml:lang="swe">Kana lelas sváriba?</p>
-    <p xml:lang="swe">Frestiba bihavelas kaj jek nasvalengo tšéresko labotorium kaj tšérelas analysi. Hin vojiba te rakhavel it pe pesko doktoriha pa kana ta kaj lelas džániba pa frestibata. Manera hin te doktori lela sváriba pálal jek vaj duj díves.</p>
-    <p xml:lang="swe"></p>
-    <p type="title" xml:lang="swe">Sar drabavelas frestibakosváriba?</p>
-    <p xml:lang="swe">Jek frestibakosváriba mote sárenes végaves pe dóle bisvéringa so hin ta so vaure doktorikano dikhjiba sikavela.</p>
-    <p xml:lang="swe">PSA-vieriba aro rat paruvelpe mahkar džéne, nína mahkar džéne konen ná prostata bisvéringa Te avales doktoriske disave te pherdavel kana frestibako sváriba risavelas rikhavelas aja khardo referensi vieriba. Pe PSA hin manera te douva hin pherdal 3 mikrogram pe tusni so genjelas sar jek utšiba.</p>
-    <p xml:lang="swe"></p>
-    <p type="title" xml:lang="swe">Utše viérakiero, kata vojbuvela douva dochavel?</p>
-    <p xml:lang="swe">Kutides jek pa deh murs kon hin aro mahkurno bereh hin utšokano PSA-vieriba. Jek normalno doch ka utšokane PSA-vieribaske hin latšokano prostatakobarjiba.</p>
-    <p xml:lang="swe">Utšokano vieriba vojbuvelas lokhes lel kana hin prostatako inflamasija, ajakhardo kronisk prostatit.</p>
-    <p xml:lang="swe">Jek normalo muterdromesko infeksija vojbuvela del jek pherdalunut, nebi, džoralo ustiba pa PSA. Kana pa disave doch ná vojbuvel mutravel ta tšutšavel mitreskogóno hortanes, vojbel nína dota lel jek tíjakánes utšekano PSA-vieriba. Ka hin bilokho te tšutšavel mutroskogóno jakhes te jek but dieli pa muther hilo tíja hin istemakerela kharelas pe mutrosko hango.</p>
-    <p xml:lang="swe">Utše véra vojbuvela nína dochavel pa prostata rako. Pa dólenda konen hin utše PSA lachelas rako komaj jek tritokotor. Rikhiba mahkar phiѓo ta phandlo PSA vojbuvela del doktoriske disave dromesko sikjiba te džanela frójavel latškáne prostata prostatako rako.</p>
-    <p xml:lang="swe">Pa dólenda kon langhtokanes lela frestiba télel but bereh, ávela kutides jek pa star lel jek PSA-vieriba so dela doch pe butide doktorikano dikjibaske.</p>
-    <p xml:lang="swe">Ka jek resultati pa jek PSA-frestiba sikavela utšo viéraba, istemalkerela drambeskiero pherdales tšérel vauro doktorikano dikhjiba pe ultra ta vénadsfrestiba katar prostatakoauvo. Kana doktori lachela rako džalpe te lel arakhiba pe operasija, strålning,vaj hormonarakhiba.</p>
-    <p xml:lang="swe"></p>
-    <p type="title" xml:lang="swe">Télune véra, kata vojbuvela douva dochavel?</p>
-    <p xml:lang="swe">Téluni véra rakhila te áchelas prostatako rako, vahka ińasto jek PSA-fresiba vojbuvela pe pherdo siguriba phańel avri dóles.</p>
-    <p xml:lang="swe">Ka lelas nikhi prostata aro operasija télavela PSA-vieriba aja téle te ná vojiba te lel vieriba. Jek téluno PSA-vieriba vojbuvelas rikhavel sar bariba te operasijake hin áchdal tšihko efekti Apo vaure arakhiboskomedodi, strålning, hormoniarakhiba, rikhila jek téluno PSA-vieriba áchela sar merekni te arakhiba hin áchdo tšihko.</p>
-  </body>
-</document>
+<document xml:lang="rmf" id="no_id"><header><title/><genre code="facta"/><author><unknown/></author><wordcount>1004</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="rmf"/><language xml:lang="swe"/></multilingual><origFileName>http://www.1177.se/Nationella-minoritetssprak/Nationella-minoritetssprak/Romanska-kale/Undersokningar--prover/PSA-Blodprov</origFileName><parallel_text xml:lang="eng" location="psa.html"/><parallel_text xml:lang="fin" location="psa.html"/><parallel_text xml:lang="fit" location="blodprov-psa.html"/><parallel_text xml:lang="rus" location="psa.html"/><parallel_text xml:lang="sma" location="blodprov-psa.html"/><parallel_text xml:lang="sme" location="blodprov-psa.html"/><parallel_text xml:lang="smj" location="blodprov-psa.html"/><parallel_text xml:lang="swe" location="psa.html"/><parallel_text location="blodprov-psa1.html" xml:lang="rmu"/><parallel_text location="blodprov-psa.html" xml:lang="rmy-rka"/><parallel_text location="blodprov.html" xml:lang="rmn"/><parallel_text location="psa-blodprov.html" xml:lang="yid"/><parallel_text location="blodprov-psa.html" xml:lang="rmy-rlo"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="swe">Ratesko frestiba PSA / Blodprov: PSA - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
+<p xml:lang="swe"></p>
+<p xml:lang="swe"></p>
+<p type="title">Ratesko frestiba PSABlodprov: PSA</p>
+<p xml:lang="swe"></p>
+<p type="title">Kana mukhelas jek frestiba pe PSA</p>
+<p>PSA hin jek ratesko frestiba so rálila aro dikhjiba so vojbuvel te tšérel kana prostata dikhjavelas.</p>
+<p>Onivar mukhelas jek PSA-frestiba ka hin mutherdromesko phariba so doktori dochila pa prostata, sar eksemplura, kana hin but hyoviba te džal muther it tija ka muther hin bidžoralo.</p>
+<p>Nína hin hiovipa te mukhel jek PSA-frestiba kana doktori hošela disave barjiba pa prostata kana douva volavelas, barjiba so vojbuvela but vaure slaga dock ta nasvaliba.</p>
+<p>Douva hin tšihko te džánel te jek utšiba pa PSA-vieriba ná it sar kana hin prostata rako. Douva hin normalno te lokhe ta mahkurni utšiva pa PSA hin vaure dochiba.</p>
+<p>Po it manéra vojbuvel jek normalno vieriba ná sárenes phańel avri prostata rako. Resultati mote sárenes vieravel dota save phariba hin ta save vaure dikhijiba sikavela.</p>
+<p>Ka hin duj vaj butide murskane nárti kóneske hin prostata rako, hin baride rizno te lel nasvaliba. Aro ajasavo fanibi hin rekomensija te lel regulkane PSA-frestiba katar 40-50 bereh anglal 70 bereh.</p>
+<p>PSA bismavelas nína télal arakhiba so džaalpe pa rako. Kana arakhiba hahtavela hokavelas dženom te PSA- vieriba džala téle.</p>
+<p xml:lang="swe"></p>
+<p type="title">Latšiba ta bilatšiba pe jek PSA-frestibaha</p>
+<p>PSA-frestiba ná tšérelas rutikanes sar jek sarnikano sastibosko kontroli pe džénenge te dikhel hinko lén síguno forma pa prostata rako. Douva ná sárenes latšiba te hokavel ta arakhel dóla sígokane formi pa prostata rako. Arakhiba vojbuvel del savakutno bisvéringa sar inpotensi ta inkontini aro džéne kaj prostata rako ná tšekhar reselas te barjavel ka džiko rúvale nasvalibaske.</p>
+<p>Jek rako tumori aro prostata vojbuvela barjuvela langhtes bi te del džiko bisvéringa vaj barjuvel hastes ta bohlavel pes aro vaure dieli pa trupos. Aro síguno tíja ná vojiba te frójavel dóla duj rako forma avri ta dóleske lelas rizno te arakhel pe vaure rako forma kata ná lelas tšek bisvéringa télal pesko džibako tíja.</p>
+<p>But džéne kamena endo te džal dženom sastibosko kontroli te lel džánel hinko lén prostata rako. Anglal ka lelas agoriba te mukhel jek frestiba pe PSA hin douva tšikho te lelas džanibi pa latšiba ta bilatšiba pe jek arakhiba pa sígones hokado tumori. Kana kamelas te džal angle ta rakhavel pe doktori mote bichavel tíja aro jek sastiboskocentrali vaj aro butjakosastiboskoarakhiba.</p>
+<p xml:lang="swe"></p>
+<p type="title">So hin PSA ta kaj douva hin?</p>
+<p>PSA hin jek tikniba pa prostataspecifikt. Douva hin jek proteini so tšérelas aro prostakoauvo ta so vá pe giveskopániba kana lelas anjariba ta tšérela jakhes te spermie iraniela pes fendide.</p>
+<p>PSA hin normalnes aro tikne móla nína aro ratt, ta douva hin móla so bismavelas dženom PSA frestiba. Pherdales rako hin butvare vaure normalno ömsibi aro prostata so vojbuvel tšérel te PSA soisibe aro rat barjula. Sar eksemplura vojbuvel jek latšokano prostatako barjiba ta inflamatio aro prostatakoauvo, aja khardo prostatit, ingarel te nachela auri butide PSA aro rat katar prostata.</p>
+<p>Pe berehi uštavela PSA-sosibe tiknes kajo sáre džéne dóleske te prostata auvo barjula tiknes pe berehi.</p>
+<p>Douva baro móla aro PSA aro rat hin phandlo ka disave proteini. Nebi hin nína jek tikno móla phiѓo, biphandlo PSA. Kana hin vaure soskiba ke rako pálal jek mahkurno PSA-utšiba, istermalkerela áchel butide pa phiѓo PSA aro rat. Dóleske vojbuvela douva del doktoreske jek dromesko sikjibi te bismavel mahkar phandlo ta phiѓo PSA.</p>
+<p xml:lang="swe"></p>
+<p type="title">Sar lelas frestiba?</p>
+<p>Manera hin te frestiba lelas aro muśik pe jek sáno suv so posavelas aѓe aro jek ratesko védri, jek védri. Dóleske kharelas ajasavo typi pa ratesko frestiba pe védrikano frestibake.</p>
+<p>Frestiba vojbuvelas lel kana kamelas apo divirat. Hin hioviba te bechel téle 15 minuti anglal ka frestiba lelas. Pe vaures na hioviba pe vaure angnál tšériba.</p>
+<p>Kana tšérelas jek kirurgikano tšériba aro prostata utšila PSA-vieriba. Tála lelas ventavel kutites 10 divisi angnál ke douva hin gódvalo te lel jek PSA-vieriba. Kana doktori ferdal hošela po prostata douva ná dochila PSA-vieriba.</p>
+<p xml:lang="swe"></p>
+<p type="title">Kana lelas sváriba?</p>
+<p>Frestiba bihavelas kaj jek nasvalengo tšéresko labotorium kaj tšérelas analysi. Hin vojiba te rakhavel it pe pesko doktoriha pa kana ta kaj lelas džániba pa frestibata. Manera hin te doktori lela sváriba pálal jek vaj duj díves.</p>
+<p xml:lang="swe"></p>
+<p type="title">Sar drabavelas frestibakosváriba?</p>
+<p>Jek frestibakosváriba mote sárenes végaves pe dóle bisvéringa so hin ta so vaure doktorikano dikhjiba sikavela.</p>
+<p>PSA-vieriba aro rat paruvelpe mahkar džéne, nína mahkar džéne konen ná prostata bisvéringa Te avales doktoriske disave te pherdavel kana frestibako sváriba risavelas rikhavelas aja khardo referensi vieriba. Pe PSA hin manera te douva hin pherdal 3 mikrogram pe tusni so genjelas sar jek utšiba.</p>
+<p xml:lang="swe"></p>
+<p type="title">Utše viérakiero, kata vojbuvela douva dochavel?</p>
+<p>Kutides jek pa deh murs kon hin aro mahkurno bereh hin utšokano PSA-vieriba. Jek normalno doch ka utšokane PSA-vieribaske hin latšokano prostatakobarjiba.</p>
+<p>Utšokano vieriba vojbuvelas lokhes lel kana hin prostatako inflamasija, ajakhardo kronisk prostatit.</p>
+<p>Jek normalo muterdromesko infeksija vojbuvela del jek pherdalunut, nebi, džoralo ustiba pa PSA. Kana pa disave doch ná vojbuvel mutravel ta tšutšavel mitreskogóno hortanes, vojbel nína dota lel jek tíjakánes utšekano PSA-vieriba. Ka hin bilokho te tšutšavel mutroskogóno jakhes te jek but dieli pa muther hilo tíja hin istemakerela kharelas pe mutrosko hango.</p>
+<p>Utše véra vojbuvela nína dochavel pa prostata rako. Pa dólenda konen hin utše PSA lachelas rako komaj jek tritokotor. Rikhiba mahkar phiѓo ta phandlo PSA vojbuvela del doktoriske disave dromesko sikjiba te džanela frójavel latškáne prostata prostatako rako.</p>
+<p>Pa dólenda kon langhtokanes lela frestiba télel but bereh, ávela kutides jek pa star lel jek PSA-vieriba so dela doch pe butide doktorikano dikjibaske.</p>
+<p>Ka jek resultati pa jek PSA-frestiba sikavela utšo viéraba, istemalkerela drambeskiero pherdales tšérel vauro doktorikano dikhjiba pe ultra ta vénadsfrestiba katar prostatakoauvo. Kana doktori lachela rako džalpe te lel arakhiba pe operasija, strålning,vaj hormonarakhiba.</p>
+<p xml:lang="swe"></p>
+<p type="title">Télune véra, kata vojbuvela douva dochavel?</p>
+<p>Téluni véra rakhila te áchelas prostatako rako, vahka ińasto jek PSA-fresiba vojbuvela pe pherdo siguriba phańel avri dóles.</p>
+<p>Ka lelas nikhi prostata aro operasija télavela PSA-vieriba aja téle te ná vojiba te lel vieriba. Jek téluno PSA-vieriba vojbuvelas rikhavel sar bariba te operasijake hin áchdal tšihko efekti Apo vaure arakhiboskomedodi, strålning, hormoniarakhiba, rikhila jek téluno PSA-vieriba áchela sar merekni te arakhiba hin áchdo tšihko.</p>
+</body></document>

@@ -1,67 +1,25 @@
-<document xml:lang="rmf" id="no_id">
-  <header>
-    <title/>
-    <genre code="facta"/>
-    <author>
-      <unknown/>
-    </author>
-    <translator>
-      <unknown/>
-    </translator>
-    <translated_from xml:lang="swe"/>
-    <wordcount>550</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="rmf"/>
-      <language xml:lang="swe"/>
-    </multilingual>
-    <origFileName>http://www.umo.se/Andra-sprak/romska-kale/Kana-avelas-holjavel</origFileName>
-    <parallel_text xml:lang="fin" location="kiusatuksi-joutuminen.html"/>
-    <parallel_text xml:lang="fit" location="jos-kokkee-mobbausta.html"/>
-    <parallel_text xml:lang="sma" location="jis-irhkesavva.html"/>
-    <parallel_text xml:lang="sme" location="jus-givssiduvvo.html"/>
-    <parallel_text xml:lang="smj" location="jus-nuppastuvva.html"/>
-    <parallel_text xml:lang="swe" location="om-man-mobbas.html"/>
-    <parallel_text location="baschi-diro-bliddrar-miakt-kerrad.html" xml:lang="rmu"/>
-    <parallel_text location="te-kerdol-o-manu-belenkerevo.html" xml:lang="rmy-rka"/>
-    <parallel_text location="te-kerdol-o-manu-mobbad.html" xml:lang="rmy-rlo"/>
-    <parallel_text location="manu-te-ulo-mobimo.html" xml:lang="rmn"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="swe">Kana avelas hóljavel</p>
-    <p xml:lang="swe">Alla undrar!  Vad undrar du?</p>
-    <p type="title" xml:lang="swe">Kana avelas hóljavel</p>
-    <p xml:lang="swe">Kana avelas hóljavel hin lokho te byrjyvel hošavel pes. Onivar rálila douva džibes aja but te lela bengalide korkoropasiba ta frestavela nachel ajasave situasija kaj vojbuvela dikhel dólen kon hóljavena. Nebi hioviba koneske te garavel pes pe vaure hólajavela.</p>
-    <p xml:lang="swe">Disave kon avela hóljimen byrjyla paśaven te douva hin pen korkore konen hin bangiba Dóla saj tenkila te paruvel pes te slepuvel hóljiba Nebi ná hioviba te barjuvel sáki sar intresi vaj save kóla rikhavelas, ferda dóleske ke dóla vaure hin bilatše. Sárenes hin hortiba te mukhel hóliba.</p>
-    <p type="title" xml:lang="swe">Kana hin douva hóljiba?</p>
-    <p xml:lang="swe">Douva hin hóljiba kana butvares avela hóljavel, pretimen,jágimen,hunkimen vaj landsvarimen. Hóljiba vojbuvel áchel rakhiba palal dumo, dikhiba, asaniba, tiokiba, díjiba ta bilatše láve Douva hin hóljiba kana tšekar lela te áchel it vaj džiko bohlavela bange ákni pa jek komunis.</p>
-    <p xml:lang="swe">Douva vojbuvel nína áchel džiko bichavela džungale sms,mej, rańela bengale komentari aro facebook, aro jek blogg aro džiko vauro stedos aro interneti.Vaj te tšúvel landsvare farabi apo stáro.</p>
-    <p xml:lang="swe">Kana džiko pheńela bilatše sáki te sar kólavela pes vaj dišula po jek typikano manera vaj ke hin jek funkcijako langaliba,hin douva hóljiba Kana hin avlo tungalo džiko pa dauva, ta byrjyla áchel bilatšes pa dota vojbuvel kamel hahtiba te lel agoriba dóleske.</p>
-    <p type="title" xml:lang="swe">Phuka pa hóljibata</p>
-    <p xml:lang="swe">Douva vojbuvel achel nervosikano te phukavel džikoneske te avela hóljimen. Saj hin tenkiba te douva vojbuvel avel bengalide kana phukavela. Saj ladžaa ke hin avrini. Nebi douva ná douva kon avela hóljimen kon hin tšerdal banges.</p>
-    <p xml:lang="swe">Kana avela hóljimen hin fendide te phukavel douva ta lel hahtiba te lel agoriba hóljibaske. Hin vojiba sar eksemplura te rakhavel dólesta sikjiboskiereske, skolakokuratoreske vaj skolako arakhiboskiereske.</p>
-    <p xml:lang="swe">Douva vojbuvel áchel tšihko te byrjyvel rakhavel pa hóljiba pe bare komuja koneske paśavela,sar eksemplura džiko aro familja, ta dólesko palal lel hahtiba pa dólenda te rakhavel pa dota džikoneske aro skola.</p>
-    <p xml:lang="swe">Kana skola lela džaniba te sikjukúno hošela pe hóljimen, mote jón hastes lel aro džaniba so hin fanude. Jón mote nína tšérel sa te douva ná fanula papales. Bare komujen aro skola hin dochiba te dikhel te tšek kentos avelas hóljavel vaj pretimen. Dauva hin ranlo aro lága te douva hin skolako doch te dikhel te tšek avela hóljimen.</p>
-    <p type="title" xml:lang="swe">Tšikho te tenkavel kana avela hóljimen:</p>
-    <list>
-      <p type="listitem" xml:lang="swe">Douva hin tšekhar jakhes te lelas dochavel pes, kana avela hóljimen.</p>
-      <p type="listitem" xml:lang="swe">Hin lági so pheńela te ná hóljavel aro sar eksemplura skola vaj apo jek butjakothan.</p>
-      <p type="listitem" xml:lang="swe">Douva hin nína jek phagirba kana džiko pretila jek, sar eksemplura pretila pe sílaha vaj pretila te bohlavel farabi po stáro.</p>
-      <p type="listitem" xml:lang="swe">Skoli ta butjakodimnaskiero hin dochkane te frestavel tšérel te sáre hošena pen sigurne.</p>
-      <p type="listitem" xml:lang="swe">Hin hioviba te lel kontakto pe džiko bare komuje koneske hin pašiba,sar eksemplura jek phúiride vaj džiko vauro kon pinsavelas.</p>
-      <p type="listitem" xml:lang="swe">Hin vojiba te lel kontakto skolakokuratori vaj jek ternego centrali te lel rakhavel ta lel gódiba ta dumudiba.</p>
-      <p type="listitem" xml:lang="swe">Kana skola lela aro pesko džaniba te sikjukúno hošela pes hóljimen mote jón dikhel pálal te douva ná fanula palpales.</p>
-      <p type="listitem" xml:lang="swe">Kana hóljavelas aro skola ta ná lela hahtiba pa pesko skolata hin vojiba te vojbuvel phukavel douva ka Barn- och elevombudet.</p>
-      <p type="listitem" xml:lang="swe">Le kontakti pe petski kana džiko bohlavela farabi bilóvi pa tuta. Douva hin phagariba kajo dženodžánibakolági. Te ladžarela vaj hóljavela džiko aro stáro hin it bilágavitiko sar aro skolako hochos,drom vaj aro phiŕotíjakotšéres.</p>
-    </list>
-    <p xml:lang="swe">» Hóljiba</p>
-  </body>
-</document>
+<document xml:lang="rmf" id="no_id"><header><title/><genre code="facta"/><author><unknown/></author><translator><unknown/></translator><translated_from xml:lang="swe"/><wordcount>545</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="rmf"/><language xml:lang="swe"/></multilingual><origFileName>http://www.umo.se/Andra-sprak/romska-kale/Kana-avelas-holjavel</origFileName><parallel_text xml:lang="fin" location="kiusatuksi-joutuminen.html"/><parallel_text xml:lang="fit" location="jos-kokkee-mobbausta.html"/><parallel_text xml:lang="sma" location="jis-irhkesavva.html"/><parallel_text xml:lang="sme" location="jus-givssiduvvo.html"/><parallel_text xml:lang="smj" location="jus-nuppastuvva.html"/><parallel_text xml:lang="swe" location="om-man-mobbas.html"/><parallel_text location="baschi-diro-bliddrar-miakt-kerrad.html" xml:lang="rmu"/><parallel_text location="te-kerdol-o-manu-belenkerevo.html" xml:lang="rmy-rka"/><parallel_text location="te-kerdol-o-manu-mobbad.html" xml:lang="rmy-rlo"/><parallel_text location="manu-te-ulo-mobimo.html" xml:lang="rmn"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Kana avelas hóljavel</p>
+<p type="title">Kana avelas hóljavel</p>
+<p>Kana avelas hóljavel hin lokho te byrjyvel hošavel pes. Onivar rálila douva džibes aja but te lela bengalide korkoropasiba ta frestavela nachel ajasave situasija kaj vojbuvela dikhel dólen kon hóljavena. Nebi hioviba koneske te garavel pes pe vaure hólajavela.</p>
+<p>Disave kon avela hóljimen byrjyla paśaven te douva hin pen korkore konen hin bangiba Dóla saj tenkila te paruvel pes te slepuvel hóljiba Nebi ná hioviba te barjuvel sáki sar intresi vaj save kóla rikhavelas, ferda dóleske ke dóla vaure hin bilatše. Sárenes hin hortiba te mukhel hóliba.</p>
+<p type="title">Kana hin douva hóljiba?</p>
+<p>Douva hin hóljiba kana butvares avela hóljavel, pretimen,jágimen,hunkimen vaj landsvarimen. Hóljiba vojbuvel áchel rakhiba palal dumo, dikhiba, asaniba, tiokiba, díjiba ta bilatše láve Douva hin hóljiba kana tšekar lela te áchel it vaj džiko bohlavela bange ákni pa jek komunis.</p>
+<p>Douva vojbuvel nína áchel džiko bichavela džungale sms,mej, rańela bengale komentari aro facebook, aro jek blogg aro džiko vauro stedos aro interneti.Vaj te tšúvel landsvare farabi apo stáro.</p>
+<p>Kana džiko pheńela bilatše sáki te sar kólavela pes vaj dišula po jek typikano manera vaj ke hin jek funkcijako langaliba,hin douva hóljiba Kana hin avlo tungalo džiko pa dauva, ta byrjyla áchel bilatšes pa dota vojbuvel kamel hahtiba te lel agoriba dóleske.</p>
+<p type="title">Phuka pa hóljibata</p>
+<p>Douva vojbuvel achel nervosikano te phukavel džikoneske te avela hóljimen. Saj hin tenkiba te douva vojbuvel avel bengalide kana phukavela. Saj ladžaa ke hin avrini. Nebi douva ná douva kon avela hóljimen kon hin tšerdal banges.</p>
+<p>Kana avela hóljimen hin fendide te phukavel douva ta lel hahtiba te lel agoriba hóljibaske. Hin vojiba sar eksemplura te rakhavel dólesta sikjiboskiereske, skolakokuratoreske vaj skolako arakhiboskiereske.</p>
+<p>Douva vojbuvel áchel tšihko te byrjyvel rakhavel pa hóljiba pe bare komuja koneske paśavela,sar eksemplura džiko aro familja, ta dólesko palal lel hahtiba pa dólenda te rakhavel pa dota džikoneske aro skola.</p>
+<p>Kana skola lela džaniba te sikjukúno hošela pe hóljimen, mote jón hastes lel aro džaniba so hin fanude. Jón mote nína tšérel sa te douva ná fanula papales. Bare komujen aro skola hin dochiba te dikhel te tšek kentos avelas hóljavel vaj pretimen. Dauva hin ranlo aro lága te douva hin skolako doch te dikhel te tšek avela hóljimen.</p>
+<p type="title">Tšikho te tenkavel kana avela hóljimen:</p>
+<list><p type="listitem">Douva hin tšekhar jakhes te lelas dochavel pes, kana avela hóljimen.</p>
+<p type="listitem">Hin lági so pheńela te ná hóljavel aro sar eksemplura skola vaj apo jek butjakothan.</p>
+<p type="listitem">Douva hin nína jek phagirba kana džiko pretila jek, sar eksemplura pretila pe sílaha vaj pretila te bohlavel farabi po stáro.</p>
+<p type="listitem">Skoli ta butjakodimnaskiero hin dochkane te frestavel tšérel te sáre hošena pen sigurne.</p>
+<p type="listitem">Hin hioviba te lel kontakto pe džiko bare komuje koneske hin pašiba,sar eksemplura jek phúiride vaj džiko vauro kon pinsavelas.</p>
+<p type="listitem">Hin vojiba te lel kontakto skolakokuratori vaj jek ternego centrali te lel rakhavel ta lel gódiba ta dumudiba.</p>
+<p type="listitem">Kana skola lela aro pesko džaniba te sikjukúno hošela pes hóljimen mote jón dikhel pálal te douva ná fanula palpales.</p>
+<p type="listitem">Kana hóljavelas aro skola ta ná lela hahtiba pa pesko skolata hin vojiba te vojbuvel phukavel douva ka Barn- och elevombudet.</p>
+<p type="listitem">Le kontakti pe petski kana džiko bohlavela farabi bilóvi pa tuta. Douva hin phagariba kajo dženodžánibakolági. Te ladžarela vaj hóljavela džiko aro stáro hin it bilágavitiko sar aro skolako hochos,drom vaj aro phiŕotíjakotšéres.</p>
+</list><p>» Hóljiba</p>
+</body></document>

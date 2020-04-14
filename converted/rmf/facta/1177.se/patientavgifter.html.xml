@@ -1,99 +1,56 @@
-<document xml:lang="rmf" id="no_id">
-  <header>
-    <title/>
-    <genre code="facta"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>1039</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="rmf"/>
-      <language xml:lang="swe"/>
-    </multilingual>
-    <origFileName>http://www.1177.se/Nationella-minoritetssprak/Nationella-minoritetssprak/Romanska-kale/Regler-och-rattigheter/Patientavgifter</origFileName>
-    <parallel_text xml:lang="eng" location="patientavgifter.html"/>
-    <parallel_text xml:lang="fin" location="patientavgifter.html"/>
-    <parallel_text xml:lang="fit" location="patientavgifter.html"/>
-    <parallel_text xml:lang="sma" location="patientavgift.html"/>
-    <parallel_text xml:lang="sme" location="patientavgifter.html"/>
-    <parallel_text xml:lang="smj" location="patientavgifter.html"/>
-    <parallel_text xml:lang="swe" location="patientavgifter.html"/>
-    <parallel_text location="patientavgifter.html" xml:lang="rmy-rka"/>
-    <parallel_text location="patientavgifter.html" xml:lang="rmn"/>
-    <parallel_text location="patientavgifter.html" xml:lang="rmu"/>
-    <parallel_text location="patientavgifter.html" xml:lang="yid"/>
-    <parallel_text location="patientavgifter.html" xml:lang="rmy-rlo"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="swe">Dikhibosko presiba / Patientavgifter - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
-    <p xml:lang="swe"></p>
-    <p xml:lang="swe"></p>
-    <p type="title" xml:lang="swe">Romani chib káloRomska kale</p>
-    <list>
-      <p type="listitem" xml:lang="swe">Tillbaka till startsidan för temat</p>
-    </list>
-    <p type="title" xml:lang="swe">Dikhibosko presibaPatientavgifter</p>
-    <p xml:lang="swe"></p>
-    <p type="title" xml:lang="swe">So lelas te presavel?</p>
-    <p type="title" xml:lang="swe">Lelas te presavel pa butide staviba aro doktori</p>
-    <p xml:lang="swe">Sastiba-ta nasvalibosko arakhiba aro Svedo presavelas pa phuv-ta komunako skatiba. Douva presiba so presavelas sar eksemplura apo doktorijako staviba hin jek dielos so douva hortanes presila.</p>
-    <p xml:lang="swe">Douva ná rália pherdes privatno arakhiba,sar eksemplura plastikakirurgi so ná medicinkanes. Tála presavelas hilo presiba korkores.</p>
-    <p type="title" xml:lang="swe">Disave presiba aro disave phuvjakotingi ta komuna</p>
-    <p xml:lang="swe">Phuvjakotingi ta komuna butvares len agoriba save presiba mote presaves kana stávelas aro doktori vaj pa vaure tšensta aro arakhiba. Butvares hin presiba itslága aro sakha phuvjakotingi. Kana hin hioviba pa but arakhiba hin jek utšiptresibako arakhiba, so faravelas aro vauro kapitelos.</p>
-    <p xml:lang="swe">Sasti-, ta nasvalibosko arakhiba hin biprisavitiko bute aro sáre phuvjakotingi ta regioni kana hin télal 20 bereh phurano.</p>
-    <p xml:lang="swe">Prisa so phukavehas télal hin bute presiba ta dochila aro ofensijalno ta privatno arakhiboskere kones hin siomsiba pe phuvjakotingijaha.</p>
-    <p xml:lang="swe">Kana hin tšundo aŕe aro nasvalibosko tšér presavehas jek divirat presiba so hin pálal lági utšides 100 koroni.</p>
-    <p xml:lang="swe">Kana stavelas aro pesko doktori aro arakhibosko centrali barjuvela presiba mahkar 200 ta 350 koroni. Apo staviba aro genekologi ta kentoskodoktori barjula presiba mahkar 200 ta 350koroni. Kana lela it pe dauva staviba remis ka riontgen dikhibake ta itkane vaure arakhiba ná hioviba te presavel vaure presiba. Apo staviba aro vaure spesijalisti doktori barjula presiba mahkar 150 ta 350 koroni. Staviba apo sigutno centrali apo nasvalibosko tšér vojbuvel presavel 220-380 koroni. Apo staviba ka sastiboskieri ta nasvalibosko gymnastia voibuvel presiba áchel 50-220 pe stavibake.</p>
-    <p xml:lang="swe">Mammografi te sígas hokavel tšutšijako rako ta itkane cellfrestibako dikhiba ka ka dajanibako mén, aja khardo gynekologikano sastibako dikhiba vojbuvel presavel 200 koroni.</p>
-    <p xml:lang="swe">Disave phuvjakotingi lena presiba pa dradiba pe ambulansi vaj pe helikopterijaha.</p>
-    <p xml:lang="swe">Disave phuvjakotingi presavela palpále stavibosko presiba kana hin líjal ventavel pherdal siomsibako tíja. Kana ná phukavela biaviba vaj na avela po tíja so hin vojbuvel endo te presavel stavibosko presiba.</p>
-    <p type="title" xml:lang="swe">Vaure arakhibosgiere vojbuvel lel vauro presiba</p>
-    <p xml:lang="swe">Dóles kon hin privatnes vaj dženom butjakodimnaskiero jek nasvalibosko siguriba vojbuvel lel vaure lági save presiba mote presaves.</p>
-    <p xml:lang="swe">Aro komunalno sasti-, ta nasvalibosko arakhiba,so dochila phure pe langhtokano nasvaliba,hin vaurevitika presiba pa arakhiba so denas pa sastisboskieri.</p>
-    <p xml:lang="swe">Apo Svedosko komuni ta Phuvjakotingiengo webbthan hin adresi ka komuni, phuvjakotingi ta regioni. Dólen hin aktuel-, ta detalkano džanibi pa lengo presibata.</p>
-    <p type="title" xml:lang="swe">Presiba pe avrithemkane</p>
-    <p xml:lang="swe">Avrithemesko memburengo hortiba te lel sigutno arakhiba aro Svedo.</p>
-    <p xml:lang="swe">Ka aveha aro vauro EU-them, EES-them vaj Schweiz mote áches jek eurobako sastiboskosiguribako pelehkos, te lelas sigutno arakhiba pe normalno dikhibosko prisaha. Kana ná ajasavo siguribosko pelehkos hin vojiba te tu nouruvela presaves hilo arakhibosko presiba.</p>
-    <p xml:lang="swe">Kana kameha te lel vaurevitiko arakhiba so ná áchela sigutno ta náka kameha te presavel butide ke dikhibosko presiba so mote áchel kavieriba so sikavela te dživibako them presila pa arakhibata. Kana fotula ajasavo kavieriba lelas te presavel hiro presiba pa arakhibata korkores.</p>
-    <p xml:lang="swe">Koni butide kon avela ka thema so hin avri pa EU, EES ta Schweiz lena te presavel hilo arakhibosko presiba korkores nín vahka douva áchelas sigutno arakhiba.</p>
-    <p type="title" xml:lang="swe">Kan sveitiko avela dukhades aro avrithema</p>
-    <p xml:lang="swe">O europeisko nasvali siguribosko pelehkos, so vojbuvehas ródel ka Anglunisiguribosko biro, dela komujenge kon hin sveitiko themesko memburi hortiba te len sigutno arakhiba aro vaure EU-, EES-thema ta Schweiz pe it ekonomikano dochiba sar iega dživiboskiero. Aro nordiko thema tši hiovylas te sikavel pelehkos.</p>
-    <p xml:lang="swe">Kana hiovylas arakhiba aro them so ná aŕe aro EU,EES-thema ta Schweiz hin vojiba te tši lelas presiba pa arakhiba, ná hele pa Svedo vaj pa them kaj áchelas. Dóleske hin inportanto te lel dromeskosiguriba so garavela presiba sar eksemplura tranporti. Kana hin tšéresko siguriba rálila doj butvares stávibako arakhiba so garavela jek dieli pa presiba.</p>
-    <p xml:lang="swe">Aro Anglunisiguribosko birosko webbthan hin butide džanibi te lel arakhiba aro avrinothem.</p>
-    <p xml:lang="swe"></p>
-    <p type="title" xml:lang="swe">Utšipresibako arakhiba</p>
-    <p type="title" xml:lang="swe">Phiŕopelehkos lelas kana hin presadal dosta</p>
-    <p xml:lang="swe">Hin jek táka sar but hin hioviba te presavel pa sasti-, ta nasvalibako arakhibata. Douva arakhelas utšipresibako arakhibaske ta hin itkano aro ´sare phuvjakotingi. Douva hin nín aro džor kana ródeha arakhiba aro vauro stedos ke kaj dživela.</p>
-    <p xml:lang="swe">Utšipresibako arakhiba mienila te télal jek periodi pe dehoduj tšón tšetanes presavelas utšides 1100 koroni. Presiba lelpe te džińes pa váguno staviba bidikhiba kana douva fanula télal aro bereh. Kana hin presadal 1100koroni lelas jek phiŕopelehkos so hin aro džor pa vaure dieli pa dehoduj tšónjako periodi. Kana dehoduj tšsón hin džejal lelpe te presavel harhales pa pesko staviba kana pherdela vauro var 1100 koroni.</p>
-    <p xml:lang="swe">Utšipresibako arakhiba ná garavela butvares</p>
-    <list>
-      <p type="listitem" xml:lang="swe">dóla presibi so presavelas kana hin tšundo aŕe aro nasvalibosko tšér</p>
-      <p type="listitem" xml:lang="swe">vaksija</p>
-      <p type="listitem" xml:lang="swe">kavieriba ta sastibako dikhiba</p>
-      <p type="listitem" xml:lang="swe">vauro angledžavibako buti, sar eksemplura mammografivoliba</p>
-      <p type="listitem" xml:lang="swe">presiba pa bipherdo staviba</p>
-      <p type="listitem" xml:lang="swe">presiba pa kopia ta journali</p>
-      <p type="listitem" xml:lang="swe">adminitrativikano presiba so lelas kana presavelas pe úchel vaj pe faktura so bichavelas tšéres.</p>
-    </list>
-    <p type="title" xml:lang="swe">Aro dánesko arakhiba na butvares aro džor sastibosko arakhibako</p>
-    <p xml:lang="swe">Pe vaures vojbuvela utšipresibako arakhiba áchel aro džor kana hin baro ta langhtovitiko hioviba pa dženovitiko arakhiba pa pesko sadivisijako dživiba. Utšipresibako arakhiba vojbuvel áchel aro džor kana hin jek nasvaliba kaj dánesko arakhiba hin jek dieli pa medicinkano arakhibata. Kana hin ajasavo nasvaliba so anela baro buti te lel dáneskoduk vaj hin vaure problemi te lel arakhiba pa pesko mujeskohygenia hin vojiba te lel dáneskoarakhiba ka nasvalibosko tšérersko prisa so rálila aro utšipresibako arakhiba.</p>
-    <p xml:lang="swe">Pe drap so ranelas pa doktori vaj pa sastiboskieri vaj pa vaures kones hin ajasavo hortiba. Aro arakhiba hin jek utšipresibako arakhiba so mienila te hin hioviba te presavel utšides 2200 koroni pe dehoduj tšónesko periodi. Bireceptkane drap ná rálila aŕe aro dauva utšipresibako arakhiba.</p>
-    <p xml:lang="swe">Pherdales hin utšipresibako arakhiba pe nasvaliboskotséresko drádiba ta teknikano hahtibosko berija katar phuvjakotingi lela agoriba. Dauva mienila te tiomiba vojbuvel barjuvel mahkar disave phuvjakotingi.</p>
-    <p xml:lang="swe"></p>
-    <p type="title" xml:lang="swe">Biprisavitiko sasti- ta nasvaboskoarakhiba</p>
-    <p xml:lang="swe">Disave sasti- ta nasvalibosko arakhiba vojbuvel áchel pherdo biprisavitiko aro disave phuvjakotingi. Drap so rańelas aro dála staviba lelas te presavel.</p>
-    <p xml:lang="swe">Staviba aro dajengo- ta kentengo centrali (MVC ta BVC) hin biprisavitika aro hilo them.</p>
-    <p xml:lang="swe">Aro skolako sastibosko arakhiba ná presavehas tšek prisa ta vaksija so lela dóri hin biprisavitika.</p>
-    <p xml:lang="swe">Aro butvare phuvjakotingi hin arakhiba kenti ta terne biprisavitiko angnal ka 20 beresko díves, sar eksemplura staviba aro sasti- ta ternego centrali.</p>
-    <p xml:lang="swe">Arakhiba ta drap so hiovylas kana lelas arakhiba pa aja khardo safanuvaro dukh nasvaliba lelas pe jiva( biprisavitiko).</p>
-  </body>
-</document>
+<document xml:lang="rmf" id="no_id"><header><title/><genre code="facta"/><author><unknown/></author><wordcount>1030</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="rmf"/><language xml:lang="swe"/></multilingual><origFileName>http://www.1177.se/Nationella-minoritetssprak/Nationella-minoritetssprak/Romanska-kale/Regler-och-rattigheter/Patientavgifter</origFileName><parallel_text xml:lang="eng" location="patientavgifter.html"/><parallel_text xml:lang="fin" location="patientavgifter.html"/><parallel_text xml:lang="fit" location="patientavgifter.html"/><parallel_text xml:lang="sma" location="patientavgift.html"/><parallel_text xml:lang="sme" location="patientavgifter.html"/><parallel_text xml:lang="smj" location="patientavgifter.html"/><parallel_text xml:lang="swe" location="patientavgifter.html"/><parallel_text location="patientavgifter.html" xml:lang="rmy-rka"/><parallel_text location="patientavgifter.html" xml:lang="rmn"/><parallel_text location="patientavgifter.html" xml:lang="rmu"/><parallel_text location="patientavgifter.html" xml:lang="yid"/><parallel_text location="patientavgifter.html" xml:lang="rmy-rlo"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="swe">Dikhibosko presiba / Patientavgifter - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
+<p xml:lang="swe"></p>
+<p xml:lang="swe"></p>
+<p type="title">Dikhibosko presibaPatientavgifter</p>
+<p xml:lang="swe"></p>
+<p type="title">So lelas te presavel?</p>
+<p type="title">Lelas te presavel pa butide staviba aro doktori</p>
+<p>Sastiba-ta nasvalibosko arakhiba aro Svedo presavelas pa phuv-ta komunako skatiba. Douva presiba so presavelas sar eksemplura apo doktorijako staviba hin jek dielos so douva hortanes presila.</p>
+<p>Douva ná rália pherdes privatno arakhiba,sar eksemplura plastikakirurgi so ná medicinkanes. Tála presavelas hilo presiba korkores.</p>
+<p type="title">Disave presiba aro disave phuvjakotingi ta komuna</p>
+<p>Phuvjakotingi ta komuna butvares len agoriba save presiba mote presaves kana stávelas aro doktori vaj pa vaure tšensta aro arakhiba. Butvares hin presiba itslága aro sakha phuvjakotingi. Kana hin hioviba pa but arakhiba hin jek utšiptresibako arakhiba, so faravelas aro vauro kapitelos.</p>
+<p>Sasti-, ta nasvalibosko arakhiba hin biprisavitiko bute aro sáre phuvjakotingi ta regioni kana hin télal 20 bereh phurano.</p>
+<p>Prisa so phukavehas télal hin bute presiba ta dochila aro ofensijalno ta privatno arakhiboskere kones hin siomsiba pe phuvjakotingijaha.</p>
+<p>Kana hin tšundo aŕe aro nasvalibosko tšér presavehas jek divirat presiba so hin pálal lági utšides 100 koroni.</p>
+<p>Kana stavelas aro pesko doktori aro arakhibosko centrali barjuvela presiba mahkar 200 ta 350 koroni. Apo staviba aro genekologi ta kentoskodoktori barjula presiba mahkar 200 ta 350koroni. Kana lela it pe dauva staviba remis ka riontgen dikhibake ta itkane vaure arakhiba ná hioviba te presavel vaure presiba. Apo staviba aro vaure spesijalisti doktori barjula presiba mahkar 150 ta 350 koroni. Staviba apo sigutno centrali apo nasvalibosko tšér vojbuvel presavel 220-380 koroni. Apo staviba ka sastiboskieri ta nasvalibosko gymnastia voibuvel presiba áchel 50-220 pe stavibake.</p>
+<p>Mammografi te sígas hokavel tšutšijako rako ta itkane cellfrestibako dikhiba ka ka dajanibako mén, aja khardo gynekologikano sastibako dikhiba vojbuvel presavel 200 koroni.</p>
+<p>Disave phuvjakotingi lena presiba pa dradiba pe ambulansi vaj pe helikopterijaha.</p>
+<p>Disave phuvjakotingi presavela palpále stavibosko presiba kana hin líjal ventavel pherdal siomsibako tíja. Kana ná phukavela biaviba vaj na avela po tíja so hin vojbuvel endo te presavel stavibosko presiba.</p>
+<p type="title">Vaure arakhibosgiere vojbuvel lel vauro presiba</p>
+<p>Dóles kon hin privatnes vaj dženom butjakodimnaskiero jek nasvalibosko siguriba vojbuvel lel vaure lági save presiba mote presaves.</p>
+<p>Aro komunalno sasti-, ta nasvalibosko arakhiba,so dochila phure pe langhtokano nasvaliba,hin vaurevitika presiba pa arakhiba so denas pa sastisboskieri.</p>
+<p>Apo Svedosko komuni ta Phuvjakotingiengo webbthan hin adresi ka komuni, phuvjakotingi ta regioni. Dólen hin aktuel-, ta detalkano džanibi pa lengo presibata.</p>
+<p type="title">Presiba pe avrithemkane</p>
+<p>Avrithemesko memburengo hortiba te lel sigutno arakhiba aro Svedo.</p>
+<p>Ka aveha aro vauro EU-them, EES-them vaj Schweiz mote áches jek eurobako sastiboskosiguribako pelehkos, te lelas sigutno arakhiba pe normalno dikhibosko prisaha. Kana ná ajasavo siguribosko pelehkos hin vojiba te tu nouruvela presaves hilo arakhibosko presiba.</p>
+<p>Kana kameha te lel vaurevitiko arakhiba so ná áchela sigutno ta náka kameha te presavel butide ke dikhibosko presiba so mote áchel kavieriba so sikavela te dživibako them presila pa arakhibata. Kana fotula ajasavo kavieriba lelas te presavel hiro presiba pa arakhibata korkores.</p>
+<p>Koni butide kon avela ka thema so hin avri pa EU, EES ta Schweiz lena te presavel hilo arakhibosko presiba korkores nín vahka douva áchelas sigutno arakhiba.</p>
+<p type="title">Kan sveitiko avela dukhades aro avrithema</p>
+<p>O europeisko nasvali siguribosko pelehkos, so vojbuvehas ródel ka Anglunisiguribosko biro, dela komujenge kon hin sveitiko themesko memburi hortiba te len sigutno arakhiba aro vaure EU-, EES-thema ta Schweiz pe it ekonomikano dochiba sar iega dživiboskiero. Aro nordiko thema tši hiovylas te sikavel pelehkos.</p>
+<p>Kana hiovylas arakhiba aro them so ná aŕe aro EU,EES-thema ta Schweiz hin vojiba te tši lelas presiba pa arakhiba, ná hele pa Svedo vaj pa them kaj áchelas. Dóleske hin inportanto te lel dromeskosiguriba so garavela presiba sar eksemplura tranporti. Kana hin tšéresko siguriba rálila doj butvares stávibako arakhiba so garavela jek dieli pa presiba.</p>
+<p>Aro Anglunisiguribosko birosko webbthan hin butide džanibi te lel arakhiba aro avrinothem.</p>
+<p xml:lang="swe"></p>
+<p type="title">Utšipresibako arakhiba</p>
+<p type="title">Phiŕopelehkos lelas kana hin presadal dosta</p>
+<p>Hin jek táka sar but hin hioviba te presavel pa sasti-, ta nasvalibako arakhibata. Douva arakhelas utšipresibako arakhibaske ta hin itkano aro ´sare phuvjakotingi. Douva hin nín aro džor kana ródeha arakhiba aro vauro stedos ke kaj dživela.</p>
+<p>Utšipresibako arakhiba mienila te télal jek periodi pe dehoduj tšón tšetanes presavelas utšides 1100 koroni. Presiba lelpe te džińes pa váguno staviba bidikhiba kana douva fanula télal aro bereh. Kana hin presadal 1100koroni lelas jek phiŕopelehkos so hin aro džor pa vaure dieli pa dehoduj tšónjako periodi. Kana dehoduj tšsón hin džejal lelpe te presavel harhales pa pesko staviba kana pherdela vauro var 1100 koroni.</p>
+<p>Utšipresibako arakhiba ná garavela butvares</p>
+<list><p type="listitem">dóla presibi so presavelas kana hin tšundo aŕe aro nasvalibosko tšér</p>
+<p type="listitem">vaksija</p>
+<p type="listitem">kavieriba ta sastibako dikhiba</p>
+<p type="listitem">vauro angledžavibako buti, sar eksemplura mammografivoliba</p>
+<p type="listitem">presiba pa bipherdo staviba</p>
+<p type="listitem">presiba pa kopia ta journali</p>
+<p type="listitem">adminitrativikano presiba so lelas kana presavelas pe úchel vaj pe faktura so bichavelas tšéres.</p>
+</list><p type="title">Aro dánesko arakhiba na butvares aro džor sastibosko arakhibako</p>
+<p>Pe vaures vojbuvela utšipresibako arakhiba áchel aro džor kana hin baro ta langhtovitiko hioviba pa dženovitiko arakhiba pa pesko sadivisijako dživiba. Utšipresibako arakhiba vojbuvel áchel aro džor kana hin jek nasvaliba kaj dánesko arakhiba hin jek dieli pa medicinkano arakhibata. Kana hin ajasavo nasvaliba so anela baro buti te lel dáneskoduk vaj hin vaure problemi te lel arakhiba pa pesko mujeskohygenia hin vojiba te lel dáneskoarakhiba ka nasvalibosko tšérersko prisa so rálila aro utšipresibako arakhiba.</p>
+<p>Pe drap so ranelas pa doktori vaj pa sastiboskieri vaj pa vaures kones hin ajasavo hortiba. Aro arakhiba hin jek utšipresibako arakhiba so mienila te hin hioviba te presavel utšides 2200 koroni pe dehoduj tšónesko periodi. Bireceptkane drap ná rálila aŕe aro dauva utšipresibako arakhiba.</p>
+<p>Pherdales hin utšipresibako arakhiba pe nasvaliboskotséresko drádiba ta teknikano hahtibosko berija katar phuvjakotingi lela agoriba. Dauva mienila te tiomiba vojbuvel barjuvel mahkar disave phuvjakotingi.</p>
+<p xml:lang="swe"></p>
+<p type="title">Biprisavitiko sasti- ta nasvaboskoarakhiba</p>
+<p>Disave sasti- ta nasvalibosko arakhiba vojbuvel áchel pherdo biprisavitiko aro disave phuvjakotingi. Drap so rańelas aro dála staviba lelas te presavel.</p>
+<p>Staviba aro dajengo- ta kentengo centrali (MVC ta BVC) hin biprisavitika aro hilo them.</p>
+<p>Aro skolako sastibosko arakhiba ná presavehas tšek prisa ta vaksija so lela dóri hin biprisavitika.</p>
+<p>Aro butvare phuvjakotingi hin arakhiba kenti ta terne biprisavitiko angnal ka 20 beresko díves, sar eksemplura staviba aro sasti- ta ternego centrali.</p>
+<p>Arakhiba ta drap so hiovylas kana lelas arakhiba pa aja khardo safanuvaro dukh nasvaliba lelas pe jiva( biprisavitiko).</p>
+</body></document>

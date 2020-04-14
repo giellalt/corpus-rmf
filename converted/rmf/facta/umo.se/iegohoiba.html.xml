@@ -1,108 +1,60 @@
-<document xml:lang="rmf" id="no_id">
-  <header>
-    <title/>
-    <genre code="facta"/>
-    <author>
-      <unknown/>
-    </author>
-    <translator>
-      <unknown/>
-    </translator>
-    <translated_from xml:lang="swe"/>
-    <wordcount>974</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="rmf"/>
-      <language xml:lang="swe"/>
-    </multilingual>
-    <origFileName>http://www.umo.se/Andra-sprak/romska-kale/Iegohoiba</origFileName>
-    <parallel_text xml:lang="eng" location="self-esteem.html"/>
-    <parallel_text xml:lang="fin" location="itsetunto.html"/>
-    <parallel_text xml:lang="fit" location="ittentunto.html"/>
-    <parallel_text xml:lang="sma" location="jijtjedomtese.html"/>
-    <parallel_text xml:lang="sme" location="iedovdu.html"/>
-    <parallel_text xml:lang="smj" location="iesjdabddo.html"/>
-    <parallel_text xml:lang="swe" location="sjalvkansla.html"/>
-    <parallel_text location="iri-zor.html" xml:lang="rmy-rka"/>
-    <parallel_text location="korkorioset.html" xml:lang="rmn"/>
-    <parallel_text location="soluskansla.html" xml:lang="rmu"/>
-    <parallel_text location="alejn-opshats.html" xml:lang="yid"/>
-    <parallel_text location="manuesko-aaripe-sjalvkansla.html" xml:lang="rmy-rlo"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="swe">Iegohošiba</p>
-    <p xml:lang="swe">Alla undrar!  Vad undrar du?</p>
-    <p type="title" xml:lang="swe">Iegohošiba</p>
-    <p xml:lang="swe">Iegohošiba rakhila pa dóla tenkibi so hin pesta ta so áchelas. Dóleske ná tšek tšetiba dóleha te hinko tšihko vaj bengalo te tšérel disave sáki, douva rakhila te hošavel te hin variso vieriba ferda te áchel. Hošiba te hin sikjardo džal te skólaves apre.</p>
-    <p xml:lang="swe">Sárengorhošiba mienila te hin but sar dživelas pesko dživiba ta sar džalpe. Jek tšihko iegohošiba tšérela te te tšérelas ajasavo sáki so hin tšihka jekeske,te tromula te tšérel neve sáki so kamela, phańel neve kontakti ta pheńel ona já ta ná sákenge.</p>
-    <p xml:lang="swe">Kana hin problemi pe pesko iegohošibaha vojbuvela douva vaures liedavel te lelas dúriba pa ajasave sáki so hortanes kamelas te tšérel. Anglides te tšérel sáki so ná hortas kamelas vaj te tšerelpe vaurengo angnal ke pesko iegohal.</p>
-    <p type="title" xml:lang="swe">Iegohošiba ta iegopaśiba ná it sáki</p>
-    <p xml:lang="swe">Iegohošiba ta iego paśiba tšunsavelas butvares it, vahka dóla ná hortas it sáki.</p>
-    <p xml:lang="swe">Iegopaśiba hin tšeriba pe prestasija, pe vaureha sar but hin tenkibi te tšerel sáki.</p>
-    <p xml:lang="swe">Iegohošiba rakhila sar dikhelas kon hin rálunes ona pe džorale ta bidžorale rigja.</p>
-    <p xml:lang="swe">Kan hin džoralo iegohošiba ná avelas it but angouvimen so vaure tenkina pesta. Hin tromiba te áchel peskiro. Ná lela pes kana sáre vaure ná tenkila te hin fendide aro disave sáki.</p>
-    <p xml:lang="swe">Kana hin téluno iegohošiba vojbuvelas douva vaures hošavel bares pe disave komentari sar ekselplura pa diśiba.</p>
-    <p type="title" xml:lang="swe">Sankiba mahkar faldiba ta iegohošiba</p>
-    <p xml:lang="swe">Hin jek sankiba mahkar iegohošiba ta douva faldiba so hin pa pesko iego dživiba. Kana džanelas te vojbuvelas korkores tšérel agoriba ta angouven pesko iego dživiba hin lochide te lel fendide iegohošiba.</p>
-    <p xml:lang="swe">Vaures vojbuvel iegohošiba nachel kana hošavela pes bifaldimen. Douva vojbuvel sar eksemplura áchel te angouveal pesko iego áchiba kana hin langhtes ródias peske buti, bi te lel tši, vaj douva kones dživelas it lela agoriba pa vauresko dživiba.</p>
-    <p type="title" xml:lang="swe">Sar hokavelas tšihko iegohošiba?</p>
-    <p xml:lang="swe">Jekesko iegohošiba vojbuvela áchel tšihko vaj bengalo aro disave dživibakoperodi ta douva vojbuvel áchel disave džoralo aro disave fanibi. Kana hin tšihko iegohošiba hokavelas douva pa dota te:</p>
-    <list>
-      <p type="listitem" xml:lang="swe">Hošavela te džalpe, vahka ná áchelas tšihko aro sáre sáki.</p>
-      <p type="listitem" xml:lang="swe">Hin hošiba te hortiba te lel than,te dikhelas ta te huńelas ta hošavela pes respektimen.</p>
-      <p type="listitem" xml:lang="swe">Hin tromiba te pheńel sar džalpe vaj so tenkila.</p>
-      <p type="listitem" xml:lang="swe">Aksemtirinela te ná vojbuven sáre kamen pa jekeste.</p>
-      <p type="listitem" xml:lang="swe">Hošavela te hin hortiba te pheńel ona ja ta ná puchibake.</p>
-      <p type="listitem" xml:lang="swe">Hajuvela te kamel hahtiba kana hin hioviba.</p>
-      <p type="listitem" xml:lang="swe">Hošavela te hin te dživel latšes,ta lela sama pesta ta tšerela sáki so hin tšihka jekeske.</p>
-      <p type="listitem" xml:lang="swe">Hin tromiba te frestavel neve sáki ta neve situasija.</p>
-      <p type="listitem" xml:lang="swe">Hin tromibate avel našukarrnakhlo.</p>
-      <p type="listitem" xml:lang="swe">Hin tromiba te lel kontakti pe vaure komujaha.</p>
-      <p type="listitem" xml:lang="swe">Hin vojiba te del ona positiv-ta nekativkano kritika vaurenge.</p>
-      <p type="listitem" xml:lang="swe">Ttromuvela te sterdol so hin ta sar diśula.</p>
-      <p type="listitem" xml:lang="swe">Hošavela pes latšes vahka ná sáre áchela perfektos.</p>
-      <p type="listitem" xml:lang="swe">Tromuvela te sterdol anglal pesko tšeriba ta so tšerelas.</p>
-      <p type="listitem" xml:lang="swe">Vojbuvela iegavel pesko bangiba ta kamel prośiba kana hin tšerdal variso.</p>
-      <p type="listitem" xml:lang="swe">Hajuvela lionavel ta kharel pes.</p>
-    </list>
-    <p type="title" xml:lang="swe">Sar vojbuvelas te hokavel téluno iegohošiba?</p>
-    <p xml:lang="swe">Kana iegohošiba hin téluno vojbuvela douva hokavel dženom te</p>
-    <list>
-      <p type="listitem" xml:lang="swe">hošavela pes bengales,tenkila te ná les tšek vieriba</p>
-      <p type="listitem" xml:lang="swe">tšérela ajasave sáki so ná áchela latše jekeske</p>
-      <p type="listitem" xml:lang="swe">cidela pes te áchel vauren</p>
-      <p type="listitem" xml:lang="swe">cidela pes te frestavel neve sáki</p>
-      <p type="listitem" xml:lang="swe">frestavela te áchel pe vaurengo džintake aro mal-ta kamlibosko relacija</p>
-      <p type="listitem" xml:lang="swe">ná lela but than ta lela pes aro disave situasija</p>
-      <p type="listitem" xml:lang="swe">hin butvares kálo holvakiero vaj hin pharojakhakiero vaurenge</p>
-      <p type="listitem" xml:lang="swe">avela but mulanes ka ná džala latšes pe dóleha so tšérela.</p>
-    </list>
-    <p xml:lang="swe">Bengalo iegohošiba vojbuvela nína sikavel pes dženom te jek komunis kuŕela,smouvavela vaj hin bilatšo vaure komujenge. Douva vojbuvel avel te frestavelas te garavel pesko bengalo iegohošiba dženo te áchel koni fendide aro sáre ´saki vaj kharavelas pes korkores.</p>
-    <p type="title" xml:lang="swe">Soske lelas bengalo iegohošiba?</p>
-    <p xml:lang="swe">Hin but disave sáki so angovela te hin téluno iegohošiba. Sáre hiovyla te lel vieriba, avel te dikhimen ta lel patvales kon hin. Iegohošiba télijina kana hin butvares aro pesko barjiba líjal te huńel te ná áchelas aja tšihko,te ná tšérelas peśa tši hortas tši vaj te áchelas drouvo komunis.</p>
-    <p xml:lang="swe">Itkanes vojbuvel jek komunis kon hin líjal ákni ferda jov vaj joj hin tšerdal variso tšihkas, sar eksemplura aro jek idrotifrestiba vaj aro jek skolako frestiba,tenkila te joj vaj jov dikhelas latšes ińasto ka jón hin tšerdal variso tšihkas. Te ná reselas ińasto pa pesko áchiba.</p>
-    <p xml:lang="swe">Iegohošiba angovelas nína nekativkanes kana ná avelas tšek dikhimen télál pesko barjiba,sar eksemplura kana pesko phúrdide vaj konensa barjila ná áchela aja but aro tšéres,vaj kana jón hin nasvale, lena but drab vaj hin aja pherdo pa pesko iego dživiba te ná lena te dikhel pengo kenti.</p>
-    <p xml:lang="swe">Hošiba te ná reselas vojbuvel nína vieruvel te hin vaurevitika hošiba aro angliba. Kana hin but hošalo vojbuvel iegavel téluno iegohošiba,vahka hin áchtal tšihko barjibako áchibi.</p>
-    <p xml:lang="swe">Kata douva vierula te hin teluno iegohošiba,vojbuvel douva avel fendide.</p>
-    <p type="title" xml:lang="swe">Te hošavel pes vaurevitikanes,avrutno ta vieruvel pes pe vaureha.</p>
-    <p xml:lang="swe">Douva vojbuvel vieruvel bares pe iegohošibaha sar bares hin it sar hin vaure aro douva húpa vaj dóla komuja konensa barjuvela. Kana sáre vaure kamela pa sporti ta korkores ná tšek intresimen ,vojbuvel hošavel pes bidžanimen ta avel bisigurno pe pes korkores. Vaure sáki so vojbuvela hahtavel te iegohošiba téljina vojbuvel áchela te</p>
-    <list>
-      <p type="listitem" xml:lang="swe">hošavela pes avrutno vaj hóljimen</p>
-      <p type="listitem" xml:lang="swe">hin bibutjakero</p>
-      <p type="listitem" xml:lang="swe">hin bilokho te lel agoriba so tšérelas pe pesko dživibaha,sar aro savo sikjiba džalas vaj savo butjako profesija frestavelas bares</p>
-      <p type="listitem" xml:lang="swe">ná džalpe psykikanes latšes sar eksemplura sar but dar vaj deprimen hošavela pes.</p>
-    </list>
-    <p xml:lang="swe">But vieruvena pen lensa kon jón pinsila vaj komuja aro reklamos ta media. Ka ušitide ventiba hin pa pesta-te avelas tšihko aro sáre sáki,hin rankano ta pinsardo-dóleske bilokhide vojbuvel hošavel peskíriba pe peśa.</p>
-    <p type="title" xml:lang="swe">Iegohošiba ná sarenes diśula avrikanes.</p>
-    <p xml:lang="swe">Douva hin bilokho te dikhel avrikanes kana jek komunis hošavela pesko iegohošiba. Džiko kon avrikanes diśula avrikanes but bahtales, kon diśula rankanes, hin tšihko aro skola vaj aro buti ta hin but mále, vojbuvela hortanes iegavel téluno iegohošiba ta hošavel te joj vaj jov ná hortanes dosta latšes.</p>
-    <p xml:lang="swe">» Tipsi te lel fendide iegohošiba</p>
-  </body>
-</document>
+<document xml:lang="rmf" id="no_id"><header><title/><genre code="facta"/><author><unknown/></author><translator><unknown/></translator><translated_from xml:lang="swe"/><wordcount>969</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="rmf"/><language xml:lang="swe"/></multilingual><origFileName>http://www.umo.se/Andra-sprak/romska-kale/Iegohoiba</origFileName><parallel_text xml:lang="eng" location="self-esteem.html"/><parallel_text xml:lang="fin" location="itsetunto.html"/><parallel_text xml:lang="fit" location="ittentunto.html"/><parallel_text xml:lang="sma" location="jijtjedomtese.html"/><parallel_text xml:lang="sme" location="iedovdu.html"/><parallel_text xml:lang="smj" location="iesjdabddo.html"/><parallel_text xml:lang="swe" location="sjalvkansla.html"/><parallel_text location="iri-zor.html" xml:lang="rmy-rka"/><parallel_text location="korkorioset.html" xml:lang="rmn"/><parallel_text location="soluskansla.html" xml:lang="rmu"/><parallel_text location="alejn-opshats.html" xml:lang="yid"/><parallel_text location="manuesko-aaripe-sjalvkansla.html" xml:lang="rmy-rlo"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Iegohošiba</p>
+<p type="title">Iegohošiba</p>
+<p>Iegohošiba rakhila pa dóla tenkibi so hin pesta ta so áchelas. Dóleske ná tšek tšetiba dóleha te hinko tšihko vaj bengalo te tšérel disave sáki, douva rakhila te hošavel te hin variso vieriba ferda te áchel. Hošiba te hin sikjardo džal te skólaves apre.</p>
+<p>Sárengorhošiba mienila te hin but sar dživelas pesko dživiba ta sar džalpe. Jek tšihko iegohošiba tšérela te te tšérelas ajasavo sáki so hin tšihka jekeske,te tromula te tšérel neve sáki so kamela, phańel neve kontakti ta pheńel ona já ta ná sákenge.</p>
+<p>Kana hin problemi pe pesko iegohošibaha vojbuvela douva vaures liedavel te lelas dúriba pa ajasave sáki so hortanes kamelas te tšérel. Anglides te tšérel sáki so ná hortas kamelas vaj te tšerelpe vaurengo angnal ke pesko iegohal.</p>
+<p type="title">Iegohošiba ta iegopaśiba ná it sáki</p>
+<p>Iegohošiba ta iego paśiba tšunsavelas butvares it, vahka dóla ná hortas it sáki.</p>
+<p>Iegopaśiba hin tšeriba pe prestasija, pe vaureha sar but hin tenkibi te tšerel sáki.</p>
+<p>Iegohošiba rakhila sar dikhelas kon hin rálunes ona pe džorale ta bidžorale rigja.</p>
+<p>Kan hin džoralo iegohošiba ná avelas it but angouvimen so vaure tenkina pesta. Hin tromiba te áchel peskiro. Ná lela pes kana sáre vaure ná tenkila te hin fendide aro disave sáki.</p>
+<p>Kana hin téluno iegohošiba vojbuvelas douva vaures hošavel bares pe disave komentari sar ekselplura pa diśiba.</p>
+<p type="title">Sankiba mahkar faldiba ta iegohošiba</p>
+<p>Hin jek sankiba mahkar iegohošiba ta douva faldiba so hin pa pesko iego dživiba. Kana džanelas te vojbuvelas korkores tšérel agoriba ta angouven pesko iego dživiba hin lochide te lel fendide iegohošiba.</p>
+<p>Vaures vojbuvel iegohošiba nachel kana hošavela pes bifaldimen. Douva vojbuvel sar eksemplura áchel te angouveal pesko iego áchiba kana hin langhtes ródias peske buti, bi te lel tši, vaj douva kones dživelas it lela agoriba pa vauresko dživiba.</p>
+<p type="title">Sar hokavelas tšihko iegohošiba?</p>
+<p>Jekesko iegohošiba vojbuvela áchel tšihko vaj bengalo aro disave dživibakoperodi ta douva vojbuvel áchel disave džoralo aro disave fanibi. Kana hin tšihko iegohošiba hokavelas douva pa dota te:</p>
+<list><p type="listitem">Hošavela te džalpe, vahka ná áchelas tšihko aro sáre sáki.</p>
+<p type="listitem">Hin hošiba te hortiba te lel than,te dikhelas ta te huńelas ta hošavela pes respektimen.</p>
+<p type="listitem">Hin tromiba te pheńel sar džalpe vaj so tenkila.</p>
+<p type="listitem">Aksemtirinela te ná vojbuven sáre kamen pa jekeste.</p>
+<p type="listitem">Hošavela te hin hortiba te pheńel ona ja ta ná puchibake.</p>
+<p type="listitem">Hajuvela te kamel hahtiba kana hin hioviba.</p>
+<p type="listitem">Hošavela te hin te dživel latšes,ta lela sama pesta ta tšerela sáki so hin tšihka jekeske.</p>
+<p type="listitem">Hin tromiba te frestavel neve sáki ta neve situasija.</p>
+<p type="listitem">Hin tromibate avel našukarrnakhlo.</p>
+<p type="listitem">Hin tromiba te lel kontakti pe vaure komujaha.</p>
+<p type="listitem">Hin vojiba te del ona positiv-ta nekativkano kritika vaurenge.</p>
+<p type="listitem">Ttromuvela te sterdol so hin ta sar diśula.</p>
+<p type="listitem">Hošavela pes latšes vahka ná sáre áchela perfektos.</p>
+<p type="listitem">Tromuvela te sterdol anglal pesko tšeriba ta so tšerelas.</p>
+<p type="listitem">Vojbuvela iegavel pesko bangiba ta kamel prośiba kana hin tšerdal variso.</p>
+<p type="listitem">Hajuvela lionavel ta kharel pes.</p>
+</list><p type="title">Sar vojbuvelas te hokavel téluno iegohošiba?</p>
+<p>Kana iegohošiba hin téluno vojbuvela douva hokavel dženom te</p>
+<list><p type="listitem">hošavela pes bengales,tenkila te ná les tšek vieriba</p>
+<p type="listitem">tšérela ajasave sáki so ná áchela latše jekeske</p>
+<p type="listitem">cidela pes te áchel vauren</p>
+<p type="listitem">cidela pes te frestavel neve sáki</p>
+<p type="listitem">frestavela te áchel pe vaurengo džintake aro mal-ta kamlibosko relacija</p>
+<p type="listitem">ná lela but than ta lela pes aro disave situasija</p>
+<p type="listitem">hin butvares kálo holvakiero vaj hin pharojakhakiero vaurenge</p>
+<p type="listitem">avela but mulanes ka ná džala latšes pe dóleha so tšérela.</p>
+</list><p>Bengalo iegohošiba vojbuvela nína sikavel pes dženom te jek komunis kuŕela,smouvavela vaj hin bilatšo vaure komujenge. Douva vojbuvel avel te frestavelas te garavel pesko bengalo iegohošiba dženo te áchel koni fendide aro sáre ´saki vaj kharavelas pes korkores.</p>
+<p type="title">Soske lelas bengalo iegohošiba?</p>
+<p>Hin but disave sáki so angovela te hin téluno iegohošiba. Sáre hiovyla te lel vieriba, avel te dikhimen ta lel patvales kon hin. Iegohošiba télijina kana hin butvares aro pesko barjiba líjal te huńel te ná áchelas aja tšihko,te ná tšérelas peśa tši hortas tši vaj te áchelas drouvo komunis.</p>
+<p>Itkanes vojbuvel jek komunis kon hin líjal ákni ferda jov vaj joj hin tšerdal variso tšihkas, sar eksemplura aro jek idrotifrestiba vaj aro jek skolako frestiba,tenkila te joj vaj jov dikhelas latšes ińasto ka jón hin tšerdal variso tšihkas. Te ná reselas ińasto pa pesko áchiba.</p>
+<p>Iegohošiba angovelas nína nekativkanes kana ná avelas tšek dikhimen télál pesko barjiba,sar eksemplura kana pesko phúrdide vaj konensa barjila ná áchela aja but aro tšéres,vaj kana jón hin nasvale, lena but drab vaj hin aja pherdo pa pesko iego dživiba te ná lena te dikhel pengo kenti.</p>
+<p>Hošiba te ná reselas vojbuvel nína vieruvel te hin vaurevitika hošiba aro angliba. Kana hin but hošalo vojbuvel iegavel téluno iegohošiba,vahka hin áchtal tšihko barjibako áchibi.</p>
+<p>Kata douva vierula te hin teluno iegohošiba,vojbuvel douva avel fendide.</p>
+<p type="title">Te hošavel pes vaurevitikanes,avrutno ta vieruvel pes pe vaureha.</p>
+<p>Douva vojbuvel vieruvel bares pe iegohošibaha sar bares hin it sar hin vaure aro douva húpa vaj dóla komuja konensa barjuvela. Kana sáre vaure kamela pa sporti ta korkores ná tšek intresimen ,vojbuvel hošavel pes bidžanimen ta avel bisigurno pe pes korkores. Vaure sáki so vojbuvela hahtavel te iegohošiba téljina vojbuvel áchela te</p>
+<list><p type="listitem">hošavela pes avrutno vaj hóljimen</p>
+<p type="listitem">hin bibutjakero</p>
+<p type="listitem">hin bilokho te lel agoriba so tšérelas pe pesko dživibaha,sar aro savo sikjiba džalas vaj savo butjako profesija frestavelas bares</p>
+<p type="listitem">ná džalpe psykikanes latšes sar eksemplura sar but dar vaj deprimen hošavela pes.</p>
+</list><p>But vieruvena pen lensa kon jón pinsila vaj komuja aro reklamos ta media. Ka ušitide ventiba hin pa pesta-te avelas tšihko aro sáre sáki,hin rankano ta pinsardo-dóleske bilokhide vojbuvel hošavel peskíriba pe peśa.</p>
+<p type="title">Iegohošiba ná sarenes diśula avrikanes.</p>
+<p>Douva hin bilokho te dikhel avrikanes kana jek komunis hošavela pesko iegohošiba. Džiko kon avrikanes diśula avrikanes but bahtales, kon diśula rankanes, hin tšihko aro skola vaj aro buti ta hin but mále, vojbuvela hortanes iegavel téluno iegohošiba ta hošavel te joj vaj jov ná hortanes dosta latšes.</p>
+<p>» Tipsi te lel fendide iegohošiba</p>
+</body></document>

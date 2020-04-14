@@ -1,74 +1,36 @@
-<document xml:lang="rmf" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>686</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="rmf"/>
-      <language xml:lang="swe"/>
-    </multilingual>
-    <origFileName>http://www.lansstyrelsen.se/skane/rom-ka/samhallsplanering-och-kulturmiljo/Pages/default.aspx</origFileName>
-    <parallel_text xml:lang="eng" location="samhallsplanering-och-kulturmiljo.html"/>
-    <parallel_text xml:lang="fin" location="samhallsplanering-och-kulturmiljo.html"/>
-    <parallel_text xml:lang="fit" location="samhallsplanering-och-kulturmiljo.html"/>
-    <parallel_text xml:lang="sma" location="samhallsplanering-och-kulturmiljo.html"/>
-    <parallel_text xml:lang="sme" location="samhallsplanering-och-kulturmiljo.html"/>
-    <parallel_text xml:lang="swe" location="samhallsplanering-och-kulturmiljo.html"/>
-    <parallel_text location="samhallsplanering-och-kulturmiljo.html" xml:lang="rmu"/>
-    <parallel_text location="samhallsplanering-och-kulturmiljo.html" xml:lang="rmy-rka"/>
-    <parallel_text location="samhallsplanering-och-kulturmiljo.html" xml:lang="rmy-rlo"/>
-    <parallel_text location="samhallsplanering-och-kulturmiljo.html" xml:lang="rmn"/>
-    <parallel_text location="samhallsplanering-och-kulturmiljo.html" xml:lang="yid"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="swe">Themibakopláni ta kulturijako trystaliba - Länsstyrelsen Skåne</p>
-    <list>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe">Themibakopláni &amp; kulturijako trystaliba</p>
-      <p type="listitem" xml:lang="swe"></p>
-    </list>
-    <p xml:lang="swe"></p>
-    <p type="title" xml:lang="swe">Themibakopláni ta kulturijako trystaliba</p>
-    <p xml:lang="swe"><em type="italic">Themeskifaldiba tšérela buti pe themibako plánijataha te anglavel latše ta sigurikane dživibako áchibi ta jek langhtokano dživibakotrystaliba gávesko dživiboskerenge ta vizitatorenge. Kulturijako trystaliba hin jek dieli pa themesko historija, douva dela langtiba aro sakho divisi ta aprena komujengo hajiba aro pengo trystalo bolibake. </em></p>
-    <p type="title" xml:lang="swe">Infrastrukturi ta IT</p>
-    <p xml:lang="swe">Themeskifaldiba tšérela buti te lokhavel komunikasija aŕe aro phuv ta vaure dieli bolibata ávelas ajalatše trystaliba so hin vojiba.Latše komunikasija ta ta jek latšo IT strukturi tšérila te but komuja ta frestiba ta organisasija voibuvena bohlaven pengo butjakomarakni. Themeskifaldiba volila vaureha te saphuvjako intresi vaj intresi so rálila vaureha te saphuvjako intresi vaj intresi so rálila butide gáve tiĺgodoses pe plánijaha pa infrastrukturijako projekti. Ame administrivaha nína themkano dumudiba pe bohlibake pa bredband aro biforuno stedi.</p>
-    <p type="title" xml:lang="swe">Energia</p>
-    <p xml:lang="swe">Themeskifaldiba steĺila regionalno buti pe jek langhtokano sigurno ta džoralo energijakorikhiba.Tšetanes pe phuvjako auktoriensa hin amen lijal angle klima- ta energijako stragedia so amen voibuvena pherdavel tšetanes Svedosko resinja are aro klima – ta energijako steliba.Themeskifaldiba drádela disave vaure projekti te latšavel džoralokano bohliba ta del angle téliba te del dumudíba aro gávengo energijako plániba.</p>
-    <p xml:lang="swe">Hin but dumudibako louve pe energijako efeksijake ta pherdal dživiba ka nevo energia kata Themeskifaldiba agorila.Trystalibako skohka aro Themeskifaldiba kon agorila pa lóvi pe bare energijako frestibake sar ingariba pe balvalodžor ta dúraltatiba.</p>
-    <p type="title" xml:lang="swe">Dživiba</p>
-    <p xml:lang="swe">Themeskofaldiba vastdela themeseko dumudiba pa lágiba pa phúrengo- ta sigurikano tšére, radonsanering ta tikne tšére ta nína pa disave lokali. Themeskifaldiba tšetavena informasija ta tšérela sakho bereh analisi pa phuvjengo tšérengo maraknijata te sar delas dumudiba gávengo buti aro tšérengo puchibi.</p>
-    <p type="title" xml:lang="swe">Plánijakopuchibi</p>
-    <p xml:lang="swe">Themeskifaldiba lela angle téliba pe disave than ta so so hin inportanto sar eksemplura lágibi ta phuvjakorikhiba.Resin hin te tšerel latše ta sigurikane dživijakoáchibi ta jek langhtokano dživibakotrystaliba. Plánijako buti pa sanerijakobuti rálaveha pa disave vaure nationalno resin ta sa phuvjako intresi, sar eksemplura kana energijakoproduktšikja, trystalibako arakhiba, phirotíjakodživibata vaj komunikasijata.Ame granskavá nína komunalno pláni pa dikhiba pe komujengo sastiba ta siguriba, saphuvjako intresi, trystalibako kvialitetoskonormi ta stranakoarakhiba. Ke agoribná to džintake voibuveha tu kláven dólesta amenge.</p>
-    <p type="title" xml:lang="swe">Arakhdo tšére</p>
-    <p xml:lang="swe">Themeskifaldiba voibuvel lel agoriba te kulturhistorikanes barvaĺe tšéri, tšérengo trystaliba, khangerijakotrystaliba, parki, rukhjakotháne vaj itkane sote arakhes sar jek tšereskominsiba. Themeskifaldiba retavena ta lela agoriba pa dóla objekti kata avelas jek tšereskominsiba, tšérila voliba ta dela nína lóvi te paruvel tšereskominsiba, khangeri ta gravorijakothane.</p>
-    <p type="title" xml:lang="swe">Tšéreskoarakhiba</p>
-    <p xml:lang="swe">Tšéreskoarakhiba hin jek dieli pa Themeskifaldibako langhtokano buti te rikhaven phaĺo phuvjako kultirijako trystalibata.Te lágibi rikhaveha phalo pa pengo kulturhistoribako véri hin dóleske infortanto te arakhiba ta reparasija fanula pa tšéresko hyöviba.</p>
-    <p xml:lang="swe">Douva hin nína inportano amenge te rikhaven kulturhistorikánes horta materili ta metodi. Privato komuja, gáve , stiftelsi ta aksija voibuven róden themesko dumudibako louve kotar Themeskifaldiba pa jek themkano dumudiba te arakhen kulturhistorkannes barvale stedi aja arakhado tšerengo tšéresko lágibakodumudiba.</p>
-    <p type="title" xml:lang="swe">Arkelogia ta anglunomukhiba</p>
-    <p xml:lang="swe">Anglunomukhiba hin vurmi pálal phúride komujengo frestiba,sar eksemplura dživibakothan, gravorijakofelda, peravdo than vaj kulturlageri katar mahkunotíjako fóri.</p>
-    <p xml:lang="swe">Themeskifaldibasko buti hin te garavel,arakhel ta tšérel openbáribako buti ta openbáreven amengo anglune mukhibako trystaliba, jakhes te akadívesko generásijata kon avena pálal amenge vojbuven hajuven ta džíven historikano kulturjakobarvaliba.</p>
-    <p xml:lang="swe">Pálal kulturminsibakolági hin niekimen te paruvel, ta len nikhi, hemvavel vaj garavel pherdal jek anglunimukhiba, nebi aro disave fanibi voibuvel Themeskifaldiba te del lóvi.</p>
-    <p type="title" xml:lang="swe">Kulturijako reservati</p>
-    <p xml:lang="swe">Themeskifaldiba ta gáve voibuvel len agoriba barvale kulturjakophuvja sote arakhes sar kulturservati.Dóleske tšére lágibi ta phuvja,nebi nína dóla véri so rálavela frestibi ta tradisija. Jek kulturjakoreservati voibuvel áchel kaj jek karaksijako– than so pe disave manera glivuvena pa phurikane phuvjakorikhiba ta pa resurijako rikhibata. Kana Themeskifaldiba lela agoriba pa jek kulturireservati hin ame administrinasija ta angnál sváriba pa dota so dólengo kulturkano véri so hin.</p>
-    <p type="title" xml:lang="swe">Phuvjeskoarakhiba</p>
-    <p xml:lang="swe">Themeskifaldiba tšérela buti pe phuvjako arakhibaha te rikhavel phaĺo ta uštavel phuvjako barvaliba.Ka tu kameha te garavel jek barvalo kulturikano phuv so rakhavela pa phuvjengo historia voibuvel tu lel dumudibako louve kotar Themeskifaldiba.</p>
-    <p xml:lang="swe">Tšuvibi voivuvel ráleven nína kulturikano vurmi ta barjako ta dživinijeno dživiba. Themeskifaldiba dela nína dumudibako louve pe sanki-ta frestibonge vaj privatno frestiba so sankila trystalkano projekti (LONA).Ka tu puchaveha projektosko dumudibako louve pe jek LONA-projektoske sote mukhes to ródiba dota gáveske ta pálal douva mukhel ródiba Themeskifaldibake.</p>
-  </body>
-</document>
+<document xml:lang="rmf" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>686</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="rmf"/><language xml:lang="swe"/></multilingual><origFileName>http://www.lansstyrelsen.se/skane/rom-ka/samhallsplanering-och-kulturmiljo/Pages/default.aspx</origFileName><parallel_text xml:lang="eng" location="samhallsplanering-och-kulturmiljo.html"/><parallel_text xml:lang="fin" location="samhallsplanering-och-kulturmiljo.html"/><parallel_text xml:lang="fit" location="samhallsplanering-och-kulturmiljo.html"/><parallel_text xml:lang="sma" location="samhallsplanering-och-kulturmiljo.html"/><parallel_text xml:lang="sme" location="samhallsplanering-och-kulturmiljo.html"/><parallel_text xml:lang="swe" location="samhallsplanering-och-kulturmiljo.html"/><parallel_text location="samhallsplanering-och-kulturmiljo.html" xml:lang="rmu"/><parallel_text location="samhallsplanering-och-kulturmiljo.html" xml:lang="rmy-rka"/><parallel_text location="samhallsplanering-och-kulturmiljo.html" xml:lang="rmy-rlo"/><parallel_text location="samhallsplanering-och-kulturmiljo.html" xml:lang="rmn"/><parallel_text location="samhallsplanering-och-kulturmiljo.html" xml:lang="yid"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Themibakopláni ta kulturijako trystaliba - Länsstyrelsen Skåne</p>
+<list><p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem">Themibakopláni &amp; kulturijako trystaliba</p>
+<p type="listitem" xml:lang="swe"></p>
+</list><p xml:lang="swe"></p>
+<p type="title">Themibakopláni ta kulturijako trystaliba</p>
+<p><em type="italic">Themeskifaldiba tšérela buti pe themibako plánijataha te anglavel latše ta sigurikane dživibako áchibi ta jek langhtokano dživibakotrystaliba gávesko dživiboskerenge ta vizitatorenge. Kulturijako trystaliba hin jek dieli pa themesko historija, douva dela langtiba aro sakho divisi ta aprena komujengo hajiba aro pengo trystalo bolibake. </em></p>
+<p type="title" xml:lang="swe">Infrastrukturi ta IT</p>
+<p>Themeskifaldiba tšérela buti te lokhavel komunikasija aŕe aro phuv ta vaure dieli bolibata ávelas ajalatše trystaliba so hin vojiba.Latše komunikasija ta ta jek latšo IT strukturi tšérila te but komuja ta frestiba ta organisasija voibuvena bohlaven pengo butjakomarakni. Themeskifaldiba volila vaureha te saphuvjako intresi vaj intresi so rálila vaureha te saphuvjako intresi vaj intresi so rálila butide gáve tiĺgodoses pe plánijaha pa infrastrukturijako projekti. Ame administrivaha nína themkano dumudiba pe bohlibake pa bredband aro biforuno stedi.</p>
+<p type="title" xml:lang="swe">Energia</p>
+<p>Themeskifaldiba steĺila regionalno buti pe jek langhtokano sigurno ta džoralo energijakorikhiba.Tšetanes pe phuvjako auktoriensa hin amen lijal angle klima- ta energijako stragedia so amen voibuvena pherdavel tšetanes Svedosko resinja are aro klima – ta energijako steliba.Themeskifaldiba drádela disave vaure projekti te latšavel džoralokano bohliba ta del angle téliba te del dumudíba aro gávengo energijako plániba.</p>
+<p>Hin but dumudibako louve pe energijako efeksijake ta pherdal dživiba ka nevo energia kata Themeskifaldiba agorila.Trystalibako skohka aro Themeskifaldiba kon agorila pa lóvi pe bare energijako frestibake sar ingariba pe balvalodžor ta dúraltatiba.</p>
+<p type="title">Dživiba</p>
+<p>Themeskofaldiba vastdela themeseko dumudiba pa lágiba pa phúrengo- ta sigurikano tšére, radonsanering ta tikne tšére ta nína pa disave lokali. Themeskifaldiba tšetavena informasija ta tšérela sakho bereh analisi pa phuvjengo tšérengo maraknijata te sar delas dumudiba </p>
+<p type="title">Plánijakopuchibi</p>
+<p>Themeskifaldiba lela angle téliba pe disave than ta so so hin inportanto sar eksemplura lágibi ta phuvjakorikhiba.Resin hin te tšerel latše ta sigurikane dživijakoáchibi ta jek langhtokano dživibakotrystaliba. Plánijako buti pa sanerijakobuti rálaveha pa disave vaure nationalno resin ta sa phuvjako intresi, sar eksemplura kana energijakoproduktšikja, trystalibako arakhiba, phirotíjakodživibata vaj komunikasijata.Ame granskavá nína komunalno pláni pa dikhiba pe komujengo sastiba ta siguriba, saphuvjako intresi, trystalibako kvialitetoskonormi ta stranakoarakhiba. Ke agoribná to džintake voibuveha tu kláven dólesta amenge.</p>
+<p type="title">Arakhdo tšére</p>
+<p>Themeskifaldiba voibuvel lel agoriba te kulturhistorikanes barvaĺe tšéri, tšérengo trystaliba, khangerijakotrystaliba, parki, rukhjakotháne vaj itkane sote arakhes sar jek tšereskominsiba. Themeskifaldiba retavena ta lela agoriba pa dóla objekti kata avelas jek tšereskominsiba, tšérila voliba ta dela nína lóvi te paruvel tšereskominsiba, khangeri ta gravorijakothane.</p>
+<p type="title">Tšéreskoarakhiba</p>
+<p>Tšéreskoarakhiba hin jek dieli pa Themeskifaldibako langhtokano buti te rikhaven phaĺo phuvjako kultirijako trystalibata.Te lágibi rikhaveha phalo pa pengo kulturhistoribako véri hin dóleske infortanto te arakhiba ta reparasija fanula pa tšéresko hyöviba.</p>
+<p>Douva hin nína inportano amenge te rikhaven kulturhistorikánes horta materili ta metodi. Privato komuja, gáve , stiftelsi ta aksija voibuven róden themesko dumudibako louve kotar Themeskifaldiba pa jek themkano dumudiba te arakhen kulturhistorkannes barvale stedi aja arakhado tšerengo tšéresko lágibakodumudiba.</p>
+<p type="title">Arkelogia ta anglunomukhiba</p>
+<p>Anglunomukhiba hin vurmi pálal phúride komujengo frestiba,sar eksemplura dživibakothan, gravorijakofelda, peravdo than vaj kulturlageri katar mahkunotíjako fóri.</p>
+<p>Themeskifaldibasko buti hin te garavel,arakhel ta tšérel openbáribako buti ta openbáreven amengo anglune mukhibako trystaliba, jakhes te akadívesko generásijata kon avena pálal amenge vojbuven hajuven ta džíven historikano kulturjakobarvaliba.</p>
+<p>Pálal kulturminsibakolági hin niekimen te paruvel, ta len nikhi, hemvavel vaj garavel pherdal jek anglunimukhiba, nebi aro disave fanibi voibuvel Themeskifaldiba te del lóvi.</p>
+<p type="title">Kulturijako reservati</p>
+<p>Themeskifaldiba ta gáve voibuvel len agoriba barvale kulturjakophuvja sote arakhes sar kulturservati.Dóleske tšére lágibi ta phuvja,nebi nína dóla véri so rálavela frestibi ta tradisija. Jek kulturjakoreservati voibuvel áchel kaj jek karaksijako– than so pe disave manera glivuvena pa phurikane phuvjakorikhiba ta pa resurijako rikhibata. Kana Themeskifaldiba lela agoriba pa jek kulturireservati hin ame administrinasija ta angnál sváriba pa dota so dólengo kulturkano véri so hin.</p>
+<p type="title">Phuvjeskoarakhiba</p>
+<p>Themeskifaldiba tšérela buti pe phuvjako arakhibaha te rikhavel phaĺo ta uštavel phuvjako barvaliba.Ka tu kameha te garavel jek barvalo kulturikano phuv so rakhavela pa phuvjengo historia voibuvel tu lel dumudibako louve kotar Themeskifaldiba.</p>
+<p>Tšuvibi voivuvel ráleven nína kulturikano vurmi ta barjako ta dživinijeno dživiba. Themeskifaldiba dela nína dumudibako louve pe sanki-ta frestibonge vaj privatno frestiba so sankila trystalkano projekti (LONA).Ka tu puchaveha projektosko dumudibako louve pe jek LONA-projektoske sote mukhes to ródiba dota gáveske ta pálal douva mukhel ródiba Themeskifaldibake.</p>
+</body></document>

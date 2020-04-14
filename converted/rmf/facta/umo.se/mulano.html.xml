@@ -1,85 +1,42 @@
-<document xml:lang="rmf" id="no_id">
-  <header>
-    <title/>
-    <genre code="facta"/>
-    <author>
-      <unknown/>
-    </author>
-    <translator>
-      <unknown/>
-    </translator>
-    <translated_from xml:lang="swe"/>
-    <wordcount>829</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="rmf"/>
-      <language xml:lang="swe"/>
-    </multilingual>
-    <origFileName>http://www.umo.se/Andra-sprak/romska-kale/Mulano</origFileName>
-    <parallel_text xml:lang="fin" location="alakuloisuus.html"/>
-    <parallel_text xml:lang="fit" location="matalapaine-eli-alakulonen.html"/>
-    <parallel_text xml:lang="sma" location="hujnesne.html"/>
-    <parallel_text xml:lang="sme" location="lossesvuohta.html"/>
-    <parallel_text xml:lang="smj" location="hajesvuohta.html"/>
-    <parallel_text xml:lang="swe" location="nedstamdhet.html"/>
-    <parallel_text location="togalopha.html" xml:lang="rmu"/>
-    <parallel_text location="depresirime.html" xml:lang="rmy-rlo"/>
-    <parallel_text location="tristimos.html" xml:lang="rmy-rka"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="swe">Mulano</p>
-    <p xml:lang="swe">Alla undrar!  Vad undrar du?</p>
-    <p type="title" xml:lang="swe">Mulano</p>
-    <p xml:lang="swe">Te onivar hošelas pe mulaneske,dukhavdo,bisansanrdo vaj hošela ta prinsavela biavtšaimo hin jek naturkano dieli pa dživiba. Sar eksemlplura hin divisi kana ná orkuvela tši, tšek hošavelas latšes va dála tenkavela peske but tugvalo. Butvares džala hošiba perdal pálal jek tíja. Hin sáki so hin vojiba te tšérel korokores te áchelas fendide hošiba,ta hin hahtiba te lel ka hin hioviba.</p>
-    <p xml:lang="swe">Mulaniba avela ta džala aro dživiba Tši huoviba te darel te mukhel angle nekativa tenkiba ta hošiba. Kana frestavela te rakhel pes pa ajasáve hošiba ta kana dóla avela hin vojiba te lel baride hagiba ta bipahuno Jek sákijako dieli mote hošvel ta mote lel langhtide tíja.</p>
-    <p type="title" xml:lang="swe">Onivar ná džaniba soske</p>
-    <p xml:lang="swe">Onivar vojbuvel áchel variso specijalno so tšérela te hošavelas pes mulaneske. Douva vojbuvel áchel sar eksemplura te hin avlo frójiba konensa hin áchdal it, te phúride ömsavela fró vaj vaure problemi pe familjaha ta málensa.</p>
-    <p xml:lang="swe">Hin vojiba te avel mulaneske ka dživiba parula pe disave manera,sar eksemplura ka ömsavela ,barjula skola ,vaj kana lelpe gynmnasija vaj lelpe buti.</p>
-    <p xml:lang="swe">Butvares dživelas pherdal ajasave bilokhiba korkores vaj hahtiba pa maale ta familja,vahka douva vojbuvel hošavel but bares kana douva fanula.</p>
-    <p xml:lang="swe">Douva hi nína normalno te hošavelas pes mulaneske vahka tši na fanudal. Kana sar eksemplura hin stresimo vaj hin bilokho te souvel ke hin but baro buti aro skola vaj aro butja vojbuvel dota avel mulaneske ta tugvaleske.Tenkiba pa seksualikano, sa mote te áchel ta sar trupos barjula vojubelako douva áchel baro buti.Tšaja vojuvena aven tugvale disave dives anglal menśi.</p>
-    <p type="title" xml:lang="swe">Douva ná sárenes diśula sar hin áchiba</p>
-    <p xml:lang="swe">Butvares ná haljuvena mále, phúride, sikjiboskiere vaj vaure sar tšatšunes hin áchiba. Douva ná sigurno diśulako douva pesta vahka korkores tenkila te douva mote diśuvel.</p>
-    <p xml:lang="swe">Kana hin mulano vojbuvel avel butide hojimen ta pe lokhes hólijimen. Tála vojbuvena komuja so hin aro trystaliba hokaven te vauro rúvalide,nebi jón vojbuven ná te džanen te douva hin dóleske ka komunis hin mulano ta tugvalo. Dólesko vojbuvel áchel tšihko te frestavel rakhavel sar hin áchiba te hin vojiba te lel hahtiba ta dumudiba. Dženom te rakhavel pe dziko hin vojiba te džanel fendide pes.</p>
-    <p type="title" xml:lang="swe">So hin vojiba te tšérel korkores?</p>
-    <p xml:lang="swe">Sar hin vojiba te angouvela sar hin áchiba. Hin fendide áchibi ta orokuvela butide kana stávela peske,saj treniba sárenes ,ke ná tsérelas douva. Te lel fendide áchibi hin nína inportanto te ha. Tála hin lokhide te tsérel sáki so hin onivar bilokhe. Hin vojiba te avel lindralo nína te souvel kuti ta pe bút.</p>
-    <p xml:lang="swe">Hin vaure sáki so hin tšihko te tenkavel kana hin tugvalo:</p>
-    <list>
-      <p type="listitem" xml:lang="swe">Dota avela latšo džinta ka dikhela pesko mále. Nebi hin hioviba te áchel korkoro kana hin tugvalo.</p>
-      <p type="listitem" xml:lang="swe">Douva vojbuvela hahtavel kana stávela. Te lel stáviba vaj džal te rikhavel frestiba hahtavela. Kana hin but tenkibi ta tšéribi ta souvelas dóleske fendide.</p>
-      <p type="listitem" xml:lang="swe">Te áchel avri aro divisija diśula hin tšihko,dóleske jang vojbuvel tšérel te áchela lohanide.</p>
-      <p type="listitem" xml:lang="swe">Douva vojbuvel nína hahtavel kana lela te rakhavel pe džiko,sar jek mal vaj džiko aro familja.Hin vojiba nína te džal sar eksemplura ka skolakosastiboskieri vaj jek kuratori.</p>
-      <p type="listitem" xml:lang="swe">Hin vojiba te rańel téle sar hin hošiba.Dzenom te tšuvel pesko láve pe pesko hošibake ta tenkibake hin manera te vojbuvel hajuvel fendide,ta lokhide vojbuvel te dikhel kana hin problemi so vojbuvelas phiŕavel.</p>
-    </list>
-    <p type="title" xml:lang="swe">Alkoholi ta drab ná áchel tšihko</p>
-    <p xml:lang="swe">Kana hin mulano vojbuvel onivat hošasavel sar douva hahtilas te pível alkoholi vaj rikhavel drab. Saj áchelas te avelas lohanide ta bistravena douva so hin but baro aro douva tíja,nebi tíjaha vojbuvel douva barjuvel ta džorjavel uróliba ta vaure phare hošiba. Douva vojbuvel áchel nína jakhes te douva hin alkoholi vaj drab so hin dochiba te áchelas mulano.</p>
-    <p type="title" xml:lang="swe">Mulaniba džala hastes pherdal</p>
-    <p xml:lang="swe">Hin vojiba te hošavel pes but bengales kana hin tugvalo. Dóleske hin tšihko te džanel te tugvalo butvares džal pherdal korkores, vahka douva lela tíja peske.</p>
-    <p type="title" xml:lang="swe">Onivar hiovylas hahtiba</p>
-    <p xml:lang="swe">Onivar vojbuvel te áchel tšihko te rakhavel pe fremdo komujaha.Te lel hahtiba hin vojiba te lel sar eksemplura kontakti aro ternengo centrali vaj sikjukúnenengo sastiba. Dóri hin manera te dikhel vaure terne kon hin mulane. Kana hin hioviba vojbuvela douva kones dikhela doj hahtavel te lel kontakti sar eksemplura pe jek psykolog vaj doktori.</p>
-    <p xml:lang="swe">Hin nína ajasave telenojour so vojubel te bahavel,ta stedos apo interneti kaj hin vojba te chata,mejla vaj drabavel te lel hahtiba. Dóri hin vojiba te áchel sar bipindardo.</p>
-    <p type="title" xml:lang="swe">Depresion</p>
-    <p xml:lang="swe">Jek depresion hin vauro slaga dukh ke áchel jek tíja mulano ta tugvalo. Hin vojiba te lel jek depresion mulaneske disave kurke ta itkanes</p>
-    <list>
-      <p type="listitem" xml:lang="swe">džonkila džinta pe ajasave sáki kata rikhavelas</p>
-      <p type="listitem" xml:lang="swe">souvel kuti vaj butide</p>
-      <p type="listitem" xml:lang="swe">hin baro buti te koncentrinela pes</p>
-      <p type="listitem" xml:lang="swe">džonkavela hábesko apetiti</p>
-      <p type="listitem" xml:lang="swe">hala butide ka normalnes</p>
-      <p type="listitem" xml:lang="swe">avela lokhes ilakes</p>
-      <p type="listitem" xml:lang="swe">lela bengalo korkoropaśiba ta avela kritikanes peske</p>
-      <p type="listitem" xml:lang="swe">garajula pes pa komuja</p>
-      <p type="listitem" xml:lang="swe">lele peske but tía te tenkavel sa sáki</p>
-      <p type="listitem" xml:lang="swe">lela problemi aro skola vaj pálal buti</p>
-      <p type="listitem" xml:lang="swe">lel korkorkano meribosko tenkiba.</p>
-    </list>
-    <p xml:lang="swe">Kana lelas jek depresion hiovylas profesikano hahtiba te lel fendide áchibi. Te lel douva hin vojiba te lel kontakti sar eksemplura aro ternengo-, ta sastibosko centrali vaj sikjukúnesko sastibake.</p>
-  </body>
-</document>
+<document xml:lang="rmf" id="no_id"><header><title/><genre code="facta"/><author><unknown/></author><translator><unknown/></translator><translated_from xml:lang="swe"/><wordcount>824</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="rmf"/><language xml:lang="swe"/></multilingual><origFileName>http://www.umo.se/Andra-sprak/romska-kale/Mulano</origFileName><parallel_text xml:lang="fin" location="alakuloisuus.html"/><parallel_text xml:lang="fit" location="matalapaine-eli-alakulonen.html"/><parallel_text xml:lang="sma" location="hujnesne.html"/><parallel_text xml:lang="sme" location="lossesvuohta.html"/><parallel_text xml:lang="smj" location="hajesvuohta.html"/><parallel_text xml:lang="swe" location="nedstamdhet.html"/><parallel_text location="togalopha.html" xml:lang="rmu"/><parallel_text location="depresirime.html" xml:lang="rmy-rlo"/><parallel_text location="tristimos.html" xml:lang="rmy-rka"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Mulano</p>
+<p type="title">Mulano</p>
+<p>Te onivar hošelas pe mulaneske,dukhavdo,bisansanrdo vaj hošela ta prinsavela biavtšaimo hin jek naturkano dieli pa dživiba. Sar eksemlplura hin divisi kana ná orkuvela tši, tšek hošavelas latšes va dála tenkavela peske but tugvalo. Butvares džala hošiba perdal pálal jek tíja. Hin sáki so hin vojiba te tšérel korokores te áchelas fendide hošiba,ta hin hahtiba te lel ka hin hioviba.</p>
+<p>Mulaniba avela ta džala aro dživiba Tši huoviba te darel te mukhel angle nekativa tenkiba ta hošiba. Kana frestavela te rakhel pes pa ajasáve hošiba ta kana dóla avela hin vojiba te lel baride hagiba ta bipahuno Jek sákijako dieli mote hošvel ta mote lel langhtide tíja.</p>
+<p type="title">Onivar ná džaniba soske</p>
+<p>Onivar vojbuvel áchel variso specijalno so tšérela te hošavelas pes mulaneske. Douva vojbuvel áchel sar eksemplura te hin avlo frójiba konensa hin áchdal it, te phúride ömsavela fró vaj vaure problemi pe familjaha ta málensa.</p>
+<p>Hin vojiba te avel mulaneske ka dživiba parula pe disave manera,sar eksemplura ka ömsavela ,barjula skola ,vaj kana lelpe gynmnasija vaj lelpe buti.</p>
+<p>Butvares dživelas pherdal ajasave bilokhiba korkores vaj hahtiba pa maale ta familja,vahka douva vojbuvel hošavel but bares kana douva fanula.</p>
+<p>Douva hi nína normalno te hošavelas pes mulaneske vahka tši na fanudal. Kana sar eksemplura hin stresimo vaj hin bilokho te souvel ke hin but baro buti aro skola vaj aro butja vojbuvel dota avel mulaneske ta tugvaleske.Tenkiba pa seksualikano, sa mote te áchel ta sar trupos barjula vojubelako douva áchel baro buti.Tšaja vojuvena aven tugvale disave dives anglal menśi.</p>
+<p type="title">Douva ná sárenes diśula sar hin áchiba</p>
+<p>Butvares ná haljuvena mále, phúride, sikjiboskiere vaj vaure sar tšatšunes hin áchiba. Douva ná sigurno diśulako douva pesta vahka korkores tenkila te douva mote diśuvel.</p>
+<p>Kana hin mulano vojbuvel avel butide hojimen ta pe lokhes hólijimen. Tála vojbuvena komuja so hin aro trystaliba hokaven te vauro rúvalide,nebi jón vojbuven ná te džanen te douva hin dóleske ka komunis hin mulano ta tugvalo. Dólesko vojbuvel áchel tšihko te frestavel rakhavel sar hin áchiba te hin vojiba te lel hahtiba ta dumudiba. Dženom te rakhavel pe dziko hin vojiba te džanel fendide pes.</p>
+<p type="title">So hin vojiba te tšérel korkores?</p>
+<p>Sar hin vojiba te angouvela sar hin áchiba. Hin fendide áchibi ta orokuvela butide kana stávela peske,saj treniba sárenes ,ke ná tsérelas douva. Te lel fendide áchibi hin nína inportanto te ha. Tála hin lokhide te tsérel sáki so hin onivar bilokhe. Hin vojiba te avel lindralo nína te souvel kuti ta pe bút.</p>
+<p>Hin vaure sáki so hin tšihko te tenkavel kana hin tugvalo:</p>
+<list><p type="listitem">Dota avela latšo džinta ka dikhela pesko mále. Nebi hin hioviba te áchel korkoro kana hin tugvalo.</p>
+<p type="listitem">Douva vojbuvela hahtavel kana stávela. Te lel stáviba vaj džal te rikhavel frestiba hahtavela. Kana hin but tenkibi ta tšéribi ta souvelas dóleske fendide.</p>
+<p type="listitem">Te áchel avri aro divisija diśula hin tšihko,dóleske jang vojbuvel tšérel te áchela lohanide.</p>
+<p type="listitem">Douva vojbuvel nína hahtavel kana lela te rakhavel pe džiko,sar jek mal vaj džiko aro familja.Hin vojiba nína te džal sar eksemplura ka skolakosastiboskieri vaj jek kuratori.</p>
+<p type="listitem">Hin vojiba te rańel téle sar hin hošiba.Dzenom te tšuvel pesko láve pe pesko hošibake ta tenkibake hin manera te vojbuvel hajuvel fendide,ta lokhide vojbuvel te dikhel kana hin problemi so vojbuvelas phiŕavel.</p>
+</list><p type="title">Alkoholi ta drab ná áchel tšihko</p>
+<p>Kana hin mulano vojbuvel onivat hošasavel sar douva hahtilas te pível alkoholi vaj rikhavel drab. Saj áchelas te avelas lohanide ta bistravena douva so hin but baro aro douva tíja,nebi tíjaha vojbuvel douva barjuvel ta džorjavel uróliba ta vaure phare hošiba. Douva vojbuvel áchel nína jakhes te douva hin alkoholi vaj drab so hin dochiba te áchelas mulano.</p>
+<p type="title">Mulaniba džala hastes pherdal</p>
+<p>Hin vojiba te hošavel pes but bengales kana hin tugvalo. Dóleske hin tšihko te džanel te tugvalo butvares džal pherdal korkores, vahka douva lela tíja peske.</p>
+<p type="title">Onivar hiovylas hahtiba</p>
+<p>Onivar vojbuvel te áchel tšihko te rakhavel pe fremdo komujaha.Te lel hahtiba hin vojiba te lel sar eksemplura kontakti aro ternengo centrali vaj sikjukúnenengo sastiba. Dóri hin manera te dikhel vaure terne kon hin mulane. Kana hin hioviba vojbuvela douva kones dikhela doj hahtavel te lel kontakti sar eksemplura pe jek psykolog vaj doktori.</p>
+<p>Hin nína ajasave telenojour so vojubel te bahavel,ta stedos apo interneti kaj hin vojba te chata,mejla vaj drabavel te lel hahtiba. Dóri hin vojiba te áchel sar bipindardo.</p>
+<p type="title" xml:lang="swe">Depresion</p>
+<p>Jek depresion hin vauro slaga dukh ke áchel jek tíja mulano ta tugvalo. Hin vojiba te lel jek depresion mulaneske disave kurke ta itkanes</p>
+<list><p type="listitem">džonkila džinta pe ajasave sáki kata rikhavelas</p>
+<p type="listitem">souvel kuti vaj butide</p>
+<p type="listitem">hin baro buti te koncentrinela pes</p>
+<p type="listitem">džonkavela hábesko apetiti</p>
+<p type="listitem">hala butide ka normalnes</p>
+<p type="listitem">avela lokhes ilakes</p>
+<p type="listitem">lela bengalo korkoropaśiba ta avela kritikanes peske</p>
+<p type="listitem">garajula pes pa komuja</p>
+<p type="listitem">lele peske but tía te tenkavel sa sáki</p>
+<p type="listitem">lela problemi aro skola vaj pálal buti</p>
+<p type="listitem">lel korkorkano meribosko tenkiba.</p>
+</list><p>Kana lelas jek depresion hiovylas profesikano hahtiba te lel fendide áchibi. Te lel douva hin vojiba te lel kontakti sar eksemplura aro ternengo-, ta sastibosko centrali vaj sikjukúnesko sastibake.</p>
+</body></document>
