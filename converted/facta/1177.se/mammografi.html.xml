@@ -1,113 +1,68 @@
-<document xml:lang="rmf" id="no_id">
-  <header>
-    <title/>
-    <genre code="facta"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>1525</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="rmf"/>
-      <language xml:lang="swe"/>
-    </multilingual>
-    <origFileName>http://www.1177.se/Nationella-minoritetssprak/Nationella-minoritetssprak/Romanska-kale/Undersokningar--prover/mammografi</origFileName>
-    <parallel_text xml:lang="eng" location="mammografi.html"/>
-    <parallel_text xml:lang="fin" location="mammografi.html"/>
-    <parallel_text xml:lang="fit" location="mammografi.html"/>
-    <parallel_text xml:lang="sma" location="mammografi.html"/>
-    <parallel_text xml:lang="sme" location="mammografi.html"/>
-    <parallel_text xml:lang="smj" location="mammografi.html"/>
-    <parallel_text xml:lang="swe" location="mammografi.html"/>
-    <parallel_text location="mammografi.html" xml:lang="rmy-rka"/>
-    <parallel_text location="mammografi.html" xml:lang="rmn"/>
-    <parallel_text location="mammografi.html" xml:lang="rmu"/>
-    <parallel_text location="mammografi.html" xml:lang="yid"/>
-    <parallel_text location="mammografi.html" xml:lang="rmy-rlo"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="swe">Mamografi / Mammografi - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
-    <p xml:lang="swe"></p>
-    <p xml:lang="swe"></p>
-    <p type="title" xml:lang="swe">Romani chib káloRomska kale</p>
-    <list>
-      <p type="listitem" xml:lang="swe">Tillbaka till startsidan för temat</p>
-    </list>
-    <p type="title" xml:lang="swe">MamografiMammografi</p>
-    <p xml:lang="swe"></p>
-    <p type="title" xml:lang="swe">Tšetaniba</p>
-    <p type="title" xml:lang="swe">Sarniba</p>
-    <p xml:lang="swe">Mamografija hin jek rendgenkano dikhiba pa tšutši pe jek spesijalno rendgeniteknika so dela detalikane faraba.</p>
-    <p xml:lang="swe">Dikhiba vojbuvelas te tšéres sar angouvibako mieniba sar jek sastibakodikhiba, aja khardo sceerning, vaj kana džúvli korkores vaj doktori hošela disavo pariba aro tšutši.</p>
-    <p xml:lang="swe">Hin hioviba te džal dženom jek mamografikano dikhiba sar jek sastibako kontroli kana áchelas phari vaj kana doktori tenkavela te áchela jek phum aro tšutši.</p>
-    <p type="title" xml:lang="swe">Angouviba</p>
-    <p xml:lang="swe">Tšek hioviba te angouvela pes pe spesijalno manera.</p>
-    <p type="title" xml:lang="swe">Sar džalpe dikhiba?</p>
-    <p xml:lang="swe">Dikhiba tšérelas butvares apo jek jek mamografi kotoriba, so vojbuvela áchel korkorokano vaj aro tšetaniba aro jek rendgenikano kotoriba aro jek nasvalibako tšér. Mamografi tšérelas nína aro spesijalne tšutšijako centrali ta aro disave sastibako centrali.</p>
-    <p xml:lang="swe">Vágunes lelas te del sváriba katar rendgenisastiboskeri te hinko disave bisvéringa katar tšutši vaja kana halas disave medicini so rálila hormoni.</p>
-    <p xml:lang="swe">Dólesko pálal lelas te nangavel apruni trupos ta sastiboskeri dikhela tšutši ta tšérela notariniba te hinko disave pariba aro tšutš so saj te dikhel pes, sar eksemplura bare bijanibako merekni vaj hemni pálal páluno operasija. Douva vojbuvela te diśuvel aro rendjenifaraba bilokhavel vieriba.</p>
-    <p xml:lang="swe">Télal rendgenidikhiba sterolas apre ta tšuvelas jek pala jek tšutši apo jek válija so rálila aja khardo farabakotektori.Tšutši klemuvelas it pe hahtiba pa jek vauro válija jakhes te dólenda avelas aja ramno. Dauva tšérela te farabata avelas hajudo ta it tíja avelas tšérela dimnnos vojbuvelas rikhavel tiknes.Vast lelas rikhavel apre ta pašuvel kajo aparati kana lelas duj ta trin faraba. Dólesko pálal tšérelas it pe vauro tšutši.</p>
-    <p xml:lang="swe">Douva vojbuvelas hošavel bilatšes vaj dukhel jek tikno tíja kana tšutši phutravelas it.</p>
-    <p type="title" xml:lang="swe">Sar hin pálal?</p>
-    <p xml:lang="swe">Pálal dikhiba hin sar normalnes.</p>
-    <p xml:lang="swe"></p>
-    <p type="title" xml:lang="swe">Soske hiovilas dikhiba?</p>
-    <list>
-      <p type="listitem" xml:lang="swe">Douva hin koni lokhide te hošavel bislétiba aro tšutši kana tšutši hin sapunide. Had apre vast, hošavel pe tšutši ta khakjakogruopa pe rét najha ta pe jek kovli phutriba...</p>
-      <p type="listitem" xml:lang="swe">… tšér tikne trystalikane džajbe,trystaliba pála trystaliba pherdal hilo tšutši. Lelpe trystales tšutšijako phukni ta agor apo khakjakigruopa.</p>
-    </list>
-    <p type="title" xml:lang="swe">Te lel rendgenika pa tšutši</p>
-    <p xml:lang="swe">Apo mamografijakodikhiba lelas rendgenika pa tšutši, pe jek teknika so dela but detalkane farabi.</p>
-    <p xml:lang="swe">Sakho bereh tšérelas butide ke 500 000 dikhiba pe tšutšijakorendgeni aro Svedo.</p>
-    <p type="title" xml:lang="swe">Jek medodi te hokavel rako aro tšutši sígas</p>
-    <p xml:lang="swe">Socijalintariba dela rekomentasija mamografija pe džúvjenge kon hin mahkar 40 ta 74 bereh. Phuvjakotingi rekhavela sáre džújenge kon mahkar 50 ta 69 bereh vojiba te džal dženom mamografijakodikhiba. Aro butide phuvja rekhavelas nína skokhenje mahkar 40 ta 74 bereh dikhiba, nebi douva paruvelpe kana ta sar langhtes lelpe arakhiba ta sar harhales dikhiba džalpe. Pe terne džúvjenge hin normalnes te tšérel dikhiba mahkar jek ta pahvaro bereh. Phuride džúvja butvares mahkar sakhovauro bereh.</p>
-    <p xml:lang="swe">Apo dála sastibakokontroli vojbuvelas jek rako aro tšutši avela openbárimen anglal ke douva hin hińudal del disave simtomi, vaj heĺe hošelas aro tšutši.</p>
-    <p xml:lang="swe">Džanibako sikjiba hin sikadal te džúvja kon lela dieli aro mamografijako sastibakokontroli tiknavela múliba aro tšutšijakorako pe 40prosenti.</p>
-    <p xml:lang="swe">Riziko pe sientikano openbáriba pa rako hin hińudal bohlavel pes, ta tála hiovilas but bisvérikano arakhiba ke tumori so hin avlo openbárimen sikide.</p>
-    <p type="title" xml:lang="swe">Hosa dženom tšutši regulikanes</p>
-    <p xml:lang="swe">Džúvjako tšutši ná harapalo konsistensi. Dólesko khal ke lenge hin nína thudkiorltel ta makhibakovievnadi aro tšutši, ta douva tšérela te douva hošelas biharapalokanes. Aro 50-bereh phuriba avela tšutšijata kovlide tála ka thudjakokiortelja lel pen pálal ta anglavelas pa makhibakovievnadi.</p>
-    <p xml:lang="swe">Angouviba aro tšutšij pa dóla hormonijakopariba so fanula télal džúvjako menśijakocirklo ta vojbuvela dóleske hošave pherdales vaurevitika angouvela pa dota kana dóla avelas dikhimen. Díves pálal menśijako sisto díves vojbuvela áchel jek tšihko díves te korkorikano dikhiba,dóleske ka tšutsija áchela but kovlide ta lokhide te dikhelpe.</p>
-    <p xml:lang="swe">Sáre džúvja mote korkores dikhel pengo tšutši. Douva hin tšihko te te tšérel vieriba so hošelas. Jek tšihko stedos vojbuvel áchel aro anjiba ke dóleske hin lokhide te hošavel tšutši kana dóla hin makhimen pe sapuanis. Pe džintaha kana sterdolas apre vaj kana pachuvelas téle.</p>
-    <p type="title" xml:lang="swe">Butvares pe latše phumja</p>
-    <p xml:lang="swe">Kana openbárelas jek phum vaj gustiba aro vievnadi vojbuvelas aven dólenda darukuno,nebi butvares hin dóla latšekane pariba, spesijalnes kajo terne džúvja. Douva vojbuvel áchel jek cista, douva kamela te phenel te douva hin góno so hin pherdo pa páni vaj jek thúvliba pa pandlibakovievnadi.</p>
-    <p type="title" xml:lang="swe">Sáre pariba mote avel dikhel pa doktori</p>
-    <p xml:lang="swe">Jek pariba aro tšutšijakokiorteli vojubuvela nína áchel pa tšutsijakorako. Tšutšijakorako hin jek pa dóla normalne rakojakoformi mahkar džúvjen. Sakho bereh lela kutide ke 7000 dšúvja ta 40 džéne aro Svedo tšutšijako rako. Riziko te lel tšutšijakorako utšila pe bereha.</p>
-    <p xml:lang="swe">Jek normalno simtomi apo tšutšijakorako hin jek phum aro tšutši vaj aro khakjakigruopa. Jek vauro doch hin te tšutšijako phukni vaj mortši apo tšutši sterdelas aŕe.</p>
-    <p xml:lang="swe">Tiknides normalne simtomi hin biretikano lóliba vaj thuvliba pa tšutši,jek dab so ná sastuvela, vaj ratkano hemiba avela pa tšutšijako knopi.</p>
-    <p xml:lang="swe">Sare pariba aro tšutši mote lel priśi tšukanes ta dikhes pa jek doktori. Hin vojiba te risaves pes kajo arakhibosko centrali, ka džújengo sastibako arakhiba vaj ka jek spesijalno doktori hošela tšihkas tšutši ta lela agoriba hiovilasko te tšérel jek mamografikanodikhiba.</p>
-    <p xml:lang="swe"></p>
-    <p type="title" xml:lang="swe">Jakhes douva džalpe</p>
-    <list>
-      <p type="listitem" xml:lang="swe">Lelas te tšuvel jek tšutši pe var priśi jek váli so rálila jek kaseti pe rientgen filmi. Dólesko pálal phutravelas tšutši it ta duj ka trin faraba lelas.</p>
-    </list>
-    <p type="title" xml:lang="swe">Jek spesijalno riontgenkano aparati hiovilas</p>
-    <p xml:lang="swe">Mamografi tšérelas burvares aro jek mamografijako kotoriba,so vojbuvela áchel phiѓo vaj aro jekriontgenkano kotoriba aro jek nasvalibosko tšér. Dikhiba tšérelas nína apo spesijalne tšutšijako priśi líjiba ta aro disave arakhibosko centrali.</p>
-    <p xml:lang="swe">Douva riontgenaparati so rikhavelas hin spesijalno formi te vojuvelas lel tšihka faraba pa aro disave faniba vojbuvela rakjakotumori so hin ferda disave milimeteri bare avelas openbarimen.</p>
-    <p type="title" xml:lang="swe">Douva fanula jakhes</p>
-    <p xml:lang="swe">Tši hioviba te angouvela peske po jek spesijalno manera. Vágunes lelas te sváravel po disave puchiba ta rikhavel hinko áchdal disave dukhiba pa tšutši,vaj kana halas drab so rálila hormoni. Hin hioviba te kólavels pes nangaves pa téluni trupos ta sastiboskeri dikhela pe tšutši te tšérela hokiba te hinko disave diśukane pariba, sar eksemplura bijanibosko merekni vaj dabjako hemna pálal sígade operasija. Douva vojbuvela sikjuvel aro farabi ta hin avlo risavel banges sar rakjako tumori.</p>
-    <p xml:lang="swe">Dólesko pálal džalas angle. Jek pálal jek tšutši tšuvelas apo jek tafla so rálila jek farabakodektatori.Tšutši phutravelas táles it pe hahtibaha pa dženom dikhikano válija so phutravelas téle kajo tšutši. Vast lelas te had apre ta pahuvel dóles kajo aprati kana lelas duj kaj trin farabi lelas. Douva hin but inportanti te sterol hukares po than. Pálal tšérelas it pe vauro tšutši. Hilo dikhiba lela 15-30 minuti, ferda farabiba lela pa pangh ka deh minuti.</p>
-    <p type="title" xml:lang="swe">Sar hoselas mamografi?</p>
-    <p xml:lang="swe">Douva vojbuvela hošavel bilatšes vaj dukhavel kana tšutši phutravelas. Nebi douva mote tšéres, dóleske lelas fendide kvalitetos ta dikhiba avelas but sigurno. Pherdales vojbuvela diśibakodimnos.</p>
-    <p type="title" xml:lang="swe">Onivar hin hioviba te avel palpale</p>
-    <p xml:lang="swe">Butvares hin duj riontgendoktori so hin. Douva pherdela siguriba aro kavieribake. Kana hin variso so ná áchelas sar hiovilas,kharelas palpale pe jek nevo dikhibake. Tála lelas ekstra mamografi faraba ta tšérelas dikhiba pe ultralíjaha.</p>
-    <p xml:lang="swe">Doktori vojbuvela nína lel jek frestiba kata pariba. Kana hin aja tikno pariba so hin bilokho te hošaves ta vojbuvela frestiba lel it pe jek nevo mamografi vaj pe hahtiba pa ultralíjibaha. Jek suv tšuvelas aro pariba ta lelas jek hurdijakofrestiba. Frestiba bichavelas pe jek mikroskopikano dikhiba. Sa dauva tšérelas te avelas sigurimen te hinko puchiba pa rako vaj ná.</p>
-    <p xml:lang="swe">Sváriba katar mamografijako dikhiba bichvelas džent tšéreske angnal duj kurke ka hin bichiba ka jek sastibakokontroli. Kana lelas rekomentasija kaj mamografi lelas džaniba dikhibako resultati pa pesko doktori.</p>
-    <p type="title" xml:lang="swe">Hormoniarakhiba vojbuvela bilokhavel kavieriba</p>
-    <p xml:lang="swe">Jek dieli pa džuvja lena hormonikano arakhiba télal ta pálal klimakteri vaj han p-pilleri. Ajasavo arakhiba angouvela tšutšijako vévi jakhespherdo te mamografi faraba hin bilokhide te kavieravel. Dóleske hin inportanto te rakhavel kana halas dramb so vojbuvela rálavel hormoni.</p>
-    <p type="title" xml:lang="swe">Dóleske ná dikhiba fartiko</p>
-    <p xml:lang="swe">Douva diśibako dimnos so lelas aro jek mamografidikhiba hin aja tikni te dota ná rálavela tšek riziba. Douva barula pherdales sa tíja teknikano bohliba pe mieniba te tiknavel pańa diśibako dimnos. Dóleske ná tšihko te langhtavel te džal aro mamografijakodikhiba kana lelas khariba,vaj kana openbáravelas jek pariba aro peski tšutši.</p>
-    <p xml:lang="swe">Douva džalpe latšes te lel dikhiba pe mamografi vahka áchelas tšutšijako inplantati. Tšek pretiba te inplantati džalas pach, nebi dólesko khál ke ná vojiba te phutravel it tšutši sar džúvjen konenge ná inplantati hin hioviba te tšérel individuelkano dikhiba. Butvares pherdavelas nína mamografi pe te tšutši hošelas dženom ta dikhelas pe ultralíjiha.</p>
-    <p type="title" xml:lang="swe">Koneske ná avelas</p>
-    <p xml:lang="swe">Kana áchelas but terni hin manera te lel dikhiba pe ultralíjiha anglide ke mamografi. Dólesko khal ke tšutšijako khúvi hin aja angliba te risavel mamografijakofarabi hin bilokhe. Ultralíja dela dóleske jek sigurikano sváriba.</p>
-    <p xml:lang="swe">Kana doktori tenkila te áchelas jek phum aro tšutši butvares phandelas mamografi avri dóleke ke douva hin but dukhalkano te phutravel it tšutši táles. Anglide vojbuvel douva áchel tšihko te džal dženom jek ultralíjijako dikhiba, te dikhel hinko doj phum so hiovilas tšutšiba. Kana infektsija hin avlo arakhimen mote pherdales lel mamografi. Douva hin but inportanto kana hin phuri.</p>
-    <p xml:lang="swe">Kana hin phari ná hioviba te džal dženom sastibakodikhiba, aja khardo sceening, pe mamografi. Nebi kana openbárilavelas jek pariba aro tšutši mote sárenes lel kontakti pe arakhibaha aja sígas te vojbuvel te lel dikhiba, nína vahka áchelas phari. Táles birjila dikhiba pe ultralíjiha ta pherdavelas pe mamografi kana douva hiovilas.</p>
-  </body>
-</document>
+<document xml:lang="rmf" id="no_id"><header><title/><genre code="facta"/><author><unknown/></author><wordcount>1516</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="rmf"/><language xml:lang="swe"/></multilingual><origFileName>http://www.1177.se/Nationella-minoritetssprak/Nationella-minoritetssprak/Romanska-kale/Undersokningar--prover/mammografi</origFileName><parallel_text xml:lang="eng" location="mammografi.html"/><parallel_text xml:lang="fin" location="mammografi.html"/><parallel_text xml:lang="fit" location="mammografi.html"/><parallel_text xml:lang="sma" location="mammografi.html"/><parallel_text xml:lang="sme" location="mammografi.html"/><parallel_text xml:lang="smj" location="mammografi.html"/><parallel_text xml:lang="swe" location="mammografi.html"/><parallel_text location="mammografi.html" xml:lang="rmy-rka"/><parallel_text location="mammografi.html" xml:lang="rmn"/><parallel_text location="mammografi.html" xml:lang="rmu"/><parallel_text location="mammografi.html" xml:lang="yid"/><parallel_text location="mammografi.html" xml:lang="rmy-rlo"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="swe">Mamografi / Mammografi - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
+<p xml:lang="swe"></p>
+<p xml:lang="swe"></p>
+<p type="title" xml:lang="swe">MamografiMammografi</p>
+<p xml:lang="swe"></p>
+<p type="title">Tšetaniba</p>
+<p type="title">Sarniba</p>
+<p>Mamografija hin jek rendgenkano dikhiba pa tšutši pe jek spesijalno rendgeniteknika so dela detalikane faraba.</p>
+<p>Dikhiba vojbuvelas te tšéres sar angouvibako mieniba sar jek sastibakodikhiba, aja khardo sceerning, vaj kana džúvli korkores vaj doktori hošela disavo pariba aro tšutši.</p>
+<p>Hin hioviba te džal dženom jek mamografikano dikhiba sar jek sastibako kontroli kana áchelas phari vaj kana doktori tenkavela te áchela jek phum aro tšutši.</p>
+<p type="title">Angouviba</p>
+<p>Tšek hioviba te angouvela pes pe spesijalno manera.</p>
+<p type="title">Sar džalpe dikhiba?</p>
+<p>Dikhiba tšérelas butvares apo jek jek mamografi kotoriba, so vojbuvela áchel korkorokano vaj aro tšetaniba aro jek rendgenikano kotoriba aro jek nasvalibako tšér. Mamografi tšérelas nína aro spesijalne tšutšijako centrali ta aro disave sastibako centrali.</p>
+<p>Vágunes lelas te del sváriba katar rendgenisastiboskeri te hinko disave bisvéringa katar tšutši vaja kana halas disave medicini so rálila hormoni.</p>
+<p>Dólesko pálal lelas te nangavel apruni trupos ta sastiboskeri dikhela tšutši ta tšérela notariniba te hinko disave pariba aro tšutš so saj te dikhel pes, sar eksemplura bare bijanibako merekni vaj hemni pálal páluno operasija. Douva vojbuvela te diśuvel aro rendjenifaraba bilokhavel vieriba.</p>
+<p>Télal rendgenidikhiba sterolas apre ta tšuvelas jek pala jek tšutši apo jek válija so rálila aja khardo farabakotektori.Tšutši klemuvelas it pe hahtiba pa jek vauro válija jakhes te dólenda avelas aja ramno. Dauva tšérela te farabata avelas hajudo ta it tíja avelas tšérela dimnnos vojbuvelas rikhavel tiknes.Vast lelas rikhavel apre ta pašuvel kajo aparati kana lelas duj ta trin faraba. Dólesko pálal tšérelas it pe vauro tšutši.</p>
+<p>Douva vojbuvelas hošavel bilatšes vaj dukhel jek tikno tíja kana tšutši phutravelas it.</p>
+<p type="title">Sar hin pálal?</p>
+<p>Pálal dikhiba hin sar normalnes.</p>
+<p xml:lang="swe"></p>
+<p type="title">Soske hiovilas dikhiba?</p>
+<list><p type="listitem">Douva hin koni lokhide te hošavel bislétiba aro tšutši kana tšutši hin sapunide. Had apre vast, hošavel pe tšutši ta khakjakogruopa pe rét najha ta pe jek kovli phutriba...</p>
+<p type="listitem">… tšér tikne trystalikane džajbe,trystaliba pála trystaliba pherdal hilo tšutši. Lelpe trystales tšutšijako phukni ta agor apo khakjakigruopa.</p>
+</list><p type="title">Te lel rendgenika pa tšutši</p>
+<p>Apo mamografijakodikhiba lelas rendgenika pa tšutši, pe jek teknika so dela but detalkane farabi.</p>
+<p>Sakho bereh tšérelas butide ke 500 000 dikhiba pe tšutšijakorendgeni aro Svedo.</p>
+<p type="title">Jek medodi te hokavel rako aro tšutši sígas</p>
+<p>Socijalintariba dela rekomentasija mamografija pe džúvjenge kon hin mahkar 40 ta 74 bereh. Phuvjakotingi rekhavela sáre džújenge kon mahkar 50 ta 69 bereh vojiba te džal dženom mamografijakodikhiba. Aro butide phuvja rekhavelas nína skokhenje mahkar 40 ta 74 bereh dikhiba, nebi douva paruvelpe kana ta sar langhtes lelpe arakhiba ta sar harhales dikhiba džalpe. Pe terne džúvjenge hin normalnes te tšérel dikhiba mahkar jek ta pahvaro bereh. Phuride džúvja butvares mahkar sakhovauro bereh.</p>
+<p>Apo dála sastibakokontroli vojbuvelas jek rako aro tšutši avela openbárimen anglal ke douva hin hińudal del disave simtomi, vaj heĺe hošelas aro tšutši.</p>
+<p>Džanibako sikjiba hin sikadal te džúvja kon lela dieli aro mamografijako sastibakokontroli tiknavela múliba aro tšutšijakorako pe 40prosenti.</p>
+<p>Riziko pe sientikano openbáriba pa rako hin hińudal bohlavel pes, ta tála hiovilas but bisvérikano arakhiba ke tumori so hin avlo openbárimen sikide.</p>
+<p type="title">Hosa dženom tšutši regulikanes</p>
+<p>Džúvjako tšutši ná harapalo konsistensi. Dólesko khal ke lenge hin nína thudkiorltel ta makhibakovievnadi aro tšutši, ta douva tšérela te douva hošelas biharapalokanes. Aro 50-bereh phuriba avela tšutšijata kovlide tála ka thudjakokiortelja lel pen pálal ta anglavelas pa makhibakovievnadi.</p>
+<p>Angouviba aro tšutšij pa dóla hormonijakopariba so fanula télal džúvjako menśijakocirklo ta vojbuvela dóleske hošave pherdales vaurevitika angouvela pa dota kana dóla avelas dikhimen. Díves pálal menśijako sisto díves vojbuvela áchel jek tšihko díves te korkorikano dikhiba,dóleske ka tšutsija áchela but kovlide ta lokhide te dikhelpe.</p>
+<p>Sáre džúvja mote korkores dikhel pengo tšutši. Douva hin tšihko te te tšérel vieriba so hošelas. Jek tšihko stedos vojbuvel áchel aro anjiba ke dóleske hin lokhide te hošavel tšutši kana dóla hin makhimen pe sapuanis. Pe džintaha kana sterdolas apre vaj kana pachuvelas téle.</p>
+<p type="title">Butvares pe latše phumja</p>
+<p>Kana openbárelas jek phum vaj gustiba aro vievnadi vojbuvelas aven dólenda darukuno,nebi butvares hin dóla latšekane pariba, spesijalnes kajo terne džúvja. Douva vojbuvel áchel jek cista, douva kamela te phenel te douva hin góno so hin pherdo pa páni vaj jek thúvliba pa pandlibakovievnadi.</p>
+<p type="title">Sáre pariba mote avel dikhel pa doktori</p>
+<p>Jek pariba aro tšutšijakokiorteli vojubuvela nína áchel pa tšutsijakorako. Tšutšijakorako hin jek pa dóla normalne rakojakoformi mahkar džúvjen. Sakho bereh lela kutide ke 7000 dšúvja ta 40 džéne aro Svedo tšutšijako rako. Riziko te lel tšutšijakorako utšila pe bereha.</p>
+<p>Jek normalno simtomi apo tšutšijakorako hin jek phum aro tšutši vaj aro khakjakigruopa. Jek vauro doch hin te tšutšijako phukni vaj mortši apo tšutši sterdelas aŕe.</p>
+<p>Tiknides normalne simtomi hin biretikano lóliba vaj thuvliba pa tšutši,jek dab so ná sastuvela, vaj ratkano hemiba avela pa tšutšijako knopi.</p>
+<p>Sare pariba aro tšutši mote lel priśi tšukanes ta dikhes pa jek doktori. Hin vojiba te risaves pes kajo arakhibosko centrali, ka džújengo sastibako arakhiba vaj ka jek spesijalno doktori hošela tšihkas tšutši ta lela agoriba hiovilasko te tšérel jek mamografikanodikhiba.</p>
+<p xml:lang="swe"></p>
+<p type="title">Jakhes douva džalpe</p>
+<list><p type="listitem">Lelas te tšuvel jek tšutši pe var priśi jek váli so rálila jek kaseti pe rientgen filmi. Dólesko pálal phutravelas tšutši it ta duj ka trin faraba lelas.</p>
+</list><p type="title">Jek spesijalno riontgenkano aparati hiovilas</p>
+<p>Mamografi tšérelas burvares aro jek mamografijako kotoriba,so vojbuvela áchel phiѓo vaj aro jekriontgenkano kotoriba aro jek nasvalibosko tšér. Dikhiba tšérelas nína apo spesijalne tšutšijako priśi líjiba ta aro disave arakhibosko centrali.</p>
+<p>Douva riontgenaparati so rikhavelas hin spesijalno formi te vojuvelas lel tšihka faraba pa aro disave faniba vojbuvela rakjakotumori so hin ferda disave milimeteri bare avelas openbarimen.</p>
+<p type="title">Douva fanula jakhes</p>
+<p>Tši hioviba te angouvela peske po jek spesijalno manera. Vágunes lelas te sváravel po disave puchiba ta rikhavel hinko áchdal disave dukhiba pa tšutši,vaj kana halas drab so rálila hormoni. Hin hioviba te kólavels pes nangaves pa téluni trupos ta sastiboskeri dikhela pe tšutši te tšérela hokiba te hinko disave diśukane pariba, sar eksemplura bijanibosko merekni vaj dabjako hemna pálal sígade operasija. Douva vojbuvela sikjuvel aro farabi ta hin avlo risavel banges sar rakjako tumori.</p>
+<p>Dólesko pálal džalas angle. Jek pálal jek tšutši tšuvelas apo jek tafla so rálila jek farabakodektatori.Tšutši phutravelas táles it pe hahtibaha pa dženom dikhikano válija so phutravelas téle kajo tšutši. Vast lelas te had apre ta pahuvel dóles kajo aprati kana lelas duj kaj trin farabi lelas. Douva hin but inportanti te sterol hukares po than. Pálal tšérelas it pe vauro tšutši. Hilo dikhiba lela 15-30 minuti, ferda farabiba lela pa pangh ka deh minuti.</p>
+<p type="title">Sar hoselas mamografi?</p>
+<p>Douva vojbuvela hošavel bilatšes vaj dukhavel kana tšutši phutravelas. Nebi douva mote tšéres, dóleske lelas fendide kvalitetos ta dikhiba avelas but sigurno. Pherdales vojbuvela diśibakodimnos.</p>
+<p type="title">Onivar hin hioviba te avel palpale</p>
+<p>Butvares hin duj riontgendoktori so hin. Douva pherdela siguriba aro kavieribake. Kana hin variso so ná áchelas sar hiovilas,kharelas palpale pe jek nevo dikhibake. Tála lelas ekstra mamografi faraba ta tšérelas dikhiba pe ultralíjaha.</p>
+<p>Doktori vojbuvela nína lel jek frestiba kata pariba. Kana hin aja tikno pariba so hin bilokho te hošaves ta vojbuvela frestiba lel it pe jek nevo mamografi vaj pe hahtiba pa ultralíjibaha. Jek suv tšuvelas aro pariba ta lelas jek hurdijakofrestiba. Frestiba bichavelas pe jek mikroskopikano dikhiba. Sa dauva tšérelas te avelas sigurimen te hinko puchiba pa rako vaj ná.</p>
+<p>Sváriba katar mamografijako dikhiba bichvelas džent tšéreske angnal duj kurke ka hin bichiba ka jek sastibakokontroli. Kana lelas rekomentasija kaj mamografi lelas džaniba dikhibako resultati pa pesko doktori.</p>
+<p type="title">Hormoniarakhiba vojbuvela bilokhavel kavieriba</p>
+<p>Jek dieli pa džuvja lena hormonikano arakhiba télal ta pálal klimakteri vaj han p-pilleri. Ajasavo arakhiba angouvela tšutšijako vévi jakhespherdo te mamografi faraba hin bilokhide te kavieravel. Dóleske hin inportanto te rakhavel kana halas dramb so vojbuvela rálavel hormoni.</p>
+<p type="title">Dóleske ná dikhiba fartiko</p>
+<p>Douva diśibako dimnos so lelas aro jek mamografidikhiba hin aja tikni te dota ná rálavela tšek riziba. Douva barula pherdales sa tíja teknikano bohliba pe mieniba te tiknavel pańa diśibako dimnos. Dóleske ná tšihko te langhtavel te džal aro mamografijakodikhiba kana lelas khariba,vaj kana openbáravelas jek pariba aro peski tšutši.</p>
+<p>Douva džalpe latšes te lel dikhiba pe mamografi vahka áchelas tšutšijako inplantati. Tšek pretiba te inplantati džalas pach, nebi dólesko khál ke ná vojiba te phutravel it tšutši sar džúvjen konenge ná inplantati hin hioviba te tšérel individuelkano dikhiba. Butvares pherdavelas nína mamografi pe te tšutši hošelas dženom ta dikhelas pe ultralíjiha.</p>
+<p type="title">Koneske ná avelas</p>
+<p>Kana áchelas but terni hin manera te lel dikhiba pe ultralíjiha anglide ke mamografi. Dólesko khal ke tšutšijako khúvi hin aja angliba te risavel mamografijakofarabi hin bilokhe. Ultralíja dela dóleske jek sigurikano sváriba.</p>
+<p>Kana doktori tenkila te áchelas jek phum aro tšutši butvares phandelas mamografi avri dóleke ke douva hin but dukhalkano te phutravel it tšutši táles. Anglide vojbuvel douva áchel tšihko te džal dženom jek ultralíjijako dikhiba, te dikhel hinko doj phum so hiovilas tšutšiba. Kana infektsija hin avlo arakhimen mote pherdales lel mamografi. Douva hin but inportanto kana hin phuri.</p>
+<p>Kana hin phari ná hioviba te džal dženom sastibakodikhiba, aja khardo sceening, pe mamografi. Nebi kana openbárilavelas jek pariba aro tšutši mote sárenes lel kontakti pe arakhibaha aja sígas te vojbuvel te lel dikhiba, nína vahka áchelas phari. Táles birjila dikhiba pe ultralíjiha ta pherdavelas pe mamografi kana douva hiovilas.</p>
+</body></document>

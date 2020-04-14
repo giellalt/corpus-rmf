@@ -1,83 +1,42 @@
-<document xml:lang="rmf" id="no_id">
-  <header>
-    <title/>
-    <genre code="facta"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>762</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="rmf"/>
-      <language xml:lang="swe"/>
-    </multilingual>
-    <origFileName>http://www.1177.se/Nationella-minoritetssprak/Nationella-minoritetssprak/Romanska-kale/Regler-och-rattigheter/Patientlagen</origFileName>
-    <parallel_text xml:lang="eng" location="patientlagen.html"/>
-    <parallel_text xml:lang="fin" location="patientlagen.html"/>
-    <parallel_text xml:lang="fit" location="patientlagen.html"/>
-    <parallel_text xml:lang="sma" location="patientlagen.html"/>
-    <parallel_text xml:lang="sme" location="patientlagen.html"/>
-    <parallel_text xml:lang="smj" location="patientlagen.html"/>
-    <parallel_text xml:lang="swe" location="patientlagen.html"/>
-    <parallel_text location="patientlagen.html" xml:lang="rmy-rka"/>
-    <parallel_text location="patientlagen.html" xml:lang="rmy-rlo"/>
-    <parallel_text location="patientlagen.html" xml:lang="rmn"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="swe">Pacientijengo láka / Patientlagen - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
-    <p xml:lang="swe"></p>
-    <p xml:lang="swe"></p>
-    <p type="title" xml:lang="swe">Romani chib káloRomska kale</p>
-    <list>
-      <p type="listitem" xml:lang="swe">Tillbaka till startsidan för temat</p>
-    </list>
-    <p type="title" xml:lang="swe">Pacientijengo láka  Patientlagen</p>
-    <p xml:lang="swe">Pecientijengo láka hin líjadas angle pe tuke kon sal pacijento. Aro douva farabavelas te tu lehas ǆánini pa tuko nasvaliba ta pa save arakhioba hin. Tála leha tu nína áchel it ta leha agoriba pa to arakhiba.</p>
-    <p xml:lang="swe"></p>
-    <p type="title" xml:lang="swe">Informasija mote áchel romude ka to situasija</p>
-    <p xml:lang="swe">Bidota kon tu sal ta savo páliba tut hin mote arakhibosko personali den douva informasija so tu hiovyla. Douva mienila sar eksemplura te tut sa hiovyla jek risiboskero vaj ranlo informasija,te avel ǆánimen sar dikhiba ǆalpe.</p>
-    <p xml:lang="swe">Informasija mote áchel romude ka to situasija ta to iega ventipana. Douva hin infortanto te tu saj hajuvel ta áchel dieluno aro tuko arakhiba. Tu leha velkavel korkoros sar aktivno tu kameha te áchel , nebi tut hin sárenes jek sajpa te rakhavel so tu kameha.</p>
-    <p xml:lang="swe">Kana tu prinsavela ta hajula save alternativo ta sajpa tut hin ǆáaneha te del tuko ǆinta, vaj pe vaure ǆiko manera phukavel jek ja. Tu saj nína velkavel te pheńel ná douva arakhibaske so rekhilas, vahka tu hin díjal tuko lóvi ka disave arakhibake tu saj paruvel to ǆinta. Kenti mote nína len sajpa te phukavel pesko ǆinta.</p>
-    <p xml:lang="swe">Kana kentos hin tikno saj douva fanuvel tšetanes pe kentosko nebi phúride kenti hin dólesko khál koni báride doch rte kentos lela áchel dieluno aro pesko arakhiba te saj áchel aktivnoa ro arakhibate lel agoriba hin but bares nína te kentos ǆáaela informasija</p>
-    <p type="title" xml:lang="swe">Informasija</p>
-    <p xml:lang="swe">So saj informasija rakhavel</p>
-    <list>
-      <p type="listitem" xml:lang="swe">tu mote lel</p>
-      <p type="listitem" xml:lang="swe">save medodi hin dikhibake, arakiba ta sastiba</p>
-      <p type="listitem" xml:lang="swe">save hahtibako berija hin</p>
-      <p type="listitem" xml:lang="swe">kana tu saj ventavel te lel arakhiba</p>
-      <p type="listitem" xml:lang="swe">so sastiba ta arakhiba ventavelas resultirinela aro</p>
-      <p type="listitem" xml:lang="swe">save dar pe komlikatios ta biangouvuba hin</p>
-      <p type="listitem" xml:lang="swe">savo páluno arakhiba, so saj hiovylas</p>
-      <p type="listitem" xml:lang="swe">save metodi hint te tšinavela nasvaliba vaj dukhiba</p>
-      <p type="listitem" xml:lang="swe">sajpa te lel butide ǆánibi ka siguribosko biro te ródel arakhiba aro jek EE_them vaj aro Schweiz.</p>
-    </list>
-    <p xml:lang="swe">Onivar saj douva áchel hilo to hlehta kon hiovyla te lel informasija pa tuko arakhiba. Sekresijako khál saj hlehta ińasto aven phukade kana tu sal nína apo stáviba vaj hin díjal tuko mukhiba.</p>
-    <p xml:lang="swe">Aro akutno fanibi kana sar eksemplura hin ǆálimen ta náka saj te del tuko ojadejbe (it ǆinta) leha tu endo arakhiba kana ǆiviba hin aro dar (merutno buti).</p>
-    <p xml:lang="swe"></p>
-    <p type="title" xml:lang="swe">Velkavel phiŕo arakhiba aro hilo themes</p>
-    <p xml:lang="swe">Tu mote lel informasija pa savo arakhiba to phuvjakotingijake saj rekhavel ta saj te lelas arakhiba aro jek vauro phuvjakotingi.</p>
-    <p xml:lang="swe">Nebi tu saj nína velkavel phiŕo arakhiba ka tšéni aro svedo. Douva mienila te tu saj velkavel vaj specijalisti arakhiba pe visita vaj dikhiba aja harhales kana douva rakhila pa phiŕo arakhiba, douva kamel te pheńel tút ná tšúvelas aŕe. Eksemplura aro phiŕo specijalsti arakhiba hin vastjako kirungi ta sívo jakhengo nasvalibako operasija.</p>
-    <p xml:lang="swe">Dólesko khál ná tšek mieniba ka arakhibskero hin sáruno vaj privatno aja harhales arakhiba hin presado pa phuvjakotingi.</p>
-    <p xml:lang="swe">Te velkavel te rálavel aro jek arakhiboskocentrali khárelas onivar pe listiba. Nebi tút hin sárenes sajpa te ǆal ǆiko vauro arakhibosko centrali aro hilo svedo. Aro arakhibosko centrali hin tut sajpa te velkavel jek phanlo sastiboskero.</p>
-    <p xml:lang="swe">Tút hin sajpa nína velkavel utšsospecijalimen phiŕo arakhiba apo jek thanovitiko nasvalibako tšér aro jek vauro phuvjakotingo, sar eksemplura jek vá páliba pálal jek rakosko arakhiba.</p>
-    <p type="title" xml:lang="swe">Tuko medicikane hioviba džénjavela</p>
-    <p xml:lang="swe">Kana tu ródela arakhiba aro jek vauro phuvjakotingi hin douva tuko medicinikane hioviba so ǆénjavela kana tu leha arakhiba. Tuko medicinikane hioviba kavierilas pa jek sastiboskero. Tu mote lel phiŕo arakhiba pe it slaga uslov sar sáre vaure kon hin aro khangerijako lin aro douva phuvjakotingi. Douva mienila sar eksemplura te tu presavela it bút pacientijengo prísa sar sáre vaure kon ródena phiŕo arakhiba. Tu leha korokoro prasavel druma ta ǆiviba kana tu velkaveha arakhiba aro jek vauro phuvjakotingi.</p>
-    <p xml:lang="swe">Tu, kon ávela kajal jek vauro phuvjakotingi, ná rálila pa arakhibosko garanti aro douva phuvjakotingi tu velkaveha.</p>
-    <p xml:lang="swe"></p>
-    <p type="title" xml:lang="swe">Nevo medicinikano tšinaviba</p>
-    <p xml:lang="swe">Kana tut hin merutno vaj specijalno pharo nasvaliba vaj dukhiba ta sterdola angnál bilokhe medicinikane agoriba tu saj te kamel te lel jek nevo medicinikano tšinaviba. Douva leha tu ka vauro sastiboskero ke douva kon tut hin, saj aro tuko tšerutno phuvjakotingi vaj aro vauro phuvjakotingi.</p>
-    <p xml:lang="swe">Presibi pa jek nevo medicinikano tšinaviba presila tuko tšerutno phuvjakotingi.</p>
-    <p xml:lang="swe"></p>
-    <p type="title" xml:lang="swe">Douva saj áchel vaures kana tu hiovyla bihibi</p>
-    <p xml:lang="swe">Aro sakho phuvjakotingi hin pacientijako komisija so hahtila tút kana tu ná hošela tút dieluno aro to arakhiba vaj pe vaure manera ná tšaljo. Pacientijako komisija saj sar eksemplura hahtavel tút te avel kontakti pe dochale arakhibosko personali ta le informasija te sar tut saj tšérel phukiba dólesta so tuke hin fanudal.</p>
-  </body>
-</document>
+<document xml:lang="rmf" id="no_id"><header><title/><genre code="facta"/><author><unknown/></author><wordcount>753</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="rmf"/><language xml:lang="swe"/></multilingual><origFileName>http://www.1177.se/Nationella-minoritetssprak/Nationella-minoritetssprak/Romanska-kale/Regler-och-rattigheter/Patientlagen</origFileName><parallel_text xml:lang="eng" location="patientlagen.html"/><parallel_text xml:lang="fin" location="patientlagen.html"/><parallel_text xml:lang="fit" location="patientlagen.html"/><parallel_text xml:lang="sma" location="patientlagen.html"/><parallel_text xml:lang="sme" location="patientlagen.html"/><parallel_text xml:lang="smj" location="patientlagen.html"/><parallel_text xml:lang="swe" location="patientlagen.html"/><parallel_text location="patientlagen.html" xml:lang="rmy-rka"/><parallel_text location="patientlagen.html" xml:lang="rmy-rlo"/><parallel_text location="patientlagen.html" xml:lang="rmn"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="swe">Pacientijengo láka / Patientlagen - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
+<p xml:lang="swe"></p>
+<p xml:lang="swe"></p>
+<p type="title">Pacientijengo láka  Patientlagen</p>
+<p>Pecientijengo láka hin líjadas angle pe tuke kon sal pacijento. Aro douva farabavelas te tu lehas ǆánini pa tuko nasvaliba ta pa save arakhioba hin. Tála leha tu nína áchel it ta leha agoriba pa to arakhiba.</p>
+<p xml:lang="swe"></p>
+<p type="title">Informasija mote áchel romude ka to situasija</p>
+<p>Bidota kon tu sal ta savo páliba tut hin mote arakhibosko personali den douva informasija so tu hiovyla. Douva mienila sar eksemplura te tut sa hiovyla jek risiboskero vaj ranlo informasija,te avel ǆánimen sar dikhiba ǆalpe.</p>
+<p>Informasija mote áchel romude ka to situasija ta to iega ventipana. Douva hin infortanto te tu saj hajuvel ta áchel dieluno aro tuko arakhiba. Tu leha velkavel korkoros sar aktivno tu kameha te áchel , nebi tut hin sárenes jek sajpa te rakhavel so tu kameha.</p>
+<p>Kana tu prinsavela ta hajula save alternativo ta sajpa tut hin ǆáaneha te del tuko ǆinta, vaj pe vaure ǆiko manera phukavel jek ja. Tu saj nína velkavel te pheńel ná douva arakhibaske so rekhilas, vahka tu hin díjal tuko lóvi ka disave arakhibake tu saj paruvel to ǆinta. Kenti mote nína len sajpa te phukavel pesko ǆinta.</p>
+<p>Kana kentos hin tikno saj douva fanuvel tšetanes pe kentosko nebi phúride kenti hin dólesko khál koni báride doch rte kentos lela áchel dieluno aro pesko arakhiba te saj áchel aktivnoa ro arakhibate lel agoriba hin but bares nína te kentos ǆáaela informasija</p>
+<p type="title">Informasija</p>
+<p>So saj informasija rakhavel</p>
+<list><p type="listitem">tu mote lel</p>
+<p type="listitem">save medodi hin dikhibake, arakiba ta sastiba</p>
+<p type="listitem">save hahtibako berija hin</p>
+<p type="listitem">kana tu saj ventavel te lel arakhiba</p>
+<p type="listitem">so sastiba ta arakhiba ventavelas resultirinela aro</p>
+<p type="listitem">save dar pe komlikatios ta biangouvuba hin</p>
+<p type="listitem">savo páluno arakhiba, so saj hiovylas</p>
+<p type="listitem">save metodi hint te tšinavela nasvaliba vaj dukhiba</p>
+<p type="listitem">sajpa te lel butide ǆánibi ka siguribosko biro te ródel arakhiba aro jek EE_them vaj aro Schweiz.</p>
+</list><p>Onivar saj douva áchel hilo to hlehta kon hiovyla te lel informasija pa tuko arakhiba. Sekresijako khál saj hlehta ińasto aven phukade kana tu sal nína apo stáviba vaj hin díjal tuko mukhiba.</p>
+<p>Aro akutno fanibi kana sar eksemplura hin ǆálimen ta náka saj te del tuko ojadejbe (it ǆinta) leha tu endo arakhiba kana ǆiviba hin aro dar (merutno buti).</p>
+<p xml:lang="swe"></p>
+<p type="title">Velkavel phiŕo arakhiba aro hilo themes</p>
+<p>Tu mote lel informasija pa savo arakhiba to phuvjakotingijake saj rekhavel ta saj te lelas arakhiba aro jek vauro phuvjakotingi.</p>
+<p>Nebi tu saj nína velkavel phiŕo arakhiba ka tšéni aro svedo. Douva mienila te tu saj velkavel vaj specijalisti arakhiba pe visita vaj dikhiba aja harhales kana douva rakhila pa phiŕo arakhiba, douva kamel te pheńel tút ná tšúvelas aŕe. Eksemplura aro phiŕo specijalsti arakhiba hin vastjako kirungi ta sívo jakhengo nasvalibako operasija.</p>
+<p>Dólesko khál ná tšek mieniba ka arakhibskero hin sáruno vaj privatno aja harhales arakhiba hin presado pa phuvjakotingi.</p>
+<p>Te velkavel te rálavel aro jek arakhiboskocentrali khárelas onivar pe listiba. Nebi tút hin sárenes sajpa te ǆal ǆiko vauro arakhibosko centrali aro hilo svedo. Aro arakhibosko centrali hin tut sajpa te velkavel jek phanlo sastiboskero.</p>
+<p>Tút hin sajpa nína velkavel utšsospecijalimen phiŕo arakhiba apo jek thanovitiko nasvalibako tšér aro jek vauro phuvjakotingo, sar eksemplura jek vá páliba pálal jek rakosko arakhiba.</p>
+<p type="title">Tuko medicikane hioviba džénjavela</p>
+<p>Kana tu ródela arakhiba aro jek vauro phuvjakotingi hin douva tuko medicinikane hioviba so ǆénjavela kana tu leha arakhiba. Tuko medicinikane hioviba kavierilas pa jek sastiboskero. Tu mote lel phiŕo arakhiba pe it slaga uslov sar sáre vaure kon hin aro khangerijako lin aro douva phuvjakotingi. Douva mienila sar eksemplura te tu presavela it bút pacientijengo prísa sar sáre vaure kon ródena phiŕo arakhiba. Tu leha korokoro prasavel druma ta ǆiviba kana tu velkaveha arakhiba aro jek vauro phuvjakotingi.</p>
+<p>Tu, kon ávela kajal jek vauro phuvjakotingi, ná rálila pa arakhibosko garanti aro douva phuvjakotingi tu velkaveha.</p>
+<p xml:lang="swe"></p>
+<p type="title">Nevo medicinikano tšinaviba</p>
+<p>Kana tut hin merutno vaj specijalno pharo nasvaliba vaj dukhiba ta sterdola angnál bilokhe medicinikane agoriba tu saj te kamel te lel jek nevo medicinikano tšinaviba. Douva leha tu ka vauro sastiboskero ke douva kon tut hin, saj aro tuko tšerutno phuvjakotingi vaj aro vauro phuvjakotingi.</p>
+<p>Presibi pa jek nevo medicinikano tšinaviba presila tuko tšerutno phuvjakotingi.</p>
+<p xml:lang="swe"></p>
+<p type="title">Douva saj áchel vaures kana tu hiovyla bihibi</p>
+<p>Aro sakho phuvjakotingi hin pacientijako komisija so hahtila tút kana tu ná hošela tút dieluno aro to arakhiba vaj pe vaure manera ná tšaljo. Pacientijako komisija saj sar eksemplura hahtavel tút te avel kontakti pe dochale arakhibosko personali ta le informasija te sar tut saj tšérel phukiba dólesta so tuke hin fanudal.</p>
+</body></document>

@@ -1,69 +1,26 @@
-<document xml:lang="rmf" id="no_id">
-  <header>
-    <title/>
-    <genre code="facta"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>594</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="rmf"/>
-      <language xml:lang="swe"/>
-    </multilingual>
-    <origFileName>http://www.1177.se/Nationella-minoritetssprak/Nationella-minoritetssprak/Romanska-kale/Egenvard-barn/Ogoninflammation-hos-barn-vad-kan-man-gora-sjalv</origFileName>
-    <parallel_text xml:lang="eng" location="ogoninflammationer-hos-barn.html"/>
-    <parallel_text xml:lang="fin" location="ogoninflammation-hos-barn.html"/>
-    <parallel_text xml:lang="fit" location="ogoninflammation-hos-barn---vad-kan-man-gora-sjalv.html"/>
-    <parallel_text xml:lang="sma" location="ogoninflammation-hos-barn---vad-kan-man-gora-sjalv.html"/>
-    <parallel_text xml:lang="sme" location="ogoninflammation-hos-barn---vad-kan-man-gora-sjalv.html"/>
-    <parallel_text xml:lang="smj" location="ogoninflammation-hos-barn---vad-kan-man-gora-sjalv.html"/>
-    <parallel_text xml:lang="swe" location="ogoninflammationer-hos-barn.html"/>
-    <parallel_text location="ogoninflammation-hos-barn---vad-kan-man-gora-sjalv.html" xml:lang="rmy-rka"/>
-    <parallel_text location="ogoninflammation-hos-barn---vad-kan-man-gora-sjalv.html" xml:lang="rmn"/>
-    <parallel_text location="ogoninflammation-hos-barn---vad-kan-man-gora-sjalv.html" xml:lang="rmu"/>
-    <parallel_text location="ogoninflammation-hos-barn---vad-kan-man-gora-sjalv.html" xml:lang="yid"/>
-    <parallel_text location="ogoninflammation-hos-barn---vad-kan-man-gora-sjalv.html" xml:lang="rmy-rlo"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="swe">Jakhako inflamasija ka kenti - so hin vojiba te tšérel korkores? / Ögoninflammation hos barn - vad kan man göra själv? - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
-    <p xml:lang="swe"></p>
-    <p xml:lang="swe"></p>
-    <p type="title" xml:lang="swe">Romani chib káloRomska kale</p>
-    <list>
-      <p type="listitem" xml:lang="swe">Tillbaka till startsidan för temat</p>
-    </list>
-    <p type="title" xml:lang="swe">Jakhako inflamasija ka kenti - so hin vojiba te tšérel korkores?Ögoninflammation hos barn - vad kan man göra själv?</p>
-    <p xml:lang="swe"></p>
-    <list>
-      <p type="listitem" xml:lang="swe">Thouv jakha pe jek kompreśos vaj vulakokotor ta thouv ka avruno rigjata ka kajo jakhako andre.</p>
-    </list>
-    <p type="title" xml:lang="swe">Butvares džala pherdal aro jek kurko</p>
-    <p xml:lang="swe">Jakhako inflamasija hin but normalno mahkar kenti, butvares it pe jek virusi infeksija sar hiljiba. Jakhajako parnibata avela lólo ta vojbuvel prastel avri stívo pibe, so hin butvares dželto, ka jakha. Normalnes diśula jakha thúlimen. Butvares sasjula douva aro jek kurko útan arakhiba. Jakhako inflamasija starjuvel lokhes.</p>
-    <p xml:lang="swe">Kenti vojbuven len nína inflamasija aro jakha pa vaure dochiba. Douva vojbuvel dochel pa jek alergijako reaksija vaj te kenti hin líne prochos aro jakha.Inflamasija hin truposko manera te arakhel pes.</p>
-    <p type="title" xml:lang="swe">Vojbuvelako kentos džal aro angluniskola?</p>
-    <p xml:lang="swe">Kentos kones hin jakhakoinflamasija pe lóle jakha ta kuti tšikalo sekreteti it pe jek tikno hilijiba ná hiovyven te achen tšére ka angluno skolata kana jón hini vaures saste. Kenti kon džana aro angluni skola mote áchel aja sígo te lenge hin džor len dieli aro sáre aktiviteti. Kenti pe pheśibako bisvéringja ná hioviba te áchel tšére.</p>
-    <p type="title" xml:lang="swe">Kentos mote áchel tšére ka jakha hin tšermalo</p>
-    <p xml:lang="swe">Kento kónesko jakha phandela it mote khosen tšer jakhata butvares aro díves kana kentoske hin but džoralo infeksija. Butvares hin ona jakha hólimen ta vojbuvel te avel tšińo. Dólesko khal mote kentos áchel nikhi ka skola ke douva hin starjuvitiko, ta vaures mote jakha thouves butvares aro díves. Kenti vojbuven džan palpale aro kentengo skokha kana pheśiba aro jakha hin télimen ta sasto ta náka tšermalo.</p>
-    <p xml:lang="swe">Jakhasko infeksija starjuvela lokhes mahkar beska kenti dólesko khal ke jón leijavena aja pasal vaureha. Starjiba bohluvela ke kenti morena pengo jakha ta dólesko pálal aro phersibakobéri vaj vaureha. Skolako kenti na áchena aro itslaha nérluno kontakti nebi apo jakhako infeksija endo hiovuven te áchel tšére kana jakha hin hóljimen.</p>
-    <p type="title" xml:lang="swe">Thuv jakha pánijaha</p>
-    <p xml:lang="swe">Kana kentoske hin phumb aro jakha hin dóleske him tšihko te thouvel aja butvares ke hin hioviba pe normalno páni. Rikhavel jek kompreśos vaj vulakokotor ta thouv ka avrino rigjata kajo jakhako andre.</p>
-    <p type="title" xml:lang="swe">Ach tšatusuno pe vastjako hygnijaha</p>
-    <p xml:lang="swe">Te tšerel anguvibako buti ka jakhjakoinfeksijaha ach tšatšune pe jakhako touvibaha kana butvare aro trystaliba hin hilijimen. Douva hin tšihko te ona aro tšéres ta aro angluni skola paruvela khośibako flika butvares.</p>
-    <p type="title" xml:lang="swe">Nevo bijavno kenti</p>
-    <p xml:lang="swe">Douva hin but normalno mahkar nevo bijavno kentinge hin dželto sekreti aro jakha, so dochila pa dota te lenge hin but trange asvalibako kanali ke phuride kenti ta bare komuja. Thouv jakhja ka avruno rigjata ka andruno pe jek kompreśos so hin tšińo pe pánijaha vaj pe lónibakopíbe.</p>
-    <p type="title" xml:lang="swe">Saj hin hioviba te lel kontakti pe arakhibaha</p>
-    <p xml:lang="swe">Jakhako inflamsija so ná sasjuvela aro jek kurko hiovylas arakhes pe antibiotika. Hin vojiba te lel kontakti aro arkahibosko centrali. Pálal duj divisijako arakhiba pe antibiotika ná starjuvela pápales ta kentos vojbuvel džal palpale aro angluno skola.</p>
-    <p xml:lang="swe">Ná hiovylas ventavel te lel kontakti aro arakhibosko centrali kana kentoske hin but džoralo inflamasija ta tšerel but tšer. It hin kana kentos hin hošalo pe jank vaj hin džoralo hiljibako bisvérinja. Kana kentoske hin bisvériba ferda aro jek jakha ta hin tenbi te kentos hin líjas khuviba aro jakha ná hiovylas te ventavel te lel kontakti.</p>
-    <p xml:lang="swe">Kana jek nevobijamo kentoske hin jakhako inflamasija mote džent te lel kontakti pe arakhibaha.</p>
-    <p xml:lang="swe">Sárenes hin vojiba te bahavel nasvalibosko gódibake te lel gódiba.</p>
-  </body>
-</document>
+<document xml:lang="rmf" id="no_id"><header><title/><genre code="facta"/><author><unknown/></author><wordcount>585</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="rmf"/><language xml:lang="swe"/></multilingual><origFileName>http://www.1177.se/Nationella-minoritetssprak/Nationella-minoritetssprak/Romanska-kale/Egenvard-barn/Ogoninflammation-hos-barn-vad-kan-man-gora-sjalv</origFileName><parallel_text xml:lang="eng" location="ogoninflammationer-hos-barn.html"/><parallel_text xml:lang="fin" location="ogoninflammation-hos-barn.html"/><parallel_text xml:lang="fit" location="ogoninflammation-hos-barn---vad-kan-man-gora-sjalv.html"/><parallel_text xml:lang="sma" location="ogoninflammation-hos-barn---vad-kan-man-gora-sjalv.html"/><parallel_text xml:lang="sme" location="ogoninflammation-hos-barn---vad-kan-man-gora-sjalv.html"/><parallel_text xml:lang="smj" location="ogoninflammation-hos-barn---vad-kan-man-gora-sjalv.html"/><parallel_text xml:lang="swe" location="ogoninflammationer-hos-barn.html"/><parallel_text location="ogoninflammation-hos-barn---vad-kan-man-gora-sjalv.html" xml:lang="rmy-rka"/><parallel_text location="ogoninflammation-hos-barn---vad-kan-man-gora-sjalv.html" xml:lang="rmn"/><parallel_text location="ogoninflammation-hos-barn---vad-kan-man-gora-sjalv.html" xml:lang="rmu"/><parallel_text location="ogoninflammation-hos-barn---vad-kan-man-gora-sjalv.html" xml:lang="yid"/><parallel_text location="ogoninflammation-hos-barn---vad-kan-man-gora-sjalv.html" xml:lang="rmy-rlo"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="swe">Jakhako inflamasija ka kenti - so hin vojiba te tšérel korkores? / Ögoninflammation hos barn - vad kan man göra själv? - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
+<p xml:lang="swe"></p>
+<p xml:lang="swe"></p>
+<p type="title" xml:lang="swe">Jakhako inflamasija ka kenti - so hin vojiba te tšérel korkores?Ögoninflammation hos barn - vad kan man göra själv?</p>
+<p xml:lang="swe"></p>
+<list><p type="listitem">Thouv jakha pe jek kompreśos vaj vulakokotor ta thouv ka avruno rigjata ka kajo jakhako andre.</p>
+</list><p type="title">Butvares džala pherdal aro jek kurko</p>
+<p>Jakhako inflamasija hin but normalno mahkar kenti, butvares it pe jek virusi infeksija sar hiljiba. Jakhajako parnibata avela lólo ta vojbuvel prastel avri stívo pibe, so hin butvares dželto, ka jakha. Normalnes diśula jakha thúlimen. Butvares sasjula douva aro jek kurko útan arakhiba. Jakhako inflamasija starjuvel lokhes.</p>
+<p>Kenti vojbuven len nína inflamasija aro jakha pa vaure dochiba. Douva vojbuvel dochel pa jek alergijako reaksija vaj te kenti hin líne prochos aro jakha.Inflamasija hin truposko manera te arakhel pes.</p>
+<p type="title">Vojbuvelako kentos džal aro angluniskola?</p>
+<p>Kentos kones hin jakhakoinflamasija pe lóle jakha ta kuti tšikalo sekreteti it pe jek tikno hilijiba ná hiovyven te achen tšére ka angluno skolata kana jón hini vaures saste. Kenti kon džana aro angluni skola mote áchel aja sígo te lenge hin džor len dieli aro sáre aktiviteti. Kenti pe pheśibako bisvéringja ná hioviba te áchel tšére.</p>
+<p type="title">Kentos mote áchel tšére ka jakha hin tšermalo</p>
+<p>Kento kónesko jakha phandela it mote khosen tšer jakhata butvares aro díves kana kentoske hin but džoralo infeksija. Butvares hin ona jakha hólimen ta vojbuvel te avel tšińo. Dólesko khal mote kentos áchel nikhi ka skola ke douva hin starjuvitiko, ta vaures mote jakha thouves butvares aro díves. Kenti vojbuven džan palpale aro kentengo skokha kana pheśiba aro jakha hin télimen ta sasto ta náka tšermalo.</p>
+<p>Jakhasko infeksija starjuvela lokhes mahkar beska kenti dólesko khal ke jón leijavena aja pasal vaureha. Starjiba bohluvela ke kenti morena pengo jakha ta dólesko pálal aro phersibakobéri vaj vaureha. Skolako kenti na áchena aro itslaha nérluno kontakti nebi apo jakhako infeksija endo hiovuven te áchel tšére kana jakha hin hóljimen.</p>
+<p type="title">Thuv jakha pánijaha</p>
+<p>Kana kentoske hin phumb aro jakha hin dóleske him tšihko te thouvel aja butvares ke hin hioviba pe normalno páni. Rikhavel jek kompreśos vaj vulakokotor ta thouv ka avrino rigjata kajo jakhako andre.</p>
+<p type="title">Ach tšatusuno pe vastjako hygnijaha</p>
+<p>Te tšerel anguvibako buti ka jakhjakoinfeksijaha ach tšatšune pe jakhako touvibaha kana butvare aro trystaliba hin hilijimen. Douva hin tšihko te ona aro tšéres ta aro angluni skola paruvela khośibako flika butvares.</p>
+<p type="title">Nevo bijavno kenti</p>
+<p>Douva hin but normalno mahkar nevo bijavno kentinge hin dželto sekreti aro jakha, so dochila pa dota te lenge hin but trange asvalibako kanali ke phuride kenti ta bare komuja. Thouv jakhja ka avruno rigjata ka andruno pe jek kompreśos so hin tšińo pe pánijaha vaj pe lónibakopíbe.</p>
+<p type="title">Saj hin hioviba te lel kontakti pe arakhibaha</p>
+<p>Jakhako inflamsija so ná sasjuvela aro jek kurko hiovylas arakhes pe antibiotika. Hin vojiba te lel kontakti aro arkahibosko centrali. Pálal duj divisijako arakhiba pe antibiotika ná starjuvela pápales ta kentos vojbuvel džal palpale aro angluno skola.</p>
+<p>Ná hiovylas ventavel te lel kontakti aro arakhibosko centrali kana kentoske hin but džoralo inflamasija ta tšerel but tšer. It hin kana kentos hin hošalo pe jank vaj hin džoralo hiljibako bisvérinja. Kana kentoske hin bisvériba ferda aro jek jakha ta hin tenbi te kentos hin líjas khuviba aro jakha ná hiovylas te ventavel te lel kontakti.</p>
+<p>Kana jek nevobijamo kentoske hin jakhako inflamasija mote džent te lel kontakti pe arakhibaha.</p>
+<p>Sárenes hin vojiba te bahavel nasvalibosko gódibake te lel gódiba.</p>
+</body></document>

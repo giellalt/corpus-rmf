@@ -1,53 +1,15 @@
-<document xml:lang="rmf" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>115</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="rmf"/>
-      <language xml:lang="swe"/>
-    </multilingual>
-    <origFileName>http://www.lansstyrelsen.se/skane/rom-ka/Pages/default.aspx</origFileName>
-    <parallel_text xml:lang="eng" location="startsida.html"/>
-    <parallel_text xml:lang="fin" location="startsida.html"/>
-    <parallel_text xml:lang="fit" location="startsida.html"/>
-    <parallel_text xml:lang="sma" location="startsida.html"/>
-    <parallel_text xml:lang="sme" location="startsida.html"/>
-    <parallel_text xml:lang="swe" location="startsida.html"/>
-    <parallel_text location="startsida.html" xml:lang="rmu"/>
-    <parallel_text location="startsida.html" xml:lang="rmy-rka"/>
-    <parallel_text location="startsida.html" xml:lang="rmy-rlo"/>
-    <parallel_text location="startsida.html" xml:lang="rmn"/>
-    <parallel_text location="startsida.html" xml:lang="yid"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="swe">Themskifaldiba - Länsstyrelsen Skåne</p>
-    <list>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-    </list>
-    <p xml:lang="swe"></p>
-    <p type="title" xml:lang="swe">Themskifaldiba</p>
-    <p type="title" xml:lang="swe">Pa themeskifaldiba</p>
-    <p xml:lang="swe">Themeskifaliba hin themkano hougéje so hin nér komujen aro sakho phuv. Amen sam jek inportanto vérja mahkar komujen ta gáve aro vauro rigja pa regeringo,perdalikofaldiba ta makhurne hougáje aro vauro rigja.Phuvjakoapride hin héruno džéno Themskifaldibake hin butja hin vá pálal barjiba ta den informasija pa phuvjao hyövibata.</p>
-    <p xml:lang="swe">Themesko butja hin te tšerel buti barjibake kaj trystalipa,barjiba ta latše dživibako manera džala vast aro vast.Pe tiknes amen tšéravaha pe jek džoralo bohliba aro phuv. Themeskifaliba lela angnal sváriba kotar regeringo ta ame kokavena pa agoribata ta Themeskifaldibako frestibi Kana hin puchiba pa phuvjako bohlibata mote amen lel te lel dieli pa butjata ni privatno komujengo ta ar themesko džintataha.</p>
-  </body>
-</document>
+<document xml:lang="rmf" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>115</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="rmf"/><language xml:lang="swe"/></multilingual><origFileName>http://www.lansstyrelsen.se/skane/rom-ka/Pages/default.aspx</origFileName><parallel_text xml:lang="eng" location="startsida.html"/><parallel_text xml:lang="fin" location="startsida.html"/><parallel_text xml:lang="fit" location="startsida.html"/><parallel_text xml:lang="sma" location="startsida.html"/><parallel_text xml:lang="sme" location="startsida.html"/><parallel_text xml:lang="swe" location="startsida.html"/><parallel_text location="startsida.html" xml:lang="rmu"/><parallel_text location="startsida.html" xml:lang="rmy-rka"/><parallel_text location="startsida.html" xml:lang="rmy-rlo"/><parallel_text location="startsida.html" xml:lang="rmn"/><parallel_text location="startsida.html" xml:lang="yid"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Themskifaldiba - Länsstyrelsen Skåne</p>
+<list><p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+</list><p xml:lang="swe"></p>
+<p type="title">Themskifaldiba</p>
+<p type="title">Pa themeskifaldiba</p>
+<p>Themeskifaliba hin themkano hougéje so hin nér komujen aro sakho phuv. Amen sam jek inportanto vérja mahkar komujen ta gáve aro vauro rigja pa regeringo,perdalikofaldiba ta makhurne hougáje aro vauro rigja.Phuvjakoapride hin héruno džéno Themskifaldibake hin butja hin vá pálal barjiba ta den informasija pa phuvjao hyövibata.</p>
+<p>Themesko butja hin te tšerel buti barjibake kaj trystalipa,barjiba ta latše dživibako manera džala vast aro vast.Pe tiknes amen tšéravaha pe jek džoralo bohliba aro phuv. Themeskifaliba lela angnal sváriba kotar regeringo ta ame kokavena pa agoribata ta Themeskifaldibako frestibi Kana hin puchiba pa phuvjako bohlibata mote amen lel te lel dieli pa butjata ni privatno komujengo ta ar themesko džintataha.</p>
+</body></document>

@@ -1,117 +1,74 @@
-<document xml:lang="rmf" id="no_id">
-  <header>
-    <title/>
-    <genre code="facta"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>1614</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="rmf"/>
-      <language xml:lang="swe"/>
-    </multilingual>
-    <origFileName>http://www.1177.se/Nationella-minoritetssprak/Nationella-minoritetssprak/Romanska-kale/Regler-och-rattigheter/Vad-kostar-lakemedel-pa-recept</origFileName>
-    <parallel_text xml:lang="eng" location="vad-kostar-lakemedel-pa-recept.html"/>
-    <parallel_text xml:lang="fin" location="vad-kostar-lakemedel-pa-recept.html"/>
-    <parallel_text xml:lang="fit" location="vad-kostar-lakemedel-pa-recept.html"/>
-    <parallel_text xml:lang="sma" location="vad-kostar-lakemedel-pa-recept.html"/>
-    <parallel_text xml:lang="sme" location="vad-kostar-lakemedel-pa-recept.html"/>
-    <parallel_text xml:lang="smj" location="vad-kostar-lakemedel-pa-recept.html"/>
-    <parallel_text xml:lang="swe" location="vad-kostar-lakemedel-pa-recept.html"/>
-    <parallel_text location="vad-kostar-lakemedel-pa-recept.html" xml:lang="rmy-rka"/>
-    <parallel_text location="vad-kostar-lakemedel-pa-recept.html" xml:lang="rmn"/>
-    <parallel_text location="vad-kostar-lakemedel-pa-recept.html" xml:lang="rmu"/>
-    <parallel_text location="vad-kostar-lakemedel-pa-recept.html" xml:lang="yid"/>
-    <parallel_text location="vad-kostar-lakemedel-pa-recept.html" xml:lang="rmy-rlo"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="swe">Sar but presila drab pe recepti? / Vad kostar läkemedel på recept? - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
-    <p xml:lang="swe"></p>
-    <p xml:lang="swe"></p>
-    <p type="title" xml:lang="swe">Romani chib káloRomska kale</p>
-    <list>
-      <p type="listitem" xml:lang="swe">Tillbaka till startsidan för temat</p>
-    </list>
-    <p type="title" xml:lang="swe">Sar but presila drab pe recepti?Vad kostar läkemedel på recept?</p>
-    <p xml:lang="swe"></p>
-    <p type="title" xml:lang="swe">Sar hin?</p>
-    <p type="title" xml:lang="swe">Arakhiba kajo ušte presiba</p>
-    <p xml:lang="swe">O them submentirinela, douva kamel te pheńel te dela ekonomikano dumudiba, kana hin hioviba drab ta jek dieli vaure guosi kana hin disave nasvaliba. Butide dieli so rańelas avri pe recepti subventiriba farabelas aro lági pa drabesko hioviba. Douva hon arakhiba kajo utše presibi so lagi lela arakhelas sadivines utšipresibako arakibaske.</p>
-    <p xml:lang="swe">Pálal lági hin:</p>
-    <list>
-      <p type="listitem" xml:lang="swe">te lelas huljariba pálal jek khardo utšibakopresiba nivo pe butide stomguosi</p>
-      <p type="listitem" xml:lang="swe">te lelas lochkiba pálal ajakharo apripresibakokati</p>
-      <p type="listitem" xml:lang="swe">rikhibosguosi na preavela tši so hiovylas te tśuvel drab ta ta tšerel kontroli pesko drab, sar eksemplura</p>
-      <p type="listitem" xml:lang="swe">lelas jek spesijalno arakhibakajo utše presibi aro disave ka kenti kon hin télal16 bereh.</p>
-    </list>
-    <p type="title" xml:lang="swe">Prisa ta subventiriba</p>
-    <p xml:lang="swe">Danadko arakhibata drabesko šukaripe hougaje lela agoriba pa prisa ta huljariba. Kana TVL lela agoriba pa subvention dikhena jón drab so dela hioviba. Hioviba vojbubel áchel sar eksemplura fendide sastiba ta utšide dživibakolanghtiba. TVL tiomyla pa drabjako rikhiba ta drab so vojbuvel tiknavel sarnibako presiba,sar eksemloura pe operasija, nasvalibosko rańiba vaj phuride arakhiba.</p>
-    <p xml:lang="swe">Drabfirmari vojbubela korkores velkavel te biknaven jek drab avrutni utšipresibako arakhela ta tála hin prisako tšuviba phiѓo, douva kame te pheńel drabfirma lela agoriba korkores pa prisa. Pe drav so rálila ná rálila aro utšipresibako arakhiba lelas korkorores presavel hilo presiba.</p>
-    <p xml:lang="swe">Jekj dieli pa drab vojbuvuvel áchel jek granicibe subventation. Dauva mienila te drab hin subventatiokane pe jek pasjentoskokhake vaj te arakhel jek nasvaliba.</p>
-    <p xml:lang="swe">TLV ta FASS hin webbthane data vojbula te dikhel hinko jek drab subventiokano vaj ná.</p>
-    <p type="title" xml:lang="swe">Lochide parikano altenativ</p>
-    <p xml:lang="swe">Onivar hin it slaga alterniva ka jek drab. Dóla kharelas pe generiska drab. Douva rálila it but. Nebi dóla vojbuven diśuvel vaureslaga ta rálila vaure sáki, sar ekemplura konzervitiko hábe. Dóla vojbuvena avel katar disave drabeskofabrika ta hin vaure prisa. Dála alternativo vojbulla baruvel aro apoteka. Douva hin drabeskoingariba so agorlela save drab vojbuvelas barjuvel vaureske.</p>
-    <p xml:lang="swe">Kana hin but generiko drab ta so hin po recepti recepti hin lokhide te apoteka parjuvel dóles aro douva alternativ so hin maraknesko lokhide prisa. Douva hin douva lokhide drab so hin pherdales subventirimen. Hin vojiba te velkave te tšińel douva kuchidie drab so hin aro recepti,nebi tála mote presvel pherdiba korkores, douva ná rálila aro utšipresibakoarakhiba.</p>
-    <p xml:lang="swe">Kana ná kamelas douva alternativno so apoteka barjula ka ta ná helle douva so hin avlo ranlo aro recepti hin vojiba te velkavel jek vauro generiskt alternativ. Nebi tála mote presavel hilo presiba korkores. Douva hin freda douva so hin ranlo aro recepti ta ta douva hin lokhide paruvitiko drab aro subventiriba. Dochiba daleske hin te tšek hiovylas te presavel butide ke dosta ke jek drabfirma kana hin it but pa it sarti ka disave vaure prisa.</p>
-    <p xml:lang="swe">Kana pa medicikane khal mote rikhavel jek drab pa jek spesijalo fabrika vojbuvel doktori phukavel aro recepti ta ná lelas barjuvel. Tála ná hioviba te presavel douva estra presiba angliba te drab hin aro drabeskolista ta rálial aro utšipresibako arakhiba. Pa medicikane doch vojbuvela sar ekemplura áchel te hin alergia kajo jek aro ke tableti vaj hin bilokho phiravel jek mohto.</p>
-    <p type="title" xml:lang="swe">Periodisko guosi</p>
-    <p xml:lang="swe">TVL lela agoriba savo prisa mote mahatminela pálal drabfirma hin ródilal jek prisako parjiba Prisa po jek drab vojbuvel,pálal jek ródiba barjuvel sakho tšón.</p>
-    <p xml:lang="swe">Kana douva dochela generiska drab kharelas douva altarnativi so lela tiknide prisa po periodisko guosi. Guosi jón kamena te parjuval TVL dela informasija ka apoteka pa savo alternativ pa periodisko jón kanena te parjuvel TVL lele agoriba nína pa duj reservati ta prjuvel ka periodisko guosi hin eńos Douva vojbuvel parjuvel pa tšón ta tšón savo alternativ so apoteka barjula.</p>
-    <p xml:lang="swe">Mieniba pe periodisko guosi hin te dóla skatiboskolouve so hin tšundo pe subventiriba pa drab písula ajabut ta ta aja butvares so hin vojiba.</p>
-    <p xml:lang="swe">Periodi guosi hin it aro sáre apoteka, nebi onivar saj fanula te jek apoteka hin tśinel baro kotor pa perodisko guosi. Apoteka lela tála biknaven télal vaure tšón. Douva mienila te avela rekhimen sígo tšónesko guosi aro jek apoteka ta vaure tšónesko guosi ta vaure tšonesko guosi aro vauro. Dála duj guosi hin duj slaga prisa</p>
-    <p xml:lang="swe"></p>
-    <p type="title" xml:lang="swe">Utśipresibako arakhiba</p>
-    <p type="title" xml:lang="swe">Presavelas max 2200 korona aro bereh</p>
-    <p xml:lang="swe">Utšipresibakoarakhiba mienila te presavelas max 2200 koroni téla jek bereheskoperodi. Dauva hin ajakhardo jek utštpresibakoperiodi.</p>
-    <p xml:lang="swe">Utšipresibako arakhiba mahatminela pe drab so lelas pe recepti ta sar TVL hin líjal agoriba pa subventiriba. Dauva mahaminela nína rikhibosko artilar so lelas apo aja khadro hahtibako pelchkos.</p>
-    <p xml:lang="swe">Kana douva mahatminela but kenti drab presavelas aja khardo iegopresiba sakha var kana ródelas avri po recefti ka jón hin avlo apre 2000 korona. It hin pe rikhibosko artikeli so hiomylas apo stomi.</p>
-    <p xml:lang="swe">Pe jek dieli drab ná presavela tši. Kana hin insukluniarakhiba diebetes tšek presavelas pa insulini. Kana hin nasvaliba so hin aro starijibosko arakhibako lága presavela phuvjakotingi hilo presiba pa drab so tiknavela starjiba sar eksemplura viruskane drab kajo hiv.</p>
-    <p xml:lang="swe">Disave phuvjakotingo presavela hilo vaj jek dieli pa iegipresiba pe disave drab ta pasijentengo skokha, sar eksemplura p-pilleri ternen džuvjenge.</p>
-    <p xml:lang="swe">Ná prevelas tšek pa rikhibosko artila so hiovylas te ánen trupos drab ta faldavelavel pesko drabiba. Eksemplura pa ajasave rikhibosko artiklar hin prskibe, khoro pe gullosko bismiba.</p>
-    <p type="title" xml:lang="swe">Iegopresiba pálal uštipresibakokati</p>
-    <p xml:lang="swe">Kana lelpe jek uštipresibakoperodi po hek bereh presavelas hilo presiba pa drab ta stomiguosi korkores aja harhal akna hin presado tšeetanes 1 100 korona. Tála téljina iegopresiba kutides pálal aja khardo utšipresibakokati. Apo sakho nevo tšińba lelpe katar douva presiba so hin uštide apo vauro tšíńiba ta džala apre apo utšipresibakokati.</p>
-    <p xml:lang="swe">Kana hin presadal 2 200 koroni ná hioviba te presavel tši butide télal utšipresibakoperodi. Jek angliba hin te douva mahatminelas hin te dóla drab so ródelas avri rálila aro utšipresibakarakhiba. Kana utšipreisibako pieriodi lela byrjyla jek nevo periodi apo vauro tšńibata,bidotta hinko pes aro utśiperisibakokati.</p>
-    <p type="title" xml:lang="swe">Jakhes džalpe utšipresibakokati</p>
-    <p xml:lang="swe">Tšetanes drabeskopresiba</p>
-    <p xml:lang="swe">Presavelas Sar butide</p>
-    <p xml:lang="swe">5 400</p>
-    <p xml:lang="swe">2 200</p>
-    <p xml:lang="swe">3 900</p>
-    <p xml:lang="swe">90% rabatt</p>
-    <p xml:lang="swe">2 050</p>
-    <p xml:lang="swe">2 100</p>
-    <p xml:lang="swe">75% rabatt</p>
-    <p xml:lang="swe">1 600</p>
-    <p xml:lang="swe">1 100</p>
-    <p xml:lang="swe">500%</p>
-    <p xml:lang="swe">1 100</p>
-    <p xml:lang="swe">0%</p>
-    <p xml:lang="swe"><em type="italic">Tabelensikavela sar utśipresibako arakhiba dela tikide presiba. </em></p>
-    <p type="title" xml:lang="swe">Spesijalne hábe kentenge</p>
-    <p xml:lang="swe">Nína habe ka kenti kon hin télel 16 bereh ta hin disave nasvaliba,sar eksemplura gluteinintoleranis,hin subtirimen. Habe rańelas apo aja khardo livmedelsanvisning, ta lelas te ródel avri pe max 90 dives pe var. Hin hioviba te presavel iegopresiba apo 120 korona sakho var,nebi dauva presiba ná džińelas it pe utšipresibakoarakhiba.</p>
-    <p type="title" xml:lang="swe">Sar but lelas te tšińel jek var?</p>
-    <p xml:lang="swe">Nà vojiba te tšińel sar kamelas aro utšipresibakoarakhiba. Douva butiba so lelas te tšińel hin mienimen te douva hin dosta po 90 diives, douva kamel te pheńel kutides 3 tšóneske. Prevetivkane bérija, sar eksemplura p-pilleri ta p-prskibe hin avutnunofanibi aro dauva trin tšónesko regulia.</p>
-    <p xml:lang="swe">Kana ródelas pe recepti but var vojuvelas ródel avri recepti vágunes tritokotor pa douva tíja so drab džińelas písuvel ka angtluni avri ródiba. Sar eksemplura ródel avri drab pe trin tšoneske rikhiba mote pe vaureha dželo aro duj tšon kana lelas te ródel jek nevo recepti.</p>
-    <p xml:lang="swe">Hin vojiba te tšinel avri but ke jek avrilíjaba pe var,nebi tála mote presaves hilo prisa pe douva butiba so džala pherdal trin tšonesko rikhiba. Kana doktori hin ranlo aro recepti te mote džal disave tíja mahkar avrilíjiba ná vojiba te lel avri butide ke doktori hin phenjal.</p>
-    <p xml:lang="swe">Kana hin pesijalnodoch, sar eksemplura te avela avrutno them langhtotíja, hin vojiba te ródel avri drab andre utšipresibako arakhiba pe langhtide ke trin tšóneske. Nebi tála mote vojbuvel kavieravel douva, sar eksemplura pe drádiboskodokumentos.</p>
-    <p type="title" xml:lang="swe">Kana rálila utšipresibakoarakhiba?</p>
-    <p xml:lang="swe">Te utšipresibako arakhibake mote áchell aro džor mote douva kon rańela avri drab mote phukavel pesko butjakothan aro formi pa jek drabiboskokano kódi aro recepi. Kana recepti mahatminela jek drab pe gresimen subventiriba mote rańibokero nína mereknavel apo recepti te utšipresibakoarakhiba mote mahatminel.</p>
-    <p xml:lang="swe">Otšipresibako arakhiba mahminela dóleske kon dživela vaj hin aro buti aro Svedo vaj dóleske hin jek europeisko nasvalibakopelchkos ka jek vauro EES-them vaj Schweiz. Douva europeisko nasvalibosko Svedoske hin nína siomasiba pe disave thema avurtno Europa; Algeria,Australija ta dieloskothemes Quebec aro Kanada, so minenila te drabesko mahaminela pe memburenge ka dála themakana jón hin aro Svedo.</p>
-    <p xml:lang="swe">Sáre kenti aro it tšér, douva kamel phenle hin ranlo po it tšérekoadresi.len hin itkano utšipresibakoarakhiba. Douva mienila te sáre kentenhoa iego presi džinelas it. Douva mienila te biolikane phénja so hin ranlo aro it adresi lel ona pesko iego utšipresibako arakhiba.</p>
-    <p type="title" xml:lang="swe">Ušipresibako databasi</p>
-    <p xml:lang="swe">Tši hiovylas korkores rikhavel džanibi sar but hin. Aro douva ajakhardo utšipresibako databasi pa themesko bolagesko Apotekesko Servive AB, registirinela sáre tšińjiba aro utšipresibako arakhiba sistemi lel te džanel sar but presavelas iegopresiba ta džińela sar but lockhiba dota avela pálal utšipresibakokati sakho var ka tšińelas. Sáre apoteka hin phanlo aro it databasi doleske ná but mieniba aro savo apoteka tu tšińela.</p>
-    <p xml:lang="swe">Douva hin phiŕokano te phukavel pes aro utšipresibako databasi. Douva rekistelas aro databasi hin nav, personnumri, tšińibako díves, kata apoteka hin lijal avri resepfi, sar but hin presado, douva periba hin pherdimen aro utšipresibako arakhiba ta díves kana douva lelpe pe utšipresibako periodi. Informasija sohin irekistitimen rikhavelas ińasto te lelas horta lockhiba. Tšek džanibi pa save drab hin lijal vaj savo doktorijata kon hin ranlo avri recepti garavelas.</p>
-    <p xml:lang="swe">Hin vojiba te kamel avri rańiba pa utšipresibako databasi save džanibi hin pa korkoresta ta pa dóla kentikonesko arakhiboskero hin. Douva tšerelas dženom te phredavelas ta bichavelas jek blanketos Apotetens Service AB; katar vojbuvel nína lel blanketos.</p>
-    <p type="title" xml:lang="swe">Velkavel te áchel avrutno</p>
-    <p xml:lang="swe">Hin vojibi te velkavel nikhi utšipresibako databasi. Tála lelaste móla so kharelas utštpresibako kavieriba. Aro utšipresibakokavieriba sterdola savo tšetado iegopresiba hin avlo presimen. Douva hin infortanto te garaven douva sistono utšipresibakokavieriba ta sika duova tšetanes pe receptijaha kana tšińelas drab. Apoteka hiovyla te džanel apo savo nivo tu sal apo utśipresibakokati te lel horta lockhiba.</p>
-  </body>
-</document>
+<document xml:lang="rmf" id="no_id"><header><title/><genre code="facta"/><author><unknown/></author><wordcount>1605</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="rmf"/><language xml:lang="swe"/></multilingual><origFileName>http://www.1177.se/Nationella-minoritetssprak/Nationella-minoritetssprak/Romanska-kale/Regler-och-rattigheter/Vad-kostar-lakemedel-pa-recept</origFileName><parallel_text xml:lang="eng" location="vad-kostar-lakemedel-pa-recept.html"/><parallel_text xml:lang="fin" location="vad-kostar-lakemedel-pa-recept.html"/><parallel_text xml:lang="fit" location="vad-kostar-lakemedel-pa-recept.html"/><parallel_text xml:lang="sma" location="vad-kostar-lakemedel-pa-recept.html"/><parallel_text xml:lang="sme" location="vad-kostar-lakemedel-pa-recept.html"/><parallel_text xml:lang="smj" location="vad-kostar-lakemedel-pa-recept.html"/><parallel_text xml:lang="swe" location="vad-kostar-lakemedel-pa-recept.html"/><parallel_text location="vad-kostar-lakemedel-pa-recept.html" xml:lang="rmy-rka"/><parallel_text location="vad-kostar-lakemedel-pa-recept.html" xml:lang="rmn"/><parallel_text location="vad-kostar-lakemedel-pa-recept.html" xml:lang="rmu"/><parallel_text location="vad-kostar-lakemedel-pa-recept.html" xml:lang="yid"/><parallel_text location="vad-kostar-lakemedel-pa-recept.html" xml:lang="rmy-rlo"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="swe">Sar but presila drab pe recepti? / Vad kostar läkemedel på recept? - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
+<p xml:lang="swe"></p>
+<p xml:lang="swe"></p>
+<p type="title" xml:lang="swe">Sar but presila drab pe recepti?Vad kostar läkemedel på recept?</p>
+<p xml:lang="swe"></p>
+<p type="title">Sar hin?</p>
+<p type="title">Arakhiba kajo ušte presiba</p>
+<p>O them submentirinela, douva kamel te pheńel te dela ekonomikano dumudiba, kana hin hioviba drab ta jek dieli vaure guosi kana hin disave nasvaliba. Butide dieli so rańelas avri pe recepti subventiriba farabelas aro lági pa drabesko hioviba. Douva hon arakhiba kajo utše presibi so lagi lela arakhelas sadivines utšipresibako arakibaske.</p>
+<p>Pálal lági hin:</p>
+<list><p type="listitem">te lelas huljariba pálal jek khardo utšibakopresiba nivo pe butide stomguosi</p>
+<p type="listitem">te lelas lochkiba pálal ajakharo apripresibakokati</p>
+<p type="listitem">rikhibosguosi na preavela tši so hiovylas te tśuvel drab ta ta tšerel kontroli pesko drab, sar eksemplura</p>
+<p type="listitem">lelas jek spesijalno arakhibakajo utše presibi aro disave ka kenti kon hin télal16 bereh.</p>
+</list><p type="title">Prisa ta subventiriba</p>
+<p>Danadko arakhibata drabesko šukaripe hougaje lela agoriba pa prisa ta huljariba. Kana TVL lela agoriba pa subvention dikhena jón drab so dela hioviba. Hioviba vojbubel áchel sar eksemplura fendide sastiba ta utšide dživibakolanghtiba. TVL tiomyla pa drabjako rikhiba ta drab so vojbuvel tiknavel sarnibako presiba,sar eksemloura pe operasija, nasvalibosko rańiba vaj phuride arakhiba.</p>
+<p>Drabfirmari vojbubela korkores velkavel te biknaven jek drab avrutni utšipresibako arakhela ta tála hin prisako tšuviba phiѓo, douva kame te pheńel drabfirma lela agoriba korkores pa prisa. Pe drav so rálila ná rálila aro utšipresibako arakhiba lelas korkorores presavel hilo presiba.</p>
+<p>Jekj dieli pa drab vojbuvuvel áchel jek granicibe subventation. Dauva mienila te drab hin subventatiokane pe jek pasjentoskokhake vaj te arakhel jek nasvaliba.</p>
+<p>TLV ta FASS hin webbthane data vojbula te dikhel hinko jek drab subventiokano vaj ná.</p>
+<p type="title" xml:lang="swe">Lochide parikano altenativ</p>
+<p>Onivar hin it slaga alterniva ka jek drab. Dóla kharelas pe generiska drab. Douva rálila it but. Nebi dóla vojbuven diśuvel vaureslaga ta rálila vaure sáki, sar ekemplura konzervitiko hábe. Dóla vojbuvena avel katar disave drabeskofabrika ta hin vaure prisa. Dála alternativo vojbulla baruvel aro apoteka. Douva hin drabeskoingariba so agorlela save drab vojbuvelas barjuvel vaureske.</p>
+<p>Kana hin but generiko drab ta so hin po recepti recepti hin lokhide te apoteka parjuvel dóles aro douva alternativ so hin maraknesko lokhide prisa. Douva hin douva lokhide drab so hin pherdales subventirimen. Hin vojiba te velkave te tšińel douva kuchidie drab so hin aro recepti,nebi tála mote presvel pherdiba korkores, douva ná rálila aro utšipresibakoarakhiba.</p>
+<p>Kana ná kamelas douva alternativno so apoteka barjula ka ta ná helle douva so hin avlo ranlo aro recepti hin vojiba te velkavel jek vauro generiskt alternativ. Nebi tála mote presavel hilo presiba korkores. Douva hin freda douva so hin ranlo aro recepti ta ta douva hin lokhide paruvitiko drab aro subventiriba. Dochiba daleske hin te tšek hiovylas te presavel butide ke dosta ke jek drabfirma kana hin it but pa it sarti ka disave vaure prisa.</p>
+<p>Kana pa medicikane khal mote rikhavel jek drab pa jek spesijalo fabrika vojbuvel doktori phukavel aro recepti ta ná lelas barjuvel. Tála ná hioviba te presavel douva estra presiba angliba te drab hin aro drabeskolista ta rálial aro utšipresibako arakhiba. Pa medicikane doch vojbuvela sar ekemplura áchel te hin alergia kajo jek aro ke tableti vaj hin bilokho phiravel jek mohto.</p>
+<p type="title">Periodisko guosi</p>
+<p>TVL lela agoriba savo prisa mote mahatminela pálal drabfirma hin ródilal jek prisako parjiba Prisa po jek drab vojbuvel,pálal jek ródiba barjuvel sakho tšón.</p>
+<p>Kana douva dochela generiska drab kharelas douva altarnativi so lela tiknide prisa po periodisko guosi. Guosi jón kamena te parjuval TVL dela informasija ka apoteka pa savo alternativ pa periodisko jón kanena te parjuvel TVL lele agoriba nína pa duj reservati ta prjuvel ka periodisko guosi hin eńos Douva vojbuvel parjuvel pa tšón ta tšón savo alternativ so apoteka barjula.</p>
+<p>Mieniba pe periodisko guosi hin te dóla skatiboskolouve so hin tšundo pe subventiriba pa drab písula ajabut ta ta aja butvares so hin vojiba.</p>
+<p>Periodi guosi hin it aro sáre apoteka, nebi onivar saj fanula te jek apoteka hin tśinel baro kotor pa perodisko guosi. Apoteka lela tála biknaven télal vaure tšón. Douva mienila te avela rekhimen sígo tšónesko guosi aro jek apoteka ta vaure tšónesko guosi ta vaure tšonesko guosi aro vauro. Dála duj guosi hin duj slaga prisa</p>
+<p xml:lang="swe"></p>
+<p type="title">Utśipresibako arakhiba</p>
+<p type="title">Presavelas max 2200 korona aro bereh</p>
+<p>Utšipresibakoarakhiba mienila te presavelas max 2200 koroni téla jek bereheskoperodi. Dauva hin ajakhardo jek utštpresibakoperiodi.</p>
+<p>Utšipresibako arakhiba mahatminela pe drab so lelas pe recepti ta sar TVL hin líjal agoriba pa subventiriba. Dauva mahaminela nína rikhibosko artilar so lelas apo aja khadro hahtibako pelchkos.</p>
+<p>Kana douva mahatminela but kenti drab presavelas aja khardo iegopresiba sakha var kana ródelas avri po recefti ka jón hin avlo apre 2000 korona. It hin pe rikhibosko artikeli so hiomylas apo stomi.</p>
+<p>Pe jek dieli drab ná presavela tši. Kana hin insukluniarakhiba diebetes tšek presavelas pa insulini. Kana hin nasvaliba so hin aro starijibosko arakhibako lága presavela phuvjakotingi hilo presiba pa drab so tiknavela starjiba sar eksemplura viruskane drab kajo hiv.</p>
+<p>Disave phuvjakotingo presavela hilo vaj jek dieli pa iegipresiba pe disave drab ta pasijentengo skokha, sar eksemplura p-pilleri ternen džuvjenge.</p>
+<p>Ná prevelas tšek pa rikhibosko artila so hiovylas te ánen trupos drab ta faldavelavel pesko drabiba. Eksemplura pa ajasave rikhibosko artiklar hin prskibe, khoro pe gullosko bismiba.</p>
+<p type="title">Iegopresiba pálal uštipresibakokati</p>
+<p>Kana lelpe jek uštipresibakoperodi po hek bereh presavelas hilo presiba pa drab ta stomiguosi korkores aja harhal akna hin presado tšeetanes 1 100 korona. Tála téljina iegopresiba kutides pálal aja khardo utšipresibakokati. Apo sakho nevo tšińba lelpe katar douva presiba so hin uštide apo vauro tšíńiba ta džala apre apo utšipresibakokati.</p>
+<p>Kana hin presadal 2 200 koroni ná hioviba te presavel tši butide télal utšipresibakoperodi. Jek angliba hin te douva mahatminelas hin te dóla drab so ródelas avri rálila aro utšipresibakarakhiba. Kana utšipreisibako pieriodi lela byrjyla jek nevo periodi apo vauro tšńibata,bidotta hinko pes aro utśiperisibakokati.</p>
+<p type="title">Jakhes džalpe utšipresibakokati</p>
+<p>Tšetanes drabeskopresiba</p>
+<p>Presavelas Sar butide</p>
+<p xml:lang="swe">5 400</p>
+<p xml:lang="swe">2 200</p>
+<p xml:lang="swe">3 900</p>
+<p xml:lang="swe">90% rabatt</p>
+<p xml:lang="swe">2 050</p>
+<p xml:lang="swe">2 100</p>
+<p xml:lang="swe">75% rabatt</p>
+<p xml:lang="swe">1 600</p>
+<p xml:lang="swe">1 100</p>
+<p xml:lang="swe">500%</p>
+<p xml:lang="swe">1 100</p>
+<p xml:lang="swe">0%</p>
+<p><em type="italic">Tabelensikavela sar utśipresibako arakhiba dela tikide presiba. </em></p>
+<p type="title">Spesijalne hábe kentenge</p>
+<p>Nína habe ka kenti kon hin télel 16 bereh ta hin disave nasvaliba,sar eksemplura gluteinintoleranis,hin subtirimen. Habe rańelas apo aja khardo livmedelsanvisning, ta lelas te ródel avri pe max 90 dives pe var. Hin hioviba te presavel iegopresiba apo 120 korona sakho var,nebi dauva presiba ná džińelas it pe utšipresibakoarakhiba.</p>
+<p type="title">Sar but lelas te tšińel jek var?</p>
+<p>Nà vojiba te tšińel sar kamelas aro utšipresibakoarakhiba. Douva butiba so lelas te tšińel hin mienimen te douva hin dosta po 90 diives, douva kamel te pheńel kutides 3 tšóneske. Prevetivkane bérija, sar eksemplura p-pilleri ta p-prskibe hin avutnunofanibi aro dauva trin tšónesko regulia.</p>
+<p>Kana ródelas pe recepti but var vojuvelas ródel avri recepti vágunes tritokotor pa douva tíja so drab džińelas písuvel ka angtluni avri ródiba. Sar eksemplura ródel avri drab pe trin tšoneske rikhiba mote pe vaureha dželo aro duj tšon kana lelas te ródel jek nevo recepti.</p>
+<p>Hin vojiba te tšinel avri but ke jek avrilíjaba pe var,nebi tála mote presaves hilo prisa pe douva butiba so džala pherdal trin tšonesko rikhiba. Kana doktori hin ranlo aro recepti te mote džal disave tíja mahkar avrilíjiba ná vojiba te lel avri butide ke doktori hin phenjal.</p>
+<p>Kana hin pesijalnodoch, sar eksemplura te avela avrutno them langhtotíja, hin vojiba te ródel avri drab andre utšipresibako arakhiba pe langhtide ke trin tšóneske. Nebi tála mote vojbuvel kavieravel douva, sar eksemplura pe drádiboskodokumentos.</p>
+<p type="title">Kana rálila utšipresibakoarakhiba?</p>
+<p>Te utšipresibako arakhibake mote áchell aro džor mote douva kon rańela avri drab mote phukavel pesko butjakothan aro formi pa jek drabiboskokano kódi aro recepi. Kana recepti mahatminela jek drab pe gresimen subventiriba mote rańibokero nína mereknavel apo recepti te utšipresibakoarakhiba mote mahatminel.</p>
+<p>Otšipresibako arakhiba mahminela dóleske kon dživela vaj hin aro buti aro Svedo vaj dóleske hin jek europeisko nasvalibakopelchkos ka jek vauro EES-them vaj Schweiz. Douva europeisko nasvalibosko Svedoske hin nína siomasiba pe disave thema avurtno Europa; Algeria,Australija ta dieloskothemes Quebec aro Kanada, so minenila te drabesko mahaminela pe memburenge ka dála themakana jón hin aro Svedo.</p>
+<p>Sáre kenti aro it tšér, douva kamel phenle hin ranlo po it tšérekoadresi.len hin itkano utšipresibakoarakhiba. Douva mienila te sáre kentenhoa iego presi džinelas it. Douva mienila te biolikane phénja so hin ranlo aro it adresi lel ona pesko iego utšipresibako arakhiba.</p>
+<p type="title">Ušipresibako databasi</p>
+<p>Tši hiovylas korkores rikhavel džanibi sar but hin. Aro douva ajakhardo utšipresibako databasi pa themesko bolagesko Apotekesko Servive AB, registirinela sáre tšińjiba aro utšipresibako arakhiba sistemi lel te džanel sar but presavelas iegopresiba ta džińela sar but lockhiba dota avela pálal utšipresibakokati sakho var ka tšińelas. Sáre apoteka hin phanlo aro it databasi doleske ná but mieniba aro savo apoteka tu tšińela.</p>
+<p>Douva hin phiŕokano te phukavel pes aro utšipresibako databasi. Douva rekistelas aro databasi hin nav, personnumri, tšińibako díves, kata apoteka hin lijal avri resepfi, sar but hin presado, douva periba hin pherdimen aro utšipresibako arakhiba ta díves kana douva lelpe pe utšipresibako periodi. Informasija sohin irekistitimen rikhavelas ińasto te lelas horta lockhiba. Tšek džanibi pa save drab hin lijal vaj savo doktorijata kon hin ranlo avri recepti garavelas.</p>
+<p>Hin vojiba te kamel avri rańiba pa utšipresibako databasi save džanibi hin pa korkoresta ta pa dóla kentikonesko arakhiboskero hin. Douva tšerelas dženom te phredavelas ta bichavelas jek blanketos Apotetens Service AB; katar vojbuvel nína lel blanketos.</p>
+<p type="title">Velkavel te áchel avrutno</p>
+<p>Hin vojibi te velkavel nikhi utšipresibako databasi. Tála lelaste móla so kharelas utštpresibako kavieriba. Aro utšipresibakokavieriba sterdola savo tšetado iegopresiba hin avlo presimen. Douva hin infortanto te garaven douva sistono utšipresibakokavieriba ta sika duova tšetanes pe receptijaha kana tšińelas drab. Apoteka hiovyla te džanel apo savo nivo tu sal apo utśipresibakokati te lel horta lockhiba.</p>
+</body></document>

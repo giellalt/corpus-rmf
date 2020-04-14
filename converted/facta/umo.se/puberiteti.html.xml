@@ -1,93 +1,53 @@
-<document xml:lang="rmf" id="no_id">
-  <header>
-    <title/>
-    <genre code="facta"/>
-    <author>
-      <unknown/>
-    </author>
-    <translator>
-      <unknown/>
-    </translator>
-    <translated_from xml:lang="swe"/>
-    <wordcount>1602</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="rmf"/>
-      <language xml:lang="swe"/>
-    </multilingual>
-    <origFileName>http://www.umo.se/Andra-sprak/romska-kale/Puberiteti</origFileName>
-    <parallel_text xml:lang="fin" location="murrosika.html"/>
-    <parallel_text xml:lang="fit" location="pyberteetti.html"/>
-    <parallel_text xml:lang="sma" location="puberteete.html"/>
-    <parallel_text xml:lang="sme" location="ravasmanahki.html"/>
-    <parallel_text xml:lang="smj" location="pubertahtta.html"/>
-    <parallel_text xml:lang="swe" location="puberteten.html"/>
-    <parallel_text location="puberteten.html" xml:lang="rmu"/>
-    <parallel_text location="kana-e-glata-kerdol-ternimata.html" xml:lang="rmy-rka"/>
-    <parallel_text location="puberteto.html" xml:lang="rmy-rlo"/>
-    <parallel_text location="puberteti.html" xml:lang="rmn"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="swe">Puberiteti</p>
-    <p xml:lang="swe">Alla undrar!  Vad undrar du?</p>
-    <p type="title" xml:lang="swe">Puberiteti</p>
-    <p xml:lang="swe">Džiko var mahkar kana hin 10 ta bereh phurano avela but aŕe aro puberiteti. Télal puberiteti barjula trupos ka kentosko ka baro komujesko. Sar eksemplura paruvela lýja ta bij, ta leha akni ta avela intresimen pa seksi.</p>
-    <p xml:lang="swe">Puberiteti lelpe katar hormoni. Hormoni hin béri so formirinelas aro disave kiorteli aro trupos. Hormoni anguvela sar trupos tiomila pe but disave manera. Sar eksemplura tiomila lindra, ratteskovégiba, humori, ta sar but páni hin aro trupos. Douva hin nína hormoni so agorlela sar ta kana trupos angledžaljarela pes.</p>
-    <p xml:lang="swe">Kana avela aŕe aro puberiteti ta sar douva hošelas baruvela ka komunis dži komunis. Jek dieli hánila te lel menśi vaj tšón ke vaure rikhila te douva hoelas but bares.</p>
-    <p xml:lang="swe">Ka avelas sígas vaj harimo aŕe aro puberiteti hin sáki so ná vojbuvel tiomavel korkores. Pe tšaijenge hin manera te kana jón hin mahkar 10 ta 12 bereh ta tšávenje kana jón hin mahkar 11 ta 13 bereh. Nebi douva hin normalno te douva fanula nína sígas ta harimo. Sar phurano hin kana avela aŕe aro puberiteti hin butvares aro hlehtavitiko.</p>
-    <p xml:lang="swe">Sa puberitetiske hin manera te lel pangh ka hou bereh télal douva hin sárenge pengo iego tíja. Puberiteti lelpe butvares te barjula hastes. Onivar saj hoavel pes kuti langales dóles ke sáre truposko dieli ná parjulape it tíjaha. Sar eksemplura vastja ta piere parjula but aro angliba.</p>
-    <p xml:lang="swe">Kana hin avlo avri pa puberiteti hin parjudal dosta po utšiba.</p>
-    <p type="title" xml:lang="swe">Te áchel aro puberiteti</p>
-    <p xml:lang="swe">Lela butvares te huńel te puberiteti hin but baro periodi. Jakhes vojbuvel douva áchel jek skokhake,nebi ná sárenge. Buutvares hin douve jek lustiko ta but undravitiko tíja aro dživiba, kana fanula but neve sáki nína pes korkores ta pe vaure aro trystaliba. But kamena te parjuven ta len jek baride trupos ta diśiba,nebi ná sárenge. Douva vojbuvel hošavel džalimen te trupos barjuvela, onivar vojbuvela hošavel te ná hortas áchelas it.</p>
-    <p xml:lang="swe">Onivar vojbuvela douva hošavel sar te hin tenkiba ta lági, sar eksemplura sar áchelas ta diśulas sar tšaj vaj tsávo. Bare komujen hin tenkiba pa sar terne hin,so vojbuvelas farabavel pe negativni láve, sar terne hin phare kuŕibosgiere ka minsavelas te ná koneske hortiba te arakhel tšek bilatšes</p>
-    <p xml:lang="swe">Kana hošelas phares vojbuvel áchel tšihko te rakhavel džikonensa. Douva vojbuvel áchel sastiboskieri aro skola, skolakokuratori, vaj džiko vauro aro ternengo centralni.</p>
-    <p type="title" xml:lang="swe">So fanula aro puberiteti?</p>
-    <p type="title" xml:lang="swe">Berek</p>
-    <p xml:lang="swe">Pe tšajenge hin váguno merekni te jón hin aune aro pubereteti te berek byrjyla barjuven. Douva vojbuvel hošavel dženom te lelas tikne džorale gunkale pálal tšutši. Douva hin jek kiorteli aro berek so angdžajarela pes. Kana berek parula vojbuvela dólen chandžibavel ta phangavel. Douva hin nína normalno te douva tšérela dukh kana variso avela priśi ka berek.</p>
-    <p xml:lang="swe">Butvares lelpe douva vauro berek te parjuvel anglide ke dauva vauro. Douva hi nína normalno te berek lelpe te parjuvel vaurevitikanes.</p>
-    <p xml:lang="swe">Ná kutides ke pah dieli pa tsáve lena kiorteli aro tšutšija so vojbuvena diśuven ta hošavel sar jek tikno spati télal vauro vaj ona bereh. Kiorteli aro berek vojbuvel hošaves kuti phagvale, nebi douva hin bifardiko. Pála jek tíjako pálal hin manera te maśesko kotoribaaro berek tiknavela palpále. Douva vojubuvel lel ka duj dži tri bereh.</p>
-    <p type="title" xml:lang="swe">Truposko bál</p>
-    <p xml:lang="swe">Aro puberiteti lelas bijesko bál. Bál byryla te barjuvel pherdal bij kajo hoffos. Ona tšaija ta tšáve vojbuvena te len jek dóri apre kajo pór.</p>
-    <p xml:lang="swe">Hin vojiba te lel bál télal khakta douva hin normalno te lel butide apo vauro stedos apo trupos, nína sar eksemplura apo piere ta vastja tšáve vojbuvena te len bál apo berek ta dumo.</p>
-    <p xml:lang="swe">Tšáve lena tšónesko barjiba. Butvares lelpe douva apo apruno vus ta bohlavela pes apo phamb ta apo babunis. Ka jek dieli lelpe bálesko barjiba te džal angle ta avel džoralide dúrales aro baro komujako berehiba.</p>
-    <p xml:lang="swe">Télal aro puberiteti avela bál apo héro avel tšikhales ke sikide. Douva angouvelas pa talgkiorteli tšérela butide tšik. Dóleske lelas te thouvel butide pesko bál ka sikide.</p>
-    <p type="title" xml:lang="swe">Bijiba</p>
-    <p xml:lang="swe">Bijiba barjula pes télal puberiteti,ni barjiba ta rangliba.Talgkiorteli byrjyvella sikavel fendideso tšérela te hokavelas nukta ta phukni so hin naturlikane ta bifárdiko.hamjiba ta truposkopániba so lelpe tšérela te bijiba lelpe te khandel pe vaures ke sígas.</p>
-    <p xml:lang="swe">Pe tsaijenge avela nína avriruno ta aŕevitika landsvardo vustja džoralide ta kálide. Butvares barjula dóla aŕevitika landsvardo vustja jakhes te dóla ná diśulas avrikanes pa avrikane. Nína klitoris barjula. Vagina, dajaniba ta járeskoliediba so hin aro trupos barjula.Járesko phirjiba lelpe.</p>
-    <p xml:lang="swe">Pe tšávenge lelpe pélesko barjiba. Nína barjula péloskogóno it sar kár ta peloskogóno lela kálide rangla. Sar but kár barjula hin vaurovitiko ka komunis ka komunis. Nína barjula dóla aŕekane bijesko kiorteli so kharelas prostata ta pokjakogóne barjula Angluni mortši bohluvela ta barjula ta télal anglunimortši lelpe te barjuvel smegman, jek parnovitiko makhiba te avel.</p>
-    <p type="title" xml:lang="swe">Sperma</p>
-    <p xml:lang="swe">Kana járe barjula vojbuvela dólen te áchel kuti phagvale. Butvares hin douva merekni te járe lelpe te tšéren spermija. Douva lelpe te fanuvel kana hin aro 14-15-bereh phurano,nebi douva vojbuvela fanuvel sikide vaj harimo. Kana avela sperma kana lela phirjiba,so mienila te douva hin slehtako nourimen. Tála hin vojiba te tšérel džiko pháreske kana hin bijikano phanliba. Télal pubereteti hin but normalno te lela phirjiba raśakotíja kana souvela. Pe jek dieli fanula douva ferda disave var ka vaure lena rattkane phiritiba télal butvare bereh.</p>
-    <p type="title" xml:lang="swe">Drepiba</p>
-    <p xml:lang="swe">Angnal kana byrjyvela te lel menśi lelas drepiba. Douva hokavelas kana lela dželto parniba aro beskoholuja. Drepiba tšérela jakhes te sánomortsi aro vagina hin džińovitiko,dóla rikhila nína vagina džuso ta arakhela kajo infeksija.</p>
-    <p type="title" xml:lang="swe">Menśi</p>
-    <p xml:lang="swe">Te lel menśi mienila te járeskophirjiba hin líjal te lelpe. Douba mienila te hin slehtako nourimen,pe vaureha hin vojiba te avel pháreske ta lel kentos.</p>
-    <p xml:lang="swe">Váguno menśi hin manera te lel duj bereh pálal kana berek byrjydal te barjuvel. Butvares lelpe te lel kuti rat aro beskoholuja vaj apo papri kana khośavela pes.</p>
-    <p xml:lang="swe">Douva hin nína normalno te lel brúnokano drepiba anglal pesko váguno menśi. Douva hin truposko manera te phukavel te menśi hin po drom te avel. Ratkane drepiba hin butvares kále ta brunovitiko, douva hin pa te rat lela pes tíja te khosel kuti angnal ka douva avela avri.</p>
-    <p xml:lang="swe">Aro byrjiba hin normalno te menśi hin biregulikane. Sar eksemplura hin vojiba te lel menśi jekvar ta pálal dólesta lel but tšón kana avela vauro var. Douva hin normalno ta bifardiko.</p>
-    <p type="title" xml:lang="swe">Seksikano hágiba</p>
-    <p xml:lang="swe">Nebi kana hin bijkano nourimen hin manera te lel butide džinta ta hágiba pa seksi utšavel. Vahka hin líjal pes onani kana salas ternide hin douva télal puberiteti kana but dieli lena pen onani pe džntaha. Butvare lela te tenkavel ajasavo sáki pa seksi ta normalno hin tenkiaa sar hošelas seksi váguno var dziko vaureha.</p>
-    <p xml:lang="swe">Pe tšávenge vojbuvel tenkiba tšerel te jón lena sterdiba po lokhes. Onivar fanula douva bi te džanel korkores pe soske. Douva vojbuvel áchel te bechels aro buśo so trisavela vaj kana tradela kuŕos apo baruvitkodrom. Dristiba štsérela te džal džent signali ka kár,bi te džal dženom gódi. Douva vojbuvelas te hošavel landžvares.</p>
-    <p type="title" xml:lang="swe">Mortši</p>
-    <p xml:lang="swe">Pe it manera sar bál hastide avela tšikales itkanes fanuvela pe mortsijaha. Douva hin dóleske ke talgkiorteli tšérela butide tšik ke sikide,onivar butide ke hin hioviba. Douva hokavelas pa te mortši avela glimukano,spesijalnes aro nakhesko trytstaliba ta tšekan,nebi nína apo tšamb ta dumo. Te mortšijata avela tšikalide vojbuvela liedavel te lelas akne ta kálitšermi.</p>
-    <p xml:lang="swe">Aro puberiteti vojbuvel te les nína aro mortši, aja khardo mortšijako bandžiba. Douva angouvela pa dota te mortši sterdavelas hastides ke douva lela tía te riomsyvel. Pe tšajenge hin but normalno te lel phutriba apo bereh, phośin ta hofi. Pe tšávenge hin but normalno te lel dóla po dumo ta phike. Phutriba lel te avel parneske pe tíjaha.</p>
-    <p type="title" xml:lang="swe">Khamlo</p>
-    <p xml:lang="swe">O khamjiba lelpe nína te lel butide khamjiba aro puberteti,dóleske hin but inportanto te thouvel pes sakhko díves.Kana lelpe tenkiba te hiovylas te lelpe te rikhavel deoranti télal khakja.</p>
-    <p type="title" xml:lang="swe">Lýja</p>
-    <p xml:lang="swe">It sar vaure dieli pa truppos barjula lýja télal puberiteti. Ménesko hutli barjula ta lýjakobandžiba džala télide so tšérela te lýjata avela kálide ta télide,ta douva hin douva so khárelas pe naveha. Dauva fanula nína tšajenge sar tšávenge. Nebi tšávengo lýja barjula butide ke tšajengo ta douva vojbuvela tšérel te sar tšavo ná hajula te lel kontroli pa pesko lýjata. Douva vojbuvel paruvel mahkar kalo ta parnide ta kálide télal jek periodi angnal ka douva ke douva avela kálide ta džoralide.</p>
-    <p type="title" xml:lang="swe">Trupos barjula ta parula</p>
-    <p xml:lang="swe">Angnál ka puberitetesko alsiba barjula butvares vastja ta piere ekstra hastide. Dólesko pálal barjula vastja ta piere. Dólesko pálal barjula peske ińasto pe utšiba. Hin vojiba te barjuvel but centimetri pe disave tšón. Douva khárelas pe barjibosko hastiba.</p>
-    <p xml:lang="swe">Trupos ná barjula ińasto apo utšiba lelpe te barjuvel te lel formi. Tšaija lena bohlide phośin ta tšáve bohlide berek.</p>
-    <p type="title" xml:lang="swe">Sígas ta dólesko pálal puberiteti</p>
-    <p xml:lang="swe">Kana puberiteti lelpe hin ná it kane douva dochila pe vaureha pa hlehta. Te avel sígas aro puberiteti vojbuvela hošaves nína latšes ta but pháreske. Te avel sígas aro puberiteti, angnal ka hin pherdo ohto bereh sar tšaj vaj enja bereh sar tšávo,hin binormalno Kana lela puberitetisko merekni aja sígas hin hioviba te rakhavel pe peski phúride vaj vauro arakhiboskiereha ta lel kontakti aro sastiboskiro vaj jek sastibosko cetralni.</p>
-    <p xml:lang="swe">Kan ná líjal tšek merekni pa puberiteti kana hin aro 14 bereh khárelas douva pe harimo puberiteti. Tála vojbuvelas te rakhavel pe peski phúride vaj pe vauro arakhiboskero ta tšetanes pe dóleha vaj korkores lel kontakti skolako sastiboskieri,jek ternego centralni,vaj arakhibosko centrali. Kana hin hioviba vojbuvelas puberiteti pe drabjaha lelpe. Ná vojbuvel korkores hastavel puberitetisko aviba.</p>
-    <p xml:lang="swe">Kana hin džinta te douva hošelas phares te ná angledžjarela aro it tíja sar pesko mále saj hošelas latšes te lel rakhavel pe džikones,skolakosastiboskiero hin sar eksemplura jek latšo komunis te risavel pes. Douva džalpe nína te lel hahtiba aro ternego centrali vaj arakhibosko centrali.</p>
-  </body>
-</document>
+<document xml:lang="rmf" id="no_id"><header><title/><genre code="facta"/><author><unknown/></author><translator><unknown/></translator><translated_from xml:lang="swe"/><wordcount>1597</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="rmf"/><language xml:lang="swe"/></multilingual><origFileName>http://www.umo.se/Andra-sprak/romska-kale/Puberiteti</origFileName><parallel_text xml:lang="fin" location="murrosika.html"/><parallel_text xml:lang="fit" location="pyberteetti.html"/><parallel_text xml:lang="sma" location="puberteete.html"/><parallel_text xml:lang="sme" location="ravasmanahki.html"/><parallel_text xml:lang="smj" location="pubertahtta.html"/><parallel_text xml:lang="swe" location="puberteten.html"/><parallel_text location="puberteten.html" xml:lang="rmu"/><parallel_text location="kana-e-glata-kerdol-ternimata.html" xml:lang="rmy-rka"/><parallel_text location="puberteto.html" xml:lang="rmy-rlo"/><parallel_text location="puberteti.html" xml:lang="rmn"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="swe">Puberiteti</p>
+<p type="title" xml:lang="swe">Puberiteti</p>
+<p>Džiko var mahkar kana hin 10 ta bereh phurano avela but aŕe aro puberiteti. Télal puberiteti barjula trupos ka kentosko ka baro komujesko. Sar eksemplura paruvela lýja ta bij, ta leha akni ta avela intresimen pa seksi.</p>
+<p>Puberiteti lelpe katar hormoni. Hormoni hin béri so formirinelas aro disave kiorteli aro trupos. Hormoni anguvela sar trupos tiomila pe but disave manera. Sar eksemplura tiomila lindra, ratteskovégiba, humori, ta sar but páni hin aro trupos. Douva hin nína hormoni so agorlela sar ta kana trupos angledžaljarela pes.</p>
+<p>Kana avela aŕe aro puberiteti ta sar douva hošelas baruvela ka komunis dži komunis. Jek dieli hánila te lel menśi vaj tšón ke vaure rikhila te douva hoelas but bares.</p>
+<p>Ka avelas sígas vaj harimo aŕe aro puberiteti hin sáki so ná vojbuvel tiomavel korkores. Pe tšaijenge hin manera te kana jón hin mahkar 10 ta 12 bereh ta tšávenje kana jón hin mahkar 11 ta 13 bereh. Nebi douva hin normalno te douva fanula nína sígas ta harimo. Sar phurano hin kana avela aŕe aro puberiteti hin butvares aro hlehtavitiko.</p>
+<p>Sa puberitetiske hin manera te lel pangh ka hou bereh télal douva hin sárenge pengo iego tíja. Puberiteti lelpe butvares te barjula hastes. Onivar saj hoavel pes kuti langales dóles ke sáre truposko dieli ná parjulape it tíjaha. Sar eksemplura vastja ta piere parjula but aro angliba.</p>
+<p>Kana hin avlo avri pa puberiteti hin parjudal dosta po utšiba.</p>
+<p type="title">Te áchel aro puberiteti</p>
+<p>Lela butvares te huńel te puberiteti hin but baro periodi. Jakhes vojbuvel douva áchel jek skokhake,nebi ná sárenge. Buutvares hin douve jek lustiko ta but undravitiko tíja aro dživiba, kana fanula but neve sáki nína pes korkores ta pe vaure aro trystaliba. But kamena te parjuven ta len jek baride trupos ta diśiba,nebi ná sárenge. Douva vojbuvel hošavel džalimen te trupos barjuvela, onivar vojbuvela hošavel te ná hortas áchelas it.</p>
+<p>Onivar vojbuvela douva hošavel sar te hin tenkiba ta lági, sar eksemplura sar áchelas ta diśulas sar tšaj vaj tsávo. Bare komujen hin tenkiba pa sar terne hin,so vojbuvelas farabavel pe negativni láve, sar terne hin phare kuŕibosgiere ka minsavelas te ná koneske hortiba te arakhel tšek bilatšes</p>
+<p>Kana hošelas phares vojbuvel áchel tšihko te rakhavel džikonensa. Douva vojbuvel áchel sastiboskieri aro skola, skolakokuratori, vaj džiko vauro aro ternengo centralni.</p>
+<p type="title">So fanula aro puberiteti?</p>
+<p type="title">Berek</p>
+<p>Pe tšajenge hin váguno merekni te jón hin aune aro pubereteti te berek byrjyla barjuven. Douva vojbuvel hošavel dženom te lelas tikne džorale gunkale pálal tšutši. Douva hin jek kiorteli aro berek so angdžajarela pes. Kana berek parula vojbuvela dólen chandžibavel ta phangavel. Douva hin nína normalno te douva tšérela dukh kana variso avela priśi ka berek.</p>
+<p>Butvares lelpe douva vauro berek te parjuvel anglide ke dauva vauro. Douva hi nína normalno te berek lelpe te parjuvel vaurevitikanes.</p>
+<p>Ná kutides ke pah dieli pa tsáve lena kiorteli aro tšutšija so vojbuvena diśuven ta hošavel sar jek tikno spati télal vauro vaj ona bereh. Kiorteli aro berek vojbuvel hošaves kuti phagvale, nebi douva hin bifardiko. Pála jek tíjako pálal hin manera te maśesko kotoribaaro berek tiknavela palpále. Douva vojubuvel lel ka duj dži tri bereh.</p>
+<p type="title">Truposko bál</p>
+<p>Aro puberiteti lelas bijesko bál. Bál byryla te barjuvel pherdal bij kajo hoffos. Ona tšaija ta tšáve vojbuvena te len jek dóri apre kajo pór.</p>
+<p>Hin vojiba te lel bál télal khakta douva hin normalno te lel butide apo vauro stedos apo trupos, nína sar eksemplura apo piere ta vastja tšáve vojbuvena te len bál apo berek ta dumo.</p>
+<p>Tšáve lena tšónesko barjiba. Butvares lelpe douva apo apruno vus ta bohlavela pes apo phamb ta apo babunis. Ka jek dieli lelpe bálesko barjiba te džal angle ta avel džoralide dúrales aro baro komujako berehiba.</p>
+<p>Télal aro puberiteti avela bál apo héro avel tšikhales ke sikide. Douva angouvelas pa talgkiorteli tšérela butide tšik. Dóleske lelas te thouvel butide pesko bál ka sikide.</p>
+<p type="title">Bijiba</p>
+<p>Bijiba barjula pes télal puberiteti,ni barjiba ta rangliba.Talgkiorteli byrjyvella sikavel fendideso tšérela te hokavelas nukta ta phukni so hin naturlikane ta bifárdiko.hamjiba ta truposkopániba so lelpe tšérela te bijiba lelpe te khandel pe vaures ke sígas.</p>
+<p>Pe tsaijenge avela nína avriruno ta aŕevitika landsvardo vustja džoralide ta kálide. Butvares barjula dóla aŕevitika landsvardo vustja jakhes te dóla ná diśulas avrikanes pa avrikane. Nína klitoris barjula. Vagina, dajaniba ta járeskoliediba so hin aro trupos barjula.Járesko phirjiba lelpe.</p>
+<p>Pe tšávenge lelpe pélesko barjiba. Nína barjula péloskogóno it sar kár ta peloskogóno lela kálide rangla. Sar but kár barjula hin vaurovitiko ka komunis ka komunis. Nína barjula dóla aŕekane bijesko kiorteli so kharelas prostata ta pokjakogóne barjula Angluni mortši bohluvela ta barjula ta télal anglunimortši lelpe te barjuvel smegman, jek parnovitiko makhiba te avel.</p>
+<p type="title" xml:lang="swe">Sperma</p>
+<p>Kana járe barjula vojbuvela dólen te áchel kuti phagvale. Butvares hin douva merekni te járe lelpe te tšéren spermija. Douva lelpe te fanuvel kana hin aro 14-15-bereh phurano,nebi douva vojbuvela fanuvel sikide vaj harimo. Kana avela sperma kana lela phirjiba,so mienila te douva hin slehtako nourimen. Tála hin vojiba te tšérel džiko pháreske kana hin bijikano phanliba. Télal pubereteti hin but normalno te lela phirjiba raśakotíja kana souvela. Pe jek dieli fanula douva ferda disave var ka vaure lena rattkane phiritiba télal butvare bereh.</p>
+<p type="title">Drepiba</p>
+<p>Angnal kana byrjyvela te lel menśi lelas drepiba. Douva hokavelas kana lela dželto parniba aro beskoholuja. Drepiba tšérela jakhes te sánomortsi aro vagina hin džińovitiko,dóla rikhila nína vagina džuso ta arakhela kajo infeksija.</p>
+<p type="title" xml:lang="swe">Menśi</p>
+<p>Te lel menśi mienila te járeskophirjiba hin líjal te lelpe. Douba mienila te hin slehtako nourimen,pe vaureha hin vojiba te avel pháreske ta lel kentos.</p>
+<p>Váguno menśi hin manera te lel duj bereh pálal kana berek byrjydal te barjuvel. Butvares lelpe te lel kuti rat aro beskoholuja vaj apo papri kana khośavela pes.</p>
+<p>Douva hin nína normalno te lel brúnokano drepiba anglal pesko váguno menśi. Douva hin truposko manera te phukavel te menśi hin po drom te avel. Ratkane drepiba hin butvares kále ta brunovitiko, douva hin pa te rat lela pes tíja te khosel kuti angnal ka douva avela avri.</p>
+<p>Aro byrjiba hin normalno te menśi hin biregulikane. Sar eksemplura hin vojiba te lel menśi jekvar ta pálal dólesta lel but tšón kana avela vauro var. Douva hin normalno ta bifardiko.</p>
+<p type="title">Seksikano hágiba</p>
+<p>Nebi kana hin bijkano nourimen hin manera te lel butide džinta ta hágiba pa seksi utšavel. Vahka hin líjal pes onani kana salas ternide hin douva télal puberiteti kana but dieli lena pen onani pe džntaha. Butvare lela te tenkavel ajasavo sáki pa seksi ta normalno hin tenkiaa sar hošelas seksi váguno var dziko vaureha.</p>
+<p>Pe tšávenge vojbuvel tenkiba tšerel te jón lena sterdiba po lokhes. Onivar fanula douva bi te džanel korkores pe soske. Douva vojbuvel áchel te bechels aro buśo so trisavela vaj kana tradela kuŕos apo baruvitkodrom. Dristiba štsérela te džal džent signali ka kár,bi te džal dženom gódi. Douva vojbuvelas te hošavel landžvares.</p>
+<p type="title">Mortši</p>
+<p>Pe it manera sar bál hastide avela tšikales itkanes fanuvela pe mortsijaha. Douva hin dóleske ke talgkiorteli tšérela butide tšik ke sikide,onivar butide ke hin hioviba. Douva hokavelas pa te mortši avela glimukano,spesijalnes aro nakhesko trytstaliba ta tšekan,nebi nína apo tšamb ta dumo. Te mortšijata avela tšikalide vojbuvela liedavel te lelas akne ta kálitšermi.</p>
+<p>Aro puberiteti vojbuvel te les nína aro mortši, aja khardo mortšijako bandžiba. Douva angouvela pa dota te mortši sterdavelas hastides ke douva lela tía te riomsyvel. Pe tšajenge hin but normalno te lel phutriba apo bereh, phośin ta hofi. Pe tšávenge hin but normalno te lel dóla po dumo ta phike. Phutriba lel te avel parneske pe tíjaha.</p>
+<p type="title">Khamlo</p>
+<p>O khamjiba lelpe nína te lel butide khamjiba aro puberteti,dóleske hin but inportanto te thouvel pes sakhko díves.Kana lelpe tenkiba te hiovylas te lelpe te rikhavel deoranti télal khakja.</p>
+<p type="title">Lýja</p>
+<p>It sar vaure dieli pa truppos barjula lýja télal puberiteti. Ménesko hutli barjula ta lýjakobandžiba džala télide so tšérela te lýjata avela kálide ta télide,ta douva hin douva so khárelas pe naveha. Dauva fanula nína tšajenge sar tšávenge. Nebi tšávengo lýja barjula butide ke tšajengo ta douva vojbuvela tšérel te sar tšavo ná hajula te lel kontroli pa pesko lýjata. Douva vojbuvel paruvel mahkar kalo ta parnide ta kálide télal jek periodi angnal ka douva ke douva avela kálide ta džoralide.</p>
+<p type="title">Trupos barjula ta parula</p>
+<p>Angnál ka puberitetesko alsiba barjula butvares vastja ta piere ekstra hastide. Dólesko pálal barjula vastja ta piere. Dólesko pálal barjula peske ińasto pe utšiba. Hin vojiba te barjuvel but centimetri pe disave tšón. Douva khárelas pe barjibosko hastiba.</p>
+<p>Trupos ná barjula ińasto apo utšiba lelpe te barjuvel te lel formi. Tšaija lena bohlide phośin ta tšáve bohlide berek.</p>
+<p type="title">Sígas ta dólesko pálal puberiteti</p>
+<p>Kana puberiteti lelpe hin ná it kane douva dochila pe vaureha pa hlehta. Te avel sígas aro puberiteti vojbuvela hošaves nína latšes ta but pháreske. Te avel sígas aro puberiteti, angnal ka hin pherdo ohto bereh sar tšaj vaj enja bereh sar tšávo,hin binormalno Kana lela puberitetisko merekni aja sígas hin hioviba te rakhavel pe peski phúride vaj vauro arakhiboskiereha ta lel kontakti aro sastiboskiro vaj jek sastibosko cetralni.</p>
+<p>Kan ná líjal tšek merekni pa puberiteti kana hin aro 14 bereh khárelas douva pe harimo puberiteti. Tála vojbuvelas te rakhavel pe peski phúride vaj pe vauro arakhiboskero ta tšetanes pe dóleha vaj korkores lel kontakti skolako sastiboskieri,jek ternego centralni,vaj arakhibosko centrali. Kana hin hioviba vojbuvelas puberiteti pe drabjaha lelpe. Ná vojbuvel korkores hastavel puberitetisko aviba.</p>
+<p>Kana hin džinta te douva hošelas phares te ná angledžjarela aro it tíja sar pesko mále saj hošelas latšes te lel rakhavel pe džikones,skolakosastiboskiero hin sar eksemplura jek latšo komunis te risavel pes. Douva džalpe nína te lel hahtiba aro ternego centrali vaj arakhibosko centrali.</p>
+</body></document>

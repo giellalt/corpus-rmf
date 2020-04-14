@@ -1,75 +1,35 @@
-<document xml:lang="rmf" id="no_id">
-  <header>
-    <title/>
-    <genre code="facta"/>
-    <author>
-      <unknown/>
-    </author>
-    <translator>
-      <unknown/>
-    </translator>
-    <translated_from xml:lang="swe"/>
-    <wordcount>893</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="rmf"/>
-      <language xml:lang="swe"/>
-    </multilingual>
-    <origFileName>http://www.umo.se/Andra-sprak/romska-kale/Te-lel-frestiba</origFileName>
-    <parallel_text xml:lang="fin" location="seksitautitestit.html"/>
-    <parallel_text xml:lang="fit" location="testata-ittea.html"/>
-    <parallel_text xml:lang="sma" location="teestedh.html"/>
-    <parallel_text xml:lang="sme" location="testet-ieas.html"/>
-    <parallel_text xml:lang="smj" location="ietjas-atsadit.html"/>
-    <parallel_text xml:lang="swe" location="att-testa-sig.html"/>
-    <parallel_text location="te-rodepha-siro.html" xml:lang="rmu"/>
-    <parallel_text location="te-probilpe-o-manu.html" xml:lang="rmy-rka"/>
-    <parallel_text location="te-testulij-pe-o-manu.html" xml:lang="rmy-rlo"/>
-    <parallel_text location="testiribe-korkori-pes.html" xml:lang="rmn"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="swe">Te lel frestiba</p>
-    <p xml:lang="swe">Alla undrar!  Vad undrar du?</p>
-    <p type="title" xml:lang="swe">Te lel frestiba</p>
-    <p xml:lang="swe">Ka hin rikhadal biarakhardo seksi hin tšihko te lel pestar pa bijamo nasvaliba Sar lelas frestiba vierula dota savo bijamonasvaliba frestavelas. Butvares džalpe jakhes te mukhehas jek mutresko-vaj rateskofrestiba. Te lel fretiba so rálila aro astarikano nasavalibako lága ná hiovilas te presavel tši.</p>
-    <p xml:lang="swe">Te rikhavel seksi vojbula áchel, asavutno ta. Douva vojbula onivar avel jakhes te aro douvas stuńa bistravelas ajasavo so endo áchelas viktiko. Sar eksemplura te mote arakhes pe te tiknavel riziko te lel bijikani nasvaliba. Kana hošelas pes douva vojbuvel áchel tšihko te džal te lel frestiba.</p>
-    <p type="title" xml:lang="swe">Soske mote lel fresitba pa bijikaninasvaliba?</p>
-    <p xml:lang="swe">Douva hin sárens tšihko te lel pesta frestiba kana hin rikhadal biarakhdo seksi. Douva vierula nína vahka hošelas pes sasto dólesko khal ke jek dieli pa nasvaliba so ná dela simami.</p>
-    <p xml:lang="swe">Kana arakhela disavo konensa kamelas te áchel sárenes ta hin plani te agorpe rikhavel arakhiba, hin nína tšihko te ona džana ta lena test vágunes.</p>
-    <p xml:lang="swe">Douva vojbuvela áchel nína jakhes te hin rikhadal seksi ta líjal testi hin douva sikadal te hin bijikaninasvaliba. Kana douva nasvaliba rálila aro tšejaarakhiboskolága, vojbuvela lel jek lin vaj telefonobahiba ka disavo centrali kaj lel rekonmensija te džal te lel frestiba pesta.</p>
-    <p xml:lang="swe">Douva ná tšatšes te hin líjal bijibakonasvaliba, nebi pálal lága hin dochiba te lel frestiba te tiknavel riziko te ná nasvaliba bohlavelas angle.</p>
-    <p type="title" xml:lang="swe">Kana mote lel frestiba pa bijibako nasvaliba?</p>
-    <p xml:lang="swe">Dauva ná tšekhar sient te lel pesta frestiba pa bijibakonasvaliba ka hin rikhadal biarakdo seksi. Kana hin puchiba pa vaure nasvaliba vojubuvela douva lel butide tšónjakotíja ta onivar jek bereh te hin líjal douva kana douva hokavelas.</p>
-    <p xml:lang="swe">Doleske pherdal vojbuvel áchel sígones te lel pesta frestiba. Ná džalpe te lel frestiba pálal díves ka hin rikhadal biarakdo seksi.dóleske vírusii vaj bakteri so angouvela infeksija hin hińadal pherda pes dostate douva diśulas aro jek frestiba.</p>
-    <p xml:lang="swe">Sar eksemplura klamydia ta gonorré vojuvelas pálal jek kurko lel frestiba pa dota kana hin rikhadal biarakdoseksi. Nebi pe disave nasvaliba,sar eksemplura hiv, vojbuvel hiovyven trin tšón kana líjal douva kana jek frestiba hortanes vojbuvela sikavel hinko nasvaliba.</p>
-    <p xml:lang="swe">Bi dota savoslága nasvaliba mote džal ka jek centarali ka hin nervosi vaj hin bisvériba. Kana džánelas te riziko hin baro te hin líjal bijikanonasvaliba, sar eksemplura kana džanelas te dóles konensa hin rikhadal seksi hin douva, vojbuvela lel arakhiba anglal ka frestibako sváriba ávela.</p>
-    <p xml:lang="swe">Kana ná rikhadal tši seksi konensa ná vojiba te lel jek bijikanonasvaliba. Dólesko ná heĺe hioviba te džal ta lel pesta frestiba.</p>
-    <p type="title" xml:lang="swe">Kaj vojbuvelas lel bijikanofrestiba?</p>
-    <p xml:lang="swe">Kana kamela te lel frestiba pa jek Bijikanonasvaliba hin vojiba te džal ternengocentrali, -mortši ta bijikanocentrali vaj arakhiboskocentrali. Nóna RFSU:eske hin centrali kaj hin vojiba te lel frestaba pa bijikanonasvaliba.</p>
-    <p xml:lang="swe">Tšaije vojbuvena nína džal ka jek džúvjengo klika vaj jek gynelogi. Klamydiafrestiba vojibelas nína bichavel apo neti vaj tšińes apo apoteka.</p>
-    <p xml:lang="swe">Te lel džanel kaj džalas ta lel frestiba dóri kaj dživelas vojbuvelas bachavel ka nasvalibakogodidíjibaske 1177.se.</p>
-    <p type="title" xml:lang="swe">Sar džalpe kana lelas frestiba?</p>
-    <p xml:lang="swe">Te lel pesta frestiba pe bijikanenasvaliba džala hastes ta lokhes. Sar džalpe frestiba dochela pa savo nasvaliba frestavehas ta sar huin rikhadal seksi ta sar hin avlo vojiba te lel nasvaliba.</p>
-    <p xml:lang="swe">Kana hin rikhadal vagikanopuijiba lels butvare mukhel jek muthersko frestiba. Tšávenge kon lela frestiba pa klamydia mukhela butvares jek mutherkofrestiba. Tšaija lena nína mukhen jek frestiba katar vagina. Douva vojbuvelas te tšérel kokares pe jek pošomranik so lelas kana džala ta lela frestiba pesta vaj bichavela frestiba tšéres.</p>
-    <p xml:lang="swe">Kan hin džaniba te hiovilas mukhel jek mutherskofrestiba ná mote mutravel duj stuńa anglal ka lelas fresta pesta.</p>
-    <p xml:lang="swe">Pe disave nasvaliba, anglunes apo gonorré, lelas jek frestiba pe jek sáno frestibakoranik so diśula sar sáno tops. Frestibakoranik tristalilas hukares kajo slemhińos aro vagina, mutreskopor, mén vaj avrunes aro analpor. Kata fresiba lelas vierula dota kaj hin rikhadal seksi. Douva vojbuvela huńes bilatšes, nebi.</p>
-    <p xml:lang="swe">Pe vaure nasvalibake hin vojiba te áchelas hiovimen te mukhel jek rateskofrestiba. Douva lelas dženom jek phosiba pe jek sáno suv aro jek pa muśijako ratjakovédri.</p>
-    <p xml:lang="swe">Ka douva kon dikhela jek tenkavela te áchelas herpes, lelas onivar jek frestiba katar herpeskogóno pe jek pošumranikjaha.</p>
-    <p xml:lang="swe">Ke hin diśukane kondylom hin manera te ná lel frestiba, dólske kon dikhela butvares so douva hin.</p>
-    <p type="title" xml:lang="swe">Kana lelas sváriba?</p>
-    <p xml:lang="swe">Pa butide pa frestiba lelas sváriba pálal jek kurko. Kana mukhelas frestiba hin manera te rakhavel it pe centarlijake sar lelas pesko frestibakosváriba. Sar eksemplura bachilako jón, bichavel jek lin vaj avelasko palal aro centrali te lel sváriba.</p>
-    <p xml:lang="swe">Te ventavel jek frestibosko sváriba vojbuvel áchell bilokho. Douva hin normalno te áchelas nervosi ta tíja kana ventavelas sváriba hošelas langhtes. Kana ná džala latšes vojbuvel áchel tšihko te rakhavel pe džiko komunis pa pesko tenkiba ta hošiba. Douva vojbuvel áchel jek mál, džiko aro familja vaj džiko vauro kon hin máluno.</p>
-    <p xml:lang="swe">Hin nína vojiba ta lel kontakto aro jek ternego centrali. Personali dóri vojbuvela hahtavel kana hin but baro hošiba ta hin sikjimen te len puchiba ta gruniba pa bijibako nasvaliba.</p>
-    <p type="title" xml:lang="swe">Sar but presila te lel pesta frestiba?</p>
-    <p xml:lang="swe">Pe dóla bijikane nasvaliba so rálila aro tšejarakhiboskoláa, sar eksemplura klamydia, gonoŕé ta hiv prestila douva tšekhar tši bidota sar phurano áchelas vaj kaj douva tšérelas.</p>
-    <p xml:lang="swe">Te lel frestiba pa vaure bijikanenasvaliba vojbuvela presavel vaurevitikas vierula pa dota kaj dživelas ta aro savo centrali džalas. Butvares hin manera te lel frestiba pa butide nasvaliba it tíjaha. Douva hin dosta ka jek pa dólenda rálilas aro tšejarahkiboskolága te ná hiovilas presavel.</p>
-  </body>
-</document>
+<document xml:lang="rmf" id="no_id"><header><title/><genre code="facta"/><author><unknown/></author><translator><unknown/></translator><translated_from xml:lang="swe"/><wordcount>888</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="rmf"/><language xml:lang="swe"/></multilingual><origFileName>http://www.umo.se/Andra-sprak/romska-kale/Te-lel-frestiba</origFileName><parallel_text xml:lang="fin" location="seksitautitestit.html"/><parallel_text xml:lang="fit" location="testata-ittea.html"/><parallel_text xml:lang="sma" location="teestedh.html"/><parallel_text xml:lang="sme" location="testet-ieas.html"/><parallel_text xml:lang="smj" location="ietjas-atsadit.html"/><parallel_text xml:lang="swe" location="att-testa-sig.html"/><parallel_text location="te-rodepha-siro.html" xml:lang="rmu"/><parallel_text location="te-probilpe-o-manu.html" xml:lang="rmy-rka"/><parallel_text location="te-testulij-pe-o-manu.html" xml:lang="rmy-rlo"/><parallel_text location="testiribe-korkori-pes.html" xml:lang="rmn"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Te lel frestiba</p>
+<p type="title">Te lel frestiba</p>
+<p>Ka hin rikhadal biarakhardo seksi hin tšihko te lel pestar pa bijamo nasvaliba Sar lelas frestiba vierula dota savo bijamonasvaliba frestavelas. Butvares džalpe jakhes te mukhehas jek mutresko-vaj rateskofrestiba. Te lel fretiba so rálila aro astarikano nasavalibako lága ná hiovilas te presavel tši.</p>
+<p>Te rikhavel seksi vojbula áchel, asavutno ta. Douva vojbula onivar avel jakhes te aro douvas stuńa bistravelas ajasavo so endo áchelas viktiko. Sar eksemplura te mote arakhes pe te tiknavel riziko te lel bijikani nasvaliba. Kana hošelas pes douva vojbuvel áchel tšihko te džal te lel frestiba.</p>
+<p type="title">Soske mote lel fresitba pa bijikaninasvaliba?</p>
+<p>Douva hin sárens tšihko te lel pesta frestiba kana hin rikhadal biarakhdo seksi. Douva vierula nína vahka hošelas pes sasto dólesko khal ke jek dieli pa nasvaliba so ná dela simami.</p>
+<p>Kana arakhela disavo konensa kamelas te áchel sárenes ta hin plani te agorpe rikhavel arakhiba, hin nína tšihko te ona džana ta lena test vágunes.</p>
+<p>Douva vojbuvela áchel nína jakhes te hin rikhadal seksi ta líjal testi hin douva sikadal te hin bijikaninasvaliba. Kana douva nasvaliba rálila aro tšejaarakhiboskolága, vojbuvela lel jek lin vaj telefonobahiba ka disavo centrali kaj lel rekonmensija te džal te lel frestiba pesta.</p>
+<p>Douva ná tšatšes te hin líjal bijibakonasvaliba, nebi pálal lága hin dochiba te lel frestiba te tiknavel riziko te ná nasvaliba bohlavelas angle.</p>
+<p type="title">Kana mote lel frestiba pa bijibako nasvaliba?</p>
+<p>Dauva ná tšekhar sient te lel pesta frestiba pa bijibakonasvaliba ka hin rikhadal biarakdo seksi. Kana hin puchiba pa vaure nasvaliba vojubuvela douva lel butide tšónjakotíja ta onivar jek bereh te hin líjal douva kana douva hokavelas.</p>
+<p>Doleske pherdal vojbuvel áchel sígones te lel pesta frestiba. Ná džalpe te lel frestiba pálal díves ka hin rikhadal biarakdo seksi.dóleske vírusii vaj bakteri so angouvela infeksija hin hińadal pherda pes dostate douva diśulas aro jek frestiba.</p>
+<p>Sar eksemplura klamydia ta gonorré vojuvelas pálal jek kurko lel frestiba pa dota kana hin rikhadal biarakdoseksi. Nebi pe disave nasvaliba,sar eksemplura hiv, vojbuvel hiovyven trin tšón kana líjal douva kana jek frestiba hortanes vojbuvela sikavel hinko nasvaliba.</p>
+<p>Bi dota savoslága nasvaliba mote džal ka jek centarali ka hin nervosi vaj hin bisvériba. Kana džánelas te riziko hin baro te hin líjal bijikanonasvaliba, sar eksemplura kana džanelas te dóles konensa hin rikhadal seksi hin douva, vojbuvela lel arakhiba anglal ka frestibako sváriba ávela.</p>
+<p>Kana ná rikhadal tši seksi konensa ná vojiba te lel jek bijikanonasvaliba. Dólesko ná heĺe hioviba te džal ta lel pesta frestiba.</p>
+<p type="title">Kaj vojbuvelas lel bijikanofrestiba?</p>
+<p>Kana kamela te lel frestiba pa jek Bijikanonasvaliba hin vojiba te džal ternengocentrali, -mortši ta bijikanocentrali vaj arakhiboskocentrali. Nóna RFSU:eske hin centrali kaj hin vojiba te lel frestaba pa bijikanonasvaliba.</p>
+<p>Tšaije vojbuvena nína džal ka jek džúvjengo klika vaj jek gynelogi. Klamydiafrestiba vojibelas nína bichavel apo neti vaj tšińes apo apoteka.</p>
+<p>Te lel džanel kaj džalas ta lel frestiba dóri kaj dživelas vojbuvelas bachavel ka nasvalibakogodidíjibaske 1177.se.</p>
+<p type="title">Sar džalpe kana lelas frestiba?</p>
+<p>Te lel pesta frestiba pe bijikanenasvaliba džala hastes ta lokhes. Sar džalpe frestiba dochela pa savo nasvaliba frestavehas ta sar huin rikhadal seksi ta sar hin avlo vojiba te lel nasvaliba.</p>
+<p>Kana hin rikhadal vagikanopuijiba lels butvare mukhel jek muthersko frestiba. Tšávenge kon lela frestiba pa klamydia mukhela butvares jek mutherkofrestiba. Tšaija lena nína mukhen jek frestiba katar vagina. Douva vojbuvelas te tšérel kokares pe jek pošomranik so lelas kana džala ta lela frestiba pesta vaj bichavela frestiba tšéres.</p>
+<p>Kan hin džaniba te hiovilas mukhel jek mutherskofrestiba ná mote mutravel duj stuńa anglal ka lelas fresta pesta.</p>
+<p>Pe disave nasvaliba, anglunes apo gonorré, lelas jek frestiba pe jek sáno frestibakoranik so diśula sar sáno tops. Frestibakoranik tristalilas hukares kajo slemhińos aro vagina, mutreskopor, mén vaj avrunes aro analpor. Kata fresiba lelas vierula dota kaj hin rikhadal seksi. Douva vojbuvela huńes bilatšes, nebi.</p>
+<p>Pe vaure nasvalibake hin vojiba te áchelas hiovimen te mukhel jek rateskofrestiba. Douva lelas dženom jek phosiba pe jek sáno suv aro jek pa muśijako ratjakovédri.</p>
+<p>Ka douva kon dikhela jek tenkavela te áchelas herpes, lelas onivar jek frestiba katar herpeskogóno pe jek pošumranikjaha.</p>
+<p>Ke hin diśukane kondylom hin manera te ná lel frestiba, dólske kon dikhela butvares so douva hin.</p>
+<p type="title">Kana lelas sváriba?</p>
+<p>Pa butide pa frestiba lelas sváriba pálal jek kurko. Kana mukhelas frestiba hin manera te rakhavel it pe centarlijake sar lelas pesko frestibakosváriba. Sar eksemplura bachilako jón, bichavel jek lin vaj avelasko palal aro centrali te lel sváriba.</p>
+<p>Te ventavel jek frestibosko sváriba vojbuvel áchell bilokho. Douva hin normalno te áchelas nervosi ta tíja kana ventavelas sváriba hošelas langhtes. Kana ná džala latšes vojbuvel áchel tšihko te rakhavel pe džiko komunis pa pesko tenkiba ta hošiba. Douva vojbuvel áchel jek mál, džiko aro familja vaj džiko vauro kon hin máluno.</p>
+<p>Hin nína vojiba ta lel kontakto aro jek ternego centrali. Personali dóri vojbuvela hahtavel kana hin but baro hošiba ta hin sikjimen te len puchiba ta gruniba pa bijibako nasvaliba.</p>
+<p type="title">Sar but presila te lel pesta frestiba?</p>
+<p>Pe dóla bijikane nasvaliba so rálila aro tšejarakhiboskoláa, sar eksemplura klamydia, gonoŕé ta hiv prestila douva tšekhar tši bidota sar phurano áchelas vaj kaj douva tšérelas.</p>
+<p>Te lel frestiba pa vaure bijikanenasvaliba vojbuvela presavel vaurevitikas vierula pa dota kaj dživelas ta aro savo centrali džalas. Butvares hin manera te lel frestiba pa butide nasvaliba it tíjaha. Douva hin dosta ka jek pa dólenda rálilas aro tšejarahkiboskolága te ná hiovilas presavel.</p>
+</body></document>

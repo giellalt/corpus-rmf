@@ -1,89 +1,49 @@
-<document xml:lang="rmf" id="no_id">
-  <header>
-    <title/>
-    <genre code="facta"/>
-    <author>
-      <unknown/>
-    </author>
-    <translator>
-      <unknown/>
-    </translator>
-    <translated_from xml:lang="swe"/>
-    <wordcount>1512</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="rmf"/>
-      <language xml:lang="swe"/>
-    </multilingual>
-    <origFileName>http://www.umo.se/Andra-sprak/romska-kale/Abortos</origFileName>
-    <parallel_text xml:lang="fin" location="abortti.html"/>
-    <parallel_text xml:lang="fit" location="abortti.html"/>
-    <parallel_text xml:lang="sma" location="abort.html"/>
-    <parallel_text xml:lang="sme" location="aborta.html"/>
-    <parallel_text xml:lang="smj" location="abartta.html"/>
-    <parallel_text xml:lang="swe" location="abort.html"/>
-    <parallel_text location="phatra-pari-abort.html" xml:lang="rmu"/>
-    <parallel_text location="kana-e-uvli-udel-pestar.html" xml:lang="rmy-rka"/>
-    <parallel_text location="abortsia.html" xml:lang="rmy-rlo"/>
-    <parallel_text location="abortiribehinavibe-o-khamnipa.html" xml:lang="rmn"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="swe">Abortos</p>
-    <p xml:lang="swe">Alla undrar!  Vad undrar du?</p>
-    <p type="title" xml:lang="swe">Abortos</p>
-    <p xml:lang="swe">Abortos mienila te phagaravel jek pháriba. Kana tenkavel te tšérela abortos vojbuvel áchel but puchiba. Nebi lelas sárenes arakhel džiko te lel sváriba pe pesko puchiba. Douva mahatminela nína dóles kon hun tšerdal džikones pháres.</p>
-    <p xml:lang="swe">Dochiba te kamelas te tšérel aborti vojbuvel áchel but. Douva vojbuvela dochavela dota ná hošela pes nourimen. Te rikhavel te hin aja terno vaj douvana rumsuvela aro peski dživiba akana Saj hin douva konensa hin avlo phaarimen nebi ná kamela te lel leśa kentos.</p>
-    <p xml:lang="swe">Hin hortiba te tšérel aborit bi te retavel pes džikones,bidikhel Douva hin rańel aro abortijakolága. Hin nína hortiba te baruven peski džinta džintavitikas anglal aborti</p>
-    <p xml:lang="swe">Te tšérel aborti ná tšérela te avela bilochide pháreske aro avivba. Ná hin helle džikop berhesko grensa te lel tšérel aborti.</p>
-    <p type="title" xml:lang="swe">Anglal abortos</p>
-    <p xml:lang="swe">Douva kon tenkila te tšérel aborti ta hin but puchiba ta tála vojbuvelas áchel tšihko te rakhavel pe džiko kominis. It tíja kana tšérelas aborti rekhavelas sárenes dumudima ta hahtiba, angnal ta pálal. Kana douva kon hin tšerdas dziko pháreske vojbuvel nína arakhel džiko ta rakhavel.</p>
-    <p type="title" xml:lang="swe">Tšaj lela agoriba</p>
-    <p xml:lang="swe">Douva hin sárenes tšihko te rakhavel pe vauro komunis kon hin avlo pháriske tšetanes pa sar kamelas te tšérel. Kana dzalpe hin nín atsihko te lel tšetanes agoriba pa aborti. Nebi kana ná it pa sákata hin douva sárenes douba phária tšaj kon lele agoriba tšérelako joj vaj ná aborti. Douva kon hin tserdas džiko pháreske ná lel korores agoriba te tšérel aborti vaj rikhavel kentos.</p>
-    <p type="title" xml:lang="swe">Te áchel parneri dóleske kon tšérela abortos</p>
-    <p xml:lang="swe">Bi dotta pa agoriba pa abortos hin tšetano vaj ná vojbuvelas douva sar partneri áchel but baro buti. Apo ona aboricentralno ta ternengo centralno hin vojiba te arakhel ta rakhavel pe, ona duj tšetanes vaj korkores.</p>
-    <p xml:lang="swe">Pálal jek aborti vojbuvel hošavel lokhide ta mulaneske. Hošiba ta tenkibi vojbuvel baruvel pe tíjaha ta onivar avela dola vágunes langhtes pa aborti.</p>
-    <p xml:lang="swe">Vahka hin dželo langhtes tíja vojbuvel lel kontakti pe sar ekselplura jek ternengo centralno te lel rakhavel pa douva so hošavelas.</p>
-    <p type="title" xml:lang="swe">Kana hin vojiba te tšérel abortos?</p>
-    <p xml:lang="swe">Angnal ka douva 18 kurko pháribosko kurko hin hortiba te tšerel aborti bi te hiovylas rakhavel pe džiko soske kamela te tšérel douva.</p>
-    <p xml:lang="swe">Pálal douva 18 pháribosko kurko mote lel lóvi katar Socialingariba te lela tšérel aborti. Jek ajasavo lóvi lelas ińasto ka hin specialne dochiba ka abortoske. Eksemplura so douva vojbuvel achel te hin aja terni, hin problemi pe alkoholo vaj, drab, hin avli liijal pe sílaha vaj te bijes hin druvalo khuviba vaj bisasto.</p>
-    <p xml:lang="swe">Pálal douva 22 pháribosko kurko ná lela te tšerel aborti ná butte. Doch hin douva te bij tála vojbuvela dživel avri pa dajesko trupos.</p>
-    <p type="title" xml:lang="swe">So tšérehas aro jek aborti?</p>
-    <p xml:lang="swe">Aborti tšérelas sárenes po nasvalibako tšére vaj vaure specialistikliniki, ná vojiba te tšérel aborti po jek ternengo centralno. Nebi kana Hin vojiba te džal nína aro jek sastibako centrali vaj jek arakhiboskocentrali, vaj gynekologi. Jón saj nína hahtavel te lel kotakti pe jek aborticentralni arojek nasvalibosko tšér.</p>
-    <p xml:lang="swe">Hin nína vojiba te korkores lel kontakti ka jek aborticetralni ta kamel tíja. Kana džanelas te kamela te tšérel aborti saj hin tšihko te reservirinela jek tíja aja sígas so hin vojiba dólesko ke onivar saj ventibakotíja aro disave centralni hin langhte.</p>
-    <p type="title" xml:lang="swe">Sar džal aborti?</p>
-    <p xml:lang="swe">Abort vojbuvelas te tšérel po butide manera. Save manera te lel džaniba po savo pháribosko kurko achelas tšińelas douva pa sisto mensijako díves. Pe vaureha ná tšinelas bijtšeribakotíja.</p>
-    <p type="title" xml:lang="swe">Angnal ka pe kurko enja</p>
-    <p xml:lang="swe">Anglal ka ta pe kurko enja hin vojiba te tšérel abort med pe hahtiha pe drap. Douva kharelas pe medicinikano abortos. Apo disave stedi rikhavelas dauva metodi angla ka ta pe kurko dehoduj. Tála lela jek tableti po abortcentari, dauva ná achela it sar sigutno-aborti-p-pilleri. Pálal te líjal tableti lela te džal tšére.</p>
-    <p xml:lang="swe">Jek ka duj díves sént avelas palpale ka centrali te lel jek nevo drap, sar tableti so nakavelas vaj sar tšuvelas aro vagina. Aahhelas po than po centralni disave stuńa pálal byrjyla ratsiba ta pháriba tiokavelas avri. Douva vojbuvela dukhel nebi ajasave fanibi lelas dukheskotikniba ta siént po it díves vojbuvelas te džal tšére.</p>
-    <p xml:lang="swe">Douva džalpe nína tšérel tšéres, aja khardo tšérútno abortos. Tála lelas peske dujtovaresko tableti ta 18. Te lelas tšérel tšére mote áchel minimes bereh te lelas dóla tšére te áchelas koni baro komunis tuśa.</p>
-    <p xml:lang="swe">Disave kurke pálal aborti tšérelas jek páluno visita kajo jek gynekologi vaj bijandžika. Douva hin tála sar jek medicikano aborti dikhelas sar pherdales endo. Onivar tšérelas nína jek ródiba te lel kontroli te ná achela palal disave kotoriba pa sar eksemplura moderkaka aro dajaniba. Ka hin ajakhardo chariba hiovylas te tsérel ta tála sungavelas dóla dieli so hin pálal poškars nikki. Kana hin hioviba sonjavelas tut.</p>
-    <p type="title" xml:lang="swe">Angnal kaj ta pe kurko 12</p>
-    <p xml:lang="swe">Angnal kurko 12, vojbuvela tšérel aja khardo kirurgikano aborti,douva so tšérelas hin chariba. Télelas opererasija hin sonjimen. Doktori tšuvela aѓe jek instrumenti aro dajaniba Instrumenti hin tšundo ka jek sungiba. Pošukar sungilas bij ta dakokaka avri nikhi pa dajaniba Abortos lela kutides 20 minuti. Pálal achela po centralni disave stuńa te hyylavel. Disave kurke pálal saj onivar lel te tšérel palpale visita.</p>
-    <p type="title" xml:lang="swe">Pálal kurko 12 ta angle ka pe 18 kurko</p>
-    <p xml:lang="swe">Pálal 12 kurko mote abortos te tšérel aro duj dielos. Tála lelas vágunes medicin apo centrali so hin itslága tableti so rikhavelas aro sígas aborti. Duj divisi pálal avelas palpale aro centralno ta lela neve drap so tšuvela dajaniba te tšérel klemiba jakhes te kentos moškavá kentos avri.</p>
-    <p xml:lang="swe">Douva vojbuvel diśuvel apo mini bijiba ta douva vojbuvel dukhavel pe itslága sar kana bivjavela kentos. Tíja vojbuvela barjuvel, ka disave stuńa ka disave diveratt nebi ke butide fanula douva angnal jek diveratt. Télako tíja hin tšundo aro nasvalibako tšéres. Kana abortos hin tšerdo dikhela doktori dajaniba. Kana kotoriba pa moderkaka hin pálal aro dajaniba vojbuvelas jek nevi chariba tšéres. Pálal disave kurke lelas onivar te tšérel pálunovizita.</p>
-    <p type="title" xml:lang="swe">Pálal kurko 18 ta angle pe kurko 22</p>
-    <p xml:lang="swe">Pálal kurko 18 lelas tšerelas ka hin spesijalne dochiba. Abortos pe it maneraha sar pálal 12 kurko.</p>
-    <p type="title" xml:lang="swe">Pálal kurko 22</p>
-    <p xml:lang="swe">Pálal kurko ná lelas te tšérel abortos. Dólesko khal ka kentos vojbuvela te dživel avri pa dajako trupos.</p>
-    <p type="title" xml:lang="swe">Sar but presila jek abortos?</p>
-    <p xml:lang="swe">So douva presila te tšérel abortos vojbuvela baruvel kaj dživelas aro phuv. Apo but stedi ná hioviba te presavel tši kana hin télal 20 bereh. Kana hin hyöviba te presavel molila douva kutides 300 koroni bidota sar phurani hin. Kana kamela te džanel sar but douva presavela doi kaj dživela tála vojbuvela džiko po jek ternengo centrali vaj bijandžika centralni. Douva džalpe nína te lel kontakti pe jek abortosko centrali.</p>
-    <p type="title" xml:lang="swe">Hinko mote te phúride lena džaniba?</p>
-    <p xml:lang="swe">Personálenge aro centrali hin hukhar aahhiboskomostiba. Nebi kana tšérelas jek abortos avelas tšikas ka ávelas sar dumodiba anglal ta pálal abortos. Kana hin terni hin personalenge manera te pheńel phukaves phúride vaj vauro arakhiboskeroske te džanel kana tenkila te tšérel aborti. Kana ná džalpe te rakhavel tšére te avelas te tšérel aborti vojbuvelas douva rakhavel džiko vauro baro komunis kones hin pašiba. Douva vojbuvel achel bari phén, jek nárta, kuratori vaj nasvalibosko arakhiboskeri, aro skola vaj džiko vauro so vojubuvela del dumudiba.</p>
-    <p xml:lang="swe">Kana phúride vaj vaure arakhiboskero lelas kontakti vierula douva ka fanibi ka fanibi ta vierula vaureha so korkorores kamela pe sastibaha. Ke néride hin pa 18 bereh dóleske kutide lelapeski phúride vaj vauro arakhiboskero te džanel pa to kontakti pe sastibaha. Pe butide vojbuvela rakhavel pes angle sar tšérelas pe douva personalo kones dikhela. Kana phúride vaj arakhiboskero lelas kontakti lelas dota korkoro džaniba vágunes.</p>
-    <p xml:lang="swe">Kana douva jón ajasáves te jekesko phúride vaj arahiboskomanus absolut ná saj lel džaniba kana kamela te tšérel aborti. Ke vojbuvel fanuvel ajasave sáki pe dóleha, dóleske ná lela arakhibosko personali kontakti pe dóleha. Te tšérel aborti ná mienila te tšúvehas aro situasija kaj vojbuvel fanuvel fárdiba. Tála vojbuvel lel hahtiba pa jek kuratori vaj jek vauro dumudibako manus anglige.</p>
-    <p type="title" xml:lang="swe">Pálal abortos</p>
-    <p xml:lang="swe">Divisa pálal abortos hin tšihko te lel látes. Télal vágune divisa ka jek kurko hin vojiba te lel baro dukh,it sar mensijako dukh. Jek Kurko pálal abortos vojbuvelas ável ratt itkanes sar kana hin mensi vaj kuti butide. Sar harhal hin dreppiba paruvelavela pes mahkas komunis ta dochila mahkar savo typi pa aborti hin džejal dženom. Aja harhar ka hin dreppiba naa lelas rikhavel seksi, rikhavel tampong vaj plimavel dólesko khal ke hin vojiba te lel jek infecija. Pálal kutides star kurke ka hou kurke pálal hin manera te mensi avela palal.</p>
-    <p xml:lang="swe">Pálal jek aborti vojbuvel disave hošavel lokhiba vaure vojbuvel hošavel mulaniba. Hin nína vojiba te barjuven mahkar dóla hošiba ta onivar avela dóla vágunes dúral pálal aborti.</p>
-    <p xml:lang="swe">Endo ka hin dželo but tíja vojbuvelas lel kontakti apo centrali te rakhavel so hošela. Douva so vojbuvelas tšerel aro centrali kaj aborti tšerdas vaj ka eksemplura apo ternengo centrali.</p>
-    <p xml:lang="swe">Onivar vojbuvel douva dochavel te na hošela pes agortšerdo. Saj hin avlo pháreske tšetanes dóleha konensa kamela kenti. Bi dotta so hin dochiba hin hortiba te tšérel jek aborti bi hiovil rétavel pes pe džiko vaureske. Douva hin ranlo aro abortilága Hin hioviba te baruvel peski džinta kana kamelas angnal aborti. Ná achel tšek bereheskogrensa.</p>
-  </body>
-</document>
+<document xml:lang="rmf" id="no_id"><header><title/><genre code="facta"/><author><unknown/></author><translator><unknown/></translator><translated_from xml:lang="swe"/><wordcount>1507</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="rmf"/><language xml:lang="swe"/></multilingual><origFileName>http://www.umo.se/Andra-sprak/romska-kale/Abortos</origFileName><parallel_text xml:lang="fin" location="abortti.html"/><parallel_text xml:lang="fit" location="abortti.html"/><parallel_text xml:lang="sma" location="abort.html"/><parallel_text xml:lang="sme" location="aborta.html"/><parallel_text xml:lang="smj" location="abartta.html"/><parallel_text xml:lang="swe" location="abort.html"/><parallel_text location="phatra-pari-abort.html" xml:lang="rmu"/><parallel_text location="kana-e-uvli-udel-pestar.html" xml:lang="rmy-rka"/><parallel_text location="abortsia.html" xml:lang="rmy-rlo"/><parallel_text location="abortiribehinavibe-o-khamnipa.html" xml:lang="rmn"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Abortos</p>
+<p type="title">Abortos</p>
+<p>Abortos mienila te phagaravel jek pháriba. Kana tenkavel te tšérela abortos vojbuvel áchel but puchiba. Nebi lelas sárenes arakhel džiko te lel sváriba pe pesko puchiba. Douva mahatminela nína dóles kon hun tšerdal džikones pháres.</p>
+<p>Dochiba te kamelas te tšérel aborti vojbuvel áchel but. Douva vojbuvela dochavela dota ná hošela pes nourimen. Te rikhavel te hin aja terno vaj douvana rumsuvela aro peski dživiba akana Saj hin douva konensa hin avlo phaarimen nebi ná kamela te lel leśa kentos.</p>
+<p>Hin hortiba te tšérel aborit bi te retavel pes džikones,bidikhel Douva hin rańel aro abortijakolága. Hin nína hortiba te baruven peski džinta džintavitikas anglal aborti</p>
+<p>Te tšérel aborti ná tšérela te avela bilochide pháreske aro avivba. Ná hin helle džikop berhesko grensa te lel tšérel aborti.</p>
+<p type="title">Anglal abortos</p>
+<p>Douva kon tenkila te tšérel aborti ta hin but puchiba ta tála vojbuvelas áchel tšihko te rakhavel pe džiko kominis. It tíja kana tšérelas aborti rekhavelas sárenes dumudima ta hahtiba, angnal ta pálal. Kana douva kon hin tšerdas dziko pháreske vojbuvel nína arakhel džiko ta rakhavel.</p>
+<p type="title">Tšaj lela agoriba</p>
+<p>Douva hin sárenes tšihko te rakhavel pe vauro komunis kon hin avlo pháriske tšetanes pa sar kamelas te tšérel. Kana dzalpe hin nín atsihko te lel tšetanes agoriba pa aborti. Nebi kana ná it pa sákata hin douva sárenes douba phária tšaj kon lele agoriba tšérelako joj vaj ná aborti. Douva kon hin tserdas džiko pháreske ná lel korores agoriba te tšérel aborti vaj rikhavel kentos.</p>
+<p type="title">Te áchel parneri dóleske kon tšérela abortos</p>
+<p>Bi dotta pa agoriba pa abortos hin tšetano vaj ná vojbuvelas douva sar partneri áchel but baro buti. Apo ona aboricentralno ta ternengo centralno hin vojiba te arakhel ta rakhavel pe, ona duj tšetanes vaj korkores.</p>
+<p>Pálal jek aborti vojbuvel hošavel lokhide ta mulaneske. Hošiba ta tenkibi vojbuvel baruvel pe tíjaha ta onivar avela dola vágunes langhtes pa aborti.</p>
+<p>Vahka hin dželo langhtes tíja vojbuvel lel kontakti pe sar ekselplura jek ternengo centralno te lel rakhavel pa douva so hošavelas.</p>
+<p type="title">Kana hin vojiba te tšérel abortos?</p>
+<p>Angnal ka douva 18 kurko pháribosko kurko hin hortiba te tšerel aborti bi te hiovylas rakhavel pe džiko soske kamela te tšérel douva.</p>
+<p>Pálal douva 18 pháribosko kurko mote lel lóvi katar Socialingariba te lela tšérel aborti. Jek ajasavo lóvi lelas ińasto ka hin specialne dochiba ka abortoske. Eksemplura so douva vojbuvel achel te hin aja terni, hin problemi pe alkoholo vaj, drab, hin avli liijal pe sílaha vaj te bijes hin druvalo khuviba vaj bisasto.</p>
+<p>Pálal douva 22 pháribosko kurko ná lela te tšerel aborti ná butte. Doch hin douva te bij tála vojbuvela dživel avri pa dajesko trupos.</p>
+<p type="title">So tšérehas aro jek aborti?</p>
+<p>Aborti tšérelas sárenes po nasvalibako tšére vaj vaure specialistikliniki, ná vojiba te tšérel aborti po jek ternengo centralno. Nebi kana Hin vojiba te džal nína aro jek sastibako centrali vaj jek arakhiboskocentrali, vaj gynekologi. Jón saj nína hahtavel te lel kotakti pe jek aborticentralni arojek nasvalibosko tšér.</p>
+<p>Hin nína vojiba te korkores lel kontakti ka jek aborticetralni ta kamel tíja. Kana džanelas te kamela te tšérel aborti saj hin tšihko te reservirinela jek tíja aja sígas so hin vojiba dólesko ke onivar saj ventibakotíja aro disave centralni hin langhte.</p>
+<p type="title">Sar džal aborti?</p>
+<p>Abort vojbuvelas te tšérel po butide manera. Save manera te lel džaniba po savo pháribosko kurko achelas tšińelas douva pa sisto mensijako díves. Pe vaureha ná tšinelas bijtšeribakotíja.</p>
+<p type="title">Angnal ka pe kurko enja</p>
+<p>Anglal ka ta pe kurko enja hin vojiba te tšérel abort med pe hahtiha pe drap. Douva kharelas pe medicinikano abortos. Apo disave stedi rikhavelas dauva metodi angla ka ta pe kurko dehoduj. Tála lela jek tableti po abortcentari, dauva ná achela it sar sigutno-aborti-p-pilleri. Pálal te líjal tableti lela te džal tšére.</p>
+<p>Jek ka duj díves sént avelas palpale ka centrali te lel jek nevo drap, sar tableti so nakavelas vaj sar tšuvelas aro vagina. Aahhelas po than po centralni disave stuńa pálal byrjyla ratsiba ta pháriba tiokavelas avri. Douva vojbuvela dukhel nebi ajasave fanibi lelas dukheskotikniba ta siént po it díves vojbuvelas te džal tšére.</p>
+<p>Douva džalpe nína tšérel tšéres, aja khardo tšérútno abortos. Tála lelas peske dujtovaresko tableti ta 18. Te lelas tšérel tšére mote áchel minimes bereh te lelas dóla tšére te áchelas koni baro komunis tuśa.</p>
+<p>Disave kurke pálal aborti tšérelas jek páluno visita kajo jek gynekologi vaj bijandžika. Douva hin tála sar jek medicikano aborti dikhelas sar pherdales endo. Onivar tšérelas nína jek ródiba te lel kontroli te ná achela palal disave kotoriba pa sar eksemplura moderkaka aro dajaniba. Ka hin ajakhardo chariba hiovylas te tsérel ta tála sungavelas dóla dieli so hin pálal poškars nikki. Kana hin hioviba sonjavelas tut.</p>
+<p type="title">Angnal kaj ta pe kurko 12</p>
+<p>Angnal kurko 12, vojbuvela tšérel aja khardo kirurgikano aborti,douva so tšérelas hin chariba. Télelas opererasija hin sonjimen. Doktori tšuvela aѓe jek instrumenti aro dajaniba Instrumenti hin tšundo ka jek sungiba. Pošukar sungilas bij ta dakokaka avri nikhi pa dajaniba Abortos lela kutides 20 minuti. Pálal achela po centralni disave stuńa te hyylavel. Disave kurke pálal saj onivar lel te tšérel palpale visita.</p>
+<p type="title">Pálal kurko 12 ta angle ka pe 18 kurko</p>
+<p>Pálal 12 kurko mote abortos te tšérel aro duj dielos. Tála lelas vágunes medicin apo centrali so hin itslága tableti so rikhavelas aro sígas aborti. Duj divisi pálal avelas palpale aro centralno ta lela neve drap so tšuvela dajaniba te tšérel klemiba jakhes te kentos moškavá kentos avri.</p>
+<p>Douva vojbuvel diśuvel apo mini bijiba ta douva vojbuvel dukhavel pe itslága sar kana bivjavela kentos. Tíja vojbuvela barjuvel, ka disave stuńa ka disave diveratt nebi ke butide fanula douva angnal jek diveratt. Télako tíja hin tšundo aro nasvalibako tšéres. Kana abortos hin tšerdo dikhela doktori dajaniba. Kana kotoriba pa moderkaka hin pálal aro dajaniba vojbuvelas jek nevi chariba tšéres. Pálal disave kurke lelas onivar te tšérel pálunovizita.</p>
+<p type="title">Pálal kurko 18 ta angle pe kurko 22</p>
+<p>Pálal kurko 18 lelas tšerelas ka hin spesijalne dochiba. Abortos pe it maneraha sar pálal 12 kurko.</p>
+<p type="title">Pálal kurko 22</p>
+<p>Pálal kurko ná lelas te tšérel abortos. Dólesko khal ka kentos vojbuvela te dživel avri pa dajako trupos.</p>
+<p type="title">Sar but presila jek abortos?</p>
+<p>So douva presila te tšérel abortos vojbuvela baruvel kaj dživelas aro phuv. Apo but stedi ná hioviba te presavel tši kana hin télal 20 bereh. Kana hin hyöviba te presavel molila douva kutides 300 koroni bidota sar phurani hin. Kana kamela te džanel sar but douva presavela doi kaj dživela tála vojbuvela džiko po jek ternengo centrali vaj bijandžika centralni. Douva džalpe nína te lel kontakti pe jek abortosko centrali.</p>
+<p type="title">Hinko mote te phúride lena džaniba?</p>
+<p>Personálenge aro centrali hin hukhar aahhiboskomostiba. Nebi kana tšérelas jek abortos avelas tšikas ka ávelas sar dumodiba anglal ta pálal abortos. Kana hin terni hin personalenge manera te pheńel phukaves phúride vaj vauro arakhiboskeroske te džanel kana tenkila te tšérel aborti. Kana ná džalpe te rakhavel tšére te avelas te tšérel aborti vojbuvelas douva rakhavel džiko vauro baro komunis kones hin pašiba. Douva vojbuvel achel bari phén, jek nárta, kuratori vaj nasvalibosko arakhiboskeri, aro skola vaj džiko vauro so vojubuvela del dumudiba.</p>
+<p>Kana phúride vaj vaure arakhiboskero lelas kontakti vierula douva ka fanibi ka fanibi ta vierula vaureha so korkorores kamela pe sastibaha. Ke néride hin pa 18 bereh dóleske kutide lelapeski phúride vaj vauro arakhiboskero te džanel pa to kontakti pe sastibaha. Pe butide vojbuvela rakhavel pes angle sar tšérelas pe douva personalo kones dikhela. Kana phúride vaj arakhiboskero lelas kontakti lelas dota korkoro džaniba vágunes.</p>
+<p>Kana douva jón ajasáves te jekesko phúride vaj arahiboskomanus absolut ná saj lel džaniba kana kamela te tšérel aborti. Ke vojbuvel fanuvel ajasave sáki pe dóleha, dóleske ná lela arakhibosko personali kontakti pe dóleha. Te tšérel aborti ná mienila te tšúvehas aro situasija kaj vojbuvel fanuvel fárdiba. Tála vojbuvel lel hahtiba pa jek kuratori vaj jek vauro dumudibako manus anglige.</p>
+<p type="title">Pálal abortos</p>
+<p>Divisa pálal abortos hin tšihko te lel látes. Télal vágune divisa ka jek kurko hin vojiba te lel baro dukh,it sar mensijako dukh. Jek Kurko pálal abortos vojbuvelas ável ratt itkanes sar kana hin mensi vaj kuti butide. Sar harhal hin dreppiba paruvelavela pes mahkas komunis ta dochila mahkar savo typi pa aborti hin džejal dženom. Aja harhar ka hin dreppiba naa lelas rikhavel seksi, rikhavel tampong vaj plimavel dólesko khal ke hin vojiba te lel jek infecija. Pálal kutides star kurke ka hou kurke pálal hin manera te mensi avela palal.</p>
+<p>Pálal jek aborti vojbuvel disave hošavel lokhiba vaure vojbuvel hošavel mulaniba. Hin nína vojiba te barjuven mahkar dóla hošiba ta onivar avela dóla vágunes dúral pálal aborti.</p>
+<p>Endo ka hin dželo but tíja vojbuvelas lel kontakti apo centrali te rakhavel so hošela. Douva so vojbuvelas tšerel aro centrali kaj aborti tšerdas vaj ka eksemplura apo ternengo centrali.</p>
+<p>Onivar vojbuvel douva dochavel te na hošela pes agortšerdo. Saj hin avlo pháreske tšetanes dóleha konensa kamela kenti. Bi dotta so hin dochiba hin hortiba te tšérel jek aborti bi hiovil rétavel pes pe džiko vaureske. Douva hin ranlo aro abortilága Hin hioviba te baruvel peski džinta kana kamelas angnal aborti. Ná achel tšek bereheskogrensa.</p>
+</body></document>

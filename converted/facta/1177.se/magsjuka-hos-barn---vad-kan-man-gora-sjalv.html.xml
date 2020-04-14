@@ -1,76 +1,33 @@
-<document xml:lang="rmf" id="no_id">
-  <header>
-    <title/>
-    <genre code="facta"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>903</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="rmf"/>
-      <language xml:lang="swe"/>
-    </multilingual>
-    <origFileName>http://www.1177.se/Nationella-minoritetssprak/Nationella-minoritetssprak/Romanska-kale/Egenvard-barn/Magsjuka-hos-barn---vad-kan-man-gora-sjalv</origFileName>
-    <parallel_text xml:lang="eng" location="magsjuka-hos-smabarn--vad-kan-man-gora-sjalv.html"/>
-    <parallel_text xml:lang="fin" location="magsjuka-hos-smabarn--vad-kan-man-gora-sjalv.html"/>
-    <parallel_text xml:lang="fit" location="magsjuka-hos-barn---vad-kan-man-gora-sjalv.html"/>
-    <parallel_text xml:lang="sma" location="magsjuka-hos-barn---vad-kan-man-gora-sjalv.html"/>
-    <parallel_text xml:lang="sme" location="magsjuka-hos-barn---vad-kan-man-gora-sjalv.html"/>
-    <parallel_text xml:lang="smj" location="magsjuka-hos-barn---vad-kan-man-gora-sjalv.html"/>
-    <parallel_text xml:lang="swe" location="f12.html"/>
-    <parallel_text location="magsjuka-hos-barn---vad-kan-man-gora-sjalv.html" xml:lang="rmy-rka"/>
-    <parallel_text location="magsjuka-hos-barn---vad-kan-man-gora-sjalv.html" xml:lang="rmn"/>
-    <parallel_text location="magsjuka-hos-barn---vad-kan-man-gora-sjalv.html" xml:lang="rmu"/>
-    <parallel_text location="magsjuka-hos-sma-barn---vad-kan-man-gora-sjalv.html" xml:lang="yid"/>
-    <parallel_text location="magsjuka-hos-barn---vad-kan-man-gora-sjalv.html" xml:lang="rmy-rlo"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="swe">Péreskoduk ka beska kenti - so hin vojiba te tšérel korkores? / Magsjuka hos små barn - vad kan man göra själv? - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
-    <p xml:lang="swe"></p>
-    <p xml:lang="swe"></p>
-    <p type="title" xml:lang="swe">Romani chib káloRomska kale</p>
-    <list>
-      <p type="listitem" xml:lang="swe">Tillbaka till startsidan för temat</p>
-    </list>
-    <p type="title" xml:lang="swe">Péreskoduk ka beska kenti - so hin vojiba te tšérel korkores?Magsjuka hos små barn - vad kan man göra själv?</p>
-    <p xml:lang="swe"></p>
-    <list>
-      <p type="listitem" xml:lang="swe">Kenti hiovyla píbe. Onivar vojbuvela douva avel lokhide te del píbe pe besko roijaha kuti nebi butvares.</p>
-    </list>
-    <p type="title" xml:lang="swe">Bisvérinja avela hastes</p>
-    <p xml:lang="swe">Kana kentenge hin péresoduk hin but normalno te jón tšadavena ta hin diaŕi. Jón vojbuvena nína lel péreskoduk ta jag. Péreskoduk dochela butvares pa jek infeksija so hin dochimen pa jek virus. Pe beska kenti mienavelas aro dauva rańibi kenti apre pangh-hou bereh.</p>
-    <p xml:lang="swe">Bisvérinja brúkavel lelpe pálal te kentos hin líjal starjiba ta avela hastes. Butvares avela butide aro familja vaj aro jek angluniskola nasvaleske. Normalnes džala infeksija pherdal aro disave dívisija. Manera hin te tšandiba agorila aro jek divirat, nebi diare vojbuvel džalpe jek kurko.</p>
-    <p type="title" xml:lang="swe">Kenti hin hošalide pe píbejako fotibake</p>
-    <p xml:lang="swe">Nachelas but píbe ta lón dženom tšandiba ta diare. Beska kenti hin butide hošalide pe píbejako fotibake ke bare komuja. Ka jek tikno kentos nachela butide píbe ke douva lela te pível vojbuvela douva hastes avel bengalide. Utšo jag tšérela te kenti nachena butide píbe. Dólesko khal hin but inportanto te del píbe aro váguno angliba pa infeksija. Koni ternide kenti hin but hošale pe píbejako fotibake.</p>
-    <p type="title" xml:lang="swe">Kana kentos piavelas vaj hahavela pe khóroha</p>
-    <p xml:lang="swe">Kana kentos piavelas mote douva džalpe. Hin hioviba te piavel butide ke normalnes. Vahka kentos džalpe te tšadavel mote lelpe ta piavel kentos butvaride. It hin nína pe dóla kentoha kon hahavelas pe khóroha. Kana kentos ná kamela te sungavel vojbuvelas te frestavel te dochen avri va pumpaven avri ta del pe jek rojaha. Hin vojiba te dochen ka tšutši pe vasteha vaj pe jek pumpaha. Horto pumpa vojbuvelas te tšińes aro apoteka.</p>
-    <p xml:lang="swe">Ka kenteske hin bare diare ná dosta te kentos lela tšutšijako thund, kentos hiovyla nína te lel píbejako pherdiba.</p>
-    <p type="title" xml:lang="swe">Pibejako pherdiba</p>
-    <p xml:lang="swe">Kana kentos tšandela but hin píbejako pherdiba koni tšihkide. Píbejako pherdiba vojbuvelas te tšińel apo apoteka. Dženom te píbe rálila lón tšuvelas píbejako balansi aro trupos pe jek latšo manera.</p>
-    <p xml:lang="swe">Kana kentos tšandela but hiovylas te del duj besko roija píviba sakha panghto minuti. Télal jek divirat hiovylas butide píbe so ná paśavelas,sar eksemplura vojbuvela jek bereh phurano kentos hiovyvel kutide jek tušni.</p>
-    <p xml:lang="swe">Onivar saj kenteske hin lokhide tel lel pes andre vauro píbe. Tála lelas te frestavel douva anglide,dóleske ke douva hin but inportanto te kentos lela peske píviba. Ná hiovylas te pível gudle píve, sar eksemplura gullopíbe ta saftos,dóleske ke but gullo vojbuvel te del butide diare. Náka helle lightpíbe dóleske ke dóla ná rálila tši gulliba.</p>
-    <p type="title" xml:lang="swe">Kana tšandiba hin pherdal nebi ná diare</p>
-    <p xml:lang="swe">Douva hin normalno te tšandiba agorila vágunes ka diare džalpe angle kuti tíja. Kana kentoske hin diare ta kana kentos pivelas lelas te mukhel džalpe sar sigide. Kana kentos ná sungavelas, hin vojiba te del dakothundjako pherdiba, horeso vaj maiśijako sáni dociba pa kentosko phuriba. Lelpe te del beska dielijako dimnos te dikhel ka kentos rikhila hábe aŕe náka tšandila avri.</p>
-    <p xml:lang="swe">Kana kentos kamela te lel pes te hal, hin douva tšikho te del horta habe ta hemnavel mahkar butide tšik. Ka kamelas te frestavel variso so áchela hin vojiba te del morkojakodžumni, tšerdo pa morkojakopuré ta páni pe kentenge kon hin pherdal hou tšón. Tenka te frukti dela panjalo fúl ta aro bilokhe diare ná del pherdo grútako sáni Venta pe fiberkane habe endo te kentos hin pherdes sasto.</p>
-    <p type="title" xml:lang="swe">Ka tšandiba avela palpále</p>
-    <p xml:lang="swe">Ka tšandiba avela papales palpále,lelpe te del píbejako pherdiba, nebi ách vákno ka kentosta avela láto vaj angouvitiko.</p>
-    <p type="title" xml:lang="swe">Sar te ná starjuvelas vaure?</p>
-    <p xml:lang="swe">Dólesko pálal péreskoduk hin but starjuvitiko hin tšihko te ona kenti ta sáre vaure aro familja thouvela vastja pe panjalo sapunis angnal habejako tíja ta pálal toiletijako visita ta te sárenge áchelas peska iega khośibosko dikle. Hin nína hioviba te thouvel nína toileti butvares.</p>
-    <p xml:lang="swe">Ka kentos rikhila thav hin tšihko te tšuvel rikhade thave aro jek plastiko góno angnal ka dóla lengavelas aro prachosko tšetla. Džunsa arakhibosko tafla pálal rikhiba ta thouv vastja tšihkas pálal thavjako parjiba.</p>
-    <p xml:lang="swe">Kenti mote áchel aro tšér kana tšandela vaj hin diare. Ka kentos džala aro angluni skola vaj aro familja divisakotšér vojbuvela kentos te džal palpále dóri kana ná tšandidas vaj áchto diare apo duj divirat.</p>
-    <p type="title" xml:lang="swe">Saj hin hioviba te lel kontakti sastibako arakhibaha</p>
-    <p xml:lang="swe">Hin hioviba te ródel arakhiba aro arakhibosko centrali vaj aro sigutno centrali džent kana kentoske hin butvares diare ta tšandiba ta sikavela merknos pa píbejako fotiba, douva kamela te pheńel but lindralo ta bi intresimen pa trystaliba mutrila kuti vaj biofti ta náka džor te tšérel persiba. Hin nína hioviba te ródel arakhiba hortas džent dólesko pherdal ka hin tšandiba ta diare hin nína utšo jag ta but péreskoduk, vaj kana diare hin ratvalo vaj limalo.</p>
-    <p xml:lang="swe">Hin hioviba te bahavel ka sastibako godidíjibake vaj lel kontakti pe jek arakhibosko centrali kana kentos ná avilo fendideske aro jek divirat, vaj kana kentos pálal péreskoduk hin dživalo nebi hin áchadal panjalo fúl langhtide ke duj kurke.</p>
-    <p xml:lang="swe">Ka kentos kon hin télal hou tšón lel tšandiba ta diaŕi mote sarenes lel kontakti pe nasvalitšéresko godudíjibaha vaj pe arkhibosko centrali.</p>
-    <p xml:lang="swe">Kana kentos hin líjal diare it pe jek avrutno themesko staviba mote lel kontakti pe jek arakhibosko centrali vaj pe jek kentengo doktorijako centrali.</p>
-  </body>
-</document>
+<document xml:lang="rmf" id="no_id"><header><title/><genre code="facta"/><author><unknown/></author><wordcount>894</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="rmf"/><language xml:lang="swe"/></multilingual><origFileName>http://www.1177.se/Nationella-minoritetssprak/Nationella-minoritetssprak/Romanska-kale/Egenvard-barn/Magsjuka-hos-barn---vad-kan-man-gora-sjalv</origFileName><parallel_text xml:lang="eng" location="magsjuka-hos-smabarn--vad-kan-man-gora-sjalv.html"/><parallel_text xml:lang="fin" location="magsjuka-hos-smabarn--vad-kan-man-gora-sjalv.html"/><parallel_text xml:lang="fit" location="magsjuka-hos-barn---vad-kan-man-gora-sjalv.html"/><parallel_text xml:lang="sma" location="magsjuka-hos-barn---vad-kan-man-gora-sjalv.html"/><parallel_text xml:lang="sme" location="magsjuka-hos-barn---vad-kan-man-gora-sjalv.html"/><parallel_text xml:lang="smj" location="magsjuka-hos-barn---vad-kan-man-gora-sjalv.html"/><parallel_text xml:lang="swe" location="f12.html"/><parallel_text location="magsjuka-hos-barn---vad-kan-man-gora-sjalv.html" xml:lang="rmy-rka"/><parallel_text location="magsjuka-hos-barn---vad-kan-man-gora-sjalv.html" xml:lang="rmn"/><parallel_text location="magsjuka-hos-barn---vad-kan-man-gora-sjalv.html" xml:lang="rmu"/><parallel_text location="magsjuka-hos-sma-barn---vad-kan-man-gora-sjalv.html" xml:lang="yid"/><parallel_text location="magsjuka-hos-barn---vad-kan-man-gora-sjalv.html" xml:lang="rmy-rlo"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="swe">Péreskoduk ka beska kenti - so hin vojiba te tšérel korkores? / Magsjuka hos små barn - vad kan man göra själv? - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
+<p xml:lang="swe"></p>
+<p xml:lang="swe"></p>
+<p type="title" xml:lang="swe">Péreskoduk ka beska kenti - so hin vojiba te tšérel korkores?Magsjuka hos små barn - vad kan man göra själv?</p>
+<p xml:lang="swe"></p>
+<list><p type="listitem">Kenti hiovyla píbe. Onivar vojbuvela douva avel lokhide te del píbe pe besko roijaha kuti nebi butvares.</p>
+</list><p type="title">Bisvérinja avela hastes</p>
+<p>Kana kentenge hin péresoduk hin but normalno te jón tšadavena ta hin diaŕi. Jón vojbuvena nína lel péreskoduk ta jag. Péreskoduk dochela butvares pa jek infeksija so hin dochimen pa jek virus. Pe beska kenti mienavelas aro dauva rańibi kenti apre pangh-hou bereh.</p>
+<p>Bisvérinja brúkavel lelpe pálal te kentos hin líjal starjiba ta avela hastes. Butvares avela butide aro familja vaj aro jek angluniskola nasvaleske. Normalnes džala infeksija pherdal aro disave dívisija. Manera hin te tšandiba agorila aro jek divirat, nebi diare vojbuvel džalpe jek kurko.</p>
+<p type="title">Kenti hin hošalide pe píbejako fotibake</p>
+<p>Nachelas but píbe ta lón dženom tšandiba ta diare. Beska kenti hin butide hošalide pe píbejako fotibake ke bare komuja. Ka jek tikno kentos nachela butide píbe ke douva lela te pível vojbuvela douva hastes avel bengalide. Utšo jag tšérela te kenti nachena butide píbe. Dólesko khal hin but inportanto te del píbe aro váguno angliba pa infeksija. Koni ternide kenti hin but hošale pe píbejako fotibake.</p>
+<p type="title">Kana kentos piavelas vaj hahavela pe khóroha</p>
+<p>Kana kentos piavelas mote douva džalpe. Hin hioviba te piavel butide ke normalnes. Vahka kentos džalpe te tšadavel mote lelpe ta piavel kentos butvaride. It hin nína pe dóla kentoha kon hahavelas pe khóroha. Kana kentos ná kamela te sungavel vojbuvelas te frestavel te dochen avri va pumpaven avri ta del pe jek rojaha. Hin vojiba te dochen ka tšutši pe vasteha vaj pe jek pumpaha. Horto pumpa vojbuvelas te tšińes aro apoteka.</p>
+<p>Ka kenteske hin bare diare ná dosta te kentos lela tšutšijako thund, kentos hiovyla nína te lel píbejako pherdiba.</p>
+<p type="title">Pibejako pherdiba</p>
+<p>Kana kentos tšandela but hin píbejako pherdiba koni tšihkide. Píbejako pherdiba vojbuvelas te tšińel apo apoteka. Dženom te píbe rálila lón tšuvelas píbejako balansi aro trupos pe jek latšo manera.</p>
+<p>Kana kentos tšandela but hiovylas te del duj besko roija píviba sakha panghto minuti. Télal jek divirat hiovylas butide píbe so ná paśavelas,sar eksemplura vojbuvela jek bereh phurano kentos hiovyvel kutide jek tušni.</p>
+<p>Onivar saj kenteske hin lokhide tel lel pes andre vauro píbe. Tála lelas te frestavel douva anglide,dóleske ke douva hin but inportanto te kentos lela peske píviba. Ná hiovylas te pível gudle píve, sar eksemplura gullopíbe ta saftos,dóleske ke but gullo vojbuvel te del butide diare. Náka helle lightpíbe dóleske ke dóla ná rálila tši gulliba.</p>
+<p type="title">Kana tšandiba hin pherdal nebi ná diare</p>
+<p>Douva hin normalno te tšandiba agorila vágunes ka diare džalpe angle kuti tíja. Kana kentoske hin diare ta kana kentos pivelas lelas te mukhel džalpe sar sigide. Kana kentos ná sungavelas, hin vojiba te del dakothundjako pherdiba, horeso vaj maiśijako sáni dociba pa kentosko phuriba. Lelpe te del beska dielijako dimnos te dikhel ka kentos rikhila hábe aŕe náka tšandila avri.</p>
+<p>Kana kentos kamela te lel pes te hal, hin douva tšikho te del horta habe ta hemnavel mahkar butide tšik. Ka kamelas te frestavel variso so áchela hin vojiba te del morkojakodžumni, tšerdo pa morkojakopuré ta páni pe kentenge kon hin pherdal hou tšón. Tenka te frukti dela panjalo fúl ta aro bilokhe diare ná del pherdo grútako sáni Venta pe fiberkane habe endo te kentos hin pherdes sasto.</p>
+<p type="title">Ka tšandiba avela palpále</p>
+<p>Ka tšandiba avela papales palpále,lelpe te del píbejako pherdiba, nebi ách vákno ka kentosta avela láto vaj angouvitiko.</p>
+<p type="title">Sar te ná starjuvelas vaure?</p>
+<p>Dólesko pálal péreskoduk hin but starjuvitiko hin tšihko te ona kenti ta sáre vaure aro familja thouvela vastja pe panjalo sapunis angnal habejako tíja ta pálal toiletijako visita ta te sárenge áchelas peska iega khośibosko dikle. Hin nína hioviba te thouvel nína toileti butvares.</p>
+<p>Ka kentos rikhila thav hin tšihko te tšuvel rikhade thave aro jek plastiko góno angnal ka dóla lengavelas aro prachosko tšetla. Džunsa arakhibosko tafla pálal rikhiba ta thouv vastja tšihkas pálal thavjako parjiba.</p>
+<p>Kenti mote áchel aro tšér kana tšandela vaj hin diare. Ka kentos džala aro angluni skola vaj aro familja divisakotšér vojbuvela kentos te džal palpále dóri kana ná tšandidas vaj áchto diare apo duj divirat.</p>
+<p type="title">Saj hin hioviba te lel kontakti sastibako arakhibaha</p>
+<p>Hin hioviba te ródel arakhiba aro arakhibosko centrali vaj aro sigutno centrali džent kana kentoske hin butvares diare ta tšandiba ta sikavela merknos pa píbejako fotiba, douva kamela te pheńel but lindralo ta bi intresimen pa trystaliba mutrila kuti vaj biofti ta náka džor te tšérel persiba. Hin nína hioviba te ródel arakhiba hortas džent dólesko pherdal ka hin tšandiba ta diare hin nína utšo jag ta but péreskoduk, vaj kana diare hin ratvalo vaj limalo.</p>
+<p>Hin hioviba te bahavel ka sastibako godidíjibake vaj lel kontakti pe jek arakhibosko centrali kana kentos ná avilo fendideske aro jek divirat, vaj kana kentos pálal péreskoduk hin dživalo nebi hin áchadal panjalo fúl langhtide ke duj kurke.</p>
+<p>Ka kentos kon hin télal hou tšón lel tšandiba ta diaŕi mote sarenes lel kontakti pe nasvalitšéresko godudíjibaha vaj pe arkhibosko centrali.</p>
+<p>Kana kentos hin líjal diare it pe jek avrutno themesko staviba mote lel kontakti pe jek arakhibosko centrali vaj pe jek kentengo doktorijako centrali.</p>
+</body></document>

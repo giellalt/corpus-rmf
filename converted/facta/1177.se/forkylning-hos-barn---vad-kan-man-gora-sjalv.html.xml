@@ -1,80 +1,37 @@
-<document xml:lang="rmf" id="no_id">
-  <header>
-    <title/>
-    <genre code="facta"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>960</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="rmf"/>
-      <language xml:lang="swe"/>
-    </multilingual>
-    <origFileName>http://www.1177.se/Nationella-minoritetssprak/Nationella-minoritetssprak/Romanska-kale/Egenvard-barn/Forkylning-hos-barn---vad-kan-man-gora-sjalv</origFileName>
-    <parallel_text xml:lang="eng" location="forkylning-hos-barn--vad-kan-man-gora-sjalv.html"/>
-    <parallel_text xml:lang="fin" location="forkylning-hos-barn--vad-kan-man-gora-sjalv.html"/>
-    <parallel_text xml:lang="fit" location="forkylning-hos-barn---vad-kan-man-gora-sjalv.html"/>
-    <parallel_text xml:lang="sma" location="forkylning-hos-barn---vad-kan-man-gora-sjalv.html"/>
-    <parallel_text xml:lang="sme" location="forkylning-hos-barn---vad-kan-man-gora-sjalv.html"/>
-    <parallel_text xml:lang="smj" location="forkylning-hos-barn---vad-kan-man-gora-sjalv.html"/>
-    <parallel_text xml:lang="swe" location="forkylning-hos-barn---vad-kan-man-gora-sjalv.html"/>
-    <parallel_text location="forkylning-hos-barn---vad-kan-man-gora-sjalv.html" xml:lang="rmy-rka"/>
-    <parallel_text location="forkylning-hos-barn---vad-kan-man-gora-sjalv.html" xml:lang="rmn"/>
-    <parallel_text location="forkylning-hos-barn---vad-kan-man-gora-sjalv.html" xml:lang="rmu"/>
-    <parallel_text location="forkylning-hos-barn---vad-kan-man-gora-sjalv.html" xml:lang="yid"/>
-    <parallel_text location="forkylning-hos-barn---vad-kan-man-gora-sjalv.html" xml:lang="rmy-rlo"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="swe">Kenteske hin hiljiba-so vojbuvel te tšérel korkores? / Förkylning hos barn - vad kan man göra själv? - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
-    <p xml:lang="swe"></p>
-    <p xml:lang="swe"></p>
-    <p type="title" xml:lang="swe">Romani chib káloRomska kale</p>
-    <list>
-      <p type="listitem" xml:lang="swe">Tillbaka till startsidan för temat</p>
-    </list>
-    <p type="title" xml:lang="swe">Kenteske hin hiljiba-so vojbuvel te tšérel korkores?Förkylning hos barn - vad kan man göra själv?</p>
-    <p xml:lang="swe"></p>
-    <p type="title" xml:lang="swe">Snúva, khas ta onivar jag</p>
-    <list>
-      <p type="listitem" xml:lang="swe">Douva vojbuvel te avel lokhide kentoske te lel ońeskodterdiba kana kentos souvela pe héro apre. Hin vojiba te uštavel héreskorig hin te tšuvel pérnisa boltrako télal.</p>
-    </list>
-    <p xml:lang="swe">Kenti kon hin líjal hiljiba hin bidžorale, lindrale, kuti mulane ta hojimen dóla vágune divisi. Manera hin te lenge hin phanlo nakh vaj prastivitiko snúva ta áchel hóljimen ta len méneskoduk vaj dukhiba aro kán. Lénge vojbuvel áchel lokho khasiba ta jag.</p>
-    <p xml:lang="swe">Aro angluniba hin snúna butvares klár ta džimkano dólesko khal ke pálal disave divisa avela thulide, ta dželto vaj dželeno.</p>
-    <p xml:lang="swe">Dóla hin dóla vágune duj divés pa hiljiba ka kentos áchela bengalide. Pálal jek ka duj kurke tála hin maneri te hiljiba džala korkores pherdal. Dochiba ka normalne hiljibake hin virus, ta kajo virus ná áchela tšek drab so vojbuvel te tšérel te kenti sasjulas hastide.</p>
-    <p type="title" xml:lang="swe">Jagkane ta bidžorale kenti hiovuen te áchel tšére</p>
-    <p xml:lang="swe">Kenti kónen hin jag vaj hin lindrale ta bidžorale mote áchel tšére ta len lokhes. But kenti hiovyla nína te áchel tšére váguno díves kana jón hin hiovyla nína te áchel tšére váguno díves kana hin bijagkano, utan te hin rikhadal jagtéljukane drab. Jón hiovyla te aven aja dživales te jón lena džor te džal aro angluniskola vaj skola.</p>
-    <p type="title" xml:lang="swe">Hiliba hiovylas</p>
-    <p xml:lang="swe">Douva hin tšihko te del kentoske hilibako tíja, meni ná hioviba te rikhavel pes aro vóndros. Kentoske hin manera te hošavel korkores sar but hin džor te áchel apre.</p>
-    <p xml:lang="swe">Douva vojbuvel hošaves lokhide te lel ońeskodterdiba kana hin butide pérnisa héresko télal. Douva dochela vágunes phuride kenti kóne áchena stil. Beska kenti hin vojiba te rikhavel aro phikengo tioma, aro babysitteri vaj aro khanja aro divisi.</p>
-    <p type="title" xml:lang="swe">Hágibako hábe ta butide píviba</p>
-    <p xml:lang="swe">Butide kenti hin bengalide aptit ke normalnes. Hin vojiba te del kentoske so douva kamela, sar eksemplura sáni, yoghurt vaj glass. Kana kentoske hin jag hin tšihko te del butide píviba.</p>
-    <p type="title" xml:lang="swe">Tšeribako lóneskopíbe vaj nakheskosprei pe phanlo nakh</p>
-    <p xml:lang="swe">Kana kentoske hin phanlo nakh hin vojiba te dropavel vaj spreija tšeribako lóneskopíbe aro nakh, so sánila snúva. Hin nína hioviba te lel nikhi snúvakoprachos pe jek lokho manera. Lóneskopíbe vojbuvelas te tšińel ka apoteka. Nína hin vojiba te korkores tšérel lóneskopíbe dženom te beljavel jek milimetri-jek smákjibakodimos-lón ari jek deciliteri páni. Te drepavel aŕe aro kentosko nakh vojbuvelas te rikhavel vulakothav.</p>
-    <p xml:lang="swe">Aro bilokho nakheskophanliba hin vojiba te del kentoske nakhesko drepiba vaj sprei so télila pheśiaba aro nakh. Dála drab hin vojiba te tšińes útan recepti ta ná lóvi te rikhavel langhtide ke deh díves tšetate. Nahjakospreiji ta nakhjakodrepi siomsuvela pálal disave berechi,so phukavelas aro mohto.</p>
-    <p type="title" xml:lang="swe">Receptiphiŕo jag téljukane drab</p>
-    <p xml:lang="swe">Onivar hiovylas te arakhel jag pe drabjaha so téluvela jag. Koni butide kentenge hin jag vojbuvel áchel disave dívisi pe tši mieniba pa fardiko duk. Nebi hin vojiba te del jag téljukane drab kana kentoske hin bengali áchibi pa jag, sar eksemplura hin duk aro trupos, hin gnelivitiko, hala ta pila kutide, souvela bilatšes vaj hin bilokhiba te avel frédigo aro raśako tíja.</p>
-    <p xml:lang="swe">Ná hioviba te arakhel kentos kon hin télal hou tšón kones hin jag pe drab te vágunes lel kontakti pe arakhiba.</p>
-    <p xml:lang="swe">Kajo jag hin pe kentenge pherdal trín tšón drab so rálila paracetamol, sar eksemplura Alvedon vaj Panodil. Ka hou tšónesko phúriba vojbuvel kenti te len Ipren vaj Ibumetin,so hin receptophiŕjukane ta rálila ibuprofen. Drab hin aro panjalo formi vaj sar skamnijakopilleri, pe horta dimnos pe beska kentenge. Phuranide kentenge hin nína tableti. Vá pálal hortanes sijkiba so hin aro mohto. Ma tšeta disave drab it. Kenti télal 18 bereh konen hin jag ná lóvi te rikhavel drab so téljuvela jag drab kai hin acetylsalicylsyra, sar eksemplura Magnecyl, Treo vaj Albyl.</p>
-    <p type="title" xml:lang="swe">Receptiphiŕo khaseskodrab</p>
-    <p xml:lang="swe">Receptiphiŕo khaseskodrab ná brúkavel te del hahtiba. Kana kentoske hin khas hin douva inportanto te kentos khasela avri lim te džunsavel havjako por. Drab so huckarvela khasiba tšérela te kenteske hin bilokhide te sungravel apre lim. Drab so phiŕela lim hin bisigurno efekti. Te frédjavel khas vojbuvelas anglide frestavel te del tato vaj hielo pibe. Kentenge kóne hin télal duj bereh ná lelas tšekar lóvi te den khaseskodrab te vágunes hin puchdal pa doktori.</p>
-    <p type="title" xml:lang="swe">So hin vojiba te arakhel te starjiba ná bohjuvelas?</p>
-    <p xml:lang="swe">Te džal viga n te arakhel te ná starjavelas vaure hin tšihko te sikjavel kentoske te khośel ta khasel aro muśik ta rikhavel papresko nakheskodikle. Hin vojiba te dikhel pálal te jón thouvena vastja butvaris aro divisi. Fresta nína te sikavel kenteske te ná grévavelas pesko nakh vaj jakha. Douva hin dóri kaj virus lokhide starjula ta bohjula. Starjibako bohliba télila nína kana kenti ná leijavena dóleha kónenge kones hin hiljiba. Mukh te kentos áchel aja but aro avri sar hin vojiba, nína aro veńos.</p>
-    <p xml:lang="swe">Tenkavel te kenti konesko trystaliba hin hatsibako thuv lena lokhide hiljiba.</p>
-    <p type="title" xml:lang="swe">Saj hin hioviba te lel kontakti pe arakhibaha</p>
-    <p xml:lang="swe">Hin tšihko te áchel vákno sar hin kentosko áchiba.Mote džent ródes arakiba aro jek arakhibosko centrali vaj aro jek jour centrali ka kentos angouvela lindrales ta ná džor te pível. It hin kana kentoske hin bilokho te lel ońeskosterdiba vaj kenteske hin khas ta douva ávela bengalide.</p>
-    <p xml:lang="swe">Kana prastela avri píbe ka kán mote lel lel kontakti pe jek arakhibosko centrali vaj jek jour centrali, te kentos avelas dikhimen.</p>
-    <p xml:lang="swe">Kana kentoske hin káneskoduk,ta náka džal pherdal,hin hioviba te lel kontakti pe arakhibosko centarli te lel dikhiba aŕe aro jek divirat.</p>
-    <p xml:lang="swe"></p>
-    <p type="title" xml:lang="swe">Puch pa gódiba</p>
-    <p xml:lang="swe">Tut hin vojiba te rakhavel sastiboskiereha hilo divirat ta lel gódiba. Baha 1177. Dóla kóne sváravena vojbuvena nína te phukaven aro arakhibosko centrali tul sal velkimen.</p>
-  </body>
-</document>
+<document xml:lang="rmf" id="no_id"><header><title/><genre code="facta"/><author><unknown/></author><wordcount>951</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="rmf"/><language xml:lang="swe"/></multilingual><origFileName>http://www.1177.se/Nationella-minoritetssprak/Nationella-minoritetssprak/Romanska-kale/Egenvard-barn/Forkylning-hos-barn---vad-kan-man-gora-sjalv</origFileName><parallel_text xml:lang="eng" location="forkylning-hos-barn--vad-kan-man-gora-sjalv.html"/><parallel_text xml:lang="fin" location="forkylning-hos-barn--vad-kan-man-gora-sjalv.html"/><parallel_text xml:lang="fit" location="forkylning-hos-barn---vad-kan-man-gora-sjalv.html"/><parallel_text xml:lang="sma" location="forkylning-hos-barn---vad-kan-man-gora-sjalv.html"/><parallel_text xml:lang="sme" location="forkylning-hos-barn---vad-kan-man-gora-sjalv.html"/><parallel_text xml:lang="smj" location="forkylning-hos-barn---vad-kan-man-gora-sjalv.html"/><parallel_text xml:lang="swe" location="forkylning-hos-barn---vad-kan-man-gora-sjalv.html"/><parallel_text location="forkylning-hos-barn---vad-kan-man-gora-sjalv.html" xml:lang="rmy-rka"/><parallel_text location="forkylning-hos-barn---vad-kan-man-gora-sjalv.html" xml:lang="rmn"/><parallel_text location="forkylning-hos-barn---vad-kan-man-gora-sjalv.html" xml:lang="rmu"/><parallel_text location="forkylning-hos-barn---vad-kan-man-gora-sjalv.html" xml:lang="yid"/><parallel_text location="forkylning-hos-barn---vad-kan-man-gora-sjalv.html" xml:lang="rmy-rlo"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="swe">Kenteske hin hiljiba-so vojbuvel te tšérel korkores? / Förkylning hos barn - vad kan man göra själv? - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
+<p xml:lang="swe"></p>
+<p xml:lang="swe"></p>
+<p type="title" xml:lang="swe">Kenteske hin hiljiba-so vojbuvel te tšérel korkores?Förkylning hos barn - vad kan man göra själv?</p>
+<p xml:lang="swe"></p>
+<p type="title" xml:lang="swe">Snúva, khas ta onivar jag</p>
+<list><p type="listitem">Douva vojbuvel te avel lokhide kentoske te lel ońeskodterdiba kana kentos souvela pe héro apre. Hin vojiba te uštavel héreskorig hin te tšuvel pérnisa boltrako télal.</p>
+</list><p>Kenti kon hin líjal hiljiba hin bidžorale, lindrale, kuti mulane ta hojimen dóla vágune divisi. Manera hin te lenge hin phanlo nakh vaj prastivitiko snúva ta áchel hóljimen ta len méneskoduk vaj dukhiba aro kán. Lénge vojbuvel áchel lokho khasiba ta jag.</p>
+<p>Aro angluniba hin snúna butvares klár ta džimkano dólesko khal ke pálal disave divisa avela thulide, ta dželto vaj dželeno.</p>
+<p>Dóla hin dóla vágune duj divés pa hiljiba ka kentos áchela bengalide. Pálal jek ka duj kurke tála hin maneri te hiljiba džala korkores pherdal. Dochiba ka normalne hiljibake hin virus, ta kajo virus ná áchela tšek drab so vojbuvel te tšérel te kenti sasjulas hastide.</p>
+<p type="title">Jagkane ta bidžorale kenti hiovuen te áchel tšére</p>
+<p>Kenti kónen hin jag vaj hin lindrale ta bidžorale mote áchel tšére ta len lokhes. But kenti hiovyla nína te áchel tšére váguno díves kana jón hin hiovyla nína te áchel tšére váguno díves kana hin bijagkano, utan te hin rikhadal jagtéljukane drab. Jón hiovyla te aven aja dživales te jón lena džor te džal aro angluniskola vaj skola.</p>
+<p type="title">Hiliba hiovylas</p>
+<p>Douva hin tšihko te del kentoske hilibako tíja, meni ná hioviba te rikhavel pes aro vóndros. Kentoske hin manera te hošavel korkores sar but hin džor te áchel apre.</p>
+<p>Douva vojbuvel hošaves lokhide te lel ońeskodterdiba kana hin butide pérnisa héresko télal. Douva dochela vágunes phuride kenti kóne áchena stil. Beska kenti hin vojiba te rikhavel aro phikengo tioma, aro babysitteri vaj aro khanja aro divisi.</p>
+<p type="title">Hágibako hábe ta butide píviba</p>
+<p>Butide kenti hin bengalide aptit ke normalnes. Hin vojiba te del kentoske so douva kamela, sar eksemplura sáni, yoghurt vaj glass. Kana kentoske hin jag hin tšihko te del butide píviba.</p>
+<p type="title">Tšeribako lóneskopíbe vaj nakheskosprei pe phanlo nakh</p>
+<p>Kana kentoske hin phanlo nakh hin vojiba te dropavel vaj spreija tšeribako lóneskopíbe aro nakh, so sánila snúva. Hin nína hioviba te lel nikhi snúvakoprachos pe jek lokho manera. Lóneskopíbe vojbuvelas te tšińel ka apoteka. Nína hin vojiba te korkores tšérel lóneskopíbe dženom te beljavel jek milimetri-jek smákjibakodimos-lón ari jek deciliteri páni. Te drepavel aŕe aro kentosko nakh vojbuvelas te rikhavel vulakothav.</p>
+<p>Aro bilokho nakheskophanliba hin vojiba te del kentoske nakhesko drepiba vaj sprei so télila pheśiaba aro nakh. Dála drab hin vojiba te tšińes útan recepti ta ná lóvi te rikhavel langhtide ke deh díves tšetate. Nahjakospreiji ta nakhjakodrepi siomsuvela pálal disave berechi,so phukavelas aro mohto.</p>
+<p type="title">Receptiphiŕo jag téljukane drab</p>
+<p>Onivar hiovylas te arakhel jag pe drabjaha so téluvela jag. Koni butide kentenge hin jag vojbuvel áchel disave dívisi pe tši mieniba pa fardiko duk. Nebi hin vojiba te del jag téljukane drab kana kentoske hin bengali áchibi pa jag, sar eksemplura hin duk aro trupos, hin gnelivitiko, hala ta pila kutide, souvela bilatšes vaj hin bilokhiba te avel frédigo aro raśako tíja.</p>
+<p>Ná hioviba te arakhel kentos kon hin télal hou tšón kones hin jag pe drab te vágunes lel kontakti pe arakhiba.</p>
+<p>Kajo jag hin pe kentenge pherdal trín tšón drab so rálila paracetamol, sar eksemplura Alvedon vaj Panodil. Ka hou tšónesko phúriba vojbuvel kenti te len Ipren vaj Ibumetin,so hin receptophiŕjukane ta rálila ibuprofen. Drab hin aro panjalo formi vaj sar skamnijakopilleri, pe horta dimnos pe beska kentenge. Phuranide kentenge hin nína tableti. Vá pálal hortanes sijkiba so hin aro mohto. Ma tšeta disave drab it. Kenti télal 18 bereh konen hin jag ná lóvi te rikhavel drab so téljuvela jag drab kai hin acetylsalicylsyra, sar eksemplura Magnecyl, Treo vaj Albyl.</p>
+<p type="title">Receptiphiŕo khaseskodrab</p>
+<p>Receptiphiŕo khaseskodrab ná brúkavel te del hahtiba. Kana kentoske hin khas hin douva inportanto te kentos khasela avri lim te džunsavel havjako por. Drab so huckarvela khasiba tšérela te kenteske hin bilokhide te sungravel apre lim. Drab so phiŕela lim hin bisigurno efekti. Te frédjavel khas vojbuvelas anglide frestavel te del tato vaj hielo pibe. Kentenge kóne hin télal duj bereh ná lelas tšekar lóvi te den khaseskodrab te vágunes hin puchdal pa doktori.</p>
+<p type="title">So hin vojiba te arakhel te starjiba ná bohjuvelas?</p>
+<p>Te džal viga n te arakhel te ná starjavelas vaure hin tšihko te sikjavel kentoske te khośel ta khasel aro muśik ta rikhavel papresko nakheskodikle. Hin vojiba te dikhel pálal te jón thouvena vastja butvaris aro divisi. Fresta nína te sikavel kenteske te ná grévavelas pesko nakh vaj jakha. Douva hin dóri kaj virus lokhide starjula ta bohjula. Starjibako bohliba télila nína kana kenti ná leijavena dóleha kónenge kones hin hiljiba. Mukh te kentos áchel aja but aro avri sar hin vojiba, nína aro veńos.</p>
+<p>Tenkavel te kenti konesko trystaliba hin hatsibako thuv lena lokhide hiljiba.</p>
+<p type="title">Saj hin hioviba te lel kontakti pe arakhibaha</p>
+<p>Hin tšihko te áchel vákno sar hin kentosko áchiba.Mote džent ródes arakiba aro jek arakhibosko centrali vaj aro jek jour centrali ka kentos angouvela lindrales ta ná džor te pível. It hin kana kentoske hin bilokho te lel ońeskosterdiba vaj kenteske hin khas ta douva ávela bengalide.</p>
+<p>Kana prastela avri píbe ka kán mote lel lel kontakti pe jek arakhibosko centrali vaj jek jour centrali, te kentos avelas dikhimen.</p>
+<p>Kana kentoske hin káneskoduk,ta náka džal pherdal,hin hioviba te lel kontakti pe arakhibosko centarli te lel dikhiba aŕe aro jek divirat.</p>
+<p xml:lang="swe"></p>
+<p type="title">Puch pa gódiba</p>
+<p>Tut hin vojiba te rakhavel sastiboskiereha hilo divirat ta lel gódiba. Baha 1177. Dóla kóne sváravena vojbuvena nína te phukaven aro arakhibosko centrali tul sal velkimen.</p>
+</body></document>

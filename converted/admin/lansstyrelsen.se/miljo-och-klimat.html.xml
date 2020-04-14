@@ -1,84 +1,44 @@
-<document xml:lang="rmf" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>533</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="rmf"/>
-      <language xml:lang="swe"/>
-    </multilingual>
-    <origFileName>http://www.lansstyrelsen.se/skane/rom-ka/miljo-och-klimat/Pages/default.aspx</origFileName>
-    <parallel_text xml:lang="eng" location="miljo-och-klimat.html"/>
-    <parallel_text xml:lang="fin" location="miljo-och-klimat.html"/>
-    <parallel_text xml:lang="fit" location="miljo-och-klimat.html"/>
-    <parallel_text xml:lang="sma" location="miljo-och-klimat.html"/>
-    <parallel_text xml:lang="sme" location="miljo-och-klimat.html"/>
-    <parallel_text xml:lang="swe" location="miljo-och-klimat.html"/>
-    <parallel_text location="miljo-och-klimat.html" xml:lang="rmu"/>
-    <parallel_text location="miljo-och-klimat.html" xml:lang="rmy-rka"/>
-    <parallel_text location="miljo-och-klimat.html" xml:lang="rmy-rlo"/>
-    <parallel_text location="miljo-och-klimat.html" xml:lang="rmn"/>
-    <parallel_text location="miljo-och-klimat.html" xml:lang="yid"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="swe">Trystaliba ta klima - Länsstyrelsen Skåne</p>
-    <list>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe">Trystaliba &amp; klima</p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-    </list>
-    <p xml:lang="swe"></p>
-    <p type="title" xml:lang="swe">Trystaliba ta klima</p>
-    <p xml:lang="swe"><em type="italic">Themeskofaldibake hin but inportanto roli kanan puchiba hin pa trystaliba aro phuv. Amen kokavaha trystalibako buti,daa informasija ta bohlavela džánibi ta perdales tséravaha amen but trystalibaha, trysralibakovolibaha ta panjakoingaribeha. Amen lahja agoriba pa lóvi ka frestibake so angovena trystalipa. </em></p>
-    <p type="title" xml:lang="swe">Trystalibako resin</p>
-    <p xml:lang="swe">Regeringo hin tšerdal agoriba pa tšetado trystalibakopolitika aro Svedo. Dóla hérune resin hin te vauri hlehtako tšang lenas jek boliba kaj sakha bare trystalibako problemi hin phirde. Themeskifaldibake hin buti ta tšetavel regionalno buti te apravel svedosko trystalibako kvalitetijakoresin.</p>
-    <p xml:lang="swe">Svedosko trystalibako resin:</p>
-    <list>
-      <p type="listitem" xml:lang="swe">Grensukano efekti pe trytalibake.</p>
-      <p type="listitem" xml:lang="swe">Sasto hava-Frisk</p>
-      <p type="listitem" xml:lang="swe">Ferda naturkano gusti</p>
-      <p type="listitem" xml:lang="swe">Drabjata phiŕo trystaliba</p>
-      <p type="listitem" xml:lang="swe">Garado otšoniskotruppos</p>
-      <p type="listitem" xml:lang="swe">Sigurno glibiba</p>
-      <p type="listitem" xml:lang="swe">Tšek perdalno dyngjiba</p>
-      <p type="listitem" xml:lang="swe">Dživale lénja ta narvarsina</p>
-      <p type="listitem" xml:lang="swe">Télunipáni pa latšo kvaliteto</p>
-      <p type="listitem" xml:lang="swe">Hyönos aro balans ta džiivalo kustb ta öija</p>
-      <p type="listitem" xml:lang="swe">Myĺrande</p>
-      <p type="listitem" xml:lang="swe">Dživalo vechi</p>
-      <p type="listitem" xml:lang="swe">Jek barvalo džionribako than</p>
-      <p type="listitem" xml:lang="swe">Baro plánie</p>
-      <p type="listitem" xml:lang="swe">Latše búrede trystaliba</p>
-      <p type="listitem" xml:lang="swe">Jek barvalo barjibako ta džiivijendo džiiviba.</p>
-    </list>
-    <p type="title" xml:lang="swe">Sastibako arakhiba</p>
-    <p xml:lang="swe">Themeski faldiba tšeerela buti te hokavel,tšérel angluni buti ta lehas nikhi nasvaliba aro trystaliba, ni sar avri.Arakhibosko áchela komujen te avel nasvale.Onivar dikhelas po vaureha sar kóliba,ta vibratisija,havasko mejaliba ta klimiba. Aro Themeskofaldibako buti rálila nína te kokavel ta vá pálal gávengo buti aŕee aro sastibako arakhibako dieli ta dela gávenge gódi. Gávengo sastibako frestiba saj te klágaves ka Themeskifaldibake. .</p>
-    <p type="title" xml:lang="swe">Klima ta enenrgia</p>
-    <p xml:lang="swe">Themeskofaldiba kokavena regionalnmo buti te tiknavel avri mekhiba pa barjibatšéresko makhiba.Themeskifaldiba tšetanes pe phuvjako gávengo, hougájensa ta frestibakodživiba Hin líne angle jek klima ta energiako stragedia so sikila sar amen laha angoven angle dumudiba so jelpila te lel glaro klimakoresin ta enegiakoboldiba. Amen tšéreha buti te sömsavel ka jek barudo. Themeskofaldiba kokavela tšetane regionalno butjako skokhi te sar tiknavel avrimukhiba pa barjibako tšéresko makhiba. Themeskifaldiba hin tšetanes pe vaure phuvjako gáveha tšerdal, hougáje, ta fretibako dživiboskerenda jek klima ta energiastragedia so sikila sar amen vojbuvá te tšerel ta sar dela dumudiba te mukhel avri ta baruvel klimakoresinja, sar eksemplura mote aven anglavel te hyösko trupos aprela ta panjakoströmos barjila butide.</p>
-    <p type="title" xml:lang="swe">Trystalibako áchibi</p>
-    <p xml:lang="swe">Themeskifaliba steĺila trystalibako voĺiba aro phuv. Te ródel ta tšérel áchibi aro amengo trystalibako buti. Resultati rikhavehas te vá pálal trystalibako buti nebi hokavel neve hódibakajo trystaliba.Voĺiba hin langhtotíjake ta hyövylas butvares te tšérel bismiba Pherda te dikhel hinko avlo barjiba so voĺakiereske hin komunis vaj naturkano barjiba.</p>
-    <p type="title" xml:lang="swe">Páni ta panjakorikhiba</p>
-    <p xml:lang="swe">Panjakothán mote arahkhes te amen lahas jek langhtotíjako panjako piájako. Svedo hin dielimen aro panghto panjakokotoriba. Themeskifaldiba aro sakho thanjakorig hin phukade jek pánjakohougájo kones hin angnal sváriba pa páni aro thanjakorig hin.Frestiba ta tšeriba so rálila páni, nína akhardo pánjakofrestiba hyövyla sárenes lóvi. Sar eksemplura pa pánjakofrestibata džoreskofrestiba ta reglijakobekhos,vaure slaga frestiba pála aro páni sar trystalibako phori ta tuńelis, rapaus ta panjakolíjiba sar eksemplura pivjakopáni ta tšińsiba</p>
-    <p type="title" xml:lang="swe">Fretiba pe trystalibako angouviba</p>
-    <p xml:lang="swe">Themeskifaldibaske hin jek trystalibako skokhakon dela frestibako lóvi farlikanefrestibake pálal trystalibako stokhos. Eksemplura so hin sar merekni:</p>
-    <p xml:lang="swe">Avrithaneskolágbi, sastriba paprijakobrúkiba,balvaleskodžior,tatibosko ingariba ta vaure energijako ingaribi, sógakokvarnos, plágakoingariba, plágakothovibako ingaribaavloppsreningsverk, spiklavitiko santa ta plajo ta pańa grévi.</p>
-    <p xml:lang="swe">Aro sakho komuna hin nína jek kumonalno trystalibako hougáje so arakheIa lokalno frestiba ta dikhiba pa farligo béri phuvjake. Ame daha dumudiba ta gódi komunake trystalibako hougájenge ta voĺiba lengo fresibi. Pherdales ródela Themeskifaldiba sikide generátionengo mejaliba aro phuv ta páni ta tšérela buti te angouben dólen.</p>
-  </body>
-</document>
+<document xml:lang="rmf" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>533</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="rmf"/><language xml:lang="swe"/></multilingual><origFileName>http://www.lansstyrelsen.se/skane/rom-ka/miljo-och-klimat/Pages/default.aspx</origFileName><parallel_text xml:lang="eng" location="miljo-och-klimat.html"/><parallel_text xml:lang="fin" location="miljo-och-klimat.html"/><parallel_text xml:lang="fit" location="miljo-och-klimat.html"/><parallel_text xml:lang="sma" location="miljo-och-klimat.html"/><parallel_text xml:lang="sme" location="miljo-och-klimat.html"/><parallel_text xml:lang="swe" location="miljo-och-klimat.html"/><parallel_text location="miljo-och-klimat.html" xml:lang="rmu"/><parallel_text location="miljo-och-klimat.html" xml:lang="rmy-rka"/><parallel_text location="miljo-och-klimat.html" xml:lang="rmy-rlo"/><parallel_text location="miljo-och-klimat.html" xml:lang="rmn"/><parallel_text location="miljo-och-klimat.html" xml:lang="yid"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="swe">Trystaliba ta klima - Länsstyrelsen Skåne</p>
+<list><p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem">Trystaliba &amp; klima</p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+</list><p xml:lang="swe"></p>
+<p type="title">Trystaliba ta klima</p>
+<p><em type="italic">Themeskofaldibake hin but inportanto roli kanan puchiba hin pa trystaliba aro phuv. Amen kokavaha trystalibako buti,daa informasija ta bohlavela džánibi ta perdales tséravaha amen but trystalibaha, trysralibakovolibaha ta panjakoingaribeha. Amen lahja agoriba pa lóvi ka frestibake so angovena trystalipa. </em></p>
+<p type="title">Trystalibako resin</p>
+<p>Regeringo hin tšerdal agoriba pa tšetado trystalibakopolitika aro Svedo. Dóla hérune resin hin te vauri hlehtako tšang lenas jek boliba kaj sakha bare trystalibako problemi hin phirde. Themeskifaldibake hin buti ta tšetavel regionalno buti te apravel svedosko trystalibako kvalitetijakoresin.</p>
+<p>Svedosko trystalibako resin:</p>
+<list><p type="listitem">Grensukano efekti pe trytalibake.</p>
+<p type="listitem" xml:lang="swe">Sasto hava-Frisk</p>
+<p type="listitem">Ferda naturkano gusti</p>
+<p type="listitem">Drabjata phiŕo trystaliba</p>
+<p type="listitem">Garado otšoniskotruppos</p>
+<p type="listitem">Sigurno glibiba</p>
+<p type="listitem">Tšek perdalno dyngjiba</p>
+<p type="listitem" xml:lang="swe">Dživale lénja ta narvarsina</p>
+<p type="listitem">Télunipáni pa latšo kvaliteto</p>
+<p type="listitem">Hyönos aro balans ta džiivalo kustb ta öija</p>
+<p type="listitem" xml:lang="swe">Myĺrande</p>
+<p type="listitem">Dživalo vechi</p>
+<p type="listitem">Jek barvalo džionribako than</p>
+<p type="listitem">Baro plánie</p>
+<p type="listitem">Latše búrede trystaliba</p>
+<p type="listitem">Jek barvalo barjibako ta džiivijendo džiiviba.</p>
+</list><p type="title">Sastibako arakhiba</p>
+<p>Themeski faldiba tšeerela buti te hokavel,tšérel angluni buti ta lehas nikhi nasvaliba aro trystaliba, ni sar avri.Arakhibosko áchela komujen te avel nasvale.Onivar dikhelas po vaureha sar kóliba,ta vibratisija,havasko mejaliba ta klimiba. Aro Themeskofaldibako buti rálila nína te kokavel ta vá pálal gávengo buti aŕee aro sastibako arakhibako dieli ta dela gávenge gódi. Gávengo sastibako frestiba saj te klágaves ka Themeskifaldibake. .</p>
+<p type="title" xml:lang="swe">Klima ta enenrgia</p>
+<p>Themeskofaldiba kokavena regionalnmo buti te tiknavel avri mekhiba pa barjibatšéresko makhiba.Themeskifaldiba tšetanes pe phuvjako gávengo, hougájensa ta frestibakodživiba Hin líne angle</p>
+<p type="title">Trystalibako áchibi</p>
+<p>Themeskifaliba steĺila trystalibako voĺiba aro phuv. Te ródel ta tšérel áchibi aro amengo trystalibako buti. Resultati rikhavehas te vá pálal trystalibako buti nebi hokavel neve hódibakajo trystaliba.Voĺiba hin langhtotíjake ta hyövylas butvares te tšérel bismiba Pherda te dikhel hinko avlo barjiba so voĺakiereske hin komunis vaj naturkano barjiba.</p>
+<p type="title">Páni ta panjakorikhiba</p>
+<p>Panjakothán mote arahkhes te amen lahas jek langhtotíjako panjako piájako. Svedo hin dielimen aro panghto panjakokotoriba. Themeskifaldiba aro sakho thanjakorig hin phukade jek pánjakohougájo kones hin angnal sváriba pa páni aro thanjakorig hin.Frestiba ta tšeriba so rálila páni, nína akhardo pánjakofrestiba hyövyla sárenes lóvi. Sar eksemplura pa pánjakofrestibata džoreskofrestiba ta reglijakobekhos,vaure slaga frestiba pála aro páni sar trystalibako phori ta tuńelis, rapaus ta panjakolíjiba sar eksemplura pivjakopáni ta tšińsiba</p>
+<p type="title">Fretiba pe trystalibako angouviba</p>
+<p>Themeskifaldibaske hin jek trystalibako skokhakon dela frestibako lóvi farlikanefrestibake pálal trystalibako stokhos. Eksemplura so hin sar merekni:</p>
+<p xml:lang="swe">Avrithaneskolágbi, sastriba paprijakobrúkiba,balvaleskodžior,tatibosko ingariba ta vaure energijako ingaribi, sógakokvarnos, plágakoingariba, plágakothovibako ingaribaavloppsreningsverk, spiklavitiko santa ta plajo ta pańa grévi.</p>
+<p>Aro sakho komuna hin nína jek kumonalno trystalibako hougáje so arakheIa lokalno frestiba ta dikhiba pa farligo béri phuvjake. Ame daha dumudiba ta gódi komunake trystalibako hougájenge ta voĺiba lengo fresibi. Pherdales ródela Themeskifaldiba sikide generátionengo mejaliba aro phuv ta páni ta tšérela buti te angouben dólen.</p>
+</body></document>
